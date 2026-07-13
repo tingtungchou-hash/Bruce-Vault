@@ -1,0 +1,694 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <title>雅集 · 课程成绩加权平均分计算器</title>
+  
+  <!-- 古典优雅字体 -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,500;0,600;0,700;1,500&family=Lora:ital,wght@0,400;0,500;1,400&family=Inter:opsz,wght@14..32,400;14..32,500&display=swap" rel="stylesheet">
+  
+  <style>
+    /* ===== 强制浅色模式 - 最高优先级 ===== */
+    :root {
+      color-scheme: light;
+    }
+
+    /* 全局重置 - 确保所有元素不受外部主题干扰 */
+    html, body, .container, .card, .result-card, textarea, .parsed-table, 
+    .parsed-table thead th, .parsed-table tbody td, .bar-track, .bar-fill,
+    .formula-container, .status-msg, .btn, .btn-primary, .btn-outline,
+    .bar-label, .bar-info-right, .result-details, .result-label,
+    .result-big-score, .viz-section, .parsed-table-wrap, .card-header,
+    .header, .header h1, .header .subtitle, .header .decorator {
+      background-color: transparent; /* 先透明，再逐一设定，避免继承问题 */
+    }
+
+    /* 重新定义所有需要的背景和文字颜色，全部带 !important */
+    html, body {
+      background-color: #f9f7f4 !important;
+      color: #2c2621 !important;
+    }
+
+    body {
+      font-family: 'Lora', 'Georgia', serif;
+      background: #f9f7f4 !important;
+      background-image: 
+        linear-gradient(180deg, rgba(255,255,255,0.4) 0%, rgba(245,240,235,0.6) 100%),
+        url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23d4cbc3' fill-opacity='0.12'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E") !important;
+      min-height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: flex-start;
+      padding: 2rem 1.5rem 4rem;
+      color: #2c2621 !important;
+      line-height: 1.7;
+      letter-spacing: 0.01em;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    /* 针对 Obsidian 常见暗色主题类的覆盖 */
+    body.theme-dark, 
+    .theme-dark body,
+    .theme-dark .markdown-preview-view,
+    .theme-dark .markdown-source-view {
+      background-color: #f9f7f4 !important;
+      color: #2c2621 !important;
+    }
+
+    .container {
+      width: 100%;
+      max-width: 920px;
+      display: flex;
+      flex-direction: column;
+      gap: 1.8rem;
+      background-color: transparent !important;
+    }
+
+    /* 卡片 */
+    .card {
+      background-color: #ffffff !important;
+      border-radius: 10px;
+      padding: 1.8rem 2rem;
+      box-shadow: 0 8px 20px rgba(0,0,0,0.06), 0 2px 6px rgba(0,0,0,0.03);
+      border: 1px solid #e5e0d8 !important;
+      transition: all 0.25s ease-in-out;
+      color: #2c2621 !important;
+    }
+    .card-header {
+      display: flex;
+      align-items: center;
+      gap: 0.6rem;
+      margin-bottom: 1.4rem;
+      font-weight: 500;
+      font-size: 1rem;
+      color: #3d405b !important;
+      letter-spacing: 0.02em;
+      font-family: 'Playfair Display', serif;
+      border-bottom: 1px solid #e5e0d8 !important;
+      padding-bottom: 0.8rem;
+      background-color: transparent !important;
+    }
+    .card-header .icon {
+      font-family: 'Lora', serif;
+      font-size: 1.1rem;
+      color: #b5835a !important;
+    }
+
+    /* 输入框 */
+    textarea {
+      width: 100%;
+      min-height: 180px;
+      border: 1px solid #e5e0d8 !important;
+      border-radius: 10px;
+      padding: 1.2rem 1.4rem;
+      font-family: 'SF Mono', 'Consolas', monospace;
+      font-size: 0.85rem;
+      line-height: 1.8;
+      resize: vertical;
+      background-color: #fdfcfb !important;
+      color: #2c2621 !important;
+      transition: all 0.25s;
+      outline: none;
+      letter-spacing: 0.02em;
+    }
+    textarea:focus {
+      border-color: #b5835a !important;
+      box-shadow: 0 0 0 4px rgba(181,131,90,0.08);
+      background-color: #ffffff !important;
+    }
+    textarea::placeholder {
+      color: #c2b8ad !important;
+      font-style: italic;
+      opacity: 1;
+    }
+
+    /* 按钮 */
+    .btn-row {
+      display: flex;
+      gap: 0.8rem;
+      flex-wrap: wrap;
+      margin-top: 1rem;
+      align-items: center;
+    }
+    .btn {
+      padding: 0.7rem 1.6rem;
+      border-radius: 40px;
+      font-size: 0.85rem;
+      font-weight: 500;
+      cursor: pointer;
+      border: 1px solid #e5e0d8 !important;
+      letter-spacing: 0.04em;
+      transition: all 0.25s;
+      font-family: 'Lora', serif;
+      background-color: #ffffff !important;
+      color: #3d405b !important;
+    }
+    .btn-primary {
+      background-color: #3d405b !important;
+      color: #ffffff !important;
+      border-color: #3d405b !important;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.04);
+    }
+    .btn-primary:hover {
+      background-color: #5c5f7a !important;
+      border-color: #5c5f7a !important;
+    }
+    .btn-outline:hover {
+      background-color: #fdfaf7 !important;
+      border-color: #b5835a !important;
+      color: #b5835a !important;
+    }
+    .btn-sm {
+      padding: 0.4rem 1rem;
+      font-size: 0.8rem;
+      border-radius: 30px;
+    }
+
+    .status-msg {
+      font-size: 0.8rem;
+      padding: 0.35rem 1rem;
+      border-radius: 30px;
+      font-weight: 500;
+      margin-left: auto;
+      display: inline-flex;
+      align-items: center;
+      gap: 0.3rem;
+      background-color: #f4f1ec !important;
+      color: #6c635a !important;
+    }
+    .status-success {
+      background-color: #eef3eb !important;
+      color: #4a6741 !important;
+    }
+    .status-warning {
+      background-color: #fcf6ed !important;
+      color: #b07d3c !important;
+    }
+    .status-error {
+      background-color: #f9eceb !important;
+      color: #a1423a !important;
+    }
+
+    /* 表格 */
+    .parsed-table-wrap {
+      overflow-x: auto;
+      margin-top: 0.4rem;
+      border-radius: 6px;
+      border: 1px solid #e5e0d8 !important;
+      background-color: #ffffff !important;
+    }
+    .parsed-table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.88rem;
+      font-family: 'Lora', serif;
+      letter-spacing: 0.02em;
+      background-color: #ffffff !important;
+      color: #2c2621 !important;
+    }
+    .parsed-table thead th {
+      background-color: #f8f6f2 !important;
+      padding: 0.8rem 1.2rem;
+      text-align: center;
+      font-weight: 500;
+      color: #3d405b !important;
+      border-bottom: 2px solid #e5e0d8 !important;
+      font-family: 'Playfair Display', serif;
+      font-size: 0.8rem;
+      text-transform: uppercase;
+    }
+    .parsed-table tbody td {
+      padding: 0.7rem 1.2rem;
+      text-align: center;
+      border-bottom: 1px solid #f0ece5 !important;
+      color: #2c2621 !important;
+      background-color: #ffffff !important;
+    }
+    .parsed-table tbody tr:hover td {
+      background-color: #fdfcf9 !important;
+    }
+    .parsed-table .course-name {
+      text-align: left;
+      font-weight: 500;
+      font-style: italic;
+    }
+    .score-high { color: #4a7c59 !important; }
+    .score-mid { color: #b5835a !important; }
+    .score-low { color: #a63c3c !important; }
+
+    /* 条形图 */
+    .viz-section {
+      display: flex;
+      flex-direction: column;
+      gap: 1.2rem;
+    }
+    .bar-row {
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+    }
+    .bar-label {
+      width: 110px;
+      flex-shrink: 0;
+      text-align: right;
+      font-weight: 500;
+      font-size: 0.85rem;
+      font-family: 'Playfair Display', serif;
+      color: #2c2621 !important;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+    .bar-track {
+      flex: 1;
+      height: 28px;
+      background: #f2efe9 !important;
+      border-radius: 14px;
+      position: relative;
+      overflow: hidden;
+    }
+    .bar-fill {
+      height: 100%;
+      border-radius: 14px;
+      transition: width 0.6s cubic-bezier(0.25, 0.8, 0.25, 1.2);
+      display: flex;
+      align-items: center;
+      justify-content: flex-end;
+      padding-right: 12px;
+      font-weight: 600;
+      font-size: 0.8rem;
+      color: #ffffff !important;
+      letter-spacing: 0.02em;
+      font-family: 'SF Mono', monospace;
+      box-shadow: inset 0 1px 0 rgba(255,255,255,0.3);
+    }
+    .grade-a { background: linear-gradient(135deg, #5a7d63 0%, #4a6b51 100%) !important; }
+    .grade-b { background: linear-gradient(135deg, #4a4e6b 0%, #3d405b 100%) !important; }
+    .grade-c { background: linear-gradient(135deg, #c49a6c 0%, #b5835a 100%) !important; }
+    .grade-d { background: linear-gradient(135deg, #b87c4b 0%, #a96a3a 100%) !important; }
+    .grade-f { background: linear-gradient(135deg, #a1423a 0%, #8b332c 100%) !important; }
+    
+    .bar-info-right {
+      flex-shrink: 0;
+      font-size: 0.78rem;
+      color: #6c635a !important;
+      width: 60px;
+      text-align: left;
+      font-family: 'SF Mono', monospace;
+    }
+
+    /* 结果卡片 */
+    .result-card {
+      background: linear-gradient(135deg, #fdfcf9 0%, #f8f5f0 100%) !important;
+      border: 1px solid #e5e0d8 !important;
+      border-radius: 10px;
+      padding: 1.8rem 2rem;
+      display: flex;
+      align-items: center;
+      gap: 2rem;
+      flex-wrap: wrap;
+      box-shadow: 0 8px 20px rgba(0,0,0,0.06);
+    }
+    .result-big-score {
+      font-size: 4rem;
+      font-weight: 700;
+      line-height: 1;
+      font-family: 'Playfair Display', serif;
+      letter-spacing: -0.02em;
+      display: inline-block;
+      padding: 0.1em 0.3em;
+      border-radius: 12px;
+      color: #ffffff !important;
+      transition: background 0.3s;
+    }
+    .result-big-score.grade-a { background-color: #4a6b51 !important; }
+    .result-big-score.grade-b { background-color: #3d405b !important; }
+    .result-big-score.grade-c { background-color: #b5835a !important; }
+    .result-big-score.grade-d { background-color: #a96a3a !important; }
+    .result-big-score.grade-f { background-color: #8b332c !important; }
+    
+    .result-details {
+      display: flex;
+      flex-direction: column;
+      gap: 0.3rem;
+      font-size: 0.9rem;
+      color: #6c635a !important;
+    }
+    .result-details .highlight {
+      color: #3d405b !important;
+      font-weight: 600;
+      font-family: 'SF Mono', monospace;
+    }
+    .result-label {
+      font-size: 0.7rem;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: #b5835a !important;
+      font-weight: 600;
+      margin-bottom: 0.2rem;
+    }
+
+    /* 页眉 */
+    .header {
+      text-align: center;
+      padding: 1.5rem 0 0.5rem;
+      background-color: transparent !important;
+    }
+    .header h1 {
+      font-family: 'Playfair Display', serif;
+      font-size: 2.6rem;
+      font-weight: 600;
+      color: #3d405b !important;
+      margin-bottom: 0.25rem;
+    }
+    .header .subtitle {
+      font-family: 'Lora', serif;
+      font-size: 0.95rem;
+      color: #6c635a !important;
+      font-style: italic;
+      margin-bottom: 1.5rem;
+    }
+    .header .decorator {
+      width: 60px;
+      height: 2px;
+      background: #b5835a !important;
+      margin: 0 auto 1.8rem;
+      opacity: 0.6;
+    }
+    .formula-container {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 0.8rem;
+      background: rgba(255,255,255,0.7) !important;
+      backdrop-filter: blur(4px);
+      border: 1px solid #e5e0d8 !important;
+      border-radius: 50px;
+      padding: 0.5rem 1.8rem;
+      width: fit-content;
+      margin: 0 auto;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.04);
+    }
+    .formula-container .frac {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      font-family: 'SF Mono', monospace;
+      font-size: 0.9rem;
+      color: #3d405b !important;
+      line-height: 1;
+    }
+    .formula-container .frac .num {
+      border-bottom: 1.5px solid #b5835a !important;
+      padding-bottom: 3px;
+      margin-bottom: 3px;
+    }
+    .formula-container .eq {
+      font-weight: 600;
+      color: #3d405b !important;
+      font-family: 'Playfair Display', serif;
+      font-size: 1.2rem;
+    }
+
+    /* 深色模式强制覆盖（对于系统级暗色设置） */
+    @media (prefers-color-scheme: dark) {
+      html, body, .card, .result-card, textarea, .parsed-table, 
+      .parsed-table thead th, .parsed-table tbody td, .bar-track, 
+      .btn, .btn-outline, .status-msg {
+        background-color: inherit; /* 继承已经定义的 !important 颜色，不重复写 */
+      }
+      /* 再次明确强制 */
+      html, body {
+        background-color: #f9f7f4 !important;
+        color: #2c2621 !important;
+      }
+      body {
+        background: #f9f7f4 !important;
+      }
+      .card, .result-card, .parsed-table-wrap, .parsed-table, 
+      .parsed-table thead th, .parsed-table tbody td {
+        background-color: #ffffff !important;
+        color: #2c2621 !important;
+      }
+      textarea {
+        background-color: #fdfcfb !important;
+        color: #2c2621 !important;
+      }
+    }
+
+    @media (max-width: 640px) {
+      .container { gap: 1.2rem; }
+      .card { padding: 1.2rem 1rem; }
+      .header h1 { font-size: 2rem; }
+      .bar-label { width: 70px; font-size: 0.75rem; }
+      .result-big-score { font-size: 2.8rem; }
+    }
+  </style>
+</head>
+<body style="background-color: #f9f7f4 !important; color: #2c2621 !important;">
+  <div class="container">
+    <!-- 页眉 -->
+    <div class="header">
+      <h1>雅集 · 课程成绩计算</h1>
+      <div class="subtitle">加权平均分解析与可视化</div>
+      <div class="decorator"></div>
+      <div class="formula-container">
+        <span class="eq">F</span>
+        <span class="eq">=</span>
+        <div class="frac">
+          <span class="num">&Sigma; X<sub>i</sub> &middot; Y<sub>i</sub></span>
+          <span>&Sigma; Y<sub>i</sub></span>
+        </div>
+      </div>
+    </div>
+
+    <!-- 输入卡片 -->
+    <div class="card">
+      <div class="card-header">
+        <span class="icon">&#9670;</span> 数据表格录入
+      </div>
+      <textarea id="markdownInput" placeholder="在此粘贴 Markdown 格式的表格，范例：
+| 课程名 | 学分数 | 得分 |
+|--------|--------|------|
+| 高等数学 | 4 | 88 |
+| 大学英语 | 3 | 92 |
+| 程序设计 | 3 | 85 |
+| 线性代数 | 2 | 78 |
+| 大学物理 | 4 | 82 |"></textarea>
+      <div class="btn-row">
+        <button class="btn btn-primary" id="btnCalculate">&#8627; 执行计算</button>
+        <button class="btn btn-outline" id="btnLoadExample">&#9654; 载入样例</button>
+        <button class="btn btn-outline btn-sm" id="btnClear">&#10005; 清空</button>
+        <span id="statusMsg" class="status-msg status-success">&#10003; 已就绪</span>
+      </div>
+    </div>
+
+    <!-- 解析数据表格 -->
+    <div class="card" id="tableCard" style="display:none;">
+      <div class="card-header">
+        <span class="icon">&#9670;</span> 解析明细
+      </div>
+      <div class="parsed-table-wrap">
+        <table class="parsed-table" id="parsedTable">
+          <thead>
+            <tr>
+              <th>课程名称</th>
+              <th>学分数</th>
+              <th>得分（百分制）</th>
+              <th>加权贡献</th>
+            </tr>
+          </thead>
+          <tbody id="parsedTableBody"></tbody>
+        </table>
+      </div>
+    </div>
+
+    <!-- 可视化卡片 -->
+    <div class="card" id="vizCard" style="display:none;">
+      <div class="card-header">
+        <span class="icon">&#9670;</span> 成绩图谱
+      </div>
+      <div class="viz-section">
+        <div class="bar-chart" id="barChartContainer"></div>
+        <div style="font-size:0.75rem; color:#6c635a; text-align:center; margin-top:0.5rem; font-style:italic;">
+          条形长度对应百分制得分（满分100）
+        </div>
+      </div>
+    </div>
+
+    <!-- 最终结果卡片 -->
+    <div class="result-card" id="resultCard" style="display:none;">
+      <div>
+        <div class="result-label">最终加权均分</div>
+        <div class="result-big-score grade-b" id="resultBigScore">--</div>
+      </div>
+      <div class="result-details" id="resultDetails"></div>
+    </div>
+  </div>
+
+  <script>
+    (function() {
+      const textarea = document.getElementById('markdownInput');
+      const btnCalculate = document.getElementById('btnCalculate');
+      const btnLoadExample = document.getElementById('btnLoadExample');
+      const btnClear = document.getElementById('btnClear');
+      const statusMsg = document.getElementById('statusMsg');
+      const tableCard = document.getElementById('tableCard');
+      const parsedTableBody = document.getElementById('parsedTableBody');
+      const vizCard = document.getElementById('vizCard');
+      const barChartContainer = document.getElementById('barChartContainer');
+      const resultCard = document.getElementById('resultCard');
+      const resultBigScore = document.getElementById('resultBigScore');
+      const resultDetails = document.getElementById('resultDetails');
+
+      const exampleMarkdown = `| 课程名 | 学分数 | 得分 |
+|--------|--------|------|
+| 高等数学 | 4 | 88 |
+| 大学英语 | 3 | 92 |
+| 程序设计 | 3 | 85 |
+| 线性代数 | 2 | 78 |
+| 大学物理 | 4 | 82 |`;
+
+      textarea.value = exampleMarkdown;
+
+      function parseMarkdownTable(input) {
+        const lines = input.split('\n');
+        const pipeLineIndices = [];
+        for (let i = 0; i < lines.length; i++) {
+          if (lines[i].trim() && lines[i].includes('|')) pipeLineIndices.push(i);
+        }
+        if (pipeLineIndices.length === 0) return { rows: [], error: '未检测到有效的表格行（缺少管道符 |）' };
+
+        let separatorIndex = -1;
+        for (let idx = 0; idx < pipeLineIndices.length; idx++) {
+          const line = lines[pipeLineIndices[idx]].trim();
+          const stripped = line.replace(/\|/g, '').trim();
+          if (/^[\s\-:]+$/.test(stripped) && stripped.includes('-')) {
+            separatorIndex = idx;
+            break;
+          }
+        }
+
+        let headerRow = null;
+        const dataRows = [];
+        if (separatorIndex >= 0) {
+          if (separatorIndex > 0) headerRow = pipeLineIndices[separatorIndex - 1];
+          for (let idx = separatorIndex + 1; idx < pipeLineIndices.length; idx++) dataRows.push(pipeLineIndices[idx]);
+        } else {
+          if (pipeLineIndices.length >= 1) headerRow = pipeLineIndices[0];
+          for (let idx = 1; idx < pipeLineIndices.length; idx++) dataRows.push(pipeLineIndices[idx]);
+        }
+
+        function parseCells(line) {
+          let trimmed = line.trim();
+          if (trimmed.startsWith('|')) trimmed = trimmed.slice(1);
+          if (trimmed.endsWith('|')) trimmed = trimmed.slice(0, -1);
+          return trimmed.split('|').map(c => c.trim());
+        }
+
+        const parsedData = dataRows.map(idx => parseCells(lines[idx]));
+        const validRows = [];
+        const errors = [];
+        for (let i = 0; i < parsedData.length; i++) {
+          const row = parsedData[i];
+          if (row.length < 3) { errors.push(`第 ${i+1} 行数据不足3列`); continue; }
+          const credit = parseFloat((row[1].match(/[\d.]+/) || [])[0]);
+          const score = parseFloat((row[2].match(/[\d.]+/) || [])[0]);
+          if (isNaN(credit) || credit <= 0) { errors.push(`"${row[0]}" 的学分数无效`); continue; }
+          if (isNaN(score) || score < 0 || score > 100) { errors.push(`"${row[0]}" 的得分无效`); continue; }
+          validRows.push({ name: row[0], credit, score, weightedContribution: credit * score });
+        }
+
+        if (validRows.length === 0 && errors.length > 0) return { rows: [], error: errors.join('；') };
+        return { rows: validRows, warnings: errors.length > 0 ? errors : null };
+      }
+
+      function calculateWeightedAverage(rows) {
+        let sumW = 0, sumC = 0;
+        rows.forEach(r => { sumW += r.weightedContribution; sumC += r.credit; });
+        return { weightedAvg: sumC > 0 ? sumW / sumC : 0, totalWeighted: sumW, totalCredits: sumC, courseCount: rows.length };
+      }
+
+      function getGradeClass(s) { return s >= 90 ? 'grade-a' : s >= 80 ? 'grade-b' : s >= 70 ? 'grade-c' : s >= 60 ? 'grade-d' : 'grade-f'; }
+      function getScoreClass(s) { return s >= 90 ? 'score-high' : s >= 70 ? 'score-mid' : 'score-low'; }
+
+      function updateUI(parseResult) {
+        const { rows, warnings, error } = parseResult;
+        if (error && rows.length === 0) {
+          statusMsg.className = 'status-msg status-error'; statusMsg.innerHTML = '&#10007; ' + error;
+          tableCard.style.display = 'none'; vizCard.style.display = 'none'; resultCard.style.display = 'none';
+          return;
+        }
+        if (rows.length === 0) {
+          statusMsg.className = 'status-msg status-warning'; statusMsg.innerHTML = '&#9888; 未解析到有效数据';
+          tableCard.style.display = 'none'; vizCard.style.display = 'none'; resultCard.style.display = 'none';
+          return;
+        }
+        const calc = calculateWeightedAverage(rows);
+        statusMsg.className = warnings ? 'status-msg status-warning' : 'status-msg status-success';
+        statusMsg.innerHTML = warnings ? '&#9888; ' + warnings.join('；') : '&#10003; 成功解析 ' + rows.length + ' 门课程';
+
+        parsedTableBody.innerHTML = '';
+        rows.forEach(row => {
+          const tr = document.createElement('tr');
+          tr.innerHTML = `<td class="course-name">${escapeHtml(row.name)}</td><td>${row.credit}</td><td class="score-cell ${getScoreClass(row.score)}">${row.score}</td><td>${row.weightedContribution.toFixed(1)}</td>`;
+          parsedTableBody.appendChild(tr);
+        });
+        const trSum = document.createElement('tr');
+        trSum.style.cssText = 'background:#fdfcf7; font-weight:500;';
+        trSum.innerHTML = `<td class="course-name" style="color:#3d405b;">合计</td><td style="font-weight:600;">${calc.totalCredits}</td><td style="font-weight:600;">—</td><td style="font-weight:600;">${calc.totalWeighted.toFixed(1)}</td>`;
+        parsedTableBody.appendChild(trSum);
+        tableCard.style.display = '';
+
+        barChartContainer.innerHTML = '';
+        rows.forEach(row => {
+          const barRow = document.createElement('div');
+          barRow.className = 'bar-row';
+          barRow.innerHTML = `<div class="bar-label">${escapeHtml(row.name)}</div><div class="bar-track"><div class="bar-fill ${getGradeClass(row.score)}" style="width:${Math.max(row.score,2)}%;">${row.score}分</div></div><div class="bar-info-right">${row.credit}学分</div>`;
+          barChartContainer.appendChild(barRow);
+        });
+        vizCard.style.display = '';
+
+        resultBigScore.textContent = calc.weightedAvg.toFixed(2);
+        resultBigScore.className = 'result-big-score ' + getGradeClass(calc.weightedAvg);
+        resultDetails.innerHTML = `<span>总课程数：<strong class="highlight">${calc.courseCount}</strong> 门</span>
+          <span>总学分数：<strong class="highlight">${calc.totalCredits}</strong></span>
+          <span>加权总分：<strong class="highlight">${calc.totalWeighted.toFixed(1)}</strong></span>
+          <span style="font-size:0.8rem; color:#6c635a;">公式：Σ(得分×学分) / Σ学分 ≈ <strong style="color:#3d405b;">${calc.weightedAvg.toFixed(2)}</strong></span>`;
+        resultCard.style.display = '';
+      }
+
+      function escapeHtml(str) {
+        const div = document.createElement('div');
+        div.textContent = str;
+        return div.innerHTML;
+      }
+
+      function handleCalculate() {
+        if (!textarea.value.trim()) {
+          statusMsg.className = 'status-msg status-warning'; statusMsg.innerHTML = '&#9888; 请输入表格';
+          tableCard.style.display = 'none'; vizCard.style.display = 'none'; resultCard.style.display = 'none';
+          return;
+        }
+        updateUI(parseMarkdownTable(textarea.value));
+      }
+
+      btnCalculate.addEventListener('click', handleCalculate);
+      btnLoadExample.addEventListener('click', () => { textarea.value = exampleMarkdown; handleCalculate(); });
+      btnClear.addEventListener('click', () => {
+        textarea.value = '';
+        statusMsg.className = 'status-msg status-success'; statusMsg.innerHTML = '&#10003; 已清空';
+        tableCard.style.display = 'none'; vizCard.style.display = 'none'; resultCard.style.display = 'none';
+      });
+
+      let timer;
+      textarea.addEventListener('input', () => { clearTimeout(timer); timer = setTimeout(handleCalculate, 700); });
+      textarea.addEventListener('keydown', e => { if ((e.ctrlKey||e.metaKey) && e.key==='Enter') { e.preventDefault(); handleCalculate(); } });
+      handleCalculate();
+    })();
+  </script>
+</body>
+</html>

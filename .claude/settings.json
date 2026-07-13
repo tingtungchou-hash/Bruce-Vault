@@ -1,0 +1,23 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash",
+      "Read",
+      "Write",
+      "Edit",
+      "Glob",
+      "Grep",
+      "Bash(python3)"
+    ],
+    "permissionGroups": {
+      "vault-ops": {
+        "description": "Vault file operations for organizing notes",
+        "allow": [
+          "Bash: mv",
+          "Bash: mkdir",
+          "Bash: rm"
+        ]
+      }
+    }
+  }
+}

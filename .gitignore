@@ -1,0 +1,21 @@
+# Obsidian workspace state (auto-generated, changes every session)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Obsidian cache
+.obsidian/cache/
+
+# Obsidian trash
+.trash/
+
+# Claude Code temporary data
+.claude/.cache/
+.claude/projects/
+
+# PDF reference files (too large for git, downloadable)
+*.pdf
+
+# System files
+Thumbs.db
+.DS_Store
+desktop.ini

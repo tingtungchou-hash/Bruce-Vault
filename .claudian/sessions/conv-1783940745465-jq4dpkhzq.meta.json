@@ -1,0 +1,24 @@
+{
+  "id": "conv-1783940745465-jq4dpkhzq",
+  "providerId": "claude",
+  "title": "Optimize Obsidian and Claude Code workflow",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783940745468,
+  "updatedAt": 1783944943927,
+  "lastResponseAt": 1783944943927,
+  "sessionId": "795439e4-31f2-4578-b71b-be82a7304887",
+  "selectedModel": "claude-fable-5",
+  "providerState": {
+    "providerSessionId": "795439e4-31f2-4578-b71b-be82a7304887"
+  },
+  "usage": {
+    "model": "claude-fable-5",
+    "inputTokens": 306,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 51584,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 51890,
+    "percentage": 26
+  }
+}
