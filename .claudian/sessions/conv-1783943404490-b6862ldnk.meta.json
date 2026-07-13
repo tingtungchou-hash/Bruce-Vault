@@ -4,8 +4,8 @@
   "title": "Summarize Reddit guide on Claude Code and Obsidian",
   "titleGenerationStatus": "success",
   "createdAt": 1783943404490,
-  "updatedAt": 1783945333394,
-  "lastResponseAt": 1783945333394,
+  "updatedAt": 1783946688975,
+  "lastResponseAt": 1783946688975,
   "sessionId": "8d450c58-4707-4402-bf07-61a58042e9f8",
   "selectedModel": "opus",
   "providerState": {
@@ -13,12 +13,12 @@
   },
   "usage": {
     "model": "opus",
-    "inputTokens": 94,
+    "inputTokens": 676,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 48768,
+    "cacheReadInputTokens": 88192,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 48862,
-    "percentage": 24
+    "contextTokens": 88868,
+    "percentage": 44
   }
 }
