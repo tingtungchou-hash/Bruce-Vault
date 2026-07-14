@@ -93,7 +93,7 @@ J'ai **un** raisin. **Il** est délicieux. 我有颗葡萄，它很好吃。
 | 定冠词  | le  | la  | les |
 例如：un lit，une salle，des lits，des salles；le lit，la salle，les lits，les salles
 #### 词汇部分
-[[速成法语单词表#第一课|单词表]] 
+[[单词表 - 速成法语#第一课|单词表]] 
 翻译句子
 1. **Ça** va? **Oui**, ça va. 
 	1. ***ça*** = 中性主语指示代词，代指没有阴阳性的东西 ≈ it
@@ -272,8 +272,8 @@ J'ai **un** raisin. **Il** est délicieux. 我有颗葡萄，它很好吃。
 4. 有些形容词有专门的阴阳性形式，要单独记忆（beau，ce等）
 
 #### 词汇部分
-[[速成法语单词表#第二课|单词表]]
-1. [[速成法语单词表#第二课|prendre]]的变位与例句
+[[单词表 - 速成法语#第二课|单词表]]
+1. [[单词表 - 速成法语#第二课|prendre]]的变位与例句
 
 	1. Je prends le bus. 
 	2. Tu prends le métro ou le bus? 
@@ -446,7 +446,7 @@ J'ai **un** raisin. **Il** est délicieux. 我有颗葡萄，它很好吃。
 		2. Dans les grandes surfaces, on trouve tout, et très rapidement. 
 		3. Excusze-moi, je fais rarement ça, mais je te trouve très jolie. 
 		4. Mais non, il est sept heures, il est encore tôt. 
-	2. aller的变位[[速成法语单词表]]
+	2. aller的变位[[单词表 - 速成法语]]
 		1. Je vais à Paris **du** lundi **au** mercredi. 
 		2. Il va au cinéma et au théâtre avec aux. 
 		3. Ils viennent au café. 

@@ -1,0 +1,24 @@
+{
+  "id": "conv-1784010576345-9wcq4302s",
+  "providerId": "claude",
+  "title": "Scan vault for document types and templates",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784010576345,
+  "updatedAt": 1784010616588,
+  "lastResponseAt": 1784010616588,
+  "sessionId": "adbe73df-1b93-4553-97c9-2c70077b1219",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "adbe73df-1b93-4553-97c9-2c70077b1219"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 113,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 35968,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 36081,
+    "percentage": 18
+  }
+}

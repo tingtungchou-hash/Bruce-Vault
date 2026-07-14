@@ -4,22 +4,21 @@
   "title": "补全第一变格法名词列表",
   "titleGenerationStatus": "success",
   "createdAt": 1783949302297,
-  "updatedAt": 1783951496462,
-  "lastResponseAt": 1783951496462,
+  "updatedAt": 1784012159470,
+  "lastResponseAt": 1784010420756,
   "sessionId": "495417dc-5c35-4054-acd2-1fe54b78af77",
   "selectedModel": "opus",
   "providerState": {
     "providerSessionId": "495417dc-5c35-4054-acd2-1fe54b78af77"
   },
-  "currentNote": "Areas/语言/拉丁语/教材/Essential Latin Vocabulary (Mark Williams) OCR.pdf",
   "usage": {
     "model": "opus",
-    "inputTokens": 2684,
+    "inputTokens": 400,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 68096,
+    "cacheReadInputTokens": 100736,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 70780,
-    "percentage": 35
+    "contextTokens": 101136,
+    "percentage": 51
   }
 }
