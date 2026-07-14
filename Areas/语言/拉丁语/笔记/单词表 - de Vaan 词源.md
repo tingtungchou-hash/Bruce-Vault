@@ -5,7 +5,7 @@
 to intend, to dare
 1. **audax, audacis** adj daring, bold, courageous, foolhardy
 2. **audacia, audaciae** boldness, audacity
-[[单词表 - 拉丁语 de vaan#aveo, avere|aveo, avere]]
+[[单词表 - de Vaan 词源#aveo, avere|aveo, avere]]
 
 ## aveo, avere
 [[Etymological Dictionary of Latin and the other Italic Languages (2008) (Michiel de Vaan) (z-library.sk, 1lib.sk, z-lib.sk).pdf#page=79&selection=77,0,77,16|de vaan]]
@@ -206,7 +206,7 @@ peace
    1. **pactio, pactionis** f agreeing, compact, contract, treaty
 3. **paco, pacare, pacavi, pacatum** to impose a settlement, to pacify
 4. **compactum, compacti** agreement
-5. [[单词表 - 拉丁语 de vaan#^6d3b4b|pingo]]
+5. [[单词表 - de Vaan 词源#^6d3b4b|pingo]]
 
 ## pando, pandere, pandi, pansum/passum
 [[Etymological Dictionary of Latin and the other Italic Languages (2008) (Michiel de Vaan) (z-library.sk, 1lib.sk, z-lib.sk).pdf#page=456&selection=173,0,177,18|de vaan]]
@@ -216,7 +216,7 @@ to spread out, extend
 3. **pando, pandare, pandavi, pandatum** to bend, bow, or curve
 4. **dispando, dispandere, dispansum/dispessum** to open out
 5. **expando, exspandere, expandi, expansum/expessum** to open out
-6. [[单词表 - 拉丁语 de vaan#^89ba54|pateo]]
+6. [[单词表 - de Vaan 词源#^89ba54|pateo]]
 
 ## pateo, patere, patui (2)
 [[Etymological Dictionary of Latin and the other Italic Languages (2008) (Michiel de Vaan) (z-library.sk, 1lib.sk, z-lib.sk).pdf#page=463&selection=366,0,371,12|de vaan ]]
@@ -224,7 +224,7 @@ to be open, gape
 1. **patefacio, patefacere, patefeci, patefactum** 3i. to open up
 2. **patulus, patula, patulum** wide-open, gaping
 3. **patera, paterae** n. broad shallow bowl
-4. [[单词表 - 拉丁语 de vaan#pando, pandere, pandi, pansum/passum|pando]]
+4. [[单词表 - de Vaan 词源#pando, pandere, pandi, pansum/passum|pando]]
 
 ## pingo, pingere
 
@@ -242,7 +242,7 @@ to fill
 7. **locuples, locupletis** adj wealthy
    1. **locupleto, locupletare** to make wealthy
    2. **collocupleto, collocupletare** to enrich
-[[单词表 - 拉丁语 de vaan#plebes, plebei (5)|plebs, plebes]]
+[[单词表 - de Vaan 词源#plebes, plebei (5)|plebs, plebes]]
 
 ## plebes, plebei (5)
 [[Etymological Dictionary of Latin and the other Italic Languages (2008) (Michiel de Vaan) (z-library.sk, 1lib.sk, z-lib.sk).pdf#page=485&selection=250,0,258,6|de vaan]]
@@ -250,7 +250,7 @@ citizens, the common people
 1. **plebs, plebis** citizens, the common people
 2. **plebitas, plebetatis** the rank of a plebian
 3. **plebiscitum, plebisciti** resolution of the plebs
-[[单词表 - 拉丁语 de vaan#-pleo, -plere, -plevi, -pletum (2)|-pleo, -plere, -plevi, -pletum]]
+[[单词表 - de Vaan 词源#-pleo, -plere, -plevi, -pletum (2)|-pleo, -plere, -plevi, -pletum]]
 
 ## prae
 [[Etymological Dictionary of Latin and the other Italic Languages (2008) (Michiel de Vaan) (z-library.sk, 1lib.sk, z-lib.sk).pdf#page=499&selection=565,0,574,8|de vaan]]
