@@ -1,0 +1,24 @@
+{
+  "id": "conv-1784023915060-mqoe2qx26",
+  "providerId": "claude",
+  "title": "Update Obsidian vault homepage",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784023915060,
+  "updatedAt": 1784024043905,
+  "lastResponseAt": 1784024043905,
+  "sessionId": "f7061666-93d4-4b2a-ad05-fcc228bf00cb",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "f7061666-93d4-4b2a-ad05-fcc228bf00cb"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 986,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 55808,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 56794,
+    "percentage": 28
+  }
+}

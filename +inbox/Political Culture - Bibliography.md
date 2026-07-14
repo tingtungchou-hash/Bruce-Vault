@@ -22,7 +22,7 @@
 		the two above present as exactly the _populus Romanus_ instead of representing it
 	7. Amy Russell (2016) Why Did Clodius Shut the Shops, _Historia_ 65:186 – 210
 	8. Amy Russell (2019) *The* Populus Romanus *as the source of public opinion* [[communicating-public-opinion-in-the-roman-republic-3515121722-9783515121729_compress.pdf#page=41|Russell (2019)]]
-	9. Morstein-Marx (2004) _Mass Oratory and Political Power in the Late Roman Republic_ 119 – 159 [[Morstein-Marx_Mass Oratory Political Power Later Republic [2004].pdf#page=133|Morstein-Marx (2004)]]
+	9. Morstein-Marx (2004) _Mass Oratory and Political Power in the Late Roman Republic_ 119 – 159 [[Morstein-Marx_Mass Oratory Political Power Later Republic [2004].pdf#page=133|Morstein-Marx (2004)]] [[Morstein-Marx_2004_The Voice of the People]]
 	10. Flower (2014) _Consensus & Community in Republican Rome_
 	11. Flaig (2013) _Die Mehrheitrentscheidung. Entstehung und kulturelle Dynamik_
 		the one above on consensus surrounding “populus”

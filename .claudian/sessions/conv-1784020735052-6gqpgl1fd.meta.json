@@ -1,0 +1,25 @@
+{
+  "id": "conv-1784020735052-6gqpgl1fd",
+  "providerId": "claude",
+  "title": "Create skill to update vault homepage",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784020735052,
+  "updatedAt": 1784021663247,
+  "lastResponseAt": 1784021655571,
+  "sessionId": "daa96fdd-7313-441d-bffa-f71a543b0117",
+  "selectedModel": "claude-fable-5",
+  "providerState": {
+    "providerSessionId": "daa96fdd-7313-441d-bffa-f71a543b0117"
+  },
+  "usage": {
+    "model": "claude-fable-5",
+    "inputTokens": 389,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 70016,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 70405,
+    "percentage": 35
+  },
+  "resumeAtMessageId": "8eac416e-8ddd-4003-8189-6b2596133269"
+}
