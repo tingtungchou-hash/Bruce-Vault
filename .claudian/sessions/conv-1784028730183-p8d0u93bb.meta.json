@@ -1,0 +1,24 @@
+{
+  "id": "conv-1784028730183-p8d0u93bb",
+  "providerId": "claude",
+  "title": "Create Latin 3rd declension masculine note",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784028730183,
+  "updatedAt": 1784029524099,
+  "lastResponseAt": 1784029524099,
+  "sessionId": "8f2e348a-d9f6-4cd9-aa1f-69e89d32e85c",
+  "selectedModel": "opus",
+  "providerState": {
+    "providerSessionId": "8f2e348a-d9f6-4cd9-aa1f-69e89d32e85c"
+  },
+  "usage": {
+    "model": "opus",
+    "inputTokens": 77,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 89600,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 89677,
+    "percentage": 45
+  }
+}
