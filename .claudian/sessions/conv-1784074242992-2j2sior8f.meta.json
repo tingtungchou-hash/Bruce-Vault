@@ -1,0 +1,24 @@
+{
+  "id": "conv-1784074242992-2j2sior8f",
+  "providerId": "claude",
+  "title": "Check example sentences",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784074242993,
+  "updatedAt": 1784075778201,
+  "lastResponseAt": 1784075778201,
+  "sessionId": "49eee64f-95d6-46f0-92b2-a349c69a3e15",
+  "selectedModel": "opus",
+  "providerState": {
+    "providerSessionId": "49eee64f-95d6-46f0-92b2-a349c69a3e15"
+  },
+  "usage": {
+    "model": "opus",
+    "inputTokens": 467,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 54656,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 55123,
+    "percentage": 28
+  }
+}
