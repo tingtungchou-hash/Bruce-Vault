@@ -1,0 +1,24 @@
+{
+  "id": "conv-1784078920146-3ltve1ufd",
+  "providerId": "claude",
+  "title": "Explore Scaife Viewer GitHub repo",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784078920146,
+  "updatedAt": 1784078962706,
+  "lastResponseAt": 1784078962706,
+  "sessionId": "27ed7913-6415-4cdf-9a82-d6e89f87eb4a",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "27ed7913-6415-4cdf-9a82-d6e89f87eb4a"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 2340,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 28800,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 31140,
+    "percentage": 16
+  }
+}
