@@ -4,8 +4,8 @@
   "title": "Create French lesson 4 vocabulary list",
   "titleGenerationStatus": "success",
   "createdAt": 1784081367467,
-  "updatedAt": 1784083469854,
-  "lastResponseAt": 1784083469854,
+  "updatedAt": 1784086331311,
+  "lastResponseAt": 1784086331311,
   "sessionId": "336b769a-8975-496c-b704-006bf3180dbf",
   "selectedModel": "haiku",
   "providerState": {
@@ -13,12 +13,12 @@
   },
   "usage": {
     "model": "haiku",
-    "inputTokens": 213,
+    "inputTokens": 2148,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 51712,
+    "cacheReadInputTokens": 67712,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 51925,
-    "percentage": 26
+    "contextTokens": 69860,
+    "percentage": 35
   }
 }
