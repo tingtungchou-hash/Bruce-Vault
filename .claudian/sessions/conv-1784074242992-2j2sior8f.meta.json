@@ -4,8 +4,8 @@
   "title": "Check example sentences",
   "titleGenerationStatus": "success",
   "createdAt": 1784074242993,
-  "updatedAt": 1784080415918,
-  "lastResponseAt": 1784080415918,
+  "updatedAt": 1784081305482,
+  "lastResponseAt": 1784081292571,
   "sessionId": "49eee64f-95d6-46f0-92b2-a349c69a3e15",
   "selectedModel": "opus",
   "providerState": {
@@ -13,12 +13,12 @@
   },
   "usage": {
     "model": "opus",
-    "inputTokens": 161,
+    "inputTokens": 211,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 70656,
+    "cacheReadInputTokens": 72960,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 70817,
-    "percentage": 35
+    "contextTokens": 73171,
+    "percentage": 37
   }
 }
