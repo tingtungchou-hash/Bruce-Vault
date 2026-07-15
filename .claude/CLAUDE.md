@@ -58,6 +58,7 @@ status: seedling     # seedling | growing | evergreen
 ```
 
 ### 标签体系
+> **规则：所有标签必须使用英文**（含 YAML frontmatter 中的 `tags` 字段），禁止使用中文标签。
 - `#course/xxx` — 课程相关
 - `#language/latin` — 拉丁语
 - `#language/french` — 法语

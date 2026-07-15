@@ -1,0 +1,24 @@
+{
+  "id": "conv-1784106079919-d3c9phell",
+  "providerId": "claude",
+  "title": "Add daily note navigation to vault",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784106079920,
+  "updatedAt": 1784107752065,
+  "lastResponseAt": 1784107752065,
+  "sessionId": "48b33b15-658a-40ba-9956-701d6ed4b5cc",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "48b33b15-658a-40ba-9956-701d6ed4b5cc"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 121,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 57984,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 58105,
+    "percentage": 29
+  }
+}
