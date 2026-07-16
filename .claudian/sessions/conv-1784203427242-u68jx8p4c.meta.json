@@ -4,8 +4,8 @@
   "title": "Remove Essential Latin Vocabulary content",
   "titleGenerationStatus": "success",
   "createdAt": 1784203427243,
-  "updatedAt": 1784203714442,
-  "lastResponseAt": 1784203714442,
+  "updatedAt": 1784206088357,
+  "lastResponseAt": 1784206088357,
   "sessionId": "1fc51dea-6d47-429e-b978-d8830f2797ca",
   "selectedModel": "opus",
   "providerState": {
@@ -13,12 +13,12 @@
   },
   "usage": {
     "model": "opus",
-    "inputTokens": 40,
+    "inputTokens": 47,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 35520,
+    "cacheReadInputTokens": 41792,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 35560,
-    "percentage": 18
+    "contextTokens": 41839,
+    "percentage": 21
   }
 }
