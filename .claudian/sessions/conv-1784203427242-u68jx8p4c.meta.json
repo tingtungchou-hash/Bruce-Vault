@@ -1,0 +1,24 @@
+{
+  "id": "conv-1784203427242-u68jx8p4c",
+  "providerId": "claude",
+  "title": "Remove Essential Latin Vocabulary content",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784203427243,
+  "updatedAt": 1784203714442,
+  "lastResponseAt": 1784203714442,
+  "sessionId": "1fc51dea-6d47-429e-b978-d8830f2797ca",
+  "selectedModel": "opus",
+  "providerState": {
+    "providerSessionId": "1fc51dea-6d47-429e-b978-d8830f2797ca"
+  },
+  "usage": {
+    "model": "opus",
+    "inputTokens": 40,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 35520,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 35560,
+    "percentage": 18
+  }
+}
