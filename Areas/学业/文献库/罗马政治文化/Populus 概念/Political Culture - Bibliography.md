@@ -18,11 +18,11 @@
 	4. Atkims (2013) _Cicero on Politics and the Limits of Reason_ 128 – 38
 2.      Disparity between concepts of “populus”
 	5. Holkeskamp (1995) _Oratoris Mascima Scaena_ 13
-	6. Holkeskamp (2013) _Freiends, Romans, Countrymen_, 128 – 38
+	6. Holkeskamp (2013) _Freiends, Romans, Countrymen_, 128 – 38 [[Holkeskamp_2013_Friends, Romans, Countrymen.pdf]] [[Note - Holkeskamp (2013) Friends, Romans, Countrymen]]
 		the two above present as exactly the _populus Romanus_ instead of representing it
 	7. Amy Russell (2016) Why Did Clodius Shut the Shops, _Historia_ 65:186 – 210
 	8. Amy Russell (2019) *The* Populus Romanus *as the source of public opinion* [[communicating-public-opinion-in-the-roman-republic-3515121722-9783515121729_compress.pdf#page=41|Russell (2019)]] [[Note - Russell (2019) The Populus Romanus as the source of public opinion]] 
 	9. Morstein-Marx (2004) _Mass Oratory and Political Power in the Late Roman Republic_ 119 – 159 [[Note - Morstein-Marx (2004) ch. 4 The Voice of the People]]
-	10. Flower (2014) _Consensus & Community in Republican Rome_
+	10. Flower (2014) _Consensus & Community in Republican Rome_ [[Flower_2014_Consensus & Community in Republican Rome.pdf]] [[Note - Flower (2014) Consensus & Community in Republican Rome]]
 	11. Flaig (2013) _Die Mehrheitrentscheidung. Entstehung und kulturelle Dynamik_
 		the one above on consensus surrounding “populus”
