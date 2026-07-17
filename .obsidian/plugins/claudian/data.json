@@ -4,8 +4,13 @@
       {
         "tabId": "tab-1784270310823-g0xeyyo",
         "conversationId": "conv-1784270397561-zzhydtzsu"
+      },
+      {
+        "draftModel": "haiku",
+        "tabId": "tab-1784278802116-wz65ui4",
+        "conversationId": null
       }
     ],
-    "activeTabId": "tab-1784270310823-g0xeyyo"
+    "activeTabId": "tab-1784278802116-wz65ui4"
   }
 }
