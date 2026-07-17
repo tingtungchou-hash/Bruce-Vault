@@ -1,0 +1,24 @@
+{
+  "id": "conv-1784246166390-exxmkpk87",
+  "providerId": "claude",
+  "title": "Create empty French tense notes",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784246166390,
+  "updatedAt": 1784248815043,
+  "lastResponseAt": 1784248815043,
+  "sessionId": "3f1fabc5-ecb4-4451-a43e-215c422eb37e",
+  "selectedModel": "opus",
+  "providerState": {
+    "providerSessionId": "3f1fabc5-ecb4-4451-a43e-215c422eb37e"
+  },
+  "usage": {
+    "model": "opus",
+    "inputTokens": 164,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 47488,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 47652,
+    "percentage": 24
+  }
+}
