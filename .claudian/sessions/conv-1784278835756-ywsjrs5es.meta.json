@@ -1,0 +1,25 @@
+{
+  "id": "conv-1784278835756-ywsjrs5es",
+  "providerId": "claude",
+  "title": "Review English translation uncertainties",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784278835756,
+  "updatedAt": 1784279900552,
+  "lastResponseAt": 1784279900552,
+  "sessionId": "19a0b7a8-1470-4ddf-b165-29d3b3997783",
+  "selectedModel": "opus",
+  "providerState": {
+    "providerSessionId": "19a0b7a8-1470-4ddf-b165-29d3b3997783"
+  },
+  "currentNote": "Areas/语言/拉丁语/笔记/Collage Caesar 精读/Day 1 Class 15.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 108,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 32384,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 32492,
+    "percentage": 16
+  }
+}

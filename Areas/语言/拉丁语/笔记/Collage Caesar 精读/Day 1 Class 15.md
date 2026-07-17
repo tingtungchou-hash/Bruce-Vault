@@ -64,37 +64,37 @@ Post hunc Apollinem et Mārtem et Iovem et Minervam.
 
 XV
 ① Another type is the knights. 
-If there're exercises or some war breaks out, all of these knights will turn into battle. 
+If there're need or some war breaks out, all of these knights will take part in the battle. 
 
-(It used to happen years before the arrival of Caesar that either they themselves commit illegal actions, or urge those introduced of such crimes to do so.) 
+(It used to happen years before the arrival of Caesar that either they themselves commit illegal actions, or urge ~~those introduced of such crimes to do so~~ ***repel injuries inflected upon them***.) 
 
 ② And, one of them has so many vassals and clients around him 
-in order that he is the greatest by standard of the quality and quantity of clients. 
+in order that he is the greatest by standard of birth and resources. 
 
 They know only this power and status. 
 
 XVI
 ①The entire nation of the Gauls is completely dedicated to religions, 
 
-② so that for this course, 
-who is heavily ill, (?)
+② so that for this ~~course~~ ***reason***, 
+who is ~~heavily ill,~~ ***afflicted with rather serious illnesses***
 anyone who joines battle or faces danger, will either sacrifice humans as victims or vow to sacrifice himself, 
 
-and it is displayed with a Druid priest as the administrator of the sacrifice, (?)
+and ~~it is displayed with~~ a Druid priest ***is employed*** as the administrator of the sacrifice,
 
-because, for the sake of human life (?), they think that they ③ are not able to please the divine will of the immortal gods, unless human life is returned, 
+because, ~~for the sake of human life~~ ***in exchange for a human life***, they think that they ③ are not able to please the divine will of the immortal gods, unless human life is returned, 
 
 and they have the sacrificial institution of the same kind publicly as well. 
 
 Some hold the images with immense magnificence, 
-④whose covered limbs they fill with living humans like twigs,
+④whose covered limbs they fill with living humans like twigs, 
 and when they're ignited, the humans surrounded by flames are burnt to death. 
 
-⑤ The punishment of those
+⑤ The ~~punishment~~ ***supply*** of those
 who are captured due to theft, robbery or other crimes, 
-they deem it to be dear to the immortal gods; (?)
-But, though one commits a lot of this kind of crimes, 
-they can still give up the punishment to innocence. (?)
+they deem them to be pleasing to the immortal gods; 
+But, ~~though one commits a lot of this kind of crimes,~~ ***when the supply of this kind (of criminals) run short***, 
+they can ~~still give up the punishment to innocence~~ ***even descend to the punishment of the innocent***. 
 
 XVII 
 ① They worship the god Mercurius the most. 
