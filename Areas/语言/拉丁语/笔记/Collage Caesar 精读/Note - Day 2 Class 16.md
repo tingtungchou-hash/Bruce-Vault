@@ -1,16 +1,18 @@
 ---
-title: "Day 2 Class 15"
+title: Note - Day 2 Class 16
 created: 2026-07-17
 lesson: "15"
 book: ""
 chapter: ""
-tags: [language/latin, course]
+tags:
+  - language/latin
+  - course
 status: seedling
 ---
 
-# Day 2 Class 15
+# Note - Day 2 Class 16
 
-[[College Caesar 精读|返回导航]] | [[Day 1 Class 15|上一篇]] | [[Day 2 Class 16|下一篇]]
+[[College Caesar 精读|返回导航]] | [[Note - Day 1 Class 15|上一篇]] | [[Day 2 Class 16|下一篇]]
 
 ---
 

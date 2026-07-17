@@ -1,10 +1,19 @@
 ---
-title: Day 1 Class 15
+title: Note - Day 1 Class 15
 created: 2026-07-17
+lesson: "15"
+book: "BG"
+chapter: "VI.15-17"
 tags:
   - language/latin
   - course
 status: seedling
+---
+
+# Note - Day 1 Class 15
+
+[[College Caesar 精读|返回导航]] | [[Note - Day 2 Class 16|下一篇]]
+
 ---
 
 ## Collage Caesar 原文
@@ -16,7 +25,7 @@ XV
 ① *Alterum=genus* **est** equitum. 
 \[\[cum est ūsus] **atque** \[aliquod bellum incidit]], *Hī=omnēs* \[in bellō] **versantur**, 
 
-quod \[ferē] \[ante Caesaris=adventum quotannīs] accidere **solēbat**, \[**utī** aut ipsī iniūriās inferrent aut illātās **prōpulsārent**] 
+quod \[ferē] \[ante Caesaris=adventum quotannīs] accidere **solēbat**, \[**utī** aut ipsī iniūriās inferrent aut illātās **prōpulsārent**] ^propulso
 
  ② **atque** (quisque) eōrum ita *plūrimōs=ambactōs=clientēsque* \[circum sē] **habet**, 
 
@@ -32,7 +41,7 @@ quī **sunt** adfectī \[graviōribus=morbīs]
 quīque in proeliīs=periculīsque **versantur**, 
 	**aut** \[prō victimīs] hominēs **immolant** 
 	**aut** sē immolātūrōs **vovent** 
-administrīs**que**=\[ad ea sacrificia]=Druidibus **ūtuntur**, 
+administrīs**que**=\[ad ea sacrificia]=Druidibus **ūtuntur**, ^utor
  
 quod, \[prō vītā hominis] 
 **nisi** hominis vīta reddātur, 
@@ -46,8 +55,8 @@ Aliī immānī=magnitūdine simulācra **habent**,
 ⑤ Supplicia eōrum 
 **quī** \[in furtō **aut** in latrōciniō **aut** aliquā noxiā] sint comprehēnsī 
 grātiōra dīs=immortālibus esse **arbitrantur**; 
-**sed**, \[cum eius generis cōpia dēfēcit], 
-etiam \[ad innocentium] supplicia dēscendunt.
+**sed**, \[cum eius generis cōpia dēfēcit], ^deficio
+etiam \[ad innocentium] supplicia dēscendunt. ^descendo
 
 XVII 
 ① Deum maximē Mercurium colunt. 
@@ -56,7 +65,7 @@ Huius sunt plūrima simulācra:
 hunc inventōrem=omnium=artium **ferunt**, 
 hunc viārum atque itinerum ducem, 
 
-hunc \[ad quaestūs pecūniae mercatūrās**que**] habēre vim maximam **arbitrantur**. 
+hunc \[ad quaestūs pecūniae mercatūrās**que**] habēre vim maximam **arbitrantur**. ^quaestus
 
 Post hunc Apollinem et Mārtem et Iovem et Minervam.
 
@@ -108,5 +117,8 @@ And after him are Apollo, Mars, Jupiter and Minerva.
 
 
 ## 词汇积累
+[[词汇表 Day 1 Class 15]]
+
+## 补充说明
 
 
