@@ -4,8 +4,8 @@
   "title": "Review English translation uncertainties",
   "titleGenerationStatus": "success",
   "createdAt": 1784278835756,
-  "updatedAt": 1784285250803,
-  "lastResponseAt": 1784285250803,
+  "updatedAt": 1784287989720,
+  "lastResponseAt": 1784287989719,
   "sessionId": "19a0b7a8-1470-4ddf-b165-29d3b3997783",
   "selectedModel": "opus",
   "providerState": {
@@ -170,12 +170,12 @@
   },
   "usage": {
     "model": "opus",
-    "inputTokens": 1040,
+    "inputTokens": 1248,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 72832,
+    "cacheReadInputTokens": 77184,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 73872,
-    "percentage": 37
+    "contextTokens": 78432,
+    "percentage": 39
   }
 }

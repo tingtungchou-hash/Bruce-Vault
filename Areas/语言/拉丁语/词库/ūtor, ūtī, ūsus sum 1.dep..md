@@ -15,7 +15,7 @@ status: seedling
 ## 释义
 *with abl* 
 1. to use 
-	1. administrīsque ad ea sacrificia Druidibus ūtuntur [[Note - Day 1 Class 15#^utor]]
+	1. administrīsque ad ea sacrificia Druidibus ūtuntur [[collegecaesar.14jan25.pdf#page=50&selection=167,9,172,6|Caesar]]
 2. to enjoy 
 3. to experience 
 

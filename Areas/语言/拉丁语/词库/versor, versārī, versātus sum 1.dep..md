@@ -18,9 +18,10 @@ status: seedling
 3. to dwell 
 4. to be 
 5. to turn 
+	1. omnēs in bellō versantur [[collegecaesar.14jan25.pdf#page=50&selection=38,7,44,1|collegecaesar.14jan25, 页面 50]] 
 
 ## 关联词汇
 
 
 ## 复习提示
-
+versor in bellō - take part in a war

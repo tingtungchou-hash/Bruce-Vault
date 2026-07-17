@@ -16,7 +16,7 @@ status: seedling
 1. to repulse 
 2. to drive back/off 
 3. to ward off 
-	1. aut ipsī iniūriās inferrent aut illātās prōpulsārent [[Note - Day 1 Class 15#^propulso|Caes.]]
+	1. aut ipsī iniūriās inferrent aut illātās prōpulsārent [[collegecaesar.14jan25.pdf#page=50&selection=19,5,38,4|Caesar]]
 4. to repel 
 5. to avert
 

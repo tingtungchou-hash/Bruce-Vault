@@ -16,8 +16,10 @@ status: seedling
 1. supply
 2. inventory 
 3. stock 
+	1. ut quisque est genere copiīsque amplissimus [[collegecaesar.14jan25.pdf#page=50&selection=50,4,52,16|Caesar]]
 4. troops (pl)
 5. sbundance
+	1.  cum eius generis cōpia dēfēcit [[collegecaesar.14jan25.pdf#page=50&selection=299,22,305,3|Caesar]]
 
 ## 关联词汇
 

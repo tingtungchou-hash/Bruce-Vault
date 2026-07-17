@@ -14,7 +14,7 @@ status: seedling
 
 ## 释义
 1. origin 
-	1. [[collegecaesar.14jan25.pdf#page=50&selection=48,0,52,16|atque eōrum ut quisque est genere copiīsque amplissimus]]
+	1. atque eōrum ut quisque est genere copiīsque amplissimu [[collegecaesar.14jan25.pdf#page=50&selection=48,0,52,16|Caesar]]
 2. kind
 3. sort
 4. class 

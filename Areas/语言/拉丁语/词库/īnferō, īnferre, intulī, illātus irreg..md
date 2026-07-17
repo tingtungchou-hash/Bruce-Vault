@@ -14,7 +14,7 @@ status: seedling
 
 ## 释义
 1. to carry in 
-	1. utī aut ipsī iniūriās inferrent aut illātās prōpulsārent [[Note - Day 1 Class 15#^propulso|Caes.]]
+	1. utī aut ipsī iniūriās inferrent aut illātās prōpulsārent [[collegecaesar.14jan25.pdf#page=50&selection=19,5,38,4|Caesar]]
 2. to throw upon
 
 ## 关联词汇

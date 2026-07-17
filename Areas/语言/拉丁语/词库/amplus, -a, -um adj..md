@@ -13,7 +13,12 @@ status: seedling
 - **词源**: 
 
 ## 释义
-
+1. great 
+	1. ut quisque est genere copiīsque amplissimus [[collegecaesar.14jan25.pdf#page=50&selection=50,4,52,16|Caesar]]
+2. large 
+3. spacious 
+4. wide 
+5. ample 
 
 ## 关联词汇
 

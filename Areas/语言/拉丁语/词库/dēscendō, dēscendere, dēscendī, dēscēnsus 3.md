@@ -17,7 +17,7 @@ status: seedling
 2. to climb/march/come/go/flow/hang down 
 3. to dismount
 4. to penetrate/sink 
-	1. sed cum eius generis cōpia dēfēcit, etiam ad innocentium supplicia dēscendunt. [[Note - Day 1 Class 15#^descendo|Caes.]]
+	1. sed cum eius generis cōpia dēfēcit, etiam ad innocentium supplicia dēscendunt. [[collegecaesar.14jan25.pdf#page=50&selection=299,17,308,8|Caesar]]
 
 ## 关联词汇
 

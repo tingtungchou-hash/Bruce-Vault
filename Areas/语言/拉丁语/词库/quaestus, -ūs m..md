@@ -15,7 +15,7 @@ status: seedling
 ## 释义
 1. gain
 2. profit 
-	1. hunc ad quaestūs pecūniae mercatūrāsque habēre vim maximam arbitrantur. [[Note - Day 1 Class 15#^quaestus|Caes.]]
+	1. hunc ad quaestūs pecūniae mercatūrāsque habēre vim maximam arbitrantur. [[collegecaesar.14jan25.pdf#page=50&selection=343,7,355,13|Caesar]]
 
 ## 关联词汇
 1. quaerō

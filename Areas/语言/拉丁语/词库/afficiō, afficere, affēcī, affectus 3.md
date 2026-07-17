@@ -15,7 +15,7 @@ status: seedling
 ## 释义
 1. to manage 
 2. to influence (acc + abl)
-	1. quī sunt adfectī graviōribus morbīs [[Note - Day 1 Class 15#^afficio|Caes.]]
+	1. quī sunt adfectī graviōribus morbīs [[collegecaesar.14jan25.pdf#page=50&selection=110,0,125,1|Caesar]]
 3. to make 
 4. to punish 
 

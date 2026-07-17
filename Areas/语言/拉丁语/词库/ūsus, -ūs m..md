@@ -14,7 +14,7 @@ status: seedling
 
 ## 释义
 1. use
-	1. [[collegecaesar.14jan25.pdf#page=50&selection=6,27,12,7|Hī, cum est ūsus atque aliquod bellum incidit]]
+	1. Hī, cum est ūsus atque aliquod bellum incidit [[collegecaesar.14jan25.pdf#page=50&selection=6,27,12,7|Caesar]]
 2. benefit 
 3. advantage
 
