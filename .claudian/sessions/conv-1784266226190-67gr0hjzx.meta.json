@@ -1,0 +1,24 @@
+{
+  "id": "conv-1784266226190-67gr0hjzx",
+  "providerId": "claude",
+  "title": "Summarize baggage rules from clippings",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784266226190,
+  "updatedAt": 1784267720812,
+  "lastResponseAt": 1784267720812,
+  "sessionId": "14e02728-2a29-4dcb-aba8-6002d4ca2268",
+  "selectedModel": "opus",
+  "providerState": {
+    "providerSessionId": "14e02728-2a29-4dcb-aba8-6002d4ca2268"
+  },
+  "usage": {
+    "model": "opus",
+    "inputTokens": 2635,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 130688,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 133323,
+    "percentage": 67
+  }
+}

@@ -4,8 +4,8 @@
   "title": "Create empty French tense notes",
   "titleGenerationStatus": "success",
   "createdAt": 1784246166390,
-  "updatedAt": 1784260238661,
-  "lastResponseAt": 1784260238661,
+  "updatedAt": 1784264882097,
+  "lastResponseAt": 1784264790421,
   "sessionId": "3f1fabc5-ecb4-4451-a43e-215c422eb37e",
   "selectedModel": "opus",
   "providerState": {
@@ -13,12 +13,12 @@
   },
   "usage": {
     "model": "opus",
-    "inputTokens": 3478,
+    "inputTokens": 142,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 48640,
+    "cacheReadInputTokens": 53760,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 52118,
-    "percentage": 26
+    "contextTokens": 53902,
+    "percentage": 27
   }
 }
