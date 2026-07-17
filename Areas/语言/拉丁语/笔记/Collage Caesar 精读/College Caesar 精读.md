@@ -6,19 +6,12 @@ status: seedling
 ---
 # 课程资料
 [[collegecaesar.14jan25.pdf|College Caesar - Goeffery Staedman]]
+说明：15课之前的课程无电子化计划。
 
 ## 笔记索引
 
-### 导论
-- [[Collage Caesar Day 1]] — 课程概览与阅读计划
-
-### 精读笔记
-*（待填充）*
-
-### 语法与词汇
-*（待填充）*
-
-## 相关笔记
-
-- [[单词表 - de Vaan 词源]] — 词源参考
-- 教材：[[Learn to Read Latin (2nd edition) (Andrew Keller, Stephanie Russell).pdf]] — 语法参考
+| 日期        | 课号  | 笔记链接               | 内容概述 |
+| --------- | --- | ------------------ | ---- |
+| 2026/7/17 | 15  | [[Day 1 Class 15]] |      |
+| 2026/7/17 | 15  | [[Day 2 Class 15]] |      |
+| 2026/7/18 | 16  | [[Day 2 Class 16]] |      |

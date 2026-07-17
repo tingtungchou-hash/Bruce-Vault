@@ -1,16 +1,16 @@
 ---
-title: "{{title}}"
-created: {{date}}
-lesson: ""
+title: "Day 2 Class 15"
+created: 2026-07-17
+lesson: "15"
 book: ""
 chapter: ""
 tags: [language/latin, course]
 status: seedling
 ---
 
-# {{title}}
+# Day 2 Class 15
 
-[[College Caesar 精读|返回导航]] | [[PREV_NOTE|上一篇]] | [[NEXT_NOTE|下一篇]]
+[[College Caesar 精读|返回导航]] | [[Day 1 Class 15|上一篇]] | [[Day 2 Class 16|下一篇]]
 
 ---
 

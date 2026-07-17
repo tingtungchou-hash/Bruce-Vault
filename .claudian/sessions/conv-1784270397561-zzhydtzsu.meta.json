@@ -4,8 +4,8 @@
   "title": "Create Caesar 精读 folder and initial note",
   "titleGenerationStatus": "success",
   "createdAt": 1784270397561,
-  "updatedAt": 1784271284955,
-  "lastResponseAt": 1784271284955,
+  "updatedAt": 1784272203655,
+  "lastResponseAt": 1784272203655,
   "sessionId": "62003bf3-d94b-4c7f-b719-a235b2d3afb0",
   "selectedModel": "haiku",
   "providerState": {
@@ -13,12 +13,12 @@
   },
   "usage": {
     "model": "haiku",
-    "inputTokens": 463,
+    "inputTokens": 46,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 47488,
+    "cacheReadInputTokens": 53760,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 47951,
-    "percentage": 24
+    "contextTokens": 53806,
+    "percentage": 27
   }
 }

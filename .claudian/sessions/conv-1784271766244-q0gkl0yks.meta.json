@@ -1,0 +1,24 @@
+{
+  "id": "conv-1784271766244-q0gkl0yks",
+  "providerId": "claude",
+  "title": "Update French note links and homepage",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784271766244,
+  "updatedAt": 1784272039791,
+  "lastResponseAt": 1784271893572,
+  "sessionId": "7bd31c30-af7a-4732-9eca-b0f31d9e7de8",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "7bd31c30-af7a-4732-9eca-b0f31d9e7de8"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 122,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 60544,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 60666,
+    "percentage": 30
+  }
+}
