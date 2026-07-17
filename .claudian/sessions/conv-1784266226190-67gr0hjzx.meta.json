@@ -4,8 +4,8 @@
   "title": "Summarize baggage rules from clippings",
   "titleGenerationStatus": "success",
   "createdAt": 1784266226190,
-  "updatedAt": 1784267720812,
-  "lastResponseAt": 1784267720812,
+  "updatedAt": 1784270311903,
+  "lastResponseAt": 1784268165747,
   "sessionId": "14e02728-2a29-4dcb-aba8-6002d4ca2268",
   "selectedModel": "opus",
   "providerState": {
@@ -13,12 +13,12 @@
   },
   "usage": {
     "model": "opus",
-    "inputTokens": 2635,
+    "inputTokens": 2744,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 130688,
+    "cacheReadInputTokens": 138368,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 133323,
-    "percentage": 67
+    "contextTokens": 141112,
+    "percentage": 71
   }
 }
