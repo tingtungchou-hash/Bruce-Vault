@@ -3,7 +3,9 @@ created: 2026-07-17
 tags: [vocabulary, language/latin, course]
 status: seedling
 ---
-[[Note - Day 1 Class 15]] 
+[[College Caesar 精读|返回导航]] | [[词汇表 Day 2 Class 16|下一篇]]
+
+---
 
 ## 动词
 

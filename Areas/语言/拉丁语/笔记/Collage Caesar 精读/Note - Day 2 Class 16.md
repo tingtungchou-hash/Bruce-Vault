@@ -71,14 +71,14 @@ they vow to sacrifice what they would capture in the war:
 after they triumphed, they sacrifice the captured animals, 
 and collect the others in a certain place. 
 
-④ It is usual for many people in the city to see built-up piles of these things in the sacred places. 
+④ It is usual ~~for many people in the city~~ ***in many cities*** to see built-up piles of these things in the sacred places. 
 
 ⑤ nor does it often happen that 
-anyone dared to either conceal captured things among themselves or destroy things set up, neglecting religion, 
+anyone dared to either conceal captured things among themselves or ~~destroy~~ ***take away*** things set up, neglecting religion, 
 and the punishment of such crime is considered the gravest, with torture. 
 
 XVIII
-① The Gauls proclaim all of themselves to be descended from a sacred father, and they claim it to be brought forth by the Druids. 
+① The Gauls proclaim all of themselves to be descended from a Dis Father, and they claim it to be passed down by the Druids. 
 
 ② Due to this reason, they divide the length of all time 
 not according to the number of days but of nights. 
@@ -86,13 +86,9 @@ not according to the number of days but of nights.
 they regulate days of birth and the beginning of both months and years in this way, so that days chases nights.  
 
 ③ In other institutions of life they differ from others in such a way, 
-namely that they do not allow their own children to come to them publicly, in order that they may be able to get through military service. 
+namely that unless the children have grown up, they do not allow them to come to them publicly, in order that they may be able to get through military service. 
 
-And they gauide their children in their youth to assist in public affairs under themselves' eyes. 
+And they ~~gauide~~ ***consider it shameful*** that their children in their youth to ~~assist in public affairs~~ ***stand in publis*** under themselves' eyes. 
 ## 词汇积累
-
-| 拉丁语 | 词性 | 释义 | 备注 |
-|--------|------|------|------|
-|        |      |      |      |
-
+[[词汇表 Day 2 Class 16]]
 ## 补充说明
