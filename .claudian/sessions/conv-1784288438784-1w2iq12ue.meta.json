@@ -4,21 +4,21 @@
   "title": "Explain doll-master folder",
   "titleGenerationStatus": "success",
   "createdAt": 1784288438785,
-  "updatedAt": 1784289458653,
-  "lastResponseAt": 1784289036789,
+  "updatedAt": 1784290090340,
+  "lastResponseAt": 1784290090340,
   "sessionId": "277d4c20-16ca-45a5-8947-6a33ebabccfd",
   "selectedModel": "claude-fable-5",
   "providerState": {
     "providerSessionId": "277d4c20-16ca-45a5-8947-6a33ebabccfd"
   },
   "usage": {
-    "model": "haiku",
-    "inputTokens": 8465,
+    "model": "claude-fable-5",
+    "inputTokens": 76,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 29696,
+    "cacheReadInputTokens": 84224,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 38161,
-    "percentage": 19
+    "contextTokens": 84300,
+    "percentage": 42
   }
 }
