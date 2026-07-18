@@ -14,7 +14,7 @@ status: seedling
 
 ## 释义
 1. birth, descent, origin, lineage (出身)
-	1. atque eōrum ut quisque est genere copiīsque amplissimu [[collegecaesar.14jan25.pdf#page=50&selection=48,0,52,16|Caesar]]
+	1. atque eōrum ut quisque est genere copiīsque amplissimus [[collegecaesar.14jan25.pdf#page=50&selection=48,0,52,16|Caesar]]
 2. race, family, stock (家族)
 3. kind, sort, class (种类)
 4. sex, gender (性别)

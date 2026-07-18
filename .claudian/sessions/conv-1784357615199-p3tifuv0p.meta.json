@@ -4,8 +4,8 @@
   "title": "Check English translation",
   "titleGenerationStatus": "success",
   "createdAt": 1784357615218,
-  "updatedAt": 1784361434110,
-  "lastResponseAt": 1784361434109,
+  "updatedAt": 1784362378278,
+  "lastResponseAt": 1784362378278,
   "sessionId": "41c28828-f6bb-414c-8309-524a78e312d8",
   "selectedModel": "opus",
   "providerState": {
@@ -13,12 +13,12 @@
   },
   "usage": {
     "model": "opus",
-    "inputTokens": 2741,
+    "inputTokens": 418,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 95744,
+    "cacheReadInputTokens": 135296,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 98485,
-    "percentage": 49
+    "contextTokens": 135714,
+    "percentage": 68
   }
 }
