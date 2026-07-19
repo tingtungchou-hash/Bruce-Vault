@@ -1,6 +1,6 @@
 ---
 title: Note - Day 2 Class 16
-created: 2026-07-17
+created: 2026-07-18
 lesson: "15"
 book: ""
 chapter: ""
