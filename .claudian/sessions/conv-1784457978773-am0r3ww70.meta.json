@@ -1,0 +1,24 @@
+{
+  "id": "conv-1784457978773-am0r3ww70",
+  "providerId": "claude",
+  "title": "Add wikilink to next lesson",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784457978773,
+  "updatedAt": 1784458598178,
+  "lastResponseAt": 1784458598178,
+  "sessionId": "37f768ab-efac-49d3-95d3-24c22e87cded",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "37f768ab-efac-49d3-95d3-24c22e87cded"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 260,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 33024,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 33284,
+    "percentage": 17
+  }
+}
