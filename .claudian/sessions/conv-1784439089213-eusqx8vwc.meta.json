@@ -4,8 +4,8 @@
   "title": "Create College Caesar Day 3 Class 17 note",
   "titleGenerationStatus": "success",
   "createdAt": 1784439089213,
-  "updatedAt": 1784445715389,
-  "lastResponseAt": 1784445715389,
+  "updatedAt": 1784449693315,
+  "lastResponseAt": 1784449693315,
   "sessionId": "29ada528-71c7-45b5-8e50-9259aa216c33",
   "selectedModel": "opus",
   "providerState": {
@@ -358,12 +358,12 @@
   },
   "usage": {
     "model": "opus",
-    "inputTokens": 7289,
+    "inputTokens": 786,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 40192,
+    "cacheReadInputTokens": 136960,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 47481,
-    "percentage": 24
+    "contextTokens": 137746,
+    "percentage": 69
   }
 }
