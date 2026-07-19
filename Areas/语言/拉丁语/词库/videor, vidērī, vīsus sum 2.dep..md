@@ -21,9 +21,9 @@ status: seedling
    c. *vīsum est + dat.* — ……认为合适/决定
    d. *vidērī + inf.* — 似乎/显得在做某事
 
-2. to seem good, seem proper, be resolved (无人称用法)
+2. to seem good, seem proper, be resolved (无人称用法 + dat. )
    a. *sī eī vidētur* — 如果他觉得合适
-   b. *senātuī vīsum est* — 元老院决定
+   b. *senātuī vīsum est* — 元老院决定（it seems proper **to** the senate）
 
 ## 关联词汇
 - [[videō, vidēre, vīdī, vīsus 2.]] (源动词——"看见")

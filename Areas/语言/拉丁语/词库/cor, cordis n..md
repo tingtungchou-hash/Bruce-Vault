@@ -18,7 +18,7 @@ status: seedling
    a. *cordis palpitātiō* — 心悸
 
 2. (转喻) the heart as seat of feeling, emotion; soul, mind
-   a. *quae vīvīs cordī fuisse arbitrantur* — 他们认为逝者生前心爱之物 (见 Caes. *B.G.* 6.19 — **本课用法**)
+   a. *quae vīvīs cordī fuisse arbitrantur* — 他们认为逝者生前心爱之物 (见 Caes. *B.G.* 6.19)
    b. *cordī est alicui* — 令某人珍爱/在某人心中 (固定短语; + dat. 表对象)
    c. *corde amāre* — 发自心底地爱
    d. *cor meum tangit* — 触动我心

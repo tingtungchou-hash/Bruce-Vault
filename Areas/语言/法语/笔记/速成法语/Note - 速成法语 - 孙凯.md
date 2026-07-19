@@ -150,4 +150,5 @@ status: evergreen
 ## 教材
 
 [[速成法语课程指南 2.0.pdf]]
+[[速成法语课程指南 3.0.pdf]]
 [[1453速成法语 (孙凯) (z-library.sk, 1lib.sk, z-lib.sk).pdf]]

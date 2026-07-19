@@ -1,0 +1,24 @@
+{
+  "id": "conv-1784453002322-5d3fq4z62",
+  "providerId": "claude",
+  "title": "Explain word etymology",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784453002322,
+  "updatedAt": 1784453450852,
+  "lastResponseAt": 1784453450852,
+  "sessionId": "4206899b-6feb-4b5a-aa2f-1c3b5540c2c7",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "4206899b-6feb-4b5a-aa2f-1c3b5540c2c7"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 403,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 29952,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 30355,
+    "percentage": 15
+  }
+}

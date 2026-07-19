@@ -15,8 +15,8 @@ status: seedling
 ## 释义
 
 1. enjoyment, profit, proceeds, fruit, produce (经典通用义)
-   a. *frūctūsque servantur* — 收益也被保留下来 (见 Caes. *B.G.* 6.19 — **本课用法**)
-   b. *cum frūctibus superiōrum temporum* — 连同此前各期的收益 (见 Caes. *B.G.* 6.19 — **同段二次出现**)
+   a. *frūctūsque servantur* — 收益也被保留下来 (见 Caes. *B.G.* 6.19)
+   b. *cum frūctibus superiōrum temporum* — 连同此前各期的收益 (见 Caes. *B.G.* 6.19)
    c. *frūctum percipere / capere* — 获取收益
    d. *frūctum ferre* — 产出果实/收益
 

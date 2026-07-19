@@ -17,12 +17,12 @@ status: seedling
 1. to stand together, stand firm, be settled
    a. *causa cōnstat* — 案情确凿
 
-2. (非人称用法) to be well known, be agreed, be established, be certain (经典通用义)
+2. (**impersonal**) to be well known, be agreed, be established, be certain (经典通用义)
    a. *cōnstat inter omnēs* — 众所公认
-   b. *quōs ab eīs dīlēctōs esse cōnstābat* — 那些被确认为他们所钟爱者 (见 Caes. *B.G.* 6.19 — **本课用法**)
-   c. *cōnstat + acc. + inf.* — 众所周知……（非人称构造）
+   b. *quōs ab eīs dīlēctōs esse cōnstābat* — 那些被确认为他们所钟爱者 (见 Caes. *B.G.* 6.19)
+   c. ***cōnstat + acc. + inf.*** — 众所周知……（非人称构造）
 
-3. to consist of, be composed of (+ *ex* + abl.)
+3. to consist of, be composed of (**+ *ex* + abl**.)
    a. *cōnstat ex animō et corpore* — 由灵魂和身体组成
 
 4. to cost, come to (价格; + 属格/夺格)

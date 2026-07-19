@@ -3,18 +3,18 @@ created: 2026-07-18
 tags: [vocabulary, language/latin, course]
 status: seedling
 ---
-[[College Caesar 精读|返回导航]] | [[词汇表 Day 1 Class 15|上一篇]]
+[[College Caesar 精读|返回导航]] | [[词汇表 Day 1 Class 15|上一篇]] | [[词汇表 Day 3 Class 17|下一篇]]
 
 ---
 
 ## 动词
 
 1. [[dēpellō, dēpellere, dēpulī, dēpulsus 3|dēpellō]] — 驱除、逐出、赶走 (3, dē- + pellō)
-2. [[trādō, trādere, trādidī, trāditus 3|trādō]] — 交付、传授、传承、记述 (3, trāns- + dō)
+2. ★ [[trādō, trādere, trādidī, trāditus 3|trādō]] — 交付、传授、传承、记述 (3, trāns- + dō)
 3. [[dīmicō, dīmicāre, dīmicāvī, dīmicātus 1|dīmicō]] — 战斗、交锋、拼死一搏 (1, dī- + micō)
 4. [[voveō, vovēre, vōvī, vōtus 2|voveō]] — 向神许愿、立誓献出 (2)
 5. [[conspicor, conspicārī, conspicātus sum 1.dep.|conspicor]] — 看见、察觉、目睹 (1.dep., con- + speciō)
-6. [[occultō, occultāre, occultāvī, occultātus 1|occultō]] — 隐藏、藏匿、掩盖 (1, 源自 occulō)
+6. ★ [[occultō, occultāre, occultāvī, occultātus 1|occultō]] — 隐藏、藏匿、掩盖 (1, 源自 occulō)
 7. [[observō, observāre, observāvī, observātus 1|observō]] — 观察、遵守、遵循、尊敬 (1, ob- + servō)
 8. [[patior, patī, passus sum 3.dep.|patior]] — 忍受、遭受、允许 (3.dep., cf. Gk. πάσχω)
 9. [[prōdō, prōdere, prōdidī, prōditus 3|prōdō]] — 公布、记述、传承、出卖 (3, prō- + dō)

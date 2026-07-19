@@ -18,7 +18,7 @@ status: seedling
    a. *sē occultāre* — 隐藏自己
    b. *sē occultāre in hortīs* — 在花园中隐藏自己
    c. *sē occultāre silvīs* — 以树林隐蔽自己 (工具夺格)
-   d. *capta apud sē occultāre* — 将战利品私藏 (见 Caes. *B.G.* 6.17 — **本课用法**)
+   d. *capta apud sē occultāre* — 将战利品私藏 (见 Caes. *B.G.* 6.17 )
    e. *occultāre et dissimulāre aliquid* — 隐藏并掩饰某事
    f. *occultāre fugam* — 掩盖逃跑
 

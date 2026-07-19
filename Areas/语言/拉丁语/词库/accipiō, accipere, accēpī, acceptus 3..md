@@ -15,10 +15,9 @@ status: seedling
 ## 释义
 
 1. to take, receive, accept (经典通用义)
-   a. *quantās pecūniās ab uxōribus accēpērunt* — 从妻子处收到多少钱 (见 Caes. *B.G.* 6.19 — **本课用法**)
-   b. *accēperit* (perf. subj.) — 若收到 (见 Caes. *B.G.* 6.20 — **本课二次出现**)
+   a. *quantās pecūniās ab uxōribus accēpērunt* — 从妻子处收到多少钱 (见 Caes. *B.G.* 6.19)
+   b. *accēperit* (perf. subj.) — 若收到 (见 Caes. *B.G.* 6.20)
    c. *litterās accipere* — 收到信
-   d. *accēpī + acc. + inf.* — 获知/听说……
 
 2. to hear, learn, understand
    a. *id accēpī* — 我听说了此事
@@ -34,5 +33,4 @@ status: seedling
 - [[dō, dare, dedī, datus 1.]] (给——反义词)
 
 ## 复习提示
-- 本课两见：① 接收嫁妆（本义）② 接收情报（引申义，本课 *sī quis quid accēperit*）
-- 完成时 *accēpī* 常用，"已经收到"义
+

@@ -15,7 +15,7 @@ status: seedling
 ## 释义
 
 1. to value highly, esteem, love, cherish (经典通用义; 比 *amō* 更理性、含尊重)
-   a. *quōs ab eīs dīlēctōs esse cōnstābat* — 被确认为他们所钟爱者 (见 Caes. *B.G.* 6.19 — **本课用法**)
+   a. *quōs ab eīs dīlēctōs esse cōnstābat* — 被确认为他们所钟爱者 (见 Caes. *B.G.* 6.19)
    b. *aliquem dīligere* — 珍视/爱戴某人
    c. *virtūtem dīligere* — 崇尚美德
 
