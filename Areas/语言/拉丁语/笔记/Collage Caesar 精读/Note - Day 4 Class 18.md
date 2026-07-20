@@ -37,7 +37,7 @@ Trēs in Belgīs ==collocāvit==:
 ③ eīs 
 Marcum Crassum quaestorem 
 **et** Lucium Munātium Plancum 
-**et** Gaium Trebōnium *lēgātōs* **praefēcit**. 
+**et** Gaium Trebōnium *lēgātōs* ==**praefēcit**==. 
 
 ④ Ūnam legiōnem, 
 	quam \[proximē] \[trāns Padum] ==cōnscrīpserat==, 
@@ -46,12 +46,22 @@ Marcum Crassum quaestorem
 	quī sub imperiō Ambiorīgis et Catuvolcī erant, 
 **mīsit.**
 
-⑤ īs mīlitibus Quintum Titūrium Sabīnum et Lucium Aurunculēium Cottam lēgātōs praeesse iussit. 6. Ad hunc modum distribūtīs legiōnibus, facillimē inopiae frūmentāriae sēsē medērī posse exīstimāvit. 7. Atque hārum tamen omnium legiōnum hīberna praeter eam, quam Luciō Rōsciō in pācātissimam et quiētissimam partem dūcendam dederat, mīlibus passuum centum continēbantur. 8. Ipse intereā, quoad legiōnēs collocātās mūnītaque hīberna cōgnōvisset, in Galliā morārī cōnstituit.
+⑤ īs mīlitibus Quintum Titūrium Sabīnum et Lucium Aurunculēium Cottam lēgātōs praeesse **iussit**. 
+
+⑥ \[Ad hunc modum] \[distribūtīs legiōnibus], 
+\[facillimē] inopiae frūmentāriae sēsē ==medērī== posse **exīstimāvit**. 
+
+⑦ Atque (hārum \[tamen] omnium legiōnum) hīberna \[==praeter== eam], 
+	<= quam Luciō Rōsciō \[in ==pācātissimam== et quiētissimam partem dūcendam] dederat, 
+mīlibus passuum centum ==continēbantur==. 
+
+⑧ Ipse intereā, ==quoad== (legiōnēs collocātās mūnītaque hīberna) cōgnōvisset, in Galliā morārī cōnstituit.
+
 ## 英文翻译
 XXIV
 ① After ships had been drawn ashore and the meeting of the Samarobrivian Gauls carried out, 
-because in that year the river in Gaul flew narrow due to drought, 
-(the meeting) was hold otherwise than previous years, (?)
+because in that year ~~the river in Gaul flew narrow~~ ***the grains of Gaul had turned out to be scanty*** due to drought, 
+~~(the meeting) was hold~~ ***He was forced*** otherwise than previous years, (?)
 when 
 Caesar ordered to assemble the army in winter camps, 
 and the legions to scatter into multiple communities. 
@@ -62,15 +72,21 @@ the third he gave to Lucius Roscio, to be led to the Esubii,
 and the fourth he ordered to winter among the Remi with Titus and Labienus within the boarder of the Treveri. 
 
 He stationed three among the Belgae: 
-③ to them he sent Marcus Crassus the quaestor, Lucius Munatius Plancus and Gaius Trebonius as legates beforehand. 
+③ to them he ~~sent~~ ***placed in command*** Marcus Crassus the quaestor, Lucius Munatius Plancus and Gaius Trebonius as legates ~~beforehand~~. 
 
 ④ He sent to the Eburones one legion, 
 which was newly conscripted from across the Po, 
 and 5 cohorts, a large part of whom is between the Rhine and the Meuse, who were under the power of the Ambioriges and the Catuvolci. 
 
+⑤ He ordered the legates Quintus Titurius Sabinus and Lucius Aurunculeius Cotta to command these soldiers. 
+⑥ With the legions scattered in this way, he judged that the need of grain would be able to be alleviated easily. 
 
+⑦ And still, the winter camps of all of the soldiers, 
+except the one legion he gave to Lucius Roscius to lead to the most peaceful and tranquil regions, 
+were confined to 1000 miles. 
 
-
+⑧ And meanwhile, ~~as long as~~ ***until*** he had seen to it that the legions had been assembled and the winter camps were established, 
+he decided to linger in Gaul. 
 
 ## 词汇积累
 
