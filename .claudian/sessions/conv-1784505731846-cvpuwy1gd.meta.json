@@ -4,8 +4,8 @@
   "title": "Create blank subjunctive mood note",
   "titleGenerationStatus": "success",
   "createdAt": 1784505731846,
-  "updatedAt": 1784515326972,
-  "lastResponseAt": 1784515326972,
+  "updatedAt": 1784518549867,
+  "lastResponseAt": 1784518549867,
   "sessionId": "a4f90a46-b3ea-4a77-8d11-71a055b010bc",
   "selectedModel": "opus",
   "providerState": {
@@ -13,12 +13,12 @@
   },
   "usage": {
     "model": "opus",
-    "inputTokens": 409,
+    "inputTokens": 366,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 61440,
+    "cacheReadInputTokens": 64000,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 61849,
-    "percentage": 31
+    "contextTokens": 64366,
+    "percentage": 32
   }
 }
