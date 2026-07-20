@@ -4,22 +4,21 @@
   "title": "Review English translation",
   "titleGenerationStatus": "success",
   "createdAt": 1784540452830,
-  "updatedAt": 1784542247166,
-  "lastResponseAt": 1784542247166,
+  "updatedAt": 1784544070784,
+  "lastResponseAt": 1784544070784,
   "sessionId": "9794efc1-3364-43b0-98ae-3b2d66bd8447",
   "selectedModel": "opus",
   "providerState": {
     "providerSessionId": "9794efc1-3364-43b0-98ae-3b2d66bd8447"
   },
-  "currentNote": "Areas/语言/拉丁语/笔记/Collage Caesar 精读/Note - Day 4 Class 18.md",
   "usage": {
     "model": "opus",
-    "inputTokens": 724,
+    "inputTokens": 1297,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 32512,
+    "cacheReadInputTokens": 116096,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 33236,
-    "percentage": 17
+    "contextTokens": 117393,
+    "percentage": 59
   }
 }

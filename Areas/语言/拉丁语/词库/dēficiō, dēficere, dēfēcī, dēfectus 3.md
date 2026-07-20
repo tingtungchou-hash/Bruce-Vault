@@ -23,7 +23,7 @@ status: seedling
 ## 关联词汇
 - [[faciō, facere, fēcī, factus 3]] — to do, make (词根)
 - [[cōnficiō, cōnficere, cōnfēcī, cōnfectus 3]] — to finish, exhaust
-- [[afficiō, afficere, affēcī, affectus 3]] — to affect, influence
+- [[afficiō, afficere, affēcī, affectus 3.]] — to affect, influence
 - [[dēfectiō, -ōnis f.]] — desertion, revolt, failure
 - [[dēfectus, -ūs m.]] — failure, eclipse (如日/月食)
 

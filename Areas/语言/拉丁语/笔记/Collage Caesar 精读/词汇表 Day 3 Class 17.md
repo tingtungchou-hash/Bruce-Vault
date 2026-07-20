@@ -11,7 +11,7 @@ status: seedling
 
 1. [[commūnicō, commūnicāre, commūnicāvī, commūnicātus 1.|commūnicō]] — 共享、合并、交流 (1, cum + mūnus; + cum + abl.)
 2. ★ [[constō, constāre, constitī, constātus 1.|constō]] — 公认、确知; 由……组成 (1, con- + stō; impers. constat + acc. + inf.)
-3. ★ [[occultō, occultāre, occultāvī, occultātus 1|occultō]] — 隐藏、藏匿、掩盖 (1, 源自 occulō)
+3. ★ [[occultō, occultāre, occultāvī, occultātus 1.|occultō]] — 隐藏、藏匿、掩盖 (1, 源自 occulō)
 4. [[exīstimō, exīstimāre, exīstimāvī, exīstimātus 1.|exīstimō]] — 认为、判断、评估 (1, ex- + aestimō; 被动 "被视为")
 5. [[accipiō, accipere, accēpī, acceptus 3.|accipiō]] — 接收、接受、获知 (3, ad- + capiō)
 6. [[dīligō, dīligere, dīlēxī, dīlēctus 3.|dīligō]] — 钟爱、器重、珍视 (3, dī(s)- + legō)
