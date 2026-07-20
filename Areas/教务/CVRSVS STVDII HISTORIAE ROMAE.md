@@ -110,7 +110,7 @@
 - [ ] 古希腊罗马史（2）
 - [ ] 古代东方文明/中世纪欧洲史（2）
 - [ ] 欧洲史（3）
-- [ ] 美国史（2）
+- [ ] 拉丁美洲史（2）
 - [x] [外国历史文选（上）](http://sims.pku.edu.cn/bkxjTeaching/edu/pku/stu/teaching/bkxj/jpf/courseBK/getCourseDetail.do?course_seq_no=bkkc201400237053&kclx=BK)）（2）
 - [x] [欧美近现代史练习](http://sims.pku.edu.cn/bkxjTeaching/edu/pku/stu/teaching/bkxj/jpf/courseBK/getCourseDetail.do?course_seq_no=bkkc202000462023&kclx=BK)（2）
 ### 选修课 
