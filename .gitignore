@@ -15,6 +15,11 @@
 # PDF reference files (too large for git, downloadable)
 *.pdf
 
+# Large data files (don't track in git, too big)
+Resources/lewis-short-json-master/
+.obsidian/plugins/*/main.js
+EtymologicalDictionaryLatin-1.0/
+
 # System files
 Thumbs.db
 .DS_Store
