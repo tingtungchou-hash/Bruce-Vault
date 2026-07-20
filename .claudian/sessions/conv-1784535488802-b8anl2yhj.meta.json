@@ -1,0 +1,24 @@
+{
+  "id": "conv-1784535488802-b8anl2yhj",
+  "providerId": "claude",
+  "title": "Fill selections and create daily note",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784535488803,
+  "updatedAt": 1784536971537,
+  "lastResponseAt": 1784535781165,
+  "sessionId": "c4f487e2-07cc-4d08-b685-17553e048f42",
+  "selectedModel": "opus",
+  "providerState": {
+    "providerSessionId": "c4f487e2-07cc-4d08-b685-17553e048f42"
+  },
+  "usage": {
+    "model": "opus",
+    "inputTokens": 125,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 50048,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 50173,
+    "percentage": 25
+  }
+}

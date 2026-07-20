@@ -14,4 +14,5 @@ status: seedling
 | --------- | --- | ------------------------- | ---------------------- | ----------- |
 | 2026/7/17 | 15  | [[Note - Day 1 Class 15]] | [[词汇表 Day 1 Class 15]] | BG VI.15-17 |
 | 2026/7/18 | 16  | [[Note - Day 2 Class 16]] | [[词汇表 Day 2 Class 16]] | BG VI.17-18 |
-| 2026/7/19 | 17  | [[Note - Day 3 Class 17]] | [[词汇表 Day 3 Class 17]] |             |
+| 2026/7/19 | 17  | [[Note - Day 3 Class 17]] | [[词汇表 Day 3 Class 17]] | BG VI.19-20  |
+| 2026/7/20 | 18  | [[Note - Day 4 Class 18]] | [[词汇表 Day 4 Class 18]] | BG V.24     |
