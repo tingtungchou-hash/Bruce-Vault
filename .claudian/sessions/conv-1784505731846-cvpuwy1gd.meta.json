@@ -4,8 +4,8 @@
   "title": "Create blank subjunctive mood note",
   "titleGenerationStatus": "success",
   "createdAt": 1784505731846,
-  "updatedAt": 1784507756005,
-  "lastResponseAt": 1784507756005,
+  "updatedAt": 1784512086261,
+  "lastResponseAt": 1784512086261,
   "sessionId": "a4f90a46-b3ea-4a77-8d11-71a055b010bc",
   "selectedModel": "opus",
   "providerState": {
@@ -14,12 +14,12 @@
   "currentNote": "Areas/语言/法语/笔记/速成法语/Note - 速成法语 - 孙凯.md",
   "usage": {
     "model": "opus",
-    "inputTokens": 182,
+    "inputTokens": 391,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 48384,
+    "cacheReadInputTokens": 55936,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 48566,
-    "percentage": 24
+    "contextTokens": 56327,
+    "percentage": 28
   }
 }
