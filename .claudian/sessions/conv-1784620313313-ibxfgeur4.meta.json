@@ -1,0 +1,25 @@
+{
+  "id": "conv-1784620313313-ibxfgeur4",
+  "providerId": "claude",
+  "title": "Check English translation",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784620313313,
+  "updatedAt": 1784621673247,
+  "lastResponseAt": 1784621673247,
+  "sessionId": "b709f76d-dedc-4429-a077-5a1dee650fd1",
+  "selectedModel": "opus",
+  "providerState": {
+    "providerSessionId": "b709f76d-dedc-4429-a077-5a1dee650fd1"
+  },
+  "currentNote": "Areas/语言/拉丁语/笔记/Collage Caesar 精读/Note - Day 5 Class 19.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 25,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 113920,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 113945,
+    "percentage": 57
+  }
+}

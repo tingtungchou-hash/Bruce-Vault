@@ -10,12 +10,20 @@ status: seedling
 
 ## 动词
 
+- ★ [[vereor, verērī, veritus sum 2. (dep.)]] — to fear, revere
+- ★ [[orior, orīrī, ortus sum 4. (dep.)]] — to rise, arise
+- ★ [[pertineō, pertinēre, pertinuī, (pertentus) 2.]] — to stretch out; pertain to, concern
 
 ## 名词
 
+- ★ [[manus, -ūs f.]] — hand; band of men, armed force
 
 ## 形容词
 
+## 副词 / 介词 / 习语
 
-## 副词 / 介词
-
+- [[circiter (adv.)]] — about, approximately
+- [[palam (adv. & prep. + abl.)]] — openly, publicly
+- [[interim (adv.)]] — meanwhile
+- ★ [[praestō (adv.)]] — at hand, ready (esp. *praesto esse* + dat.)
+- ★ [[certior fīō (idiom)]] — to be informed (*certior fieri*)
