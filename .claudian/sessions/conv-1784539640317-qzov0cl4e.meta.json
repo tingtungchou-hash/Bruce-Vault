@@ -4,8 +4,8 @@
   "title": "Diagnose typing input lag",
   "titleGenerationStatus": "success",
   "createdAt": 1784539640317,
-  "updatedAt": 1784540429185,
-  "lastResponseAt": 1784540023268,
+  "updatedAt": 1784616372617,
+  "lastResponseAt": 1784616372617,
   "sessionId": "e00b18df-183e-4c0e-8118-1632710534a5",
   "selectedModel": "opus",
   "providerState": {
@@ -14,12 +14,12 @@
   "currentNote": "Areas/语言/拉丁语/笔记/Collage Caesar 精读/Note - Day 4 Class 18.md",
   "usage": {
     "model": "opus",
-    "inputTokens": 484,
+    "inputTokens": 20,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 43904,
+    "cacheReadInputTokens": 58240,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 44388,
-    "percentage": 22
+    "contextTokens": 58260,
+    "percentage": 29
   }
 }

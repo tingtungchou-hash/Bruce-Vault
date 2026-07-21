@@ -1,0 +1,25 @@
+{
+  "id": "conv-1784615840134-9ck785845",
+  "providerId": "claude",
+  "title": "Create daily note: day 5 class 19",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784615840135,
+  "updatedAt": 1784616013805,
+  "lastResponseAt": 1784615890445,
+  "sessionId": "4e7f942d-196c-4827-877c-62bb5de123da",
+  "selectedModel": "opus",
+  "providerState": {
+    "providerSessionId": "4e7f942d-196c-4827-877c-62bb5de123da"
+  },
+  "currentNote": "Areas/语言/拉丁语/笔记/Collage Caesar 精读/College Caesar 精读.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 456,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 32128,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 32584,
+    "percentage": 16
+  }
+}
