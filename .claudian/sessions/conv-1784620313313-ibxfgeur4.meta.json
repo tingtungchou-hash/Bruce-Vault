@@ -4,8 +4,8 @@
   "title": "Check English translation",
   "titleGenerationStatus": "success",
   "createdAt": 1784620313313,
-  "updatedAt": 1784621673247,
-  "lastResponseAt": 1784621673247,
+  "updatedAt": 1784622909681,
+  "lastResponseAt": 1784622909681,
   "sessionId": "b709f76d-dedc-4429-a077-5a1dee650fd1",
   "selectedModel": "opus",
   "providerState": {
@@ -14,12 +14,12 @@
   "currentNote": "Areas/语言/拉丁语/笔记/Collage Caesar 精读/Note - Day 5 Class 19.md",
   "usage": {
     "model": "opus",
-    "inputTokens": 25,
+    "inputTokens": 1398,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 113920,
+    "cacheReadInputTokens": 114304,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 113945,
-    "percentage": 57
+    "contextTokens": 115702,
+    "percentage": 58
   }
 }

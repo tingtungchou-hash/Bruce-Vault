@@ -91,7 +91,7 @@ XXVI
 the beginning of sudden uproar and rebellion was raised by Ambiorix and Catuvolcus.  
 
 ② who, after the Romans had been at hand for Sabinus and Cotta to the borders of their own kingdom, and after they had transported the supplies together into winter camps, 
-Indutiomarus of the Treveri, incited by their anouncements, stirred up his men, and suddenly with ~~their~~ ***the (Roman)*** wood-cutters crashed, went with a large army to the camps (of the Romans) in order to launch an attack.  
+urged Indutiomarus of the Treveri, incited by their anouncements, stirred up his men, and suddenly with ~~their~~ ***the (Roman)*** wood-cutters crashed, went with a large army to the camps (of the Romans) in order to launch an attack.  
 
 ③ After our men had quickly picked up their arms, crossed the stake and, with the Spanish cavalry released from one part, our men had been triumphant in a equestrian battle, the enemies retreated from the offensive, with their attempt frustrated. 
 
