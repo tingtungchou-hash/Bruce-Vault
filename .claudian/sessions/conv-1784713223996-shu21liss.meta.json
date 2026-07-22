@@ -1,0 +1,22 @@
+{
+  "id": "conv-1784713223996-shu21liss",
+  "providerId": "claude",
+  "title": "Create daily note and vocabulary list",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784713223996,
+  "updatedAt": 1784713434044,
+  "lastResponseAt": 1784713260581,
+  "sessionId": null,
+  "selectedModel": "haiku",
+  "currentNote": "Areas/语言/拉丁语/笔记/Collage Caesar 精读/College Caesar 精读.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 54,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 35072,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 35126,
+    "percentage": 18
+  }
+}
