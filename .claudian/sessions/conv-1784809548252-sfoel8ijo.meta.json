@@ -1,0 +1,25 @@
+{
+  "id": "conv-1784809548252-sfoel8ijo",
+  "providerId": "claude",
+  "title": "Review translation gently",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784809548252,
+  "updatedAt": 1784811489385,
+  "lastResponseAt": 1784811489385,
+  "sessionId": "704d863e-98c8-4c46-a98b-4cf01813f378",
+  "selectedModel": "opus",
+  "providerState": {
+    "providerSessionId": "704d863e-98c8-4c46-a98b-4cf01813f378"
+  },
+  "currentNote": "Areas/语言/拉丁语/笔记/Collage Caesar 精读/Note - Day 6 Class 20.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 101,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 103168,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 103269,
+    "percentage": 52
+  }
+}
