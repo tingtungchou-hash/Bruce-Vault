@@ -4,8 +4,8 @@
   "title": "Create Caesar reading note for today",
   "titleGenerationStatus": "success",
   "createdAt": 1784713451996,
-  "updatedAt": 1784713575139,
-  "lastResponseAt": 1784713575139,
+  "updatedAt": 1784722508349,
+  "lastResponseAt": 1784722508349,
   "sessionId": "beac2968-088c-4a72-bff3-d7d26bd1b4c7",
   "selectedModel": "opus",
   "providerState": {
@@ -14,12 +14,12 @@
   "currentNote": "Areas/语言/拉丁语/笔记/Collage Caesar 精读/College Caesar 精读.md",
   "usage": {
     "model": "opus",
-    "inputTokens": 238,
+    "inputTokens": 1552,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 32128,
+    "cacheReadInputTokens": 32512,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 32366,
-    "percentage": 16
+    "contextTokens": 34064,
+    "percentage": 17
   }
 }

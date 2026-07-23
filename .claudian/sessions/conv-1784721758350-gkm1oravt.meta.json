@@ -1,0 +1,584 @@
+{
+  "id": "conv-1784721758350-gkm1oravt",
+  "providerId": "claude",
+  "title": "Update master vocabulary list",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784721758350,
+  "updatedAt": 1784722466231,
+  "lastResponseAt": 1784722271879,
+  "sessionId": "3c32d27a-aef2-4c11-8f22-f23013a3c61d",
+  "selectedModel": "opus",
+  "providerState": {
+    "providerSessionId": "3c32d27a-aef2-4c11-8f22-f23013a3c61d",
+    "subagentData": {
+      "call_00_GHRM7XniH9boFiJebbSL6030": {
+        "id": "call_00_GHRM7XniH9boFiJebbSL6030",
+        "description": "Read word card batch 1 (A-F)",
+        "prompt": "Read the following Latin word card files and extract for each: the headword (first line/heading), grammatical info, and a very short Chinese or English gloss (one line summary). Return results as a structured list.\n\nFiles to read (absolute paths):\n1. D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\prō (prep. + abl.).md\n2. D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\afficiō, afficere, affēcī, affectus 3..md\n3. D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\bonum, -ī n..md\n4. D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\bona, -ōrum n. pl..md\n5. D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\veniō, venīre, vēnī, ventus 4..md\n6. D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\videō, vidēre, vīdī, vīsus 2..md\n7. D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\dōs, dōtis f..md\n8. D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\falsus, -a, -um adj..md\n9. D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\frūctus, -ūs m..md\n10. D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\cor, cordis n..md\n11. D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\cōgō, cōgere, coēgī, coāctus 3..md\n12. D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\commūnicō, commūnicāre, commūnicāvī, commūnicātus 1..md\n13. D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\comperiō, comperīre, comperī, compertus 4..md\n14. D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\conveniō, convenīre, convēnī, conventus 4..md\n15. D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\dēcēdō, dēcēdere, dēcessī, dēcessus 3..md\n16. D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\concēdō, concēdere, concessī, concessus 3..md\n17. D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\constō, constāre, constitī, constātus 1..md\n18. D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\exīstimō, exīstimāre, exīstimāvī, exīstimātus 1..md\n19. D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\accipiō, accipere, accēpī, acceptus 3..md\n20. D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\dīligō, dīligere, dīlēxī, dīlēctus 3..md\n\nFor each file, output format:\n```\nHEADWORD | GRAMMATICAL INFO | GLOSS\n```\nExample: `amplus, -a, -um | adj. 一/二变格 | 显赫的、尊贵的、大的`\n",
+        "mode": "async",
+        "isExpanded": false,
+        "status": "completed",
+        "toolCalls": [
+          {
+            "id": "call_00_QKRwMkkfVnFsL2Cq1eCD5412",
+            "name": "Read",
+            "input": {
+              "file_path": "D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\prō (prep. + abl.).md"
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "1\t---\n2\tcreated: 2026-07-17\n3\tlanguage: 拉丁语\n4\ttags: [vocabulary, language/latin]\n5\tstatus: seedling\n6\t---\n7\t\n8\t# prō (prep. + abl.)\n9\t\n10\t## 基本信息\n11\t- **语言**: 拉丁语\n12\t- **词性**: prep. + abl.\n13\t- **词源**: 来自 [[Resources/lewis-short-json-master/ls_P.json|Lewis & Short]]: 与梵语 *pra*- (在前)、希腊语 πρό、拉丁语 *prae*、*prior*、*priscus* 同源。原始义为\"在前\"\n14\t\n15\t## 释义\n16\t1. before, in front of (空间)\n17\t2. on behalf of, in defense of, for the benefit of (代表/保护)\n18\t3. in place of, instead of (替代)\n19\t4. in exchange for, in return for (交换)\n20\t5. according to, in proportion to, as (比例)\n21\t6. on account of (原因/为了)\n22\t\n23\t## 关联词汇\n24\t- [[prō-]] — 作为前缀的 prō-(在...之前、向前)\n25\t- [[proelium, -ī n.]] — battle (< prō + *ol- 走出)\n26\t- [[proelium, -ī n.]] — battle (pro- + *ol-)\n27\t- [[profectus, -a, -um]] — advanced, matured\n28\t- [[prae]] (prep.) — before, in front (同根词)\n29\t\n30\t## 复习提示\n31\t"
+          },
+          {
+            "id": "call_01_oXvJl2zb3hX7JPteKTFT9591",
+            "name": "Read",
+            "input": {
+              "file_path": "D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\afficiō, afficere, affēcī, affectus 3..md"
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "1\t---\n2\tcreated: 2026-07-17\n3\tlanguage: 拉丁语\n4\ttags: [vocabulary, language/latin]\n5\tstatus: seedling\n6\t---\n7\t\n8\t# afficiō, afficere, affēcī, affectus 3\n9\t\n10\t## 基本信息\n11\t- **语言**: 拉丁语\n12\t- **词性**: v. 3 (ad- + faciō 复合词)\n13\t- **词源**: ad \"向\" + faciō \"做\"；字面义为\"对某人做某事\"，见 [[Resources/lewis-short-json-master/ls_A.json|Lewis & Short]]\n14\t\n15\t## 释义\n16\t1. to affect, influence (acc. + abl. of manner) — 对身心施加影响\n17\t\t1. quī sunt adfectī graviōribus morbīs [[collegecaesar.14jan25.pdf#page=50&selection=110,0,125,1|Caesar]]\n18\t2. to treat, handle (以某种方式对待)\n19\t3. to manage, accomplish\n20\t4. to weaken, exhaust (affectus 作分词)\n21\t\n22\t## 关联词汇\n23\t- [[faciō, facere, fēcī, factus 3]] — to do, make (词根)\n24\t- [[affectus, -ūs m.]] — state of mind, emotion, affection\n25\t- [[cōnficiō, cōnficere, cōnfēcī, cōnfectus 3]] — to finish, exhaust\n26\t- [[perficiō, perficere, perfēcī, perfectus 3]] — to accomplish, perfect\n27\t\n28\t## 复习提示\n29\t\n30\t"
+          },
+          {
+            "id": "call_02_h4H3TWKyHKH3GNlXedWr2651",
+            "name": "Read",
+            "input": {
+              "file_path": "D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\bonum, -ī n..md"
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "1\t---\n2\tcreated: 2026-07-19\n3\tlanguage: 拉丁语\n4\ttags: [vocabulary, language/latin]\n5\tstatus: seedling\n6\t---\n7\t\n8\t# bonum, -ī n.\n9\t\n10\t## 基本信息\n11\t- **语言**: 拉丁语\n12\t- **词性**: n. n. (第二变格) [bonum 的名词化用法]\n13\t- **词源**: bonus (好的) 的名词化中性形式\n14\t\n15\t## 释义\n16\t\n17\t## 关联词汇\n18\t\n19\t\n20\t## 复习提示\n21\t\n22\t"
+          },
+          {
+            "id": "call_03_DgbDt4mtiMTLuMxzPDMs5458",
+            "name": "Read",
+            "input": {
+              "file_path": "D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\bona, -ōrum n. pl..md"
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "1\t---\n2\tcreated: 2026-07-19\n3\tlanguage: 拉丁语\n4\ttags: [vocabulary, language/latin]\n5\tstatus: seedling\n6\t---\n7\t\n8\t# bona, -ōrum n. pl.\n9\t\n10\t## 基本信息\n11\t- **语言**: 拉丁语\n12\t- **词性**: n. pl. (第二变格，中性复数，名词化用法)\n13\t- **词源**: 源自形容词 *bonus, -a, -um* (好的); 中性复数名词化 = \"好的东西\" → 财产、财物\n14\t- **注意**: 单数 *bonum, -ī n.* 通常指\"善/好事/好处\"，**复数** *bona* 才指\"财产\"\n15\t\n16\t## 释义\n17\t\n18\t1. goods, property, possessions, wealth (经典通用义)\n19\t   a. *ex suīs bonīs* — 从自己的财产中 (见 Caes. *B.G.* 6.19 — **本课用法**)\n20\t   b. *bona patria* — 祖产\n21\t   c. *bona pūblicāre* — 没收财产\n22\t   d. *bona alicuius possidēre* — 占有某人的财产\n23\t   e. *bonīs multāre* — 处以没收财产的惩罚\n24\t\n25\t2. (引申) advantages, benefits\n26\t   a. *bona animī* — 灵魂之善/精神财富\n27\t\n28\t## 关联词汇\n29\t- [[bonus, -a, -um]] (源形容词)\n30\t- [[pecūnia, -ae f.]] (金钱——近义词)\n31\t- [[rēs familiāris]] (家产——近义短语)\n32\t\n33\t## 复习提示\n34\t- 核心区分：单数 bonum = 抽象\"善\"，复数 bona = 具体\"财产\"\n35\t- 常见搭配：*ex suīs bonīs* (用自己的财产)、*bona et fortūnae* (财产与好运)\n36\t"
+          },
+          {
+            "id": "call_04_8Y4oJ77TT5eITTjAUF1r1734",
+            "name": "Read",
+            "input": {
+              "file_path": "D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\veniō, venīre, vēnī, ventus 4..md"
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "1\t---\n2\tcreated: 2026-07-19\n3\tlanguage: 拉丁语\n4\ttags: [vocabulary, language/latin]\n5\tstatus: seedling\n6\t---\n7\t\n8\t# veniō, venīre, vēnī, ventus 4.\n9\t\n10\t## 基本信息\n11\t- **语言**: 拉丁语\n12\t- **词性**: v. n. (第四变位)\n13\t- **词源**: 对应希腊语 βαίνω, 梵语 gam-, 英语 come\n14\t\n15\t## 释义\n16\t\n17\t1. Fut. venibo, Pompon. ap. Non. 508, 23; imperf. venibat, Ter. Phorm. 4, 3, 47; gen. plur, part. sync. venientum, Verg. G. 4, 167; id. A. 1, 434; 6, 755),  Sanscr. root gā, go; Zend root gā, gam, go; Gr. ΒΑ-, βαίνω; Lat. ar-biter, venio; Goth. quiman; O. H. Germ. quëman, koman; Engl. come; v. Georg Curtius Gr. Etym. p. 466, to come (cf. accedo).\n18\t\n19\t2. Lit.: nunc, cujus jussu venio et quam ob rem venerim, Dicam, etc.,Plaut. Am. prol. 17: veni, vidi, vici,Suet. Caes. 37: imus, venimus, videmus. Ter. Phorm. 1, 2, 53: maritimus hostis ante adesse potest quam quisquam venturum esse suspicari queat, etc.,Cic. Rep. 2, 3, 6: venio ad macellum,Plaut. Aul. 2, 8, 3: ut veni ad urbem, etc.,Cic. Fam. 16, 12, 2: cupio, te ad me venire,id. ib. 16, 10, 1; Plaut. As. 2, 4, 2: mihi si spatium fuerit in Tusculanum veniendi,Cic. Fam. 9, 5, 3: Cato ... cum venerat ad se in Sabinos,had come home,id. Rep. 3, 28, 40: quia nudius quartus venimus in Cariam ex Indiā,Plaut. Curc. 3, 68: sexto die Delum Athenis venimus,Cic. Att. 5, 12, 1: Italiam fato profugus, Laviniaque venit Litora,Verg. A. 1, 2: tumulum antiquae Cereris sedemque sacratam Venimus,id. ib. 2, 743 (cf. devenio): vin' ad te ad cenam veniam,Plaut. Stich. 3, 2, 30: mercator venit huc ad ludos,id. Cist. 1, 3, 9: homo ad praetorem deplorabundus venit,id. Aul. 2, 4, 38: neque ego te derisum venio neque derideo,id. ib. 2, 2, 46: ad istum emptum venerunt illum locum senatorium,Cic. Verr. 2, 2, 50, § 124.—With inf.: parasitus modo venerat aurum petere,Plaut. Bacch. 4, 3, 18: non nos Libycos populare penates Venimus,Verg. A. 1, 528.— Of inanimate subjects: navis huc ex portu Persico Venit,Plaut. Am. 1, 1, 249: denique in os salsi venit umor saepe saporis, Cum mare vorsamur propter,Lucr. 4, 220: (aër) Per patefacta venit penetratque foramina,id. 4, 891: (speculi imago) Dum venit ad nostras acies,id. 4, 279: sub aspectum venire,Cic. de Or. 2, 87, 358: in conspectu,Caes. B. C. 2, 27: in conspectum,Hirt. B. G. 8, 48; Cic. Fin. 1, 7, 24: muliebris vox mihi ad aures venit,Plaut. Rud. 1, 4, 13; in Italiā te moraturum, dum tibi litterae meae veniant,reaches you,Cic. Fam. 11, 24, 2: hereditas unicuique nostrum venit, comes, i. e. descends to each of us, id. Caecin. 26, 74; cf.: hic Verres hereditatem sibi venisse arbitratus est, quod in ejus regnum ac manus venerat is, quem, etc.,Cic. Verr. 2, 4, 27, § 62: hic segetes, illic veniunt felicius uvae, come forth, i. e. grow, Verg. G. 1, 54; so, arbores sponte suā,id. ib. 2, 11; 2, 58; Prop. 1, 2, 10.\n20\t\n21\t3. Impers. pass., we, they, etc., came or have come, etc.: Lilybaeum venitur,Cic. Verr. 2, 5, 54, § 141: ad me ventum est, it has fallen to me, id Quint. 1, 3: dum ad flumen Varum veniatur,Caes. B. C. 1, 87: (Galli) veniri ad se confestim existimantes, ad arma conclamant,id. B. G. 7, 70: ventum in insulam est,Cic. Leg. 2, 3, 6: ubi eo ventum est,Caes. B. G. 1, 43: ad quos ventum erat,id. ib. 2, 11; 3, 23: eo cum esset ventum,id. ib. 7, 61.\n22\t4. Trop.\n23\t\n24\t5. In gen.: vides, quo progrediente oratione venturum me puto,Cic. Rep. 1, 40, 62. ut jam a principio videndum sit, quemadmodum velis venire ad extremum orationis, id. Or. 59, 201: contra rem suam me nescio quando venisse questus est,that I appeared,id. Phil. 2, 2, 3: contra amici summam existimationem, id.  Att. 1, 1, 4: si rem nullam habebis, quod in buccam venerit, scribito,id. ib. 1, 12, 4; v. bucca: si quid in mentem veniet,id. ib. 12, 36, 1.—So in Cic. with nom. only of neutr. pron. or res; but freq. impers. with gen.: cum matronarum ac virginum veniebat in mentem,when I thought of,Cic. Sull. 6, 19: venit enim mihi in mentem oris tui,id. Rosc. Am. 34, 95; id. Sull. 14, 38; v. also mens, II. B. fin. and the passages there cited: oratorum laus ita ducta ab humili venit ad summum, ut, etc.,id. Tusc. 2, 2, 5: prava ex falsis opinionibus veniunt,Quint. 5, 10, 34: vitium pejus, quod ex inopiā, quam quod ex copiā venit,id. 2, 4, 4: non omne argumentum undique venit,id. 5, 10, 21.—With dat.: existimabunt majus commodum ex otio meo quam ex aliorum negotiis reipublicae venturum,Sall. J. 4, 4; 8, 2: ubi ea dies, quam constituerat cum legatis, venit,Caes. B. G. 1, 8; so, dies,id. ib. 7, 3: tempus victoriae,id. ib. 7, 66; cf.: suum tempus eorum laudi,Quint. 3, 1, 21: non sumus omnino sine curā venientis anni,for the coming year,Cic. Q. Fr. 3, 4, 4: exemplum trahens Perniciem veniens in aevum,Hor. C. 3, 5, 16: veniens aetas,the future,Ov. F. 6, 639.—Of events, to come, i. e. to happen: quod hodie venit,Tac. A. 14, 43.\n25\t   a. Venire in aliquid (rarely ad aliquid; v.infra), to come into, fall into any state or condition (so esp. freq.): venisse alicui in amicitiam, to have obtained one's friendship or alliance, Caes. B. G. 6, 5, 4: in calamitatem,Cic. Rosc. Am. 17, 49: in cognitionem alicujus,Quint. 7, 2, 20: in consuetudinem,Cic. Caecin. 2, 6; cf.: quaedam in consuetudinem ex utilitatis ratione venerunt,id. Inv. 2, 53, 160: in proverbii consuetudinem,id. Off. 2, 15, 55.—Of a personal subject: (milites) qui in consuetudinem Alexandrinae vitae venerant,Caes. B. C. 3, 110: ut non solum hostibus in contemptionem Sabinus veniret, sed, etc.,had fallen into contempt,id. B. G. 3, 17: in contentionem, etc.,Cic. Div. 2, 63, 129: si falso venisses in suspitionem, P. Sestio,id. Vatin. 1, 2: summum in cruciatum,Caes. B. G. 1, 31: aut in controversiam aut in contentionem,Quint. 3, 6, 44: in discrimen,Cic. Rosc. Am. 6, 16: in dubium,id. Quint. 2, 5: in alicujus fidem ac potestatem,to place one's self under the protection and in the power of a person, to surrender at discretion,Caes. B. G. 2, 13: ne in odium veniam,Cic. Fin. 2, 24, 79; cf.: Tarquinii nomen huic populo in odium venisse regium,id. Rep. 1, 40, 62: ipse illi perditae multitudini in odium acerbissimum venerit,id. Att. 10, 8, 6: in eam opinionem Cassius veniebat, Cael. ap. Cic. Fam. 8, 10, 2: in partem alicujus,to take part in it,Cic. Fam. 14, 2, 3: in periculum,Caes. B. C. 1, 17: in sermonem alicujus,i. e. to enter into conversation,Cic. Att. 14, 1, 1; and in another sense: cum loquerer cum Phaniā, veni in eum sermonem, ut dicerem, etc.,I happened to say that,id. Fam. 3, 5, 3: nonnullam in spem veneram, posse me, etc.,id. de Or. 2, 54, 217: summam in spem per Helvetios regni obtinendi venire,to entertain hopes, to hope,Caes. B. G. 1, 18.— Esp. with res as subject, the affair came to, reached the point, etc.: res proxime formam latrocinii venerat,Liv. 2, 48, 5; 2, 56, 5: res venit prope secessionem,id. 6, 42, 10. ad ultimum dimicationis rati rem venturam, id. 2, 56, 5: cum speramus eo rem venturam, ut, etc.,Hor. Ep. 2, 1, 226.—Impers.: saepe in eum locum ventum est, ut, etc.,to such a point that,Caes. B. G. 6, 43; Liv. 7, 30, 9.\n26\t\n27\t## 关联词汇\n28\t\n29\t\n30\t## 复习提示\n31\t\n32\t"
+          },
+          {
+            "id": "call_05_KkoY1yUzg9HLktLETfnL6328",
+            "name": "Read",
+            "input": {
+              "file_path": "D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\videō, vidēre, vīdī, vīsus 2..md"
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "1\t---\n2\tcreated: 2026-07-19\n3\tlanguage: 拉丁语\n4\ttags: [vocabulary, language/latin]\n5\tstatus: seedling\n6\t---\n7\t\n8\t# videō, vidēre, vīdī, vīsus 2.\n9\t\n10\t## 基本信息\n11\t- **语言**: 拉丁语\n12\t- **词性**: v. a. (第二变位)\n13\t- **词源**: 对应希腊语 ϝιδεῖν (ἰδεῖν), 梵语 vid, 英语 wit/wisdom\n14\t\n15\t## 释义\n16\t\n17\t1. Inf. viderier, Cic. Dom. 53, 136; Ter. Hec. 5, 1, 33: vidĕ,Plaut. Ps. 1, 1, 46),  and n. Sanscr. root vid-, vēda, know; vindāmi, find; cf. vēda-s, sacred book; Gr. root ἰδ, ϝιδ-, in εἶδον, saw; οἶδα, know; Germ. wissen; Engl. wit, wot, to see, perceive, with the eyes (syn. cerno).\n18\t\n19\t2. Lit.\n20\t\n21\t3. In gen.: Ph. Tun' me vidisti? Sc. Atque his quidem oculis. Ph. Carebis, credo, Qui plus vident, quam quod vident. Sc. Numquam hercle deterrebor, Quin viderim id quod viderim, Plaut. Mil. 2, 4, 15 sq.: clare oculis video,id. ib. 3, 1, 35: nos enim ne nunc quidem oculis cernimus ea, quae videmus, etc.,Cic. Tusc. 1, 20, 46; id. de Or. 3, 40, 161: Considium, quod non vidisset, pro viso sibi renuntiasse,Caes. B. G. 1, 22 fin.: mulieres et pueri qui visum processerant,Sall. J. 94, 5: ut juvat pastas oves Videre properantes domum! Videre fessos vomerem inversum boves Collo trahentes languido!Hor. Epod. 2, 62 sq.: serpentes atque videres Infernas errare canes,id. S. 1, 8, 35 et saep.—With ut and ind. (poët.): viden', ut geminae stant vertice cristae?Verg. A. 6, 779: viden' ut faces Splendidas quatiunt comas?Cat. 61, 77.—With ut and subj.: nonne vides, ut tota tremor pertemptet equorum Corpora?Verg. G. 3, 250: nonne vides ut ... Antennae gemant?Hor. C. 1, 14, 3.—Pass.: ubi sol sex mensibus continuis non videtur,Varr. R. R. 1, 2, 4: a se disertos visos esse multos,Quint. 8, praef. § 13; cf. id. 12, 1, 21: consulis ante pedes ire viderer eques,Ov. P. 4, 9, 18.— Absol., to see, i. e. to have the eyes open, to be awake, Verg. E. 6, 21.—Impers. pass.: De. Vide sis modo etiam. Ly. Visum'st, Plaut. Merc. 2, 2, 52; id. As. 3, 3, 95.\n22\t   a. Transf.\n23\t\n24\t4. Trop.\n25\t\n26\t5. In gen., to see with the mind's eye, to perceive, mark, observe, discern, understand, comprehend, be aware, know, etc. (class.; syn. percipio): ad te, ut video, comminus accessit,Cic. Att. 2, 2, 2: quem exitum ego tam video animo, quam ea, quae oculis cernimus,id. Fam. 6, 3, 2: aperte enim adulantem nemo non videt,sees through, detects,id. Lael. 26, 99: si dormientes aliquid animo videre videamur,id. Ac. 2, 40, 125: aliquid in somnis,id. N. D. 1, 29, 82: somnia,id. Div. 2, 71, 147: quod ego, cur nolim, nihil video,id. Fam. 9, 6, 2: nonne vobis videtur is animus qui plus cernat et longius, videre se ad meliora proficisci: ille autem cui obtusior est acies non videre?id. Sen. 23, 83.—With comp., plus, etc.: ut is qui illusus sit plus vidisse videatur,to have seen farther, had more insight,Cic. Lael. 26, 99: videre acutius atque acrius vitia in dicente quam recta,id. de Or. 1, 25, 116: aliena melius videre et dijudicare,Ter. Heaut. 3, 1, 97 (95): cum me vidisse plus  fateretur, se speravisse meliora, that I had seen farther, Cic. Phil. 2, 15, 39; cf.: sin autem vos plus in re publicā vidistis,id. Imp. Pomp. 22, 64; cf.: vos universos in consule deligendo plurimum vidisse fateantur,id. Agr. 2, 37, 103: di vatesque eorum in futurum vident,Liv. 6, 12.—With two accs.: quem virum Crassum vidimus,Cic. Sen. 17, 61; cf.: officiorum conjunctione me privatum videbam,id. Brut. 1, 1: cum invidiosum se propter nimias opes viderit,Just. 32, 4, 4.—With ut and ind. (poët.): nonne vides, croceos ut Tmolus odores, India mittit ebur,Verg. G. 1, 56.\n27\t   a. To look at, look to, consider, to think or reflect upon (cf.: reputo, considero): duae condiciones sunt: utram tu accipias, vide,Plaut. Bacch. 4, 9, 118: nunc ea videamus, quae contra ab his disputari solent,Cic. Ac. 2, 13, 40: id primum videamus, quātenus amor in amicitiā progredi debeat,id. Lael. 11, 36: sed videamus Herculem ipsum,id. Tusc. 2, 8, 20 Klotz ad loc.: quamobrem et haec videnda et pecuniae fugienda cupiditas,id. Off. 1, 20, 68: te moneo: videas etiam atque etiam et consideres, quid agas, quo progrediare, etc.,Cic. Verr. 2, 5, 68, § 174: legi Bruti epistolam non prudenter rescriptam: sed ipse viderit,let him see to that himself,id. Att. 12, 21, 1; so, viderit,Ov. A. A. 2, 371; id. Tr. 5, 2, 43; cf.: quam id recte faciam, viderint sapientes,Cic. Lael. 3, 10; and: quae (ars) quam sit facilis, illi viderint, qui, etc.... deinde etiam tu ipse videris, qui eam artem facilem esse dicis,id. de Or. 1, 58, 246: viderint ista officia viri boni,id. Quint. 17, 55.\n28\t\n29\t## 关联词汇\n30\t\n31\t\n32\t## 复习提示\n33\t\n34\t"
+          },
+          {
+            "id": "call_06_hCraQ3G7UK89ag3y1oAD5648",
+            "name": "Read",
+            "input": {
+              "file_path": "D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\dōs, dōtis f..md"
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "1\t---\n2\tcreated: 2026-07-19\n3\tlanguage: 拉丁语\n4\ttags: [vocabulary, language/latin]\n5\tstatus: seedling\n6\t---\n7\t\n8\t# dōs, dōtis f.\n9\t\n10\t## 基本信息\n11\t- **语言**: 拉丁语\n12\t- **词性**: f. (第三变格)\n13\t- **词源**: 源自 *dō* (to give); 字面义为\"被给出之物\" → 嫁妆\n14\t- **注意**: 属格复数常作 *dōtum* (也可 *dōtium*)\n15\t\n16\t## 释义\n17\t\n18\t1. a marriage portion, dowry (经典通用义)\n19\t   a. *dōtis nōmine* — 以嫁妆的名义 (见 Caes. *B.G.* 6.19 — **本课用法**)\n20\t   b. *dōtem dare* — 给出嫁妆\n21\t   c. *dōtem accipere* — 接收嫁妆\n22\t   d. *cum dōtibus commūnicāre* — 与嫁妆合并/共享\n23\t\n24\t2. (引申) an endowment, gift, talent, quality\n25\t   a. *dōtēs animī* — 精神禀赋/才华\n26\t   b. *dōtēs corporis* — 身体禀赋\n27\t\n28\t## 关联词汇\n29\t- [[dō, dare, dedī, datus 1.]] (词根动词——\"给予\")\n30\t- [[dōnō, dōnāre, dōnāvī, dōnātus 1.]] (赠予——近义动词)\n31\t- [[dōnum, -ī n.]] (礼物)\n32\t\n33\t## 复习提示\n34\t- 法律/社会术语，Caesar 此处记录高卢婚俗\n35\t- *dōtis nōmine* = \"以嫁妆的名义\"（nōmine + 属格 = 以……之名义）\n36\t"
+          },
+          {
+            "id": "call_07_Gj8rRfO5TZO9hZ1cPV7q1351",
+            "name": "Read",
+            "input": {
+              "file_path": "D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\falsus, -a, -um adj..md"
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "1\t---\n2\tcreated: 2026-07-19\n3\tlanguage: 拉丁语\n4\ttags: [vocabulary, language/latin]\n5\tstatus: seedling\n6\t---\n7\t\n8\t# falsus, -a, -um adj.\n9\t\n10\t## 基本信息\n11\t- **语言**: 拉丁语\n12\t- **词性**: adj. (第一/第二变格); fallō 的完成时分词作形容词\n13\t- **词源**: 源自 *fallō, fallere, fefellī, falsus* (to deceive); 字面义为\"被欺骗的\" → 虚假的\n14\t\n15\t## 释义\n16\t\n17\t1. false, deceptive, untrue, pretended, mistaken (经典通用义)\n18\t   a. *falsīs rūmōribus* — 被不实谣言 (工具夺格; 见 Caes. *B.G.* 6.20 — **本课用法**)\n19\t   b. *falsa opīniō* — 错误的看法\n20\t   c. *falsum testāmentum* — 伪造的遗嘱\n21\t   d. *falsō* (adv.) — 错误地、虚假地\n22\t\n23\t2. feigned, pretended, counterfeit\n24\t   a. *falsae lacrimae* — 假眼泪\n25\t   b. *falsum nōmen* — 假名\n26\t\n27\t## 关联词汇\n28\t- [[fallō, fallere, fefellī, falsus 3.]] (源动词——\"欺骗\")\n29\t- [[falsum, -ī n.]] (名词化: 虚假/谎言)\n30\t- [[vērus, -a, -um]] (反义词——\"真实的\")\n31\t\n32\t## 复习提示\n33\t- 完成分词作形容词：*falsus* 本义\"已被欺骗的\"，但实际用作\"虚假的\"（主动义）\n34\t- 本课搭配：*falsīs rūmōribus terrērī* = \"被不实谣言吓到\"（工具夺格表原因）\n35\t"
+          },
+          {
+            "id": "call_08_a0lFj1d6qdW4dgR9yBHU6645",
+            "name": "Read",
+            "input": {
+              "file_path": "D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\frūctus, -ūs m..md"
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "1\t---\n2\tcreated: 2026-07-19\n3\tlanguage: 拉丁语\n4\ttags: [vocabulary, language/latin]\n5\tstatus: seedling\n6\t---\n7\t\n8\t# frūctus, -ūs m.\n9\t\n10\t## 基本信息\n11\t- **语言**: 拉丁语\n12\t- **词性**: m. (第四变格)\n13\t- **词源**: 源自 *fruor, fruī, frūctus sum* (享受、享用)\n14\t\n15\t## 释义\n16\t\n17\t1. enjoyment, profit, proceeds, fruit, produce (经典通用义)\n18\t   a. *frūctūsque servantur* — 收益也被保留下来 (见 Caes. *B.G.* 6.19)\n19\t   b. *cum frūctibus superiōrum temporum* — 连同此前各期的收益 (见 Caes. *B.G.* 6.19)\n20\t   c. *frūctum percipere / capere* — 获取收益\n21\t   d. *frūctum ferre* — 产出果实/收益\n22\t\n23\t2. (引申) reward, fruit (of effort)\n24\t   a. *frūctus labōris* — 劳动成果\n25\t\n26\t## 关联词汇\n27\t- [[fruor, fruī, frūctus sum 3.dep.]] (词根动词——\"享受、享用\")\n28\t- [[frūmentum, -ī n.]] (谷物——同词根)\n29\t- [[frūgēs, -um f. pl.]] (谷物、果实——相关名词)\n30\t\n31\t## 复习提示\n32\t- 本课两见：先与 *ratiō* 并列（金融语境），后在独立夺格 *cum frūctibus* 中\n33\t- 第四变格，注意复数 *frūctūs* (nom./acc. pl.) 与单数形式相同\n34\t"
+          },
+          {
+            "id": "call_09_ZvEt5iY0OE3YctGZQnnv9551",
+            "name": "Read",
+            "input": {
+              "file_path": "D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\cor, cordis n..md"
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "1\t---\n2\tcreated: 2026-07-19\n3\tlanguage: 拉丁语\n4\ttags: [vocabulary, language/latin]\n5\tstatus: seedling\n6\t---\n7\t\n8\t# cor, cordis n.\n9\t\n10\t## 基本信息\n11\t- **语言**: 拉丁语\n12\t- **词性**: n. (第三变格)\n13\t- **词源**: PIE 词根 *ḱerd-; 对应希腊语 καρδία, 英语 heart, 梵语 hṛd\n14\t\n15\t## 释义\n16\t\n17\t1. the heart (生理器官——经典通用义)\n18\t   a. *cordis palpitātiō* — 心悸\n19\t\n20\t2. (转喻) the heart as seat of feeling, emotion; soul, mind\n21\t   a. *quae vīvīs cordī fuisse arbitrantur* — 他们认为逝者生前心爱之物 (见 Caes. *B.G.* 6.19)\n22\t   b. *cordī est alicui* — 令某人珍爱/在某人心中 (固定短语; + dat. 表对象)\n23\t   c. *corde amāre* — 发自心底地爱\n24\t   d. *cor meum tangit* — 触动我心\n25\t\n26\t3. (转喻) a person (pars pro toto, 诗歌用法)\n27\t   a. *fortissima corda* — 最勇敢的人们 (Virgil)\n28\t\n29\t## 关联词汇\n30\t- [[cordī esse]] (固定短语——\"珍爱的\")\n31\t- [[animus, -ī m.]] (心灵、精神——近义词)\n32\t- [[pectus, -oris n.]] (胸膛、心——近义词)\n33\t\n34\t## 复习提示\n35\t- 本课搭配：*cordī fuisse arbitrantur*（他们认为曾是珍爱的）；*cordī esse* = \"被珍爱\"（带与格）\n36\t- 属格 *cordis*，注意不是第二变格\n37\t"
+          },
+          {
+            "id": "call_10_vJEQ41euSlwN4bunEO4B6427",
+            "name": "Read",
+            "input": {
+              "file_path": "D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\cōgō, cōgere, coēgī, coāctus 3..md"
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "1\t---\n2\tcreated: 2026-07-20\n3\tlanguage: 拉丁语\n4\ttags: [vocabulary, language/latin]\n5\tstatus: seedling\n6\t---\n7\t\n8\t# cōgō, cōgere, coēgī, coāctus 3.\n9\t\n10\t## 基本信息\n11\t- **语言**: 拉丁语\n12\t- **词性**: v. trans. (第三变位法，-ō 型)\n13\t- **词源**: contr. from *co-agō* (con- + agō, \"to drive together\")\n14\t\n15\t## 释义\n16\t1. To drive together to one point, to collect, compress, bring together, assemble, gather\n17\t   a. Of troops: to collect, mass ( = *contrahere*)\n18\t   b. Of the senate: to call together, convene\n19\t   c. Of liquids: to thicken, condense, curdle\n20\t   d. Of places: to draw together into a narrow space\n21\t2. Trop., to urge, force, compel, constrain\n22\t   a. With *acc. + inf.*: to force (someone) to (do something)\n23\t   b. With *ut* + subj.: to compel that\n24\t   c. With *ad* + acc.: to drive toward\n25\t   d. With in + acc.: to drive into (a state)\n26\t3. (philos.) To infer, conclude logically\n27\t\n28\t## 关联词汇\n29\t- [[agō, agere, ēgī, āctus 3.]] — base verb\n30\t- [[cōgitō, cōgitāre, cōgitāvī, cōgitātus 1.]] — frequentative (\"to think\" < co-agito)\n31\t- [[cōgēns, cōgentis adj.]] — compelling, forcible\n32\t\n33\t## 复习提示\n34\t- 本课出现: `coāctus est` — \"he was forced\" (BG V.24.1)\n35\t- 常见错误: 不要把主语当成物（meeting），实际主语是 Caesar\n36\t- 与 *iubeō* 区分: *cōgō* = force (不情愿的), *iubeō* = order (有权威的)\n37\t"
+          },
+          {
+            "id": "call_11_qMjfAIkE0i5gThB8ieSY4696",
+            "name": "Read",
+            "input": {
+              "file_path": "D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\commūnicō, commūnicāre, commūnicāvī, commūnicātus 1..md"
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "1\t---\n2\tcreated: 2026-07-19\n3\tlanguage: 拉丁语\n4\ttags: [vocabulary, language/latin]\n5\tstatus: seedling\n6\t---\n7\t\n8\t# commūnicō, commūnicāre, commūnicāvī, commūnicātus 1.\n9\t\n10\t## 基本信息\n11\t- **语言**: 拉丁语\n12\t- **词性**: v. a. (第一变位)\n13\t- **词源**: 源自 *commūnis* (共同的); 字面义为\"使共享\"\n14\t\n15\t## 释义\n16\t\n17\t1. to share, divide with, communicate, impart (经典通用义; + *cum* + abl.)\n18\t   a. *cum dōtibus commūnicant* — 与嫁妆合并/共享 (见 Caes. *B.G.* 6.19 — **本课用法**)\n19\t   b. *cōnsilia cum aliquō commūnicāre* — 与某人商议\n20\t   c. *rem cum alterō commūnicāre* — 与他人分享/共同商议某事\n21\t   d. *nēve cum quō aliō commūnicet* — 也不得与任何他人分享 (见 Caes. *B.G.* 6.20 — **本课二次出现**)\n22\t\n23\t2. to make common, join, unite\n24\t   a. *commūnicāre cīvitātem cum aliquō* — 授予某人公民权\n25\t\n26\t## 关联词汇\n27\t- [[commūnis, -e]] (共同的——源形容词)\n28\t- [[mūnus, mūneris n.]] (职责、礼物——同词根)\n29\t- [[impertiō, impertīre 4.]] (分享——近义词)\n30\t\n31\t## 复习提示\n32\t- 支配：*aliquid cum aliquō commūnicāre* (事物 + cum + 人)\n33\t- 本课连用两次：① 财产合并 ② 情报共享（不得）\n34\t"
+          },
+          {
+            "id": "call_12_nE5AP111wXZEJoGX7UsC9552",
+            "name": "Read",
+            "input": {
+              "file_path": "D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\comperiō, comperīre, comperī, compertus 4..md"
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "1\t---\n2\tcreated: 2026-07-19\n3\tlanguage: 拉丁语\n4\ttags: [vocabulary, language/latin]\n5\tstatus: seedling\n6\t---\n7\t\n8\t# comperiō, comperīre, comperī, compertus 4.\n9\t\n10\t## 基本信息\n11\t- **语言**: 拉丁语\n12\t- **词性**: v. a. (第四变位)\n13\t- **词源**: *com-* + *pariō* (to bring forth); 字面义为\"完全揭示\"\n14\t\n15\t## 释义\n16\t\n17\t1. to find out with certainty, ascertain, learn, discover (经典用法; 常用于法律/调查语境)\n18\t   a. *sī compertum est* — 若被查明/确证 (见 Caes. *B.G.* 6.19 — **本课用法**; 非人称被动)\n19\t   b. *comperiō + acc. + inf.* — 确知……\n20\t   c. *ex captīvīs comperit* — 从俘虏处查明 (Caesar 常用句式)\n21\t\n22\t2. (完成分词) *compertus, -a, -um* — 被查明的、已确证的\n23\t   a. *compertum habēre* — 确有把握地知道\n24\t   b. *prō compertō pollicērī* — 确凿地承诺\n25\t\n26\t## 关联词汇\n27\t- [[reperiō, reperīre, repperī, repertus 4.]] (发现——近义词)\n28\t- [[cognōscō, cognōscere, cognōvī, cognitus 3.]] (获知——近义词)\n29\t- [[compertus, -a, -um]] (已确证的——完成分词作形容词)\n30\t\n31\t## 复习提示\n32\t- *sī compertum est* = \"若经查明属实\"（法律/调查用语；非人称被动）\n33\t- 区别于 *reperiō*（偶然发现）：*comperiō* 更有\"确证\"的权威感\n34\t"
+          },
+          {
+            "id": "call_13_gLaCmRMjeQUgdzFM819k8515",
+            "name": "Read",
+            "input": {
+              "file_path": "D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\conveniō, convenīre, convēnī, conventus 4..md"
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "1\t---\n2\tcreated: 2026-07-19\n3\tlanguage: 拉丁语\n4\ttags: [vocabulary, language/latin]\n5\tstatus: seedling\n6\t---\n7\t\n8\t# conveniō, convenīre, convēnī, conventus 4.\n9\t\n10\t## 基本信息\n11\t- **语言**: 拉丁语\n12\t- **词性**: v. intr. (> v. trans.) (第四变位)\n13\t- **词源**: *con-* + *veniō* (to come); 字面义为\"一起来/走到一起\"\n14\t\n15\t## 释义\n16\t\n17\t1. to come together, assemble, meet, convene (经典通用义)\n18\t   a. *eius propinquī conveniunt* — 他的族人聚集起来 (见 Caes. *B.G.* 6.19 — **本课用法**)\n19\t   b. *ad concilium convenīre* — 聚集开会\n20\t   c. *in ūnum locum convenīre* — 聚于一处\n21\t\n22\t2. (引申) to be agreed upon, be fitting (+ dat.)\n23\t   a. *convenit inter omnēs* — 众所公认\n24\t\n25\t3. (及物) to meet with, accost, interview\n26\t   a. *aliquem convenīre* — 会见某人\n27\t\n28\t## 关联词汇\n29\t- [[veniō, venīre, vēnī, ventus 4.]] (词根——\"来\")\n30\t- [[conventus, -ūs m.]] (集会、大会——名词形式)\n31\t- [[concilium, -ī n.]] (会议——搭配词)\n32\t\n33\t## 复习提示\n34\t- 本课用法：不及物\"聚集\"；*propinquī conveniunt* 不带宾语\n35\t- 注意：同样拼写还可表\"适合/一致\"（*convenit* + dat.），依上下文区分\n36\t"
+          },
+          {
+            "id": "call_14_sXS635o3NejbBnpOLSJc8420",
+            "name": "Read",
+            "input": {
+              "file_path": "D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\dēcēdō, dēcēdere, dēcessī, dēcessus 3..md"
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "1\t---\n2\tcreated: 2026-07-19\n3\tlanguage: 拉丁语\n4\ttags: [vocabulary, language/latin]\n5\tstatus: seedling\n6\t---\n7\t\n8\t# dēcēdō, dēcēdere, dēcessī, dēcessus 3.\n9\t\n10\t## 基本信息\n11\t- **语言**: 拉丁语\n12\t- **词性**: v. intr. (第三变位)\n13\t- **词源**: *dē-* + *cēdō* (to go, yield); 字面义为\"走开/退去\"\n14\t\n15\t## 释义\n16\t\n17\t1. to go away, depart, withdraw (经典通用义)\n18\t   a. *dē prōvinciā dēcēdere* — 离开行省\n19\t   b. *ex vītā dēcēdere* — 去世（委婉语）\n20\t\n21\t2. to depart from life, die (委婉义; Caesar 常用)\n22\t   a. *cum paterfamiliae illūstriōre locō nātus dēcessit* — 当出身显赫的家长去世时 (见 Caes. *B.G.* 6.19 — **本课用法**)\n23\t   b. *vitā dēcēdere* — 辞世\n24\t\n25\t3. to depart from, give up, yield (+ *dē* + abl.)\n26\t   a. *dē suō iūre dēcēdere* — 放弃自己的权利\n27\t   b. *dē sententiā dēcēdere* — 改变立场\n28\t\n29\t## 关联词汇\n30\t- [[cēdō, cēdere, cessī, cessus 3.]] (词根——\"走、让步\")\n31\t- [[concēdō, concēdere, concessī, concessus 3.]] (允许——相关复合词)\n32\t- [[discēdō, discēdere, discessī, discessus 3.]] (离开——近义复合词)\n33\t- [[morior, morī, mortuus sum 3.dep.]] (死——直白说法)\n34\t\n35\t## 复习提示\n36\t- 本课用委婉义\"去世\"；Caesar 常用 *dēcēdō* 而非 *morior* 来叙述死亡\n37\t- *dēcēdō* (离开/去世) vs. *discēdō* (散开/分手) vs. *concēdō* (让步/允许)\n38\t"
+          },
+          {
+            "id": "call_15_SRVSr2iwj5qhUMgn84ke0210",
+            "name": "Read",
+            "input": {
+              "file_path": "D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\concēdō, concēdere, concessī, concessus 3..md"
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "1\t---\n2\tcreated: 2026-07-19\n3\tlanguage: 拉丁语\n4\ttags: [vocabulary, language/latin]\n5\tstatus: seedling\n6\t---\n7\t\n8\t# concēdō, concēdere, concessī, concessus 3.\n9\t\n10\t## 基本信息\n11\t- **语言**: 拉丁语\n12\t- **词性**: v. intr. / v. trans. (第三变位)\n13\t- **词源**: *con-* + *cēdō* (to go, yield); 字面义为\"一起走/完全让出\"\n14\t\n15\t## 释义\n16\t\n17\t1. to go away, depart, retire, withdraw (不及物)\n18\t   a. *concĕde hinc* — 从这里走开\n19\t   b. *in hiberna concēdere* — 退入冬营\n20\t\n21\t2. to yield, grant, allow, permit (及物; 经典通用义)\n22\t   a. *loquī nōn concēditur* — 不被允许发言 (见 Caes. *B.G.* 6.20 — **本课用法**; 非人称被动)\n23\t   b. *concēdō + ut* — 允许……（结果从句）\n24\t   c. *aliquid alicui concēdere* — 将某事让与某人\n25\t\n26\t3. to depart from life, die (委婉义，罕见)\n27\t   a. *concessit superis ab oris* — 他离世而去 (Virgil)\n28\t\n29\t## 关联词汇\n30\t- [[cēdō, cēdere, cessī, cessus 3.]] (词根——\"走、让步\")\n31\t- [[dēcēdō, dēcēdere, dēcessī, dēcessus 3.]] (离开、去世——相关复合词)\n32\t- [[discēdō, discēdere, discessī, discessus 3.]] (散开——相关复合词)\n33\t- [[permittō, permittere, permīsī, permissus 3.]] (允许——近义词)\n34\t\n35\t## 复习提示\n36\t- 本课为非人称被动 *nōn concēditur*（不被允许），主语为不定式 *loquī*\n37\t- 核心义\"让步\" → \"允许\"：让步本身就意味着让出空间给他人\n38\t"
+          },
+          {
+            "id": "call_16_oXCrd4LuzC8LczGtlmDp4770",
+            "name": "Read",
+            "input": {
+              "file_path": "D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\constō, constāre, constitī, constātus 1..md"
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "1\t---\n2\tcreated: 2026-07-19\n3\tlanguage: 拉丁语\n4\ttags: [vocabulary, language/latin]\n5\tstatus: seedling\n6\t---\n7\t\n8\t# constō, constāre, constitī, constātus 1.\n9\t\n10\t## 基本信息\n11\t- **语言**: 拉丁语\n12\t- **词性**: v. intr. (第一变位); 部分义项可带 predicative dat.\n13\t- **词源**: *con-* + *stō* (to stand); 字面义为\"站在一起/站稳\" → 固定、确知\n14\t\n15\t## 释义\n16\t\n17\t1. to stand together, stand firm, be settled\n18\t   a. *causa cōnstat* — 案情确凿\n19\t\n20\t2. (**impersonal**) to be well known, be agreed, be established, be certain (经典通用义)\n21\t   a. *cōnstat inter omnēs* — 众所公认\n22\t   b. *quōs ab eīs dīlēctōs esse cōnstābat* — 那些被确认为他们所钟爱者 (见 Caes. *B.G.* 6.19)\n23\t   c. ***cōnstat + acc. + inf.*** — 众所周知……（非人称构造）\n24\t\n25\t3. to consist of, be composed of (**+ *ex* + abl**.)\n26\t   a. *cōnstat ex animō et corpore* — 由灵魂和身体组成\n27\t\n28\t4. to cost, come to (价格; + 属格/夺格)\n29\t   a. *magnō cōnstat* — 代价高昂\n30\t\n31\t## 关联词汇\n32\t- [[stō, stāre, stetī, status 1.]] (词根)\n33\t- [[cōnstāns, -antis]] (坚定的、始终如一的——现在分词)\n34\t- [[cōnstantia, -ae f.]] (坚定、恒常)\n35\t- [[cōnstat (impers.)]] (同源非人称用法)\n36\t\n37\t## 复习提示\n38\t- 本课用法为非人称义（cōnstābat + acc. + inf.），Caesar 高频句式\n39\t- 区别于 *cōnsistō* (停止、立足) —— 后者有完成时 *cōnstitī*，易混\n40\t"
+          },
+          {
+            "id": "call_17_MALxx02E9xZdKCfQioqA7434",
+            "name": "Read",
+            "input": {
+              "file_path": "D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\exīstimō, exīstimāre, exīstimāvī, exīstimātus 1..md"
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "1\t---\n2\tcreated: 2026-07-19\n3\tlanguage: 拉丁语\n4\ttags: [vocabulary, language/latin]\n5\tstatus: seedling\n6\t---\n7\t\n8\t# exīstimō, exīstimāre, exīstimāvī, exīstimātus 1.\n9\t\n10\t## 基本信息\n11\t- **语言**: 拉丁语\n12\t- **词性**: v. a. (第一变位)\n13\t- **词源**: *ex-* + *aestimō* (to value, estimate)\n14\t\n15\t## 释义\n16\t\n17\t1. to judge, consider, think, suppose (经典高频义; + acc. + inf.)\n18\t   a. *quae cīvitātēs commodius suam rem pūblicam administrāre exīstimantur* — 那些被认为治理本国事务相当好的邦社 (见 Caes. *B.G.* 6.20)\n19\t   b. *exīstimō + acc. + inf.* — 认为……（Caesar 最常用句法）\n20\t   c. *magnī exīstimāre* — 看重、认为重要\n21\t\n22\t2. to value, estimate, reckon (+ **属格**表价值)\n23\t   a. *parvī exīstimāre* — 轻视\n24\t   b. *magnī operam exīstimāre* — 看重某人的效劳\n25\t\n26\t## 关联词汇\n27\t- [[aestimō, aestimāre, aestimāvī, aestimātus 1.]] (词根——\"估价\")\n28\t- [[aestimātiō, -ōnis f.]] (估价——名词形式)\n29\t- [[putō, putāre 1.]] (认为——近义词)\n30\t- [[arbitror, arbitrārī 1.dep.]] (认为——近义词)\n31\t\n32\t## 复习提示\n33\t- 本课为被动用法 *exīstimantur*（被视为），注意与主动 *exīstimant*（他们认为）区分\n34\t- Caesar 极高频动词，常用 *exīstimō + acc. + inf.* 引出间接陈述\n35\t"
+          },
+          {
+            "id": "call_18_uf6m6EpQTbvRpW4JI4bn4806",
+            "name": "Read",
+            "input": {
+              "file_path": "D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\accipiō, accipere, accēpī, acceptus 3..md"
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "1\t---\n2\tcreated: 2026-07-19\n3\tlanguage: 拉丁语\n4\ttags: [vocabulary, language/latin]\n5\tstatus: seedling\n6\t---\n7\t\n8\t# accipiō, accipere, accēpī, acceptus 3.\n9\t\n10\t## 基本信息\n11\t- **语言**: 拉丁语\n12\t- **词性**: v. a. (第三变位 -iō)\n13\t- **词源**: *ad-* + *capiō* (to take); 字面义为\"拿向自己\" → 接收\n14\t\n15\t## 释义\n16\t\n17\t1. to take, receive, accept (经典通用义)\n18\t   a. *quantās pecūniās ab uxōribus accēpērunt* — 从妻子处收到多少钱 (见 Caes. *B.G.* 6.19)\n19\t   b. *accēperit* (perf. subj.) — 若收到 (见 Caes. *B.G.* 6.20)\n20\t   c. *litterās accipere* — 收到信\n21\t\n22\t2. to hear, learn, understand\n23\t   a. *id accēpī* — 我听说了此事\n24\t   b. *accēpimus + acc. + inf.* — 我们获知……\n25\t\n26\t3. to suffer, endure\n27\t   a. *iniūriam accipere* — 遭受不公\n28\t   b. *calamitātem accipere* — 遭受灾难\n29\t\n30\t## 关联词汇\n31\t- [[capiō, capere, cēpī, captus 3.]] (词根——\"拿、取\")\n32\t- [[recipiō, recipere, recēpī, receptus 3.]] (收回、接纳——相关复合词)\n33\t- [[dō, dare, dedī, datus 1.]] (给——反义词)\n34\t\n35\t## 复习提示\n36\t\n37\t"
+          },
+          {
+            "id": "call_19_U7Jj8Mf1rPGZaH3pDnAm7509",
+            "name": "Read",
+            "input": {
+              "file_path": "D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\dīligō, dīligere, dīlēxī, dīlēctus 3..md"
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "1\t---\n2\tcreated: 2026-07-19\n3\tlanguage: 拉丁语\n4\ttags: [vocabulary, language/latin]\n5\tstatus: seedling\n6\t---\n7\t\n8\t# dīligō, dīligere, dīlēxī, dīlēctus 3.\n9\t\n10\t## 基本信息\n11\t- **语言**: 拉丁语\n12\t- **词性**: v. a. (第三变位)\n13\t- **词源**: *dī(s)-* + *legō* (to choose); 字面义为\"从中选出\" → 钟爱\n14\t\n15\t## 释义\n16\t\n17\t1. to value highly, esteem, love, cherish (经典通用义; 比 *amō* 更理性、含尊重)\n18\t   a. *quōs ab eīs dīlēctōs esse cōnstābat* — 被确认为他们所钟爱者 (见 Caes. *B.G.* 6.19)\n19\t   b. *aliquem dīligere* — 珍视/爱戴某人\n20\t   c. *virtūtem dīligere* — 崇尚美德\n21\t\n22\t2. (引申，对物) to prize, appreciate\n23\t   a. *mediocritātem auream dīligere* — 钟爱中庸之道 (Horace)\n24\t\n25\t## 关联词汇\n26\t- [[legō, legere, lēgī, lēctus 3.]] (词根——\"选择、读取\")\n27\t- [[amō, amāre 1.]] (爱——近义词，偏激情)\n28\t- [[dīlēctus, -ūs m.]] (遴选、征兵——同词根名词)\n29\t- [[intellegō, intellegere, intellēxī, intellēctus 3.]] (理解——相关复合词)\n30\t\n31\t## 复习提示\n32\t- *dīligō* (理性之爱/器重) vs. *amō* (感性之爱/热爱)\n33\t- 完成分词 *dīlēctus* 用作被动义\"被钟爱的\"\n34\t"
+          }
+        ],
+        "asyncStatus": "completed",
+        "agentId": "a992bc52ade8d9e4c",
+        "startedAt": 1784721801664,
+        "outputToolId": "call_00_jkd3VJQDG9wsbcDfC3hX1840",
+        "result": "以下是20个拉丁语词卡文件的结构化提取结果：\n\n```\nprō | prep. + abl. | 在……前；代表、为了；代替、交换\nafficiō, afficere, affēcī, affectus 3 | v. 3 (ad- + faciō 复合词) | 影响、感染；对待、处置\nbonum, -ī n. | n. n. (第二变格，名词化) | 善、好事、好处\nbona, -ōrum n. pl. | n. pl. (第二变格，中性复数，名词化) | 财产、财物、货物\nveniō, venīre, vēnī, ventus 4. | v. n. (第四变位) | 来、到来\nvideō, vidēre, vīdī, vīsus 2. | v. a. (第二变位) | 看见、察觉、理解\ndōs, dōtis f. | f. (第三变格) | 嫁妆；禀赋、才华\nfalsus, -a, -um adj. | adj. (第一/第二变格；fallō 的完成分词作形容词) | 虚假的、欺骗的、伪造的\nfrūctus, -ūs m. | m. (第四变格) | 收益、利润、果实、产物\ncor, cordis n. | n. (第三变格) | 心脏；心灵、情感\ncōgō, cōgere, coēgī, coāctus 3. | v. trans. (第三变位法 -ō 型；co-agō 缩合) | 强迫、迫使；聚集、收集\ncommūnicō, commūnicāre, commūnicāvī, commūnicātus 1. | v. a. (第一变位) | 分享、共享、沟通\ncomperiō, comperīre, comperī, compertus 4. | v. a. (第四变位) | 查明、确知、发现\nconveniō, convenīre, convēnī, conventus 4. | v. intr. (> v. trans.) (第四变位) | 聚集、集合、相会\ndēcēdō, dēcēdere, dēcessī, dēcessus 3. | v. intr. (第三变位) | 离开、退去；去世\nconcēdō, concēdere, concessī, concessus 3. | v. intr. / v. trans. (第三变位) | 让步、允许、授予；退去\nconstō, constāre, constitī, constātus 1. | v. intr. (第一变位) | 确知、公认；由……组成；花费\nexīstimō, exīstimāre, exīstimāvī, exīstimātus 1. | v. a. (第一变位) | 认为、判断、估计\naccipiō, accipere, accēpī, acceptus 3. | v. a. (第三变位 -iō) | 接收、接受；获悉、了解\ndīligō, dīligere, dīlēxī, dīlēctus 3. | v. a. (第三变位) | 珍爱、器重、钟爱（理性的爱，区别于 amō）\n```\n\n**格式说明：** `HEADWORD | GRAMMATICAL INFO | GLOSS`，释义以最核心的一到三个义项概括，优先采用文件词条中标注为\"经典通用义\"或本课 Caesar 用法的含义。",
+        "completedAt": 1784721837808
+      },
+      "call_01_F7AMle3eZwH5QOpnuvat3149": {
+        "id": "call_01_F7AMle3eZwH5QOpnuvat3149",
+        "description": "Read word card batch 2 (N-Z)",
+        "prompt": "Read the following Latin word card files and extract for each: the headword (first line/heading), grammatical info, and a very short Chinese or English gloss (one line summary). Return results as a structured list.\n\nFiles to read (absolute paths):\n1. D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\nāscor, nāscī, nātus sum 3.dep..md\n2. D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\tormentum, -ī n..md\n3. D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\quantus, -a, -um adj..md\n4. D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\tantus, -a, -um adj..md\n5. D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\temerārius, -a, -um adj..md\n6. D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\imperītus, -a, -um adj..md\n7. D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\videor, vidērī, vīsus sum 2.dep..md\n8. D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\quoad (adv., conj.).md\n9. D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\praeficiō, praeficere, praefēcī, praefectus 3..md\n10. D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\aliter (adv.).md\n11. D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\praeter (adv., prep. + acc.).md\n12. D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\peragō, peragere, perēgī, perāctus 3..md\n13. D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\cōnscrībō, cōnscrībere, cōnscrīpsī, cōnscrīptus 3..md\n14. D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\medeor, medērī 2.dep..md\n15. D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\moror, morārī, morātus sum 1.dep..md\n16. D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\dō, dare, dedī, datus 1..md\n17. D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\contineō, continēre, continuī, contentus 2..md\n18. D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\collocō, collocāre, collocāvī, collocātus 1..md\n19. D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\dēdō, dēdere, dēdidī, dēditus 3..md\n20. D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\circiter (adv.).md\n\nFor each file, output format:\n```\nHEADWORD | GRAMMATICAL INFO | GLOSS\n```\nExample: `amplus, -a, -um | adj. 一/二变格 | 显赫的、尊贵的、大的`\n",
+        "mode": "async",
+        "isExpanded": false,
+        "status": "completed",
+        "toolCalls": [
+          {
+            "id": "call_00_WCBfu6kPJDGC0wWheFwH6599",
+            "name": "Read",
+            "input": {
+              "file_path": "D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\nāscor, nāscī, nātus sum 3.dep..md"
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "1\t---\n2\tcreated: 2026-07-19\n3\tlanguage: 拉丁语\n4\ttags: [vocabulary, language/latin]\n5\tstatus: seedling\n6\t---\n7\t\n8\t# nāscor, nāscī, nātus sum 3. dep.\n9\t\n10\t## 基本信息\n11\t- **语言**: 拉丁语\n12\t- **词性**: v. dep. (第三变位，异态动词)\n13\t- **词源**: 源自 *gnāscor* (古体); PIE 词根 *genh₁-; 对应希腊语 γίγνομαι, 英语 kin\n14\t- **注意**: 古体拼写为 *gnāscor, gnātus*\n15\t\n16\t## 释义\n17\t\n18\t1. to be born, spring forth, arise (经典通用义)\n19\t   a. *paterfamiliae illūstriōre locō nātus* — 出身于颇为显赫地位的家长 (见 Caes. *B.G.* 6.19 — **本课用法**; *nātus* = 完成分词)\n20\t   b. *nātus ex + abl.* — 生于（某母）\n21\t   c. *nātus + abl.* — 生于（某家族/阶层），如 *summō locō nātus*（出身最高阶层）\n22\t\n23\t2. (引申) to arise, originate, spring forth\n24\t   a. *flūmen nāscitur in montibus* — 河发源于山中\n25\t   b. *ex hōc nascitur ut* — 由此得出……\n26\t\n27\t3. 完成分词作名词: *nātus, -ī m.* = 儿子; *nāta, -ae f.* = 女儿; *nātī, -ōrum* = 子女\n28\t\n29\t## 关联词汇\n30\t- [[gignō, gignere, genuī, genitus 3.]] (产生——主动对应词)\n31\t- [[nātūra, -ae f.]] (自然、本性——同词根)\n32\t- [[nātiō, -ōnis f.]] (民族、部落——同词根)\n33\t- [[nātālis, -e]] (出生的、诞生的)\n34\t\n35\t## 复习提示\n36\t- 完成分词 *nātus* 极常用：*locō nātus* = \"出身于……阶层\"\n37\t- 异态动词：形式被动但意义主动——*nātus sum* = \"我出生了\"（而非\"我被出生\"）\n38\t"
+          },
+          {
+            "id": "call_01_ZggXEYtVzN1HNqK33Mv63636",
+            "name": "Read",
+            "input": {
+              "file_path": "D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\tormentum, -ī n..md"
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "1\t---\n2\tcreated: 2026-07-19\n3\tlanguage: 拉丁语\n4\ttags: [vocabulary, language/latin]\n5\tstatus: seedling\n6\t---\n7\t\n8\t# tormentum, -ī n.\n9\t\n10\t## 基本信息\n11\t- **语言**: 拉丁语\n12\t- **词性**: n. (第二变格)\n13\t- **词源**: 源自 *torqueō, torquēre, torsī, tortus* (扭曲、转动)\n14\t\n15\t## 释义\n16\t\n17\t1. (刑罚) an instrument of torture, rack; torture, torment (经典通用义)\n18\t   a. *ignī atque omnibus tormentīs excruciātās interficiunt* — 以火与各种酷刑折磨后处死 (见 Caes. *B.G.* 6.19 — **本课用法**)\n19\t   b. *tormentīs quaerere* — 以酷刑审讯\n20\t\n21\t2. (军事) an engine for hurling missiles, catapult, ballista\n22\t   a. *tormenta mittere* — 发射弩炮\n23\t   b. *tormentīs urbem verberāre* — 用弩炮轰击城市\n24\t\n25\t3. (本义) a twisted cord, rope, windlass\n26\t   a. *tormenta ex crīnibus facere* — 用头发编绳索 (Caes. *B.C.* 3.9)\n27\t\n28\t## 关联词汇\n29\t- [[torqueō, torquēre, torsī, tortus 2.]] (词根——\"扭曲、折磨\")\n30\t- [[cruciātus, -ūs m.]] (酷刑——近义词)\n31\t- [[supplicium, -ī n.]] (刑罚——近义词，兼有\"祈愿\"义)\n32\t\n33\t## 复习提示\n34\t- **关键区分**：军事语境 = 弩炮/投石机；刑罚语境 = 酷刑/刑具。本课为后者\n35\t- *omnibus tormentīs* = \"以一切酷刑手段\"（夺格表工具）\n36\t"
+          },
+          {
+            "id": "call_02_CZkWVzLPwerl9KFhMhMz4371",
+            "name": "Read",
+            "input": {
+              "file_path": "D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\quantus, -a, -um adj..md"
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "1\t---\n2\tcreated: 2026-07-19\n3\tlanguage: 拉丁语\n4\ttags: [vocabulary, language/latin]\n5\tstatus: seedling\n6\t---\n7\t\n8\t# quantus, -a, -um adj.\n9\t\n10\t## 基本信息\n11\t- **语言**: 拉丁语\n12\t- **词性**: adj. (疑问/关系形容词; 第一/第二变格)\n13\t- **词源**: 源自 *quam* (how)\n14\t\n15\t## 释义\n16\t\n17\t1. how great, how much, how many (疑问)\n18\t   a. *quantus exercitus?* — 多少军队？\n19\t\n20\t2. as great as, as much as (关系/相关; *quantus...tantus*)\n21\t   a. *quantās pecūniās...tantās commūnicant* — 收到多少钱，就拿出等额来合并 (见 Caes. *B.G.* 6.19 — **本课用法**; *quantās...tantās* = correlative 结构)\n22\t   b. *quanta maxima potest* — 尽最大可能地\n23\t   c. *quantus nōn umquam anteā* — 前所未有地大\n24\t\n25\t## 关联词汇\n26\t- [[tantus, -a, -um]] (correlative 对应词——\"如此大/多\")\n27\t- [[quantum (adv.)]] (副词语用法——\"就……而言\")\n28\t- [[quam (adv.)]] (多——源副词)\n29\t\n30\t## 复习提示\n31\t- 本课为 correlative 结构：*quantās...tantās*（多少……就那么多）\n32\t- 区分：疑问 (*quantus est?*) vs. 关系相关 (*quantās...tantās*)\n33\t"
+          },
+          {
+            "id": "call_03_9YZdp7vktKRfMZyVpEAo5037",
+            "name": "Read",
+            "input": {
+              "file_path": "D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\tantus, -a, -um adj..md"
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "1\t---\n2\tcreated: 2026-07-19\n3\tlanguage: 拉丁语\n4\ttags: [vocabulary, language/latin]\n5\tstatus: seedling\n6\t---\n7\t\n8\t# tantus, -a, -um adj.\n9\t\n10\t## 基本信息\n11\t- **语言**: 拉丁语\n12\t- **词性**: adj. (指示形容词; 第一/第二变格)\n13\t- **词源**: 源自 *tam* (so); 对应希腊语 τέως, 梵语 tāvant\n14\t\n15\t## 释义\n16\t\n17\t1. of such size, so great, so much, so many (经典通用义)\n18\t   a. *quantās pecūniās...tantās commūnicant* — 收到多少钱，就拿出等额来合并 (见 Caes. *B.G.* 6.19 — **本课用法**; *quantās...tantās*)\n19\t   b. *tantus...quantus* — 如此大……如同\n20\t   c. *tanta multitūdō* — 如此众多的人\n21\t\n22\t2. (中性副词) *tantum* — so much, only, merely\n23\t   a. *tantummodo* — 仅仅、只\n24\t\n25\t3. (中性名词) *tantum, -ī n.* — such an amount, so much\n26\t\n27\t## 关联词汇\n28\t- [[quantus, -a, -um]] (correlative 对应词——\"多大/多少\")\n29\t- [[tam (adv.)]] (如此——源副词)\n30\t- [[tālis, -e]] (如此的——性质上的对应)\n31\t\n32\t## 复习提示\n33\t- 本课为 *quantās...tantās* 配对，极常见 Caesar 句式\n34\t- 中性 *tantum* 常用作副词 = \"仅仅\"，注意区分\n35\t"
+          },
+          {
+            "id": "call_04_0i0hWdj1vfRqzataC2KI3472",
+            "name": "Read",
+            "input": {
+              "file_path": "D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\temerārius, -a, -um adj..md"
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "1\t---\n2\tcreated: 2026-07-19\n3\tlanguage: 拉丁语\n4\ttags: [vocabulary, language/latin]\n5\tstatus: seedling\n6\t---\n7\t\n8\t# temerārius, -a, -um adj.\n9\t\n10\t## 基本信息\n11\t- **语言**: 拉丁语\n12\t- **词性**: adj. (第一/第二变格)\n13\t- **词源**: 源自 *temerē* (盲目地、轻率地); 原义为\"不经思考的\"\n14\t\n15\t## 释义\n16\t\n17\t1. rash, heedless, thoughtless, reckless, inconsiderate (经典通用义; 贬义)\n18\t   a. *hominēs temerāriōs atque imperītōs* — 轻率无知之徒 (见 Caes. *B.G.* 6.20 — **本课用法**)\n19\t   b. *temerārium cōnsilium* — 轻率的决定\n20\t   c. *temerāria virtūs* — 鲁莽之勇\n21\t\n22\t2. (罕见) accidental, casual (本义)\n23\t   a. *nōn temerārium est* — 不是偶然的事\n24\t\n25\t## 关联词汇\n26\t- [[temerē (adv.)]] (盲目地、轻率地——词根)\n27\t- [[audāx, -ācis]] (大胆的、鲁莽的——近义词)\n28\t- [[imperītus, -a, -um]] (无经验的——本课并列词)\n29\t\n30\t## 复习提示\n31\t- *temerārius* (轻率/鲁莽) vs. *audāx* (大胆/勇敢) — 前者纯贬义，后者可褒可贬\n32\t- 本课与 *imperītus* 连用，Caesar 描述\"被谣言轻易煽动的民众\"\n33\t"
+          },
+          {
+            "id": "call_05_UDcFf1qwXAlWR3D0QS2b7874",
+            "name": "Read",
+            "input": {
+              "file_path": "D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\imperītus, -a, -um adj..md"
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "1\t---\n2\tcreated: 2026-07-19\n3\tlanguage: 拉丁语\n4\ttags: [vocabulary, language/latin]\n5\tstatus: seedling\n6\t---\n7\t\n8\t# imperītus, -a, -um adj.\n9\t\n10\t## 基本信息\n11\t- **语言**: 拉丁语\n12\t- **词性**: adj. (第一/第二变格)\n13\t- **词源**: *in-* (否定) + *perītus* (有经验的); 字面义为\"无经验的\"\n14\t\n15\t## 释义\n16\t\n17\t1. inexperienced, unskilled, ignorant, unacquainted with (经典通用义; 常 + 属格)\n18\t   a. *hominēs temerāriōs atque imperītōs* — 轻率无知之徒 (见 Caes. *B.G.* 6.20 — **本课用法**; 绝对用法，不带属格)\n19\t   b. *imperītus rērum* — 不谙世事\n20\t   c. *imperītus bellī* — 不通兵事\n21\t   d. *nostrae cōnsuētūdinis imperītus* — 对我们习惯一无所知的 (Caes. *B.G.* 4.22)\n22\t\n23\t## 关联词汇\n24\t- [[perītus, -a, -um]] (有经验的——反义词)\n25\t- [[temerārius, -a, -um]] (轻率的——本课并列词)\n26\t- [[īgnārus, -a, -um]] (不知道的——近义词)\n27\t- [[rudis, -e]] (生疏的、粗野的——近义词)\n28\t\n29\t## 复习提示\n30\t- 支配属格：*imperītus + gen.* = \"对……无经验/无知\"\n31\t- 本课绝对用法（不带属格），仅作形容词修饰 *hominēs*，与 *temerāriōs* 并列\n32\t"
+          },
+          {
+            "id": "call_06_ru94k2SJGfQ7PEyvLeAm8422",
+            "name": "Read",
+            "input": {
+              "file_path": "D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\videor, vidērī, vīsus sum 2.dep..md"
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "1\t---\n2\tcreated: 2026-07-19\n3\tlanguage: 拉丁语\n4\ttags: [vocabulary, language/latin]\n5\tstatus: seedling\n6\t---\n7\t\n8\t# videor, vidērī, vīsus sum 2. dep.\n9\t\n10\t## 基本信息\n11\t- **语言**: 拉丁语\n12\t- **词性**: v. dep. (第二变位，异态动词); videō 的被动形式用作独立动词\n13\t- **词源**: 源自 *videō* (to see); 被动/\"被看到\" → 显得、似乎\n14\t- **注意**: 异态动词，形式为被动但意义主动\n15\t\n16\t## 释义\n17\t\n18\t1. to be seen, seem, appear, be thought (经典高频义)\n19\t   a. *quae vīsa sunt* — 被视为合适的/他们认为恰当的 (见 Caes. *B.G.* 6.20 — **本课用法**)\n20\t   b. *mihi vidētur* — 在我看来\n21\t   c. *vīsum est + dat.* — ……认为合适/决定\n22\t   d. *vidērī + inf.* — 似乎/显得在做某事\n23\t\n24\t2. to seem good, seem proper, be resolved (无人称用法 + dat. )\n25\t   a. *sī eī vidētur* — 如果他觉得合适\n26\t   b. *senātuī vīsum est* — 元老院决定（it seems proper **to** the senate）\n27\t\n28\t## 关联词汇\n29\t- [[videō, vidēre, vīdī, vīsus 2.]] (源动词——\"看见\")\n30\t- [[videor, vidērī, vīsus sum 2.dep.]] (异态动词——本词条)\n31\t- [[vīsus, -ūs m.]] (视觉、景象)\n32\t\n33\t## 复习提示\n34\t- videō（主动：看见）vs. videor（被动/异态：似乎、被认为）——Caesar 极高频\n35\t- 常见短语：*quae vīsa sunt* = \"他们认为合适的（事）\"，不译作\"被看见的事\"\n36\t"
+          },
+          {
+            "id": "call_07_4zb6QpWQ50fpHWWZxtaj4156",
+            "name": "Read",
+            "input": {
+              "file_path": "D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\quoad (adv., conj.).md"
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "1\t---\n2\tcreated: 2026-07-20\n3\tlanguage: 拉丁语\n4\ttags: [vocabulary, language/latin]\n5\tstatus: seedling\n6\t---\n7\t\n8\t# quoad (adv., conj.)\n9\t\n10\t## 基本信息\n11\t- **语言**: 拉丁语\n12\t- **词性**: adv. / conj. (不变词)\n13\t- **词源**: *quod-ad* = \"to which\" > \"as far as\"\n14\t\n15\t## 释义\n16\t1. (interrog.) How long? Until when? (rare)\n17\t2. As long as (with indicative)\n18\t3. Until, till that (with subjunctive — **important Caesar usage**)\n19\t   a. *quoad* + pluperf. subj. = \"until such time as X should have happened\"\n20\t4. As far as, so far as\n21\t   a. *quoad possum* = \"as far as I can\"\n22\t   b. *quoad ejus facere possum* = \"as much as I am able\"\n23\t5. With respect to, as to (= *quod attinet ad*)\n24\t\n25\t## 关联词汇\n26\t- [[ad (prep. + acc.)]]\n27\t- [[quod (conj.)]]\n28\t- [[dōnec (conj.)]] — synonym for \"until\"\n29\t- [[dum (conj.)]] — similar temporal conjunction\n30\t\n31\t## 复习提示\n32\t- 本课出现: `quoad ... cōgnōvisset` — \"until he should have learned\" (BG V.24.8)\n33\t- **关键区别**: *quoad* + indic. = \"as long as\" | *quoad* + subj. = \"until\"\n34\t- 你译成了 \"as long as\"，正确应为 \"until\"\n35\t"
+          },
+          {
+            "id": "call_08_GEO12jn1ZZtPlJna55Z71361",
+            "name": "Read",
+            "input": {
+              "file_path": "D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\praeficiō, praeficere, praefēcī, praefectus 3..md"
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "1\t---\n2\tcreated: 2026-07-20\n3\tlanguage: 拉丁语\n4\ttags: [vocabulary, language/latin]\n5\tstatus: seedling\n6\t---\n7\t\n8\t# praeficiō, praeficere, praefēcī, praefectus 3.\n9\t\n10\t## 基本信息\n11\t- **语言**: 拉丁语\n12\t- **词性**: v. trans. (第三变位法，-iō 型)\n13\t- **词源**: *prae-* + *faciō* (\"to set/place before\" > \"to put in charge of\")\n14\t\n15\t## 释义\n16\t1. To set over (as officer, superintendent, leader), to place in authority over, appoint to the command of\n17\t   a. With dat.: *alicui praeficere* = to put someone in command of X\n18\t      - *eīs Marcum Crassum ... praefēcit* = he put Crassus in charge of them\n19\t   b. With dat. of thing: *legiōnibus legātōs praeficere* = to put legates in command of the legions\n20\t2. Trop.: to set over (rare)\n21\t\n22\t## 关联词汇\n23\t- [[faciō, facere, fēcī, factus 3.]] — base verb\n24\t- [[praefectus, -ī m.]] — prefect, commander, governor\n25\t- [[praepōnō, praepōnere, praeposuī, praepositus 3.]] — similar: to place over (dat.)\n26\t- [[praesum, praeesse, praefuī irreg.]] — similar: to be in charge of (dat.)\n27\t\n28\t## 复习提示\n29\t- 本课出现: `praefēcit` — \"he put (them) in command\" (BG V.24.3)\n30\t- 你译成了 \"sent ... beforehand\"，正确应为 \"placed in command\"\n31\t- 核心结构: *praeficiō + acc. (person) + dat. (thing/people)* = \"appoint X over Y\"\n32\t- 被动: *praeficior* + dat. = \"I am put in charge of\"\n33\t"
+          },
+          {
+            "id": "call_09_u1gjQxXhRwNkiMOPcCLn2019",
+            "name": "Read",
+            "input": {
+              "file_path": "D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\aliter (adv.).md"
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "1\t---\n2\tcreated: 2026-07-20\n3\tlanguage: 拉丁语\n4\ttags: [vocabulary, language/latin]\n5\tstatus: seedling\n6\t---\n7\t\n8\t# aliter (adv.)\n9\t\n10\t## 基本信息\n11\t- **语言**: 拉丁语\n12\t- **词性**: adv. (不变词)\n13\t- **词源**: from *alius* (\"other\") + *-ter* (adverbial suffix)\n14\t\n15\t## 释义\n16\t1. Otherwise, in another manner, differently\n17\t   a. *aliter ac* (or *aliter atque*) = \"otherwise than, differently from\"\n18\t      - *coāctus est aliter ac superiōribus annīs* = \"he was forced otherwise than in previous years\"\n19\t   b. *aliter ... aliter* = \"in one way ... in another\"\n20\t2. *aliter ... ac (atque) ... aliter* = \"differently ... than ... differently\" (double contrast)\n21\t\n22\t## 关联词汇\n23\t- [[alius, alia, aliud]] — other, another\n24\t- [[aliter (adv.)]]\n25\t- [[aliās (adv.)]] — at another time\n26\t- [[alibī (adv.)]] — elsewhere\n27\t- [[aliunde (adv.)]] — from elsewhere\n28\t\n29\t## 复习提示\n30\t- 本课出现: `aliter ac superiōribus annīs` (BG V.24.1)\n31\t- *aliter ac* 是固定搭配，不能拆开理解\n32\t- 与英语 \"otherwise than\" 用法一致\n33\t"
+          },
+          {
+            "id": "call_10_vMjCEaT8yTCFdpl9E6537582",
+            "name": "Read",
+            "input": {
+              "file_path": "D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\praeter (adv., prep. + acc.).md"
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "1\t---\n2\tcreated: 2026-07-20\n3\tlanguage: 拉丁语\n4\ttags: [vocabulary, language/latin]\n5\tstatus: seedling\n6\t---\n7\t\n8\t# praeter (adv., prep. + acc.)\n9\t\n10\t## 基本信息\n11\t- **语言**: 拉丁语\n12\t- **词性**: adv. / prep. + acc. (不变词)\n13\t- **词源**: *prae* + demonstrative suffix *-ter* (as in *inter*, *subter*, *propter*)\n14\t\n15\t## 释义\n16\t1. (adv.) Past, by, beyond\n17\t   a. Comparatively: before, beyond, above, more than\n18\t   b. Exceptionally: except, excepting, unless, save\n19\t2. (prep. + acc.) Past, by, before, along\n20\t   a. Lit. of place: *praeter castra copias transducere* = to lead troops past the camp\n21\t   b. Trop.: over, beyond; against, contrary to; aside from\n22\t      - *praeter spem* = beyond hope\n23\t      - *praeter consuetudinem* = contrary to custom\n24\t   c. Comparatively: beyond, above, more than\n25\t      - *praeter ceteros* = above the rest\n26\t   d. In addition: besides, in addition to\n27\t   e. Exception: besides, except\n28\t      - *omnibus sententiis praeter unam* = by all votes except one\n29\t\n30\t## 关联词汇\n31\t- [[prae (prep. + abl.)]] — before, in front of\n32\t- [[praeterquam (adv.)]] — besides, except\n33\t- [[praetereā (adv.)]] — moreover, besides\n34\t- [[praetereō, praeterīre, praeteriī, praeteritus irreg.]] — to pass by, omit\n35\t\n36\t## 复习提示\n37\t- 本课出现: *praeter eam (legionem)* = \"except that (legion)\" (BG V.24.7)\n38\t- *praeter* 有两层核心意思: \"besides/in addition to\" vs. \"except\" — 根据上下文判断\n39\t"
+          },
+          {
+            "id": "call_11_4XDpuFb7DaECIi8aNVVd0640",
+            "name": "Read",
+            "input": {
+              "file_path": "D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\peragō, peragere, perēgī, perāctus 3..md"
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "1\t---\n2\tcreated: 2026-07-20\n3\tlanguage: 拉丁语\n4\ttags: [vocabulary, language/latin]\n5\tstatus: seedling\n6\t---\n7\t\n8\t# peragō, peragere, perēgī, perāctus 3.\n9\t\n10\t## 基本信息\n11\t- **语言**: 拉丁语\n12\t- **词性**: v. trans. (第三变位法)\n13\t- **词源**: *per-* + *agō* (\"to drive through\" > \"to carry through\")\n14\t\n15\t## 释义\n16\t1. To thrust through, pierce through, transfix (poetic)\n17\t2. To pass through, traverse\n18\t3. To carry through, go through with, execute, finish, accomplish, complete\n19\t   a. *concilium peragere* = to complete a council/meeting\n20\t   b. *fabulam peragere* = to finish a play\n21\t   c. *comitia peragere* = to complete elections\n22\t   d. *vitam peragere* = to finish life / pass one's life\n23\t4. (jurid.) To prosecute to the end: *reum peragere* = to secure conviction\n24\t5. To work or work up\n25\t   a. *humum peragere* = to till the soil\n26\t   b. *cibum peragere* = to digest food\n27\t6. To go through, relate, describe, detail\n28\t\n29\t## 关联词汇\n30\t- [[agō, agere, ēgī, āctus 3.]] — base verb\n31\t- [[perāctiō, -ōnis f.]] — completion, finishing\n32\t- [[cōgō, cōgere, coēgī, coāctus 3.]] — related compound\n33\t- [[redigō, redigere, redēgī, redāctus 3.]] — to drive back\n34\t\n35\t## 复习提示\n36\t- 本课出现: *conciliō ... perāctō* = \"the council having been completed\" (BG V.24.1, abl. abs.)\n37\t- *per-* 前缀表示 \"完全、贯穿\"，与 *agō* 结合 = \"从头做到尾\"即\"完成\"\n38\t- 独立夺格中的 PPP: *perāctō conciliō* = \"after the council was completed\"\n39\t"
+          },
+          {
+            "id": "call_12_OTXJKJ1O9GUDhLTAnLN06425",
+            "name": "Read",
+            "input": {
+              "file_path": "D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\cōnscrībō, cōnscrībere, cōnscrīpsī, cōnscrīptus 3..md"
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "1\t---\n2\tcreated: 2026-07-20\n3\tlanguage: 拉丁语\n4\ttags: [vocabulary, language/latin]\n5\tstatus: seedling\n6\t---\n7\t\n8\t# cōnscrībō, cōnscrībere, cōnscrīpsī, cōnscrīptus 3.\n9\t\n10\t## 基本信息\n11\t- **语言**: 拉丁语\n12\t- **词性**: v. trans. (第三变位法)\n13\t- **词源**: *con-* + *scribo* (\"to write together\")\n14\t\n15\t## 释义\n16\t1. To write together in a roll or list, to enroll\n17\t   a. Milit. t.t.: to levy troops\n18\t      - *legiones conscribere* = to levy/enroll legions\n19\t      - *exercitum conscribere* = to raise an army\n20\t   b. Of colonists: to enroll for a colony\n21\t   c. *Patres Conscripti* = the enrolled/assembled Fathers (formal title of senators)\n22\t2. To put together in writing, to draw up, compose, write\n23\t   a. *librum conscribere* = to compose a book\n24\t   b. *epistulam conscribere* = to write a letter\n25\t   c. *testamentum conscribere* = to draw up a will\n26\t   d. *legem conscribere* = to draft a law\n27\t3. (meton.) To write something all over, to fill with writing (rare)\n28\t\n29\t## 关联词汇\n30\t- [[scribo, scribere, scripsi, scriptus 3.]] — to write (base verb)\n31\t- [[conscriptio, -onis f.]] — a writing, composition\n32\t- [[conscriptus, -a, -um]] — enrolled; written, composed\n33\t- [[describo, describere, descripsi, descriptus 3.]] — to copy out, describe\n34\t\n35\t## 复习提示\n36\t- 本课出现: *conscripserat* — \"he had conscripted\" (pluperf., BG V.24.4)\n37\t- *con-* + *scribo*: 从\"写在一起\"引申为\"登记入册\" > \"征兵\"\n38\t- Caesar 中征兵场景极其常见\n39\t"
+          },
+          {
+            "id": "call_13_AoatrlQxevMyDVx7mRLu3186",
+            "name": "Read",
+            "input": {
+              "file_path": "D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\medeor, medērī 2.dep..md"
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "1\t---\n2\tcreated: 2026-07-20\n3\tlanguage: 拉丁语\n4\ttags: [vocabulary, language/latin]\n5\tstatus: seedling\n6\t---\n7\t\n8\t# medeor, medērī 2.dep.\n9\t\n10\t## 基本信息\n11\t- **语言**: 拉丁语\n12\t- **词性**: v. dep. (第二变位法，异态动词)\n13\t- **词源**: root *madh-* (to be wise; cf. Zend *madha* = healing art, Greek *mathos*, also *medicus*, *re-medium*)\n14\t\n15\t## 释义\n16\t1. Lit., to heal, cure, be good for or against a disease\n17\t   a. With dat.: *morbo mederi* = to cure a disease\n18\t   b. With *contra* + acc.: *contra serpentium ictus mederi* = to heal snake bites\n19\t2. Trop., to remedy, relieve, amend, correct, restore\n20\t   a. *rei publicae mederi* = to heal/remedy the state\n21\t   b. *inopiae frumentariae mederi* = to relieve the grain shortage\n22\t      - **本课用法**: *sese mederi posse existimavit* = \"he thought that he could remedy (it)\"\n23\t\n24\t## 关联词汇\n25\t- [[medicus, -ī m.]] — physician, doctor\n26\t- [[medicina, -ae f.]] — medicine, remedy\n27\t- [[remedium, -ī n.]] — remedy, cure\n28\t- [[medicor, medicari, medicatus sum 1.dep.]] — to heal, cure\n29\t\n30\t## 复习提示\n31\t- 本课出现: *mederi* (inf.) with *inopiae* (dat.) (BG V.24.6)\n32\t- **异态动词**: 形式被动，含义主动\n33\t- **支配与格**: *medeor* + dat. = \"heal/remedy X\"\n34\t- *sese mederi posse* = 间接陈述中的不定式，主语 *sese* = *se* (Caesar 自己)\n35\t"
+          },
+          {
+            "id": "call_14_yMOUhNiFgkVbTxsRFvyW1198",
+            "name": "Read",
+            "input": {
+              "file_path": "D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\moror, morārī, morātus sum 1.dep..md"
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "1\t---\n2\tcreated: 2026-07-20\n3\tlanguage: 拉丁语\n4\ttags: [vocabulary, language/latin]\n5\tstatus: seedling\n6\t---\n7\t\n8\t# moror, morārī, morātus sum 1.dep.\n9\t\n10\t## 基本信息\n11\t- **语言**: 拉丁语\n12\t- **词性**: v. dep. (第一变位法，异态动词)\n13\t- **词源**: from *mora* (\"delay\")\n14\t\n15\t## 释义\n16\t1. Neutr., to delay, tarry, stay, wait, remain, linger, loiter\n17\t   a. *in provincia morari* = to tarry in a province\n18\t   b. *paulum morari* = to delay a little\n19\t   c. *quid moror?* = \"why do I linger?\" / \"why make a long story?\"\n20\t   d. *haud multa moratus* = without delaying long\n21\t   e. *non moror* = \"I have no objection\" (idiomatic)\n22\t2. Act., to delay, retard, detain, hinder\n23\t   a. *iter morari* = to delay a march\n24\t   b. *hostem morari* = to delay the enemy\n25\t   c. To delight, amuse, entertain, fix the attention of\n26\t3. *nihil morari* (+ acc.): not to value, not to care about\n27\t   - *nihil moror* = \"I don't care\" / \"I have nothing against it\"\n28\t\n29\t## 关联词汇\n30\t- [[mora, -ae f.]] — delay\n31\t- [[commoror, commorari, commoratus sum 1.dep.]] — to tarry, stay\n32\t- [[immoror, immorari, immoratus sum 1.dep.]] — to dwell upon\n33\t- [[remoror, remorari, remoratus sum 1.dep.]] — to hold back, delay\n34\t\n35\t## 复习提示\n36\t- 本课出现: *morari constituit* — \"he decided to linger\" (BG V.24.8)\n37\t- **异态动词**: 形式被动，含义主动\n38\t- 常见 Caesar 搭配: *in Gallia morari* = \"to linger/remain in Gaul\"\n39\t- 与 *maneo* 区分: *moror* = linger/delay (暂时性), *maneo* = stay/remain (持久性)\n40\t"
+          },
+          {
+            "id": "call_15_KOoL3XD4UQ78cJBnd2UI8238",
+            "name": "Read",
+            "input": {
+              "file_path": "D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\dō, dare, dedī, datus 1..md"
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "1\t---\n2\tcreated: 2026-07-20\n3\tlanguage: 拉丁语\n4\ttags: [vocabulary, language/latin]\n5\tstatus: seedling\n6\t---\n7\t\n8\t# dō, dare, dedī, datus 1.\n9\t\n10\t## 基本信息\n11\t- **语言**: 拉丁语\n12\t- **词性**: v. trans. (第一变位法，不规则)\n13\t- **词源**: Sanscr. *dā*, *da-dā-mi*, give; Gr. *δίδωμι*; cf. *dōs*, *dōnum*, *damnum*\n14\t\n15\t## 释义\n16\t1. To give (the most general verb of giving)\n17\t   a. *alicui aliquid dare* = to give something to someone\n18\t   b. *obsidēs dare* = to give hostages\n19\t   c. *fīliam in mātrimōnium dare* = to give a daughter in marriage\n20\t   d. *litterās dare* = to send/write a letter\n21\t2. To grant, allow, permit\n22\t   a. *poenās dare* = to pay the penalty, suffer punishment\n23\t   b. *manūs dare* = to surrender (lit. \"give hands\")\n24\t   c. *terga dare* = to flee (lit. \"give backs\")\n25\t3. To cause, make, bring about\n26\t   a. *damnum dare* = to cause damage\n27\t   b. *hostēs in fugam dare* = to put the enemy to flight\n28\t4. To tell, relate, announce\n29\t   a. *fābulam dare* = to produce/exhibit a play\n30\t\n31\t## 关联词汇\n32\t- [[dōnum, -ī n.]] — gift\n33\t- [[dōs, dōtis f.]] — dowry\n34\t- [[trādō, trādere, trādidī, trāditus 3.]] — to hand over, deliver\n35\t- [[prōdō, prōdere, prōdidī, prōditus 3.]] — to give forth, betray\n36\t- [[dēdō, dēdere, dēdidī, dēditus 3.]] — to surrender (stronger, from *dē-* + *dō*)\n37\t- [[reddō, reddere, reddidī, redditus 3.]] — to give back, return\n38\t\n39\t## 复习提示\n40\t- 本课出现: *dedit* — \"he gave\" (BG V.24.2)\n41\t- **第一变位法但完成体不规则**: *dare* > *dedī* (不是 *dāvī*)，因为它是 athematic 动词\n42\t- 注意与 [[dēdō, dēdere, dēdidī, dēditus 3.|dēdō]] 区分: *dō* = give | *dēdō* = surrender\n43\t"
+          },
+          {
+            "id": "call_16_ODi5C4PiHet3R5vq1bky5652",
+            "name": "Read",
+            "input": {
+              "file_path": "D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\contineō, continēre, continuī, contentus 2..md"
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "1\t---\n2\tcreated: 2026-07-20\n3\tlanguage: 拉丁语\n4\ttags: [vocabulary, language/latin]\n5\tstatus: seedling\n6\t---\n7\t\n8\t# contineō, continēre, continuī, contentus 2.\n9\t\n10\t## 基本信息\n11\t- **语言**: 拉丁语\n12\t- **词性**: v. trans. (第二变位法)\n13\t- **词源**: *con-* + *teneō* (\"to hold together\")\n14\t\n15\t## 释义\n16\t1. To hold or keep together\n17\t   a. Lit.: to enclose, bound, surround (often passive: \"is contained within\")\n18\t   b. To keep fast, hold, preserve, retain\n19\t2. To keep, hold still, detain, restrain, repress\n20\t   a. Milit.: *milites castris continere* = to keep troops in camp\n21\t   b. With *se*: to stay, remain (*se castris continere* = stay in camp)\n22\t   c. Trop.: to hold back, curb, check, subdue (*risum continere* = hold back laughter)\n23\t3. To comprise, contain, involve, comprehend\n24\t   a. Pass. *continērī aliquā rē* = to consist of, be composed of\n25\t4. Neutr.: to hold together, hang together\n26\t\n27\t## 关联词汇\n28\t- [[teneō, tenēre, tenuī, tentus 2.]] — base verb\n29\t- [[contentus, -a, -um adj.]] — content, satisfied\n30\t- [[continēns, continentis]] — continent, mainland; continuous; temperate\n31\t\n32\t## 复习提示\n33\t- 本课出现: `continēbantur` — \"were contained/confined\" (BG V.24.7)\n34\t- *mīlibus passuum centum continēbantur* = \"were contained within 100 miles\"\n35\t- 翻译时不要添加原文没有的修饰语\n36\t"
+          },
+          {
+            "id": "call_17_pRs76KMFqa9Grze6ctQH1273",
+            "name": "Read",
+            "input": {
+              "file_path": "D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\collocō, collocāre, collocāvī, collocātus 1..md"
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "1\t---\n2\tcreated: 2026-07-20\n3\tlanguage: 拉丁语\n4\ttags: [vocabulary, language/latin]\n5\tstatus: seedling\n6\t---\n7\t\n8\t# collocō, collocāre, collocāvī, collocātus 1.\n9\t\n10\t## 基本信息\n11\t- **语言**: 拉丁语\n12\t- **词性**: v. trans. (第一变位法)\n13\t- **词源**: *con-* + *locō* (\"to place together\")\n14\t\n15\t## 释义\n16\t1. To place together, set up, station, arrange, dispose\n17\t   a. With *in* + abl.: *exercitum in hibernis collocare* = to station the army in winter quarters\n18\t   b. With *in* + acc.: to place into\n19\t   c. With other prepositions: to lodge, quarter; to lay an ambush\n20\t   d. Absol.: to set in order, arrange\n21\t2. Special uses\n22\t   a. To give in marriage: *filiam alicui collocare*\n23\t   b. (mercantile) To invest money: *pecuniam collocare* = to lay out, invest\n24\t3. Trop.: to place, set, employ, occupy\n25\t   a. *se in otio collocare* = to settle into retirement\n26\t   b. *spem in aliquo collocare* = to place hope in someone\n27\t\n28\t## 关联词汇\n29\t- [[locus, -ī m.]] — place\n30\t- [[locō, locāre, locāvī, locātus 1.]] — to place, put\n31\t- [[statuō, statuere, statuī, statūtus 3.]] — similar: to set up, station\n32\t- [[pōnō, pōnere, posuī, positus 3.]] — similar: to place, put\n33\t\n34\t## 复习提示\n35\t- 本课出现: `collocāvit` — \"he stationed\" (BG V.24.2)\n36\t- **Caesar 高频词** — 每卷都出现十几次\n37\t- 核心搭配: *exercitum in hibernis collocare* = 安排军队驻扎冬令营\n38\t"
+          },
+          {
+            "id": "call_18_PESQmmMJPVXG0eLM1IJa3191",
+            "name": "Read",
+            "input": {
+              "file_path": "D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\dēdō, dēdere, dēdidī, dēditus 3..md"
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "1\t---\n2\tcreated: 2026-07-20\n3\tlanguage: 拉丁语\n4\ttags: [vocabulary, language/latin]\n5\tstatus: seedling\n6\t---\n7\t\n8\t# dēdō, dēdere, dēdidī, dēditus 3.\n9\t\n10\t## 基本信息\n11\t- **语言**: 拉丁语\n12\t- **词性**: v. trans. (第三变位法)\n13\t- **词源**: *de-* + *do* (\"to give away from oneself\")\n14\t\n15\t## 释义\n16\t1. Lit., to give away, give up, surrender, deliver, consign, yield\n17\t   a. In general: *aliquem hostibus in cruciatum dedere* = to hand someone over to the enemy for torture\n18\t   b. Milit. t.t.: to deliver up, surrender to the enemy\n19\t      - *se dedere* = to surrender oneself, capitulate\n20\t      - *urbem dedere* = to surrender a city\n21\t      - *se suaque omnia Caesari dedere* = to surrender oneself and all one's possessions to Caesar\n22\t2. Trop., to give up, yield, devote, dedicate\n23\t   a. *se dedere* + dat.: to devote oneself to\n24\t      - *se totum philosophiae dedere* = to devote oneself entirely to philosophy\n25\t      - *se litteris dedere* = to apply oneself to literature\n26\t   b. *dedere operam* + dat. = to give one's attention to\n27\t3. *deditus, -a, -um* (PPP as adj.): given up to, addicted to, devoted to (+ dat.)\n28\t\n29\t## 关联词汇\n30\t- [[dō, dare, dedī, datus 1.]] — to give (base verb)\n31\t- [[trādō, trādere, trādidī, trāditus 3.]] — to hand over, deliver\n32\t- [[prōdō, prōdere, prōdidī, prōditus 3.]] — to give forth, betray\n33\t- [[dēditiō, -ōnis f.]] — surrender, capitulation\n34\t- [[dēditīcius, -a, -um adj.]] — surrendered, capitulated\n35\t\n36\t## 复习提示\n37\t- 注意与 [[dō, dare, dedī, datus 1.]] 区分: *dō* = give | *dēdō* = surrender/give up\n38\t- 本课中的 *dedit* 来自 *dō*，不是 *dēdō*\n39\t- *se dedere* 是 Caesar 中的高频表达（高卢部落投降的标准用语）\n40\t"
+          },
+          {
+            "id": "call_19_PfpcRfNxc9KoAskgDv4F1983",
+            "name": "Read",
+            "input": {
+              "file_path": "D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\circiter (adv.).md"
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "1\t---\n2\tcreated: 2026-07-21\n3\tlanguage: 拉丁语\n4\ttags: [vocabulary, language/latin]\n5\tstatus: seedling\n6\t---\n7\t\n8\t# circiter (adv. & prep. + acc.)\n9\t\n10\t## 基本信息\n11\t- **语言**: 拉丁语\n12\t- **词性**: adv. & prep. + acc.\n13\t- **词源**: 来自 `circus` (circle); 字面义 \"round about\"\n14\t\n15\t## 释义\n16\t\n17\t1. **Adv.** — of time, designating nearness to a fixed point, about, near, approximately\n18\t   a. *diebus circiter quindecim* — about fifteen days (Caes. B.G. 2.2)\n19\t   b. *hora diei circiter quarta* — about the fourth hour of the day (Caes. B.G. 4.23)\n20\t   c. *circiter triennium* — about three years (Plaut.)\n21\t\n22\t2. **Adv.** — of place (rare), round about, on every side\n23\t\n24\t3. **Prep. + acc.** — (rare) of place or time: about, near\n25\t   a. *loca haec circiter* — somewhere about here (Plaut.)\n26\t\n27\t## 关联词汇\n28\t- [[circum (prep. + acc.)]] — around\n29\t- [[circus, -i m.]] — circle, ring\n30\t\n31\t## 复习提示\n32\t**高频混淆警告**: 不要与 `celeriter` (quickly) 混淆。`circiter` = \"大约\" (时间/数量), `celeriter` = \"迅速地\" (方式)。\n33\t\n34\tIn BG 5.26: *Diebus circiter XV* = \"About 15 days,\" not \"Quickly within 15 days.\"\n35\t"
+          }
+        ],
+        "asyncStatus": "completed",
+        "agentId": "a87785f795a37601d",
+        "startedAt": 1784721810138,
+        "outputToolId": "call_00_ELDwEWuW12FrUdII8E5N6291",
+        "result": "Here is the structured list extracted from all 20 files:\n\n```\n1.  nāscor, nāscī, nātus sum | v. dep. 第三变位异态动词 | 出生、产生、兴起 (to be born, spring forth, arise)\n2.  tormentum, -ī | n. 第二变格 | 酷刑、刑具; 弩炮、投石机 (torture, rack; catapult)\n3.  quantus, -a, -um | adj. 疑问/关系形容词 一/二变格 | 多大、多少; 如同……般大 (how great/much; as great as)\n4.  tantus, -a, -um | adj. 指示形容词 一/二变格 | 如此大、如此多 (so great, so much, so many)\n5.  temerārius, -a, -um | adj. 一/二变格 | 轻率的、鲁莽的、不顾后果的 (rash, heedless, reckless)\n6.  imperītus, -a, -um | adj. 一/二变格 + 属格 | 无经验的、无知的、不谙……的 (inexperienced, ignorant)\n7.  videor, vidērī, vīsus sum | v. dep. 第二变位异态动词 | 似乎、显得、被认为 (to seem, appear, be thought)\n8.  quoad | adv. / conj. 不变词 | 只要; 直到; 就……而言 (as long as; until; as far as)\n9.  praeficiō, praeficere, praefēcī, praefectus | v. trans. 第三变位 -iō 型 | 任命……掌管、使……统率 (to put in command of)\n10. aliter | adv. 不变词 | 否则、以不同方式 (otherwise, differently)\n11. praeter | adv. / prep. + acc. 不变词 | 经过、超出; 除……之外 (past, beyond; besides; except)\n12. peragō, peragere, perēgī, perāctus | v. trans. 第三变位 | 完成、做完、执行到底 (to finish, complete, accomplish)\n13. cōnscrībō, cōnscrībere, cōnscrīpsī, cōnscrīptus | v. trans. 第三变位 | 征兵、登记入册; 撰写、编写 (to enroll/levy; to compose)\n14. medeor, medērī | v. dep. 第二变位异态动词 + 与格 | 治疗、补救、纠正 (to heal, cure, remedy)\n15. moror, morārī, morātus sum | v. dep. 第一变位异态动词 | 拖延、逗留、耽搁 (to delay, tarry, linger)\n16. dō, dare, dedī, datus | v. trans. 第一变位 不规则 | 给予; 准许; 造成 (to give; to grant; to cause)\n17. contineō, continēre, continuī, contentus | v. trans. 第二变位 | 包含、围住; 抑制、约束 (to contain, hold together, restrain)\n18. collocō, collocāre, collocāvī, collocātus | v. trans. 第一变位 | 安置、驻扎、部署 (to place, station, arrange)\n19. dēdō, dēdere, dēdidī, dēditus | v. trans. 第三变位 | 交出、投降、献身于 (to surrender, give up, devote)\n20. circiter | adv. & prep. + acc. 不变词 | 大约、左右 (时间/数量) (about, approximately)\n```\n\nA few summary observations:\n\n- **Part-of-speech distribution**: 6 adjectives (items 3-6, plus tantus and quantus), 9 verbs including 4 deponent verbs (nascor, videor, medeor, moror), 4 indeclinable particles (quoad, aliter, praeter, circiter), and 1 noun (tormentum).\n- **Deponent verbs** (form passive, meaning active): nāscor, videor, medeor, moror -- all marked with \"dep.\" in their filenames.\n- **Case government** worth noting: praeficiō governs dative of the thing/person commanded over; medeor governs dative; imperītus commonly takes genitive; praeter takes accusative.\n- The glosses are drawn from the \"释义\" (English definitions) section of each file and condensed into a Chinese + English summary per your example format.",
+        "completedAt": 1784721851055
+      },
+      "call_02_5OePuNUUKZfRtzZUH9L15774": {
+        "id": "call_02_5OePuNUUKZfRtzZUH9L15774",
+        "description": "Read word card batch 3 (S,R,P)",
+        "prompt": "Read the following Latin word card files and extract for each: the headword (first line/heading), grammatical info, and a very short Chinese or English gloss (one line summary). Return results as a structured list.\n\nFiles to read (absolute paths):\n1. D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\ratiō, -ōnis f..md\n2. D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\suspiciō, -ōnis f..md\n3. D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\sīcut (adv., conj.).md\n4. D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\pertineō, pertinēre, pertinuī, (pertentus) 2..md\n5. D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\praestō (adv.).md\n6. D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\certior fīō (idiom).md\n7. D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\palam (adv. & prep. + abl.).md\n8. D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\interim (adv.).md\n9. D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\vereor, verērī, veritus sum 2. (dep.).md\n10. D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\orior, orīrī, ortus sum 4. (dep.).md\n11. D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\manus, -ūs f..md\n\nFor each file, output format:\n```\nHEADWORD | GRAMMATICAL INFO | GLOSS\n```\nExample: `amplus, -a, -um | adj. 一/二变格 | 显赫的、尊贵的、大的`\n",
+        "mode": "async",
+        "isExpanded": false,
+        "status": "completed",
+        "toolCalls": [
+          {
+            "id": "call_00_N2fgGceWq9XckYxw0gK88868",
+            "name": "Read",
+            "input": {
+              "file_path": "D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\ratiō, -ōnis f..md"
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "1\t---\n2\tcreated: 2026-07-19\n3\tlanguage: 拉丁语\n4\ttags: [vocabulary, language/latin]\n5\tstatus: seedling\n6\t---\n7\t\n8\t# ratiō, -ōnis f.\n9\t\n10\t## 基本信息\n11\t- **语言**: 拉丁语\n12\t- **词性**: f. (第三变格)\n13\t- **词源**: 源自 *reor, rērī, ratus sum* (to reckon, think); 字面义为\"计算的过程/结果\"\n14\t\n15\t## 释义\n16\t\n17\t1. a reckoning, account, calculation (经典通用义)\n18\t   a. *ratiōnem habēre* — 记账、记算 (见 Caes. *B.G.* 6.19 — **本课用法**)\n19\t   b. *ratiōnem īnīre* — 进行核算\n20\t   c. *ratiōnem reddere* — 报账\n21\t\n22\t2. reason, ground, motive, consideration\n23\t   a. *eā ratiōne* — 正因为此\n24\t   b. *quā ratiōne?* — 以何种方式/理由?\n25\t   c. *ratiō bellī* — 战争的理由\n26\t\n27\t3. way, manner, method, plan, system\n28\t   a. *ratiō vītae* — 生活方式\n29\t   b. *ratiō pūgnae* — 战术\n30\t\n31\t## 关联词汇\n32\t- [[reor, rērī, ratus sum 2.dep.]] (词根——\"计算、认为\")\n33\t- [[numerus, -ī m.]] (数目——相关概念)\n34\t- [[cōnsilium, -ī n.]] (计划——近义词)\n35\t\n36\t## 复习提示\n37\t- 核心义\"计算/账目\"→ 引申为\"理性/方式\"；本课用本义\n38\t- 短语：*ratiōnem habēre*（记账）、*ratiōnem reddere*（报账、给出解释）\n39\t"
+          },
+          {
+            "id": "call_01_gM61rM53hLLQHCGHkKsn1956",
+            "name": "Read",
+            "input": {
+              "file_path": "D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\suspiciō, -ōnis f..md"
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "1\t---\n2\tcreated: 2026-07-19\n3\tlanguage: 拉丁语\n4\ttags: [vocabulary, language/latin]\n5\tstatus: seedling\n6\t---\n7\t\n8\t# suspiciō, -ōnis f.\n9\t\n10\t## 基本信息\n11\t- **语言**: 拉丁语\n12\t- **词性**: f. (第三变格)\n13\t- **词源**: 源自 *suspiciō, suspicere* (to look up at, suspect); *sub-* + *speciō* (to look)\n14\t\n15\t## 释义\n16\t\n17\t1. suspicion, distrust, mistrust (经典通用义)\n18\t   a. *in suspiciōnem venīre* — 引起嫌疑/被怀疑 (见 Caes. *B.G.* 6.19 — **本课用法**)\n19\t   b. *suspiciōnem habēre* — 怀有嫌疑\n20\t   c. *suspiciōnem movēre* — 引起怀疑\n21\t   d. *suspiciō cadit in aliquem* — 嫌疑落在某人身上\n22\t\n23\t2. slight indication, hint, inkling\n24\t   a. *suspiciō māiōris malī* — 对更大灾祸的预感\n25\t\n26\t## 关联词汇\n27\t- [[suspicor, suspicārī, suspicātus sum 1.dep.]] (相关动词——\"怀疑\")\n28\t- [[suspiciō, suspicere, suspexī, suspectus 3.]] (源动词——\"仰视; 怀疑\")\n29\t- [[dubitō, dubitāre, dubitāvī, dubitātus 1.]] (怀疑——近义词)\n30\t\n31\t## 复习提示\n32\t- 本课搭配：*sī rēs in suspiciōnem venit* = \"若此事引起嫌疑\"；关注 *in + acc.* 表示\"进入……状态\"\n33\t"
+          },
+          {
+            "id": "call_02_96zsfE15MBG35fZY1l8h7810",
+            "name": "Read",
+            "input": {
+              "file_path": "D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\sīcut (adv., conj.).md"
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "1\t---\n2\tcreated: 2026-07-19\n3\tlanguage: 拉丁语\n4\ttags: [vocabulary, language/latin]\n5\tstatus: seedling\n6\t---\n7\t\n8\t# sīcut (adv., conj.)\n9\t\n10\t## 基本信息\n11\t- **语言**: 拉丁语\n12\t- **词性**: adv. / conj.\n13\t- **词源**: *sīc* + *ut*; 亦作 *sīcutī*\n14\t\n15\t## 释义\n16\t\n17\t1. just as, as, in the same way as (比较连词，经典高频义)\n18\t   a. *sīcutī in līberōs* — 正如对子女一样 (见 Caes. *B.G.* 6.19 — **本课用法**)\n19\t   b. *sīcut suprā dēmōnstrāvimus* — 如上所述 (Caesar 常用)\n20\t   c. *sīcut...ita* — 正如……同样地\n21\t\n22\t2. as for example, as for instance\n23\t   a. *sīcut multī fēcērunt* — 正如许多人那样做的\n24\t\n25\t## 关联词汇\n26\t- [[sīc (adv.)]] (如此——词根)\n27\t- [[ut (conj.)]] (如同——词根)\n28\t- [[velut (adv.)]] (正如——近义词)\n29\t\n30\t## 复习提示\n31\t- *sīcut* = *sīcutī* (同义，后者略正式)\n32\t- Caesar 高频用作比较连词，常后接省略动词的省略结构\n33\t"
+          },
+          {
+            "id": "call_03_zOQzVNqKZGT7jYdw9yrt8456",
+            "name": "Read",
+            "input": {
+              "file_path": "D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\pertineō, pertinēre, pertinuī, (pertentus) 2..md"
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "1\t---\n2\tcreated: 2026-07-21\n3\tlanguage: 拉丁语\n4\ttags: [vocabulary, language/latin]\n5\tstatus: seedling\n6\t---\n7\t\n8\t# pertineō, pertinēre, pertinuī, (pertentus) 2.\n9\t\n10\t## 基本信息\n11\t- **语言**: 拉丁语\n12\t- **词性**: v. intr. (第二变位法)\n13\t- **词源**: `per-` + `teneo` (to hold); 字面义 \"to hold through, to stretch out\"\n14\t\n15\t## 释义\n16\t\n17\t1. **To stretch out, reach, extend to a place**; to arrive at a place\n18\t   a. Construed with `ad` + acc., or with adverbs\n19\t   b. Rarely with `in` or `per` + acc.\n20\t\n21\t2. **Trop.** — To reach, extend (like Greek *dihēkein*)\n22\t   a. *eadem bonitas etiam ad multitudinem pertinet* — the same goodness extends also to the multitude (Cic.)\n23\t   b. *caritas patriae per omnes ordines pertinebat* — love of country pervaded all ranks (Liv.)\n24\t\n25\t3. **To belong, relate, concern, pertain to**, have reference to, affect\n26\t   a. *illa res ad meum officium pertinet* — that matter concerns my duty (Cic.)\n27\t   b. *quod ad plures pertinebat* — because the matter pertained to many (Caes. B.G. 5.25) -- 指此事牵涉到多数人，不是 \"tends to happen to the masses\"\n28\t\n29\t4. **To belong, be the right of** (of a right, as opposed to possession)\n30\t   a. *ad quem jure regnum pertinet* — to whom the kingdom rightfully belongs (Liv.)\n31\t\n32\t5. **To apply to, be applicable to, suit**\n33\t   a. *ad quem suspicio maleficii pertineat* — on whom suspicion should fall (Cic.)\n34\t\n35\t## 关联词汇\n36\t- [[teneō, tenēre, tenuī, tentus 2.]] — to hold\n37\t- [[pertendo, pertendere, pertendi, pertentus 3.]] — to push on, persevere\n38\t- [[pertingo, pertingere, -, - 3.]] — to stretch out, reach (synonym)\n39\t\n40\t## 复习提示\n41\t`pertineo ad` 是 Caesar 高频用法，表示 \"关系到/涉及/属于\"。`quod ad plures pertinebat` = \"因为这关系到很多人\"（是对具体事件的判断，不是普遍规律）。\n42\t"
+          },
+          {
+            "id": "call_04_FroggniLaiT5wN2D4eSI0872",
+            "name": "Read",
+            "input": {
+              "file_path": "D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\praestō (adv.).md"
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "1\t---\n2\tcreated: 2026-07-21\n3\tlanguage: 拉丁语\n4\ttags: [vocabulary, language/latin]\n5\tstatus: seedling\n6\t---\n7\t\n8\t# praestō (adv.)\n9\t\n10\t## 基本信息\n11\t- **语言**: 拉丁语\n12\t- **词性**: adv. (源自 `praestus`, 为 `prae` 的最高级形式)\n13\t- **词源**: `prae` (before) 的最高级形式; 字面义 \"in the foremost place\"\n14\t\n15\t## 释义\n16\t\n17\t1. **At hand, ready, present, here** — usually with `esse`\n18\t   a. *praesto esse alicui* — to be at hand for someone, to be ready to help/meet someone\n19\t   b. *hic praesto est* — he is here at hand\n20\t   c. *Sabino Cottaeque praesto fuissent* — they had met/been at hand for Sabinus and Cotta (Caes. B.G. 5.26)\n21\t\n22\t2. In partic.: *praesto esse* — to present oneself in a hostile manner, to resist, oppose\n23\t   a. *si quis mihi praesto fuerit cum armatis hominibus* — if anyone should oppose me with armed men (Cic.)\n24\t\n25\t## 关联词汇\n26\t- [[praestō, praestāre, praestitī, praestitus 1.]] — to excel, surpass; to perform, fulfill (动词)\n27\t- [[praestolor, praestolārī, praestolātus sum 1.]] — to wait for, expect\n28\t\n29\t## 复习提示\n30\t`praesto esse` + dat. 的核心含义是 \"在场/待命，准备应对某人\"。在 BG 5.26 中，Ambiorix 和 Catuvolcus 在边境上 \"迎接/应对\" 了 Sabinus 和 Cotta——是军事上的 \"接应/对峙\"，不是部落间的友好会面。\n31\t\n32\t注意区分: `praesto` (adv.) + `esse` 与动词 `praesto, -are` (to excel/perform) 是不同词条。\n33\t"
+          },
+          {
+            "id": "call_05_bYJUgZSv3vdM6kOR5PbK2819",
+            "name": "Read",
+            "input": {
+              "file_path": "D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\certior fīō (idiom).md"
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "1\t---\n2\tcreated: 2026-07-21\n3\tlanguage: 拉丁语\n4\ttags: [vocabulary, language/latin]\n5\tstatus: seedling\n6\t---\n7\t\n8\t# certior fio (idiom)\n9\t\n10\t## 基本信息\n11\t- **语言**: 拉丁语\n12\t- **词性**: 动词惯用短语\n13\t- **词源**: `certus` (certain) 的比较级 `certior` + `fio` (to become, be made)\n14\t\n15\t## 释义\n16\t\n17\t1. **To be informed, to learn, to be made aware of**\n18\t   a. 字面义: \"to be made more certain\"\n19\t   b. *certior factus est* — he was informed (Caes. B.G. passim)\n20\t   c. *certior fieri de aliqua re* — to be informed about something\n21\t   d. *certior factus est in hiberna perventum* — he was informed that they had reached winter quarters (Caes. B.G. 5.25)\n22\t\n23\t2. Active form: **certiorem facere aliquem** — to inform someone\n24\t   a. *Caesarem certiorem faciunt* — they inform Caesar\n25\t\n26\t## 关联词汇\n27\t- [[certus, -a, -um adj.]] — certain, fixed, determined\n28\t- [[fiō, fierī, factus sum]] — to become, be made, happen\n29\t- [[certē (adv.)]] — certainly, surely\n30\t\n31\t## 复习提示\n32\t这是 Caesar 最常用的 \"被告知\" 表达之一，全书反复出现。注意主语是被通知的人: *Caesar certior factus est* = \"Caesar was informed\"（主语是 Caesar，不是无人称的 \"it was made clear\"）。\n33\t\n34\t语法上，`certior` 是形容词比较级作主语补足语，`factus est` 是 `fio` 的完成时。后面的内容用间接陈述（acc. + inf.）表达。\n35\t"
+          },
+          {
+            "id": "call_06_jtxlBYkT5XnWIDOmE5ag2401",
+            "name": "Read",
+            "input": {
+              "file_path": "D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\palam (adv. & prep. + abl.).md"
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "1\t---\n2\tcreated: 2026-07-21\n3\tlanguage: 拉丁语\n4\ttags: [vocabulary, language/latin]\n5\tstatus: seedling\n6\t---\n7\t\n8\t# palam (adv. & prep. + abl.)\n9\t\n10\t## 基本信息\n11\t- **语言**: 拉丁语\n12\t- **词性**: adv. & prep. + abl.\n13\t- **词源**: 处所格形式，词根 `pal-/pla-` (如 `planus` = flat; 希腊语 `platus` = broad); 字面义 \"on the surface, on the open plain\"\n14\t\n15\t## 释义\n16\t\n17\t1. **Adv.** — Openly, publicly, undisguisedly, plainly\n18\t   a. Opposed to: *clam*, *occulte*, *secreto* (secretly, privately)\n19\t   b. *multis palam ex civitate auctoribus* — with many from the state openly (being) instigators (Caes. B.G. 5.25)\n20\t   c. *palam dicere* — to say openly\n21\t\n22\t2. **Prep. + abl.** — before, in the presence of one (mostly poetical and post-Augustan)\n23\t   a. *te palam* — before you, in your presence (Hor.)\n24\t   b. *palam populo* — in the presence of the people (Liv.)\n25\t   c. *palam omnibus* — before everyone (Liv.)\n26\t\n27\t## 关联词汇\n28\t- [[clam (adv. & prep.)]] — secretly, unknown to\n29\t- [[coram (adv. & prep. + abl.)]] — in the presence of, face to face\n30\t- [[apertē (adv.)]] — openly, frankly\n31\t\n32\t## 复习提示\n33\tBG 5.25 中的 *multis palam ... auctoribus* 是独立夺格结构的核心: \"with many openly instigating\" (许多人公开地作为煽动者)。`palam` 强调事情不是暗中进行的——谋杀 Tasgetius 是公开有参与者的。\n34\t"
+          },
+          {
+            "id": "call_07_L8iRYkKGSSrMrFTudG055957",
+            "name": "Read",
+            "input": {
+              "file_path": "D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\interim (adv.).md"
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "1\t---\n2\tcreated: 2026-07-21\n3\tlanguage: 拉丁语\n4\ttags: [vocabulary, language/latin]\n5\tstatus: seedling\n6\t---\n7\t\n8\t# interim (adv.)\n9\t\n10\t## 基本信息\n11\t- **语言**: 拉丁语\n12\t- **词性**: adv.\n13\t- **词源**: `inter` + 古宾格 `im`（来自 `is`）; 字面义 \"between that\"\n14\t\n15\t## 释义\n16\t\n17\t1. **Meanwhile, in the meantime** (core meaning, = *interea*)\n18\t   a. *interim ab omnibus legatis ... certior factus est* — meanwhile he was informed by all the legates (Caes. B.G. 5.25)\n19\t   b. *tu hic ante aedes interim speculare* — you meanwhile keep watch here before the house (Plaut.)\n20\t\n21\t2. **For a time, for a while** (post-Augustan)\n22\t   a. *ut uno interim contenti simus exemplo* — so that we may be content with one example for the moment (Quint.)\n23\t\n24\t3. **However, nevertheless**\n25\t   a. *interim velim mihi ignoscas* — nevertheless I would like you to forgive me (Cic.)\n26\t\n27\t4. **Sometimes** (post-Augustan)\n28\t   a. *interim ... interim* — sometimes ... sometimes\n29\t\n30\t## 关联词汇\n31\t- [[intereā (adv.)]] — meanwhile (near-synonym)\n32\t- [[inter (prep. + acc.)]] — between, among\n33\t\n34\t## 复习提示\n35\t最简单清晰的用法就是 \"meanwhile\"。BG 5.25.5: Caesar 派 Plancus 前往 Carnutes，**与此同时** (*interim*) 收到了各路将领已到达冬营的汇报。\n36\t"
+          },
+          {
+            "id": "call_08_6yEs82TpK50LlTtAcf1I1192",
+            "name": "Read",
+            "input": {
+              "file_path": "D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\vereor, verērī, veritus sum 2. (dep.).md"
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "1\t---\n2\tcreated: 2026-07-21\n3\tlanguage: 拉丁语\n4\ttags: [vocabulary, language/latin]\n5\tstatus: seedling\n6\t---\n7\t\n8\t# vereor, verērī, veritus sum 2. (dep.)\n9\t\n10\t## 基本信息\n11\t- **语言**: 拉丁语\n12\t- **词性**: v. dep. (第二变位法，异态动词)\n13\t- **词源**: 可能与 `vereor` 的原始义 \"to watch, observe with awe\" 有关\n14\t\n15\t## 释义\n16\t\n17\t1. **To fear, be afraid of, apprehend** — with reverential or respectful awe mixed with fear\n18\t   a. Differs from *timeo* (simple fear) and *metuo* (fear of danger): *vereor* implies a respectful, often moral fear\n19\t   b. *Ille **veritus**, quod ad plures pertinebat, **ne** civitas deficeret* — he, fearing (because it pertained to many) lest the state should rebel (Caes. B.G. 5.25)\n20\t\n21\t2. **To reverence, revere, respect, stand in awe of**\n22\t   a. *deos vereri* — to revere the gods\n23\t   b. *vereri patres* — to respect one's elders\n24\t\n25\t3. Constructions:\n26\t   a. With simple object (acc.): *aliquem vereri*\n27\t   b. With ***ne* + subj.** (fear that something may happen): *vereor ne veniat* — I fear he may come\n28\t   c. With ***ut* + subj.** (fear that something may not happen): *vereor ut veniat* — I fear he may not come\n29\t   d. With inf. (rare, poetic)\n30\t\n31\t## 关联词汇\n32\t- [[timeō, timēre, timuī, - 2.]] — to fear, be afraid (general fear)\n33\t- [[metuō, metuere, metuī, - 3.]] — to fear, dread (fear of danger)\n34\t- [[verendus, -a, -um]] — that is to be feared/reverenced, venerable\n35\t\n36\t## 复习提示\n37\tBG 5.25 中 *veritus ... ne civitas ... deficeret*: `vereor` + `ne` + subj. = \"fearing **lest** the state should rebel\"（害怕会发生叛乱）。这是恐惧从句的标准结构，不要译成 \"in case\"。\n38\t"
+          },
+          {
+            "id": "call_09_PRIJbaFkYEXWp66j8w0b5932",
+            "name": "Read",
+            "input": {
+              "file_path": "D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\orior, orīrī, ortus sum 4. (dep.).md"
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "1\t---\n2\tcreated: 2026-07-21\n3\tlanguage: 拉丁语\n4\ttags: [vocabulary, language/latin]\n5\tstatus: seedling\n6\t---\n7\t\n8\t# orior, orīrī, ortus sum 4. (dep.)\n9\t\n10\t## 基本信息\n11\t- **语言**: 拉丁语\n12\t- **词性**: v. dep. (第四变位法，异态动词；部分形式按第三变位)\n13\t- **词源**: 可能与希腊语 `ornumi` (to stir up) 同源; 印欧词根 *h₃er- (to rise, set in motion)\n14\t\n15\t## 释义\n16\t\n17\t1. **To rise, arise, spring up, start, begin, originate**\n18\t   a. **Of persons**: to rise, bestir oneself, get up; to be born, spring from\n19\t   b. **Of heavenly bodies**: to rise, become visible, appear\n20\t      - *orto sole* — at sunrise (Hor.)\n21\t      - *orta luce* — at daybreak (Caes.)\n22\t   c. **Of events**: to arise, break out, begin\n23\t      - *initium repentini tumultus ac defectionis ortum est* — the beginning of a sudden uprising and rebellion arose (Caes. B.G. 5.26)\n24\t      - *bellum oritur* — war breaks out\n25\t\n26\t2. **To spring from, descend from, be born of**\n27\t   a. *a nobis ortus* — descended from us\n28\t   b. *ex eadem familia ortus* — sprung from the same family\n29\t\n30\t3. Derived forms:\n31\t   a. *oriens, -entis* — the rising sun; the East, the Orient\n32\t   b. *ortus, -us* m. — a rising; origin, birth\n33\t\n34\t## 关联词汇\n35\t- [[ortus, -ūs m.]] — rising, origin, birth\n36\t- [[oriēns, -entis m.]] — the East, the rising sun\n37\t- [[nāscor, nāscī, nātus sum 3.dep.]] — to be born (synonym for \"originate from\")\n38\t- [[coepī, coepisse, coeptus]] — to begin (synonym for \"start\")\n39\t\n40\t## 复习提示\n41\tBG 5.26: *ortum est* = \"arose\" (自发产生), 不是 \"was raised\" (被某人举起)。注意 `orior` 是异态动词，完成时主动形式 `ortus sum` 译为主动义。\n42\t"
+          },
+          {
+            "id": "call_10_RQLfZ7ZQy76bXrFPCpmV8453",
+            "name": "Read",
+            "input": {
+              "file_path": "D:\\knowledgebase\\Bruce's Vault\\Areas\\语言\\拉丁语\\词库\\manus, -ūs f..md"
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "1\t---\n2\tcreated: 2026-07-21\n3\tlanguage: 拉丁语\n4\ttags: [vocabulary, language/latin]\n5\tstatus: seedling\n6\t---\n7\t\n8\t# manus, -ūs f.\n9\t\n10\t## 基本信息\n11\t- **语言**: 拉丁语\n12\t- **词性**: n. f. (第四变格法)\n13\t- **词源**: 词根 *man-/ma-* (to measure); 梵语 *ma* (measure, moon); 古高地德语 *mund* (hand)\n14\t\n15\t## 释义\n16\t\n17\t1. **A hand**\n18\t   a. *manus dextra / sinistra* — right / left hand\n19\t   b. *manum dare* — to give the hand; to surrender\n20\t\n21\t2. **A hand, handwriting; work, workmanship**\n22\t   a. *librarii manus* — the scribe's hand (Cic.)\n23\t   b. *Praxitelis manus* — the work of Praxiteles (Mart.)\n24\t\n25\t3. **Force, violence, fighting, close combat** \n26\t   a. *res venit ad manus atque ad pugnam* — the matter came to blows and fighting (Cic.)\n27\t   b. *in manus venire* — to come to close quarters (Sall.)\n28\t\n29\t4. **An armed force, corps of soldiers, band of men** (military)\n30\t   a. *magnam manum conducere* — to gather a large band (Caes. B.G. 5.27)\n31\t   b. *magna manu ad castra oppugnatum venerunt* — they came with a large band to attack the camp (Caes. B.G. 5.26)\n32\t\n33\t5. **Power, control**\n34\t   a. *in tua manu est* — it is in your power\n35\t   b. *haec non sunt in nostra manu* — these things are not in our power (Cic.)\n36\t\n37\t6. **The trunk of an elephant** (Cic. N.D. 2.47)\n38\t\n39\t7. **In milit. lang.: *ferreae manus*** — grappling-irons (iron hooks for boarding enemy ships)\n40\t\n41\t## 关联词汇\n42\t- [[manceps, -cipis m.]] — purchaser, contractor (< manus + capio)\n43\t- [[mancipium, -ii n.]] — formal purchase; slave\n44\t\n45\t## 复习提示\n46\tBG 5.26: *magna manu* — 此处 `manus` = \"band/force\" (武装团伙), 不是 \"hand\"。Caesar 常说 *manus* 来指代军队中不成建制的分队或临时的武装力量，区别于 *legio* (军团) 和 *exercitus* (全军)。\n47\t"
+          }
+        ],
+        "asyncStatus": "completed",
+        "agentId": "a04218250191b9f1c",
+        "startedAt": 1784721815267,
+        "result": "Here are the extracted results in the requested format:\n\n```\nratiō, -ōnis f. | f. 第三变格 | 计算、账目；理性、方式、理由\nsuspiciō, -ōnis f. | f. 第三变格 | 怀疑、猜疑、不信任\nsīcut (adv., conj.) | adv. / conj. | 正如、如同；例如\npertineō, pertinēre, pertinuī, (pertentus) 2. | v. intr. 第二变位法 | 延伸、到达；涉及、关系到、属于\npraestō (adv.) | adv. | 在手边、在场、准备好\ncertior fīō (idiom) | 动词惯用短语 | 被告知、获悉、得知\npalam (adv. & prep. + abl.) | adv. & prep. + abl. | 公开地、公然；在……面前\ninterim (adv.) | adv. | 与此同时、在此期间\nvereor, verērī, veritus sum 2. (dep.) | v. dep. 第二变位法、异态动词 | 害怕、敬畏；尊敬、敬重\norior, orīrī, ortus sum 4. (dep.) | v. dep. 第四变位法、异态动词 | 升起、出现、开始、爆发\nmanus, -ūs f. | f. 第四变格法 | 手；武装力量、一队人马\n```",
+        "completedAt": 1784721835227
+      }
+    }
+  },
+  "currentNote": "Areas/语言/拉丁语/词库/拉丁语单词总表.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 8170,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 27264,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 35434,
+    "percentage": 18
+  }
+}

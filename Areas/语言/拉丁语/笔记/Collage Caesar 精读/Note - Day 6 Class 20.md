@@ -28,14 +28,31 @@ XXVI
 		quae dē rē commūnī dicere vellent, 
 			\[quibus rēbus] contrōversiās ==minuī== posse spērārent. 
 
-② Mittitur ad eōs colloquendī causā Gaius Arpīnēius, eques Rōmānus, familiāris Quintī Titūrī, et Quintus Iūnius ex Hispāniā quīdam, quī iam ante missū Caesaris ad Ambiorīgem ventitāre cōnsuērat; apud quōs Ambiorīx ad hunc modum locūtus est:
+② Mittitur ad eōs \[colloquendī causā] Gaius Arpīnēius, (eques Rōmānus, familiāris Quintī Titūrī), 
+**et** *Quintus Iūnius* ex Hispāniā quīdam, quī \[iam ante] \[missū Caesaris] ad Ambiorīgem ventitāre cōnsuērat; 
+
+apud quōs Ambiorīx ad hunc modum locūtus est:
+③ sēsē \[prō Caesaris \[in sē] beneficiīs] plūrimum eī ==cōnfitērī== **debēre**, 
+**quod** \[eius operā] ==stīpendiō== liberātus esset, 
+	**quod** Aduatucīs, fīnitimīs suīs, ==pendere== cōnsuēsset, 
+**quodque** eī *et fīlius et fratris fīlius* ab Caesare remissī essent, 
+	**quōs** Aduatucī \[obsidum numerō] missōs \[apud sē] \[in servitūte et ==catēnīs==] ==tenuissent==; 
 
 ## 英文翻译
 XXVI
 ① Then, they claimed according to their custom 
 	that someone go forth from us to talk, 
 	and that the one hold themselves, who wished to speak about the public affairs, 
-	with which affairs they wished the controversies were able to be diminished. 
+	with which affairs they wished the controversies were able to be molified. 
+
+② Gaius Arpineius, a Roman knight, friend of Quintus Titurus, was sent to them for negociation, and so was the same Quitus Iunius, who was already accostuemd to go to Ambiogrix at Caesar's sending. 
+
+to them Ambiorix said in this way,   
+③ that they shoud confess a lot to Caesar, because of his good deeds to them, 
+that he was freed from taxation due to his efforts, which his neighbours, the Aduactuci, were used to paying. 
+and that to him both his son and the son of his brother were sent back by Caesar, who, sent among the Aduactuci into slavery and chains, they held as hostage.  
+
+
 
 
 
