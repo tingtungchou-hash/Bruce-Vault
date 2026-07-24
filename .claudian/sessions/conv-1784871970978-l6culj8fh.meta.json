@@ -1,0 +1,25 @@
+{
+  "id": "conv-1784871970978-l6culj8fh",
+  "providerId": "claude",
+  "title": "Create Caesar reading notes and vocab",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784871970978,
+  "updatedAt": 1784872020821,
+  "lastResponseAt": 1784872020821,
+  "sessionId": "fbbdc8a9-c191-4b0d-a63e-cc249c150863",
+  "selectedModel": "opus",
+  "providerState": {
+    "providerSessionId": "fbbdc8a9-c191-4b0d-a63e-cc249c150863"
+  },
+  "currentNote": "Areas/语言/拉丁语/笔记/Collage Caesar 精读/College Caesar 精读.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 296,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 33792,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 34088,
+    "percentage": 17
+  }
+}

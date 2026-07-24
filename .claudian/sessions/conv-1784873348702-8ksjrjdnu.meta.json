@@ -1,0 +1,25 @@
+{
+  "id": "conv-1784873348702-8ksjrjdnu",
+  "providerId": "claude",
+  "title": "Summarize a story passage",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784873348702,
+  "updatedAt": 1784873368125,
+  "lastResponseAt": 1784873368125,
+  "sessionId": "60d602af-921a-451c-a744-04aa09379be2",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "60d602af-921a-451c-a744-04aa09379be2"
+  },
+  "currentNote": "Areas/语言/拉丁语/笔记/Collage Caesar 精读/Note - Day 6 Class 20.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 2298,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 27136,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 29434,
+    "percentage": 15
+  }
+}
