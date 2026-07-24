@@ -183,3 +183,10 @@ https://history.pku.edu.cn/xspy/tzgg/20000e900944421bafc2bf9932ac899a.htm
 | 外文历史名著选读 (下)           | 2   | 91   |
 | 哲学导论                   | 2   | 88.5 |
 [[大一综测计算器.html]]
+
+# 马可波罗计划与罗马一大留学
+## 马可波罗计划 
+意大利驻华大使馆（北京）- 意大利留学
+[[Studiare in Italia]] 
+Studiare in Italia 网站 - 入境、居住、入学
+[[PROCEDURES FOR ENTRY, RESIDENCY AND ENROLMENT OF INTERNATIONAL STUDENTS AND THE RESPECTIVE RECOGNITION OF QUALIFICATIONS FOR HIGHER EDUCATION COURSES IN ITALY]]

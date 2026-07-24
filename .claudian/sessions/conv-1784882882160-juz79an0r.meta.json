@@ -1,0 +1,24 @@
+{
+  "id": "conv-1784882882160-juz79an0r",
+  "providerId": "claude",
+  "title": "Translate Italian document paragraph by paragraph",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784882882160,
+  "updatedAt": 1784885911239,
+  "lastResponseAt": 1784885911239,
+  "sessionId": "0c8f899a-bf3f-41ec-a4b0-680254b12258",
+  "selectedModel": "opus",
+  "providerState": {
+    "providerSessionId": "0c8f899a-bf3f-41ec-a4b0-680254b12258"
+  },
+  "usage": {
+    "model": "opus",
+    "inputTokens": 1140,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 53120,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 54260,
+    "percentage": 27
+  }
+}
