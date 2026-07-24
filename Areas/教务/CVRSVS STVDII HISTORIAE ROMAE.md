@@ -185,8 +185,18 @@ https://history.pku.edu.cn/xspy/tzgg/20000e900944421bafc2bf9932ac899a.htm
 [[大一综测计算器.html]]
 
 # 马可波罗计划与罗马一大留学
-## 马可波罗计划 
-意大利驻华大使馆（北京）- 意大利留学
+## 章程文件
+### 意大利驻华大使馆（北京）- 意大利留学
 [[Studiare in Italia]] 
-Studiare in Italia 网站 - 入境、居住、入学
-[[PROCEDURES FOR ENTRY, RESIDENCY AND ENROLMENT OF INTERNATIONAL STUDENTS AND THE RESPECTIVE RECOGNITION OF QUALIFICATIONS FOR HIGHER EDUCATION COURSES IN ITALY]]
+### Studiare in Italia 网站
+#### 意大利高等教育课程国际学生入境、居留、注册及相关学历承认程序
+1. [[PROCEDURES FOR ENTRY, RESIDENCY AND ENROLMENT OF INTERNATIONAL STUDENTS AND THE RESPECTIVE RECOGNITION OF QUALIFICATIONS FOR HIGHER EDUCATION COURSES IN ITALY]]
+#### 马可波罗计划
+1. [[PROGETTI MARCO POLO E TURANDOT]]
+2. [[Disposizioni_MARCO_POLO_AA_2026-27_DEF.pdf]] 
+3. [[马可波罗计划-2026-2027学年程序]]
+#### 十步留学意大利
+1. [[The 10-steps-path to Study in Italy]]
+### 罗马一大文件
+1. [[admission_procedures_orientation_and_information_1.pdf]]
+

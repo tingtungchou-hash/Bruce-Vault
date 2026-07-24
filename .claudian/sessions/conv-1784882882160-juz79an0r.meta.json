@@ -4,8 +4,8 @@
   "title": "Translate Italian document paragraph by paragraph",
   "titleGenerationStatus": "success",
   "createdAt": 1784882882160,
-  "updatedAt": 1784885911239,
-  "lastResponseAt": 1784885911239,
+  "updatedAt": 1784887901375,
+  "lastResponseAt": 1784887901375,
   "sessionId": "0c8f899a-bf3f-41ec-a4b0-680254b12258",
   "selectedModel": "opus",
   "providerState": {
@@ -13,12 +13,12 @@
   },
   "usage": {
     "model": "opus",
-    "inputTokens": 1140,
+    "inputTokens": 595,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 53120,
+    "cacheReadInputTokens": 86528,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 54260,
-    "percentage": 27
+    "contextTokens": 87123,
+    "percentage": 44
   }
 }
