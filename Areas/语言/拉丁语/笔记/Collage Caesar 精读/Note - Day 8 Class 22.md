@@ -44,19 +44,18 @@ Caesarem arbitrārī profectum in Ītaliam;
 	\[sine certā rē] Ambiorīgem \[ad eiusmodī cōnsilium] dēscendisse? 
 
 ⑥ Suam sententiam \[in utramque partem] esse ==tūtam==: 
-	**sī** nihil esset ==dūrius==, nūllō \[cum perīculō] \[ad proximam legiōnem] perventūrōs; 
+	**sī** nihil esset ==dūrius==, \[nūllō cum perīculō] \[ad proximam legiōnem] perventūrōs; 
 	**sī** Gallia omnis \[cum Germānīs] cōnsentīret, ūnam esse in celeritāte positam salūtem
 
 ⑦ Cottae quidem atque eōrum, quī dissentīrent, 
-=> cōnsilium <= quem habēre ==exitum==, in quō sī praesēns perīculum nōn, at certē longinquā obsidiōne famēs esset timenda?
-
-⑦ The plan of Cotta and those who disagree, 
+=> cōnsilium quem habēre ==exitum==, 
+**in quō** sī praesēns perīculum nōn, at certē \[longinquā obsidiōne] | famēs esset timenda?
 
 ## 英文翻译
 XXIX 
-① Against this Titurius kept shouting (ironically ?) that he'll do it lately 
+① Against this Titurius kept shouting (ironically ?) that he'll do it ~~lately~~ ***too late***  
 when the greater forces of the enemy, joined with the Germans had gathered together, 
-or when someone had been carried into the neighbouring winter camps because of injury, 
+or when someone had been carried into the neighbouring winter camps because of ~~injury~~ ***the catastrophe***, 
 that the fit time of consulting and meditating is short, 
 and that he estimates Caesar to have set out to Italy. 
 
@@ -70,11 +69,12 @@ the Rhine is near; the death of Ariovistus and our previous victories are of gre
 
 ⑤ At last, who's able to convince himself with this, namely that Ambiorix, without a certain reason, would have resorted to this kind of plan? 
 
-⑥ His argument is secured from all reasonings: 
-If nothing is hard, nothing would come with danger to the neighbouring legion; 
-If the entire Gallia agrees with the Germans, then safety should be placed in the first place fast. 
+⑥ His argument ~~is secured from all reasonings~~ ***is safe on either side***: 
+If nothing is hard, ~~nothing~~ ***they (the Romans)*** would come with ***no*** danger to the neighbouring legion; 
+If the entire Gallia agrees with the Germans, then ***their only way to*** safety ~~should be~~ ***is*** placed in ~~the first place fast~~ ***being quick***. 
 
-
+⑦ The plan of Cotta and those who disagree, ~~which they has as the~~ ***what*** result ***will it lead to***? 
+if there's no perils present in it, ~~and~~ ***yet*** certainly with the prolonged siege, ~~why should~~ the famine ***is bound to*** be feared? 
 
 ## 词汇积累
 
