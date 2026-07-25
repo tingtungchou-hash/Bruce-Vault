@@ -4,21 +4,21 @@
   "title": "Create Caesar reading notes and index",
   "titleGenerationStatus": "success",
   "createdAt": 1784967945816,
-  "updatedAt": 1784972427782,
-  "lastResponseAt": 1784972427782,
+  "updatedAt": 1784976157402,
+  "lastResponseAt": 1784976157402,
   "sessionId": "562905c0-5bd2-4774-9cd5-08e2573c3589",
-  "selectedModel": "haiku",
+  "selectedModel": "opus",
   "providerState": {
     "providerSessionId": "562905c0-5bd2-4774-9cd5-08e2573c3589"
   },
   "usage": {
-    "model": "haiku",
-    "inputTokens": 1894,
+    "model": "opus",
+    "inputTokens": 174,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 54400,
+    "cacheReadInputTokens": 100480,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 56294,
-    "percentage": 28
+    "contextTokens": 100654,
+    "percentage": 50
   }
 }

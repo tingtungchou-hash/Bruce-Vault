@@ -1,0 +1,22 @@
+{
+  "id": "conv-1784977906444-9tbefu5m7",
+  "providerId": "claude",
+  "title": "Complete 论证结构 from Flower 2014",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784977906445,
+  "updatedAt": 1784978232758,
+  "lastResponseAt": 1784978103848,
+  "sessionId": null,
+  "selectedModel": "opus",
+  "currentNote": "Areas/学业/文献库/罗马政治文化/文献笔记/Note - Flower (2014) Consensus & Community in Republican Rome.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 478,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 64000,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 64478,
+    "percentage": 32
+  }
+}
