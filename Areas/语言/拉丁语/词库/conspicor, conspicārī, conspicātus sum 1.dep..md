@@ -22,7 +22,9 @@ status: seedling
 
 ## 关联词汇
 - [[cōnspiciō, cōnspicere, cōnspexī, cōnspectus 3.]] (同源及物动词——更常见于 Cicero 等)
-- [[speciō]] (看——古典拉丁语中罕见，多为复合词词根)
+- [[speciō, specere, spexī, spectus 3.]] (看——古典拉丁语中罕见，多为复合词词根)
+- [[suspiciō, -ōnis f.]] (怀疑)
+- [[spectō, spectāre, spectāvī, spectātus 1.]] （看——更常见的形式）
 
 ## 复习提示
 

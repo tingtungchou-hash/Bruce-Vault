@@ -10,7 +10,7 @@ status: seedling
 ## 基本信息
 - **语言**: 拉丁语
 - **词性**: f. (第三变格)
-- **词源**: 源自 *suspiciō, suspicere* (to look up at, suspect); *sub-* + *speciō* (to look)
+- **词源**: 源自 *suspiciō, suspicere* (to look up at, suspect); *sub-* + [[speciō, specere, spexī, spectus 3.|speciō]] (to look)
 
 ## 释义
 
@@ -27,6 +27,8 @@ status: seedling
 - [[suspicor, suspicārī, suspicātus sum 1.dep.]] (相关动词——"怀疑")
 - [[suspiciō, suspicere, suspexī, suspectus 3.]] (源动词——"仰视; 怀疑")
 - [[dubitō, dubitāre, dubitāvī, dubitātus 1.]] (怀疑——近义词)
+- [[speciō, specere, spexī, spectus 3.]] 
+- [[spectō, spectāre, spectāvī, spectātus 1.]] 
 
 ## 复习提示
 - 本课搭配：*sī rēs in suspiciōnem venit* = "若此事引起嫌疑"；关注 *in + acc.* 表示"进入……状态"

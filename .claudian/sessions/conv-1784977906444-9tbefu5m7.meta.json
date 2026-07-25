@@ -1,22 +1,25 @@
 {
   "id": "conv-1784977906444-9tbefu5m7",
   "providerId": "claude",
-  "title": "Complete 论证结构 from Flower 2014",
+  "title": "Extract ancient sources from Flower text",
   "titleGenerationStatus": "success",
   "createdAt": 1784977906445,
-  "updatedAt": 1784978232758,
-  "lastResponseAt": 1784978103848,
-  "sessionId": null,
+  "updatedAt": 1784989203278,
+  "lastResponseAt": 1784989203278,
+  "sessionId": "da4ccb5b-4b5b-49c6-81cd-f0052e7c59db",
   "selectedModel": "opus",
+  "providerState": {
+    "providerSessionId": "da4ccb5b-4b5b-49c6-81cd-f0052e7c59db"
+  },
   "currentNote": "Areas/学业/文献库/罗马政治文化/文献笔记/Note - Flower (2014) Consensus & Community in Republican Rome.md",
   "usage": {
     "model": "opus",
-    "inputTokens": 478,
+    "inputTokens": 731,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 64000,
+    "cacheReadInputTokens": 57984,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 64478,
-    "percentage": 32
+    "contextTokens": 58715,
+    "percentage": 29
   }
 }

@@ -68,6 +68,6 @@ status: evergreen
 
 > [[Morstein-Marx_Mass Oratory Political Power Later Republic [2004].pdf#page=161&selection=17,14,30,55|③]] John Zaller’s findings about public opinion, which I dis- cussed briefly in the introduction:145 “public opinion” is not a concrete, independent object that is “out there” to be “found” and “measured” by a neutral observer or “heard” by a politician, but an artefact created in the process of being articulated, frequently by someone with a political ob- jective in doing so, out of the chaotic mass of often contradictory actual concerns and interests that exist in a given population
 
-> [[Morstein-Marx_Mass Oratory Political Power Later Republic [2004].pdf#page=172&selection=72,2,85,62|④]]A more productive way to view the phe- nomenon that is being examined is therefore as a process of “opinion- and will-formation” in which the contio was not merely the central venue but above all the essential instrument in the hands of members of the ´elite seek- ing to create and objectify a “verdict of the Roman People.” T
+> [[Morstein-Marx_Mass Oratory Political Power Later Republic [2004].pdf#page=172&selection=72,2,85,62|④]]A more productive way to view the phe- nomenon that is being examined is therefore as a process of “opinion- and will-formation” in which the contio was not merely the central venue but above all the essential instrument in the hands of members of the ´elite seek- ing to create and objectify a “verdict of the Roman People.” 
 ## 后续问题
 
