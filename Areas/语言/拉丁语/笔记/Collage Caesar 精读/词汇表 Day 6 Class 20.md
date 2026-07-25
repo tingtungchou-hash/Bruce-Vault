@@ -4,7 +4,7 @@ tags: [vocabulary, language/latin, course]
 status: seedling
 ---
 
-[[College Caesar 精读|返回导航]] | [[词汇表 Day 5 Class 19|上一篇]]
+[[College Caesar 精读|返回导航]] | [[词汇表 Day 5 Class 19|上一篇]] | [[词汇表 Day 7 Class 21|下一篇]] 
 
 ---
 

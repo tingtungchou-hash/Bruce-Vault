@@ -18,7 +18,7 @@ status: seedling
 7. ★ [[occultō, occultāre, occultāvī, occultātus 1.|occultō]] — 隐藏、藏匿、掩盖 (1, 源自 occulō)
 8. [[observō, observāre, observāvī, observātus 1.|observō]] — 观察、遵守、遵循、尊敬 (1, ob- + servō)
 9. ★ [[patior, patī, passus sum 3.dep.|patior]] — 忍受、遭受、允许 (3.dep., cf. Gk. πάσχω)
-10. [[tollō, tollere, sustulī, sublātus 3.|tollō]] — 举起、拿走、消除、废除 (3, cf. Gk. τλῆναι)
+10. ★ [[tollō, tollere, sustulī, sublātus 3.|tollō]] — 举起、拿走、消除、废除 (3, cf. Gk. τλῆναι)
 
 ## 名词
 
