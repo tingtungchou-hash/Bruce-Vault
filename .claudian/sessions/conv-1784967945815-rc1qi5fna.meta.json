@@ -1,0 +1,25 @@
+{
+  "id": "conv-1784967945815-rc1qi5fna",
+  "providerId": "claude",
+  "title": "Create Caesar reading notes and index",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784967945816,
+  "updatedAt": 1784968066106,
+  "lastResponseAt": 1784968066106,
+  "sessionId": "562905c0-5bd2-4774-9cd5-08e2573c3589",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "562905c0-5bd2-4774-9cd5-08e2573c3589"
+  },
+  "currentNote": "Areas/语言/拉丁语/笔记/Collage Caesar 精读/College Caesar 精读.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 102,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 54144,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 54246,
+    "percentage": 27
+  }
+}

@@ -4,14 +4,13 @@
   "title": "Compile French vocab into master list",
   "titleGenerationStatus": "success",
   "createdAt": 1784904616603,
-  "updatedAt": 1784904749428,
+  "updatedAt": 1784967910228,
   "lastResponseAt": 1784904749428,
   "sessionId": "5c8087ea-184e-47a8-bc71-bbc6d5063e5e",
   "selectedModel": "haiku",
   "providerState": {
     "providerSessionId": "5c8087ea-184e-47a8-bc71-bbc6d5063e5e"
   },
-  "currentNote": "Areas/语言/法语/笔记/速成法语/单词表 - 速成法语.md",
   "usage": {
     "model": "haiku",
     "inputTokens": 79,
