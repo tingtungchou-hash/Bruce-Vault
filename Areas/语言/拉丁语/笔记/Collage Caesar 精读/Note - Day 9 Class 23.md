@@ -37,10 +37,17 @@ commūnem \[cum reliquīs] bellī cāsum **sustineant**,
 nōn, reiectī et relēgātī \[longē ab cēterīs], **aut** ferrō **aut** fame **intereant**.’ 
 
 XXXI 
-① Cōnsurgitur ex cōnsiliō; comprehendunt utrumque et ōrant nē suā dissēnsiōne et pertināciā rem in summum perīculum dēdūcant:
+① Cōnsurgitur ex cōnsiliō; comprehendunt utrumque et ōrant 
+\[nē \[suā dissēnsiōne et pertināciā] rem in summum perīculum dēdūcant]:
+
+② facilem esse rem, **seu** maneant, **seu** proficīscantur, 
+==**sī** modo== ūnum omnēs sentiant ac probent; contrā in dissēnsiōne nūllam sē salūtem perspicere. Rēs disputātiōne ad mediam noctem perducitur.
 
 XXXI 
-① It was raised up from the council; 
+① they raised up from the council; they detained both and said,
+in case that they drag the military plan into greatest danger only due to disagreement and stubbornness, 
+that the matter is easy, either they stay, or they leave. 
+If only one feels and proves eveyone. 
 
 ## 英文翻译
 XXX 
