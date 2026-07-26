@@ -1,0 +1,26 @@
+{
+  "id": "conv-1785048296531-0hmwh1uz9",
+  "providerId": "claude",
+  "title": "Create Caesar blank note and vocabulary list",
+  "titleGenerationStatus": "success",
+  "createdAt": 1785048296531,
+  "updatedAt": 1785050828568,
+  "lastResponseAt": 1785050452769,
+  "sessionId": "7f25b148-4b6c-4e4f-93c8-748557197589",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "7f25b148-4b6c-4e4f-93c8-748557197589"
+  },
+  "currentNote": "Areas/语言/拉丁语/笔记/Collage Caesar 精读/College Caesar 精读.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 1439,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 35328,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 36767,
+    "percentage": 18
+  },
+  "resumeAtMessageId": "b09312b6-ff08-4495-bf19-d71bd1bf585c"
+}
