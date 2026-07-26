@@ -4,22 +4,21 @@
   "title": "Create Caesar blank note and vocabulary list",
   "titleGenerationStatus": "success",
   "createdAt": 1785048296531,
-  "updatedAt": 1785065798932,
-  "lastResponseAt": 1785065798932,
+  "updatedAt": 1785069065728,
+  "lastResponseAt": 1785069065728,
   "sessionId": "7f25b148-4b6c-4e4f-93c8-748557197589",
   "selectedModel": "opus",
   "providerState": {
     "providerSessionId": "7f25b148-4b6c-4e4f-93c8-748557197589"
   },
-  "currentNote": "Areas/语言/拉丁语/笔记/Collage Caesar 精读/College Caesar 精读.md",
   "usage": {
     "model": "opus",
-    "inputTokens": 919,
+    "inputTokens": 27,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 50944,
+    "cacheReadInputTokens": 96640,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 51863,
-    "percentage": 26
+    "contextTokens": 96667,
+    "percentage": 48
   }
 }

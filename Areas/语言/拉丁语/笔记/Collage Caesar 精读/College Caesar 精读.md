@@ -7,6 +7,7 @@ status: seedling
 # 课程资料
 [[collegecaesar.14jan25.pdf|College Caesar - Goeffery Staedman]]
 说明：15课之前的课程无电子化计划。
+[[拉丁语单词总表]] 
 
 ## 笔记索引
 

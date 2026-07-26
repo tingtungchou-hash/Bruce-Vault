@@ -1,0 +1,25 @@
+{
+  "id": "conv-1785069547826-c79onfh6j",
+  "providerId": "claude",
+  "title": "Update Latin vocabulary master list",
+  "titleGenerationStatus": "success",
+  "createdAt": 1785069547826,
+  "updatedAt": 1785069836170,
+  "lastResponseAt": 1785069836170,
+  "sessionId": "79f65414-eda4-4a90-b743-29d9007ad8b5",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "79f65414-eda4-4a90-b743-29d9007ad8b5"
+  },
+  "currentNote": "Areas/语言/拉丁语/词库/拉丁语单词总表.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 79,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 121344,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 121423,
+    "percentage": 61
+  }
+}

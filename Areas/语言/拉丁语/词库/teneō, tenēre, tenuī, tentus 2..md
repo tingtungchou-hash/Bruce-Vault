@@ -43,6 +43,7 @@ status: seedling
 ## 关联词汇
 - [[contineō, continēre, continuī, contentus 2.]] (一起握/包含——"包含、限制")
 - [[pertineō, pertinēre, pertinuī, (pertentus) 2.]] (延伸至——"涉及、属于")
+- [[sustineō, sustinēre, sustinuī, sustentus 2.]]
 - [[manus, -ūs f.]] (手)
 
 ## 复习提示
