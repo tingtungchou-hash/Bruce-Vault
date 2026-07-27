@@ -4,22 +4,23 @@
   "title": "Review English translation",
   "titleGenerationStatus": "success",
   "createdAt": 1785135948353,
-  "updatedAt": 1785135984515,
-  "lastResponseAt": 1785135984515,
+  "updatedAt": 1785137339623,
+  "lastResponseAt": 1785137207364,
   "sessionId": "4fc967af-7d1f-40fc-b381-c9924b86cb11",
-  "selectedModel": "haiku",
+  "selectedModel": "opus",
   "providerState": {
     "providerSessionId": "4fc967af-7d1f-40fc-b381-c9924b86cb11"
   },
   "currentNote": "Areas/语言/拉丁语/笔记/Collage Caesar 精读/Note - Day 10 Class 24.md",
   "usage": {
-    "model": "haiku",
-    "inputTokens": 1870,
+    "model": "opus",
+    "inputTokens": 703,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 27520,
+    "cacheReadInputTokens": 38400,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 29390,
-    "percentage": 15
-  }
+    "contextTokens": 39103,
+    "percentage": 20
+  },
+  "resumeAtMessageId": "74e7fb26-1393-417a-822c-caafcc630c82"
 }

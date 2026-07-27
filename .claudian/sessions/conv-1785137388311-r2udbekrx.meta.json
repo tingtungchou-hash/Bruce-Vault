@@ -1,0 +1,25 @@
+{
+  "id": "conv-1785137388311-r2udbekrx",
+  "providerId": "claude",
+  "title": "Explain /校对翻译 skill versions",
+  "titleGenerationStatus": "success",
+  "createdAt": 1785137388312,
+  "updatedAt": 1785139834613,
+  "lastResponseAt": 1785139834613,
+  "sessionId": "dc787aff-d8c0-4f0b-b43d-6cb4d90ec3ea",
+  "selectedModel": "opus",
+  "providerState": {
+    "providerSessionId": "dc787aff-d8c0-4f0b-b43d-6cb4d90ec3ea"
+  },
+  "currentNote": "Areas/语言/拉丁语/笔记/Collage Caesar 精读/Note - Day 10 Class 24.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 241,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 85504,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 85745,
+    "percentage": 43
+  }
+}
