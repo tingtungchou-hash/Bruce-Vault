@@ -11,16 +11,18 @@ status: seedling
 
 ## 笔记索引
 
-| 日期           | 课号  | 笔记链接                      | 单词表                    | 内容概述        |
-| ------------ | --- | ------------------------- | ---------------------- | ----------- |
-| 2026/7/17    | 15  | [[Note - Day 1 Class 15]] | [[词汇表 Day 1 Class 15]] | BG VI.15-17 |
-| 2026/7/18    | 16  | [[Note - Day 2 Class 16]] | [[词汇表 Day 2 Class 16]] | BG VI.17-18 |
-| 2026/7/19    | 17  | [[Note - Day 3 Class 17]] | [[词汇表 Day 3 Class 17]] | BG VI.19-20 |
-| 2026/7/20    | 18  | [[Note - Day 4 Class 18]] | [[词汇表 Day 4 Class 18]] | BG V.24     |
-| 2026/7/21    | 19  | [[Note - Day 5 Class 19]] | [[词汇表 Day 5 Class 19]] | BG V.25-26  |
-| 2026/7/22-23 | 20  | [[Note - Day 6 Class 20]] | [[词汇表 Day 6 Class 20]] |             |
-| 2026/7/24    | 21  | [[Note - Day 7 Class 21]] | [[词汇表 Day 7 Class 21]] |             |
-| 2026/7/25    | 22  | [[Note - Day 8 Class 22]] | [[词汇表 Day 8 Class 22]] |             |
-| 2026/7/26    | 23  | [[Note - Day 9 Class 23]] | [[词汇表 Day 9 Class 23]] |             |
+| 日期           | 课号  | 笔记链接                       | 单词表                     | 内容概述        |
+| ------------ | --- | -------------------------- | ----------------------- | ----------- |
+| 2026/7/17    | 15  | [[Note - Day 1 Class 15]]  | [[词汇表 Day 1 Class 15]]  | BG VI.15-17 |
+| 2026/7/18    | 16  | [[Note - Day 2 Class 16]]  | [[词汇表 Day 2 Class 16]]  | BG VI.17-18 |
+| 2026/7/19    | 17  | [[Note - Day 3 Class 17]]  | [[词汇表 Day 3 Class 17]]  | BG VI.19-20 |
+| 2026/7/20    | 18  | [[Note - Day 4 Class 18]]  | [[词汇表 Day 4 Class 18]]  | BG V.24     |
+| 2026/7/21    | 19  | [[Note - Day 5 Class 19]]  | [[词汇表 Day 5 Class 19]]  | BG V.25-26  |
+| 2026/7/22-23 | 20  | [[Note - Day 6 Class 20]]  | [[词汇表 Day 6 Class 20]]  |             |
+| 2026/7/24    | 21  | [[Note - Day 7 Class 21]]  | [[词汇表 Day 7 Class 21]]  |             |
+| 2026/7/25    | 22  | [[Note - Day 8 Class 22]]  | [[词汇表 Day 8 Class 22]]  |             |
+| 2026/7/26    | 23  | [[Note - Day 9 Class 23]]  | [[词汇表 Day 9 Class 23]]  |             |
+| 2026/7/27    | 24  | [[Note - Day 10 Class 24]] | [[词汇表 Day 10 Class 24]] |             |
+| 2026         |     |                            |                         |             |
 
 [[主页|返回主页]] 

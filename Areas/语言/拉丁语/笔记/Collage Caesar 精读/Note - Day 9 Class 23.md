@@ -12,7 +12,7 @@ status: seedling
 
 # Note - Day 9 Class 23
 
-[[College Caesar 精读|返回导航]] | [[Note - Day 8 Class 22|上一篇]]
+[[College Caesar 精读|返回导航]] | [[Note - Day 8 Class 22|上一篇]] | [[Note - Day 10 Class 24|下一篇]] 
 
 ---
 
