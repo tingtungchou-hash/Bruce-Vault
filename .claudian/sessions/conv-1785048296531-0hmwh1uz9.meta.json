@@ -4,8 +4,8 @@
   "title": "Create Caesar blank note and vocabulary list",
   "titleGenerationStatus": "success",
   "createdAt": 1785048296531,
-  "updatedAt": 1785069065728,
-  "lastResponseAt": 1785069065728,
+  "updatedAt": 1785135904936,
+  "lastResponseAt": 1785135904936,
   "sessionId": "7f25b148-4b6c-4e4f-93c8-748557197589",
   "selectedModel": "opus",
   "providerState": {
@@ -13,12 +13,12 @@
   },
   "usage": {
     "model": "opus",
-    "inputTokens": 27,
+    "inputTokens": 1075,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 96640,
+    "cacheReadInputTokens": 101632,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 96667,
-    "percentage": 48
+    "contextTokens": 102707,
+    "percentage": 51
   }
 }
