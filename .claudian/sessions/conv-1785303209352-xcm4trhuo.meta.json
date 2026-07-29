@@ -1,0 +1,25 @@
+{
+  "id": "conv-1785303209352-xcm4trhuo",
+  "providerId": "claude",
+  "title": "Create blank Caesar note for today",
+  "titleGenerationStatus": "success",
+  "createdAt": 1785303209352,
+  "updatedAt": 1785303234603,
+  "lastResponseAt": 1785303234603,
+  "sessionId": "c21fee26-4e3c-4457-8630-c5726fb1cfdc",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "c21fee26-4e3c-4457-8630-c5726fb1cfdc"
+  },
+  "currentNote": "Areas/语言/拉丁语/笔记/Collage Caesar 精读/College Caesar 精读.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 71,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 32384,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 32455,
+    "percentage": 16
+  }
+}
