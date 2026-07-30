@@ -24,5 +24,6 @@ status: seedling
 | 2026/7/26    | 23  | [[Note - Day 9 Class 23]]  | [[词汇表 Day 9 Class 23]]  |             |
 | 2026/7/27    | 24  | [[Note - Day 10 Class 24]] | [[词汇表 Day 10 Class 24]] |             |
 | 2026/7/29    | 25  | [[Note - Day 11 Class 25]] | [[词汇表 Day 11 Class 25]] |             |
+| 2026/7/30    | 26  | [[Note - Day 12 Class 26]] | [[词汇表 Day 12 Class 26]] |             |
 
 [[主页|返回主页]] 
