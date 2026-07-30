@@ -4,14 +4,13 @@
   "title": "Create blank Caesar note for today",
   "titleGenerationStatus": "success",
   "createdAt": 1785398941766,
-  "updatedAt": 1785406572332,
+  "updatedAt": 1785419515097,
   "lastResponseAt": 1785406572332,
   "sessionId": "9cea54d1-0f30-41e0-bdc5-48865f953fc5",
   "selectedModel": "opus",
   "providerState": {
     "providerSessionId": "9cea54d1-0f30-41e0-bdc5-48865f953fc5"
   },
-  "currentNote": "Areas/语言/拉丁语/笔记/Collage Caesar 精读/College Caesar 精读.md",
   "usage": {
     "model": "opus",
     "inputTokens": 3340,

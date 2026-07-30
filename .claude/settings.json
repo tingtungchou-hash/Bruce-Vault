@@ -7,7 +7,9 @@
       "Edit",
       "Glob",
       "Grep",
-      "Bash(python3)"
+      "Bash(python3)",
+      "Bash(cd \"D:/knowledgebase/Bruce's Vault/Resources/lewis-short-json-master\" && python3 -c \"\nimport json\ndef find_entry\\(filename, key\\):\n    with open\\(filename, 'r', encoding='utf-8'\\) as f:\n        data = json.load\\(f\\)\n    for entry in data:\n        if entry.get\\('key'\\) == key:\n            return entry\n    return None\n\n# Test with 'unde'\nentry = find_entry\\('ls_U.json', 'unde'\\)\nif entry:\n    print\\(json.dumps\\(entry, indent=2, ensure_ascii=False\\)[:3000]\\)\nelse:\n    print\\('NOT FOUND'\\)\n\")",
+      "Bash(node -e ' *)"
     ],
     "permissionGroups": {
       "vault-ops": {
