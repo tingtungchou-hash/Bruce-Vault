@@ -4,8 +4,8 @@
   "title": "Create blank Caesar note for today",
   "titleGenerationStatus": "success",
   "createdAt": 1785303209352,
-  "updatedAt": 1785312792653,
-  "lastResponseAt": 1785312792653,
+  "updatedAt": 1785316510818,
+  "lastResponseAt": 1785316510818,
   "sessionId": "c21fee26-4e3c-4457-8630-c5726fb1cfdc",
   "selectedModel": "opus",
   "providerState": {
@@ -13,12 +13,12 @@
   },
   "usage": {
     "model": "opus",
-    "inputTokens": 67,
+    "inputTokens": 603,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 100992,
+    "cacheReadInputTokens": 103424,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 101059,
-    "percentage": 51
+    "contextTokens": 104027,
+    "percentage": 52
   }
 }

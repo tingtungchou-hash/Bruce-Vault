@@ -46,7 +46,7 @@ et quotiēns quaeque cohors prōcurrerat, \[ab eā parte] magnus numerus hostium
 ③ Quā rē animadversā, *Ambiorix* prōnūntiārī iubet, 
 **ut** procul tēla ==coniciant== neu propius **accēdant** **et**, 
 quam in partem Rōmānī impetum **fēcerint**, **cēdant** (levitāte armōrum et cōtidiānā exercitātiōne nihil eīs ==nocērī== posse), 
-④ rūrsus sē \[ad signa] recipientēs **īnsequantur**.
+④ rūrsus sē \[ad signa] recipientēs **īnsequantur**. 
 
 XXXV
 ① \[Quō praeceptō \[ab eīs] dīligentissimē observātō], 
