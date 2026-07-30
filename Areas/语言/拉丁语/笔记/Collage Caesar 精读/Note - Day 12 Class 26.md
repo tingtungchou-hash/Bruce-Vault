@@ -26,11 +26,11 @@ XXXV
 ③ Rūrsus 
 **cum** \[in eum locum] <= ==unde== erant ēgressī | ==revertī== **coeperant**, 
 **et** ab eīs <= quī cesserant 
-**et** ab eīs <= quī \[proximī] steterant **circumveniēbantur**
+**et** ab eīs <= quī \[proximī] steterant **circumveniēbantur** 
 
 ④ ==sīn== autem locum tenēre **vellent**, 
-**nec** virtūtī locus **relinquēbatur** 
-**neque** \[ab tantā multitūdine] \[coniecta tēla] ==confertī== vitāre **poterant**.
+**nec** virtūtī ==locus== **relinquēbatur** 
+**neque** \[ab tantā multitūdine] \[coniecta tēla] ==confertī== vitāre **poterant**. 
 
 ⑤ Tamen \[tot incommodīs ==cōnflictātī==], \[multīs vulneribus acceptīs], **resistēbant**; 
 **et** \[magnā parte diēī cōnsūmptā], 
@@ -54,21 +54,23 @@ interpretem suum Gnaeum Pompeium ad eum mittit rogātum
 ② Ille appellātus respondit: 
 si velit sēcum colloquī, licēre; 
 spērāre \[ā multitūdine] impetrārī posse, **quod** ad mīlitum salūtem **pertineat**; 
-ipsī \[vērō] *nihil* nocitum īrī, **inque** eam rem sē suam fīdem interpōnere. 
-Ille cum Cottā sauciō commūnicat, 
+ipsī \[vērō] nihil nocitum īrī, 
+\[in**que** eam rem] sē suam fīdem ==interpōnere==. 
 
-② Ambiorix, after being called (by Titurius), responded: 
-if he wishes to talk with him, he allows; 
-he can wish to be obtained by the people what pertains to the safety of the soldiers; 
-to he himself, nothign injured truly 
+Ille cum Cottā sauciō commūnicat, 
+③ sī videātur, \[pugnā ut **excēdant** et \[cum Ambiorīge ūnā] colloquantur]: 
+spērāre \[ab eō] \[de suā ac mīlitum salūte] impetrārī posse. 
+Cotta sē \[ad armātum hostem] itūrum | **negat** 
+atque in eō persevērat.
+  
 ## 英文翻译
 XXXV 
 ③ Again when they started returning to the place whence they went out, they were surrounded both by those who were going and those who stood nearby. 
 
-④ Still, however they wanted to hold the position, 
-the place was neither given up to their valour, nor were the soldiers clustered densely together able to avoid the javelins thrown by such many enemies. 
+④ ~~Still, however they wanted to hold the position,~~ ***But if they wanted to hold the position,*** 
+neither there's place left for valour, nor were the soldiers clustered densely together able to avoid the javelins thrown by such many enemies. 
 
-⑤ However, these soldiers, who had received such misfortune, suffered multiple wounds, still resisted; and, with a large part of the day spent, after they fought from the very moring to the 10th hour of the day, they commited nothing that is indignant according to them.  
+⑤ However, these soldiers, who had received such misfortune, suffered multiple wounds, still resisted; and, with a large part of the day spent, ~~after they fought from the very moring to the 10th hour of the day~~ ***while the fighting was carried on from first light to the eighth hour of the day***, they commited nothing that is unworthy of them.  
 
 ⑥ Then, Titus Balventius, who held the position of primus pilus in the last year, a brave man of great esteem, was pierced by a tragula (gallian javelin) at each thigh. 
 
@@ -83,7 +85,15 @@ after seeing Ambiorix encouraging his men afar,
 sent his own messenger Gnaeus Pompeius 
 to ask him to spare him and his army. 
 
+② Ambiorix, after being called (by Titurius), responded: 
+if he wishes to talk with him, he allows; 
+~~he can wish to be obtained by the people what pertains to the safety of the soldiers~~ ***he hoped that what concerned the soldiers' safety could be obtained from the multitude***; 
+to he himself, nothing is truly going to be harmed, 
+~~and to this matter, he includes his own faith.~~ ***and on this matter, he pledged his own word.*** 
 
+Titurius shares the wound (the message?) with Cotta, 
+③ if it seems apropriate, he wish that they go out from fight and talk with Ambiorix together, and that he is able to ensure the safety of him and the soldiers from him. 
+Cotta denied that he would go to an armed enemy ~~and persevered against Titurius~~ ***and persisted in this (stance).***
 ## 词汇积累
 
 [[词汇表 Day 12 Class 26]]
