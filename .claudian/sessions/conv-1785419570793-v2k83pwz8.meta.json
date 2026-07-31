@@ -4,8 +4,8 @@
   "title": "评估翻译中的词汇记忆价值",
   "titleGenerationStatus": "success",
   "createdAt": 1785419570794,
-  "updatedAt": 1785419683776,
-  "lastResponseAt": 1785419683776,
+  "updatedAt": 1785421890116,
+  "lastResponseAt": 1785421890116,
   "sessionId": "b0f580d1-4ce1-459b-b3b8-9144356cc3fa",
   "selectedModel": "opus",
   "providerState": {
@@ -263,12 +263,12 @@
   "currentNote": "Areas/语言/拉丁语/笔记/Collage Caesar 精读/Note - Day 12 Class 26.md",
   "usage": {
     "model": "opus",
-    "inputTokens": 27903,
+    "inputTokens": 24,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 0,
+    "cacheReadInputTokens": 78592,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 27903,
-    "percentage": 14
+    "contextTokens": 78616,
+    "percentage": 39
   }
 }

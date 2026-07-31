@@ -12,7 +12,7 @@ status: seedling
 
 1. [[reposcō, reposcere, —, — 3.]] -- to demand back, exact, require; BG 5.30 *abs tē ratiōnem reposcent* (3)
 2. ★ [[sustineō, sustinēre, sustinuī, sustentus 2.]] -- to undergo, bear, endure; BG 5.30 *commūnem bellī cāsum sustineant* (2)
-3. [[intereō, interīre, interiī, interitus irreg.]] -- to perish, die; BG 5.30 *aut ferrō aut famē intereant* (irreg.)
+3. ★ [[intereō, interīre, interiī, interitus irreg.]] -- to perish, die; BG 5.30 *aut ferrō aut famē intereant* (irreg.)
 4. [[augeō, augēre, auxī, auctus 2.]] -- to increase, enlarge; BG 5.31 *perīculum augeātur* (2)
 
 ## 名词
