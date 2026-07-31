@@ -5,30 +5,34 @@ tags: [vocabulary, language/latin]
 status: seedling
 ---
 
-# negotium, -i n.
+# negōtium, -ī n.
 
 ## 基本信息
 - **语言**: 拉丁语
 - **词性**: n. n. (第二变格法)
-- **词源**: *nec + otium* "不闲" -- 即"有事做"。cf. Paul. ex Fest.: *negotium, quod non sit otium*
+- **词源**: *nec* + *ōtium* (not-leisure); "that which is not leisure" → business, trouble. cf. Paul. ex Fest.: *negotium, quod non sit otium*
 
 ## 释义
-1. 事务，业务，职业，工作
-   a. 日常/法律/商业事务: *forensia negotia* 诉讼事务; *negotium administrare / procurare / suscipere / transigere* 处理/承办/承担/办结事务
-   b. 国事: *nostrum otium negotii inopia constitutum est* 我的闲暇是因无事可做而非贪图安逸
-   c. 商业/贸易: *negotii gerentes* 商人; *negotium gerere* 做生意
-   d. 诉讼案件
-   e. 转义:
-      - **困难，麻烦，辛劳**: *negotium facessere / exhibere alicui* 给某人添麻烦; *nullo negotio* 毫不费力; *magno negotio* 费很大力气
-      - **事情，东西** (用于 *quid negotii est?* = "怎么回事/有什么问题?"): *ineptum negotium et Graeculum* 又蠢又希腊式的事情
-2. (特定语境) **危机，关键时刻，行动中** -- *in ipsō negōtiō* = 在危机/行动当时
+
+1. business, employment, occupation, affair
+   a. *negōtia forensia* — public/legal business; *negōtium suscipere* — to undertake a task
+   b. *negōtium suum agere/gerere* — to mind one's own business; *negōtiī gerentēs* — businessmen/tradesmen
+
+2. difficulty, pains, trouble, labor
+   a. *nihil negōtī est* + inf. — there is no difficulty in... (see Caes. *B.G.* 5.38: *nihil esse negōtī* — **本课用法**)
+   b. *magnum negōtium est* + inf. — it is a great trouble to...
+   c. *negōtium facessere/exhibēre alicui* — to give someone trouble
+   d. *nūllō negōtiō* — with no trouble, easily; *facilī negōtiō* — with little trouble
+
+3. a matter, thing, affair (like Gk. *πρᾶγμα*)
+   a. *quid negōtī est?* — what's the matter?; *ineptum negōtium* — a silly affair
 
 ## 关联词汇
-- [[ōtium, -ī n.]] -- 闲暇，安逸
+- [[ōtium, -ī n.]] (闲暇 — 反义词/词源相关)
+- [[negōtior, negōtiārī 1.dep.]] (做生意 — 派生动词)
+- [[negōtiātor, -ōris m.]] (商人、银行家 — 派生名词)
+- [[rēs, reī f.]] (事情、事务 — 近义)
+- [[labōr, -ōris m.]] (劳动、困难 — 近义)
 
 ## 复习提示
-
-## 本课用法
-- **出处**: BG 5.33.1 -- *quī in ipsō negōtiō cōnsilium capere cōguntur*
-- **语法**: *in ipsō negōtiō* -- "在危机当时/在行动当中"（不是"在他自己的任务中"）
-- **语义**: 义项 2 是本课的用法关键，不同于常见的"事务"义项。比较 *quid negotii est?* 的用法，negōtium 在口语化/动态语境中的语义比"business"宽得多。
+*nihil negōtī* 是 *nihil* + 部分属格（partitive genitive）的固定搭配，字面 "nothing of trouble" = "no difficulty at all"。今天翻译中误译为 "nothing of troubles"（语体和语义均有偏差）。注意区分义项 1（事务）与义项 2（困难）——CG 中义项 2 较常见。
