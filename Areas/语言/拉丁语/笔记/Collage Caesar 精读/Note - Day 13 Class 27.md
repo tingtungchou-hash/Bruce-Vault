@@ -63,12 +63,8 @@ neque noctem neque diem intermittit peditātum**que** sēsē subsequī **iubet**
 ③ interfectōs esse lēgātōs duōs 
 magnam**que** partem exercitūs interīsse demōnstrat;
 
-④ nihil esse negōtī, subitō oppressam legiōnem quae cum Cicerōne hiemet interficī; sē ad eam rem profitētur adiūtōrem. Facile hāc ōrātiōne Nerviīs persuādet.
-
-② After the matter had been demonstrated and the Aduatuci was incited, Ambiorix went to the Nervii the next day, and urged that they do not lose the opportunity of their perpetual libertation and revenge against Romans 
-in return of what injustice they receive:  
-
-③ He demonstrated that two legates and a large part of the Roman army was killed. 
+④ nihil esse negōtī, \[subitō oppressam] => legiōnem <= quae cum Cicerōne hiemet interficī; sē \[ad eam rem] ==profitētur== adiūtōrem. 
+Facile hāc ōrātiōne Nerviīs persuādet.
 
 ## 英文翻译
 XXXVII 
@@ -79,23 +75,30 @@ he obeyed the order and ordered his men to do the same.
 
 ② meanwhile, when they talked about the conditions (of surrender) among themselves, and the conversation was arranged to be longer by the decision of Ambiorige, Sabinus, gradually surrounded, was killed.   
 
-③ Then indeed at his death they shouted, "victory", 
+③ Then indeed ~~at his death~~ ***after their custom*** they shouted, "victory", 
 uttered hawling, and, through launching an attack against our men, they throw the soldiers into confusion. 
 
 ④ Here Lucius Cotta was killed when fighting with a great part of the soldiers, 
 and the remaining ones retreated into the camps whence they set out. 
 
-⑤ Out of them Lucius Petrosidius the standard-carrier, since he was chased by a great number of enemies, threw the standard into the valley; He was killed when fighting most courageously for the camps. 
+⑤ Out of them Lucius Petrosidius the standard-carrier, since he was chased by a great number of enemies, threw the standard into the ramparts; He was killed when fighting most courageously ~~for the camps~~ ***in front of the camp***. 
 They endured the fight till night with difficulties. 
 
-⑥ at night, all soldiers, to the one same outcome unanimously, with the hope for safety busted, commited suisides. 
+⑥ at night, all soldiers, ~~to the one same outcome unanimously~~ ***to the last man***, with the hope for safety busted, commited suisides. 
 
 ⑦ A few soldiers who slided from the battle reached Titus Labienus the legate in the winter camps through an uncertain path through the forests, 
 and informed him of what had happened. 
 
 XXXVIII
-① Inspired by this victory, Ambiorix immediately set out with the cavalry to the Aduatucos, who were near to his kingdom; He wasted neither a day or a night, and he ordered the infantry to follow him. 
+① Inspired by this victory, Ambiorix immediately set out with the cavalry to the Aduatucos, who were near to his kingdom; ~~He wasted neither a day or a night~~ ***He let neither night nor day pass***, and he ordered the infantry to follow him. 
 
+② After the matter had been demonstrated and the Aduatuci was incited, Ambiorix went to the Nervii the next day, and urged that they do not lose the opportunity of their perpetual libertation and revenge against Romans 
+in return of what injustice they receive:  
+
+③ He demonstrated that two legates and a large part of the Roman army was killed. 
+
+④ ~~it is professed that~~ ***he declares that*** there's nothing of troubles, that he would slaughter the legion wintering with Cicero once it is suddenly attacked, and that he is the assistant to help achieve this matter. 
+He persuaded the Nervii easily with this speech. 
 ## 词汇积累
 
 [[词汇表 Day 13 Class 27]]
