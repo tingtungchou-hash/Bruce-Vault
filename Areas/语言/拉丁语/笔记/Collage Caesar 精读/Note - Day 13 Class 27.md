@@ -26,7 +26,7 @@ XXXVII
 ① Sabīnus 
 quōs \[in praesentiā] => tribūnōs mīlitum \[circum sē] **habēbat** 
 et prīmōrum ōrdinum centuriōnēs sē sequī **iubet** 
-**et**, **cum** propius Ambiorīgem **accessisset**, iussus arma abicere, 
+**et**, **cum** propius Ambiorīgem **accessisset**, iussus arma ==abicere==, 
 imperātum **facit** suīs**que** | ut idem faciant | **imperat**. 
 
 ② Interim, dum \[==dē== condiciōnibus inter sē] ==agunt== 
@@ -36,6 +36,30 @@ paulātim circumventus interficitur.
 ③ Tum vērō \[suō mōre] ‘Victōriam’ conclāmant 
 **atque** ululātum **tollunt** \[impetū**que** \[in nostrōs] factō] ōrdinēs perturbant. 
 
+④ Ibi Lucius Cotta pugnāns interficitur cum maximā parte mīlitum. 
+Reliquī sē in castra **recipiunt** unde **erant** ēgressī;
+
+⑤ \[ex quibus] Lucius Petrosidius aquilifer, 
+**cum** \[magnā multitūdine hostium] premerētur, 
+aquilam intrā vallum proiēcit; 
+ipse \[prō castrīs] fortissimē pugnāns occīditur. 
+Illī ==aegrē== ad noctem oppugnātiōnem sustinent. 
+
+⑥ noctū \[ad unum] omnēs, \[despērātā salūte], sē ipsī interficiunt. 
+
+⑦ *Paucī \[ex proeliō] lapsī* \[incertīs itineribus] per silvās 
+ad Titum Labiēnum legātum in hīberna **perveniunt** 
+**atque** eum \[dē rēbus gestīs] certiōrem faciunt.
+
+XXXVIII
+① \[Hāc victoriā] sublātus => Ambiorīx statim \[cum equitātū] in Aduatucōs, quī erant eius regnō finītimī, **proficīscitur**; 
+neque noctem neque diem intermittit peditātum**que** sēsē subsequī **iubet**. 
+
+② \[Rē demonstrātā Aduatucīs**que** concitātīs] \[posterō diē] \[in Nerviōs] **pervenit** 
+==hortātur==**que**, 
+**nē** suī \[in perpetuum liberandī **atque** ulcīscendī Rōmānōs prō eīs, quās **acceperint**, iniūriīs occāsiōnem **dīmittant**:
+
+② 
 ## 英文翻译
 XXXVII 
 ① Sabinus had the military tribunes who were present around him, 
@@ -46,7 +70,21 @@ he obeyed the order and ordered his men to do the same.
 ② meanwhile, when they talked about the conditions (of surrender) among themselves, and the conversation was arranged to be longer by the decision of Ambiorige, Sabinus, gradually surrounded, was killed.   
 
 ③ Then indeed at his death they shouted, "victory", 
-uttered hawling, and, through launching an attack again
+uttered hawling, and, through launching an attack against our men, they throw the soldiers into confusion. 
+
+④ Here Lucius Cotta was killed when fighting with a great part of the soldiers, 
+and the remaining ones retreated into the camps whence they set out. 
+
+⑤ Out of them Lucius Petrosidius the standard-carrier, since he was chased by a great number of enemies, threw the standard into the valley; He was killed when fighting most courageously for the camps. 
+They endured the fight till night with difficulties. 
+
+⑥ at night, all soldiers, to the one same outcome unanimously, with the hope for safety busted, commited suisides. 
+
+⑦ A few soldiers who slided from the battle reached Titus Labienus the legate in the winter camps through an uncertain path through the forests, 
+and informed him of what had happened. 
+
+XXXVIII
+① Inspired by this victory, Ambiorix immediately set out with the cavalry to the Aduatucos, who were near to his kingdom; He wasted neither a day or a night, and he ordered the infantry to follow him. 
 
 ## 词汇积累
 

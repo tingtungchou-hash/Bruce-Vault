@@ -12,7 +12,7 @@ status: seedling
 
 # Note - Day 12 Class 26
 
-[[College Caesar 精读|返回导航]] | [[Note - Day 11 Class 25|上一篇]]
+[[College Caesar 精读|返回导航]] | [[Note - Day 11 Class 25|上一篇]] | [[Note - Day 13 Class 27|下一篇]] 
 
 ---
 
