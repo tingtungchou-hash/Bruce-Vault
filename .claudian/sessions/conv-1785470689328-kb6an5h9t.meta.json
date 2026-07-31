@@ -1,0 +1,25 @@
+{
+  "id": "conv-1785470689328-kb6an5h9t",
+  "providerId": "claude",
+  "title": "Create Caesar reading note and update nav links",
+  "titleGenerationStatus": "success",
+  "createdAt": 1785470689329,
+  "updatedAt": 1785470769290,
+  "lastResponseAt": 1785470769290,
+  "sessionId": "350dd87c-96ed-4d4c-9cee-52d7b2718e33",
+  "selectedModel": "opus",
+  "providerState": {
+    "providerSessionId": "350dd87c-96ed-4d4c-9cee-52d7b2718e33"
+  },
+  "currentNote": "Areas/语言/拉丁语/笔记/Collage Caesar 精读/College Caesar 精读.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 177,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 37376,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 37553,
+    "percentage": 19
+  }
+}

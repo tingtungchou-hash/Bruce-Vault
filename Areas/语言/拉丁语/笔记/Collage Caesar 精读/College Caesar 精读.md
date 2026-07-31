@@ -25,5 +25,6 @@ status: seedling
 | 2026/7/27    | 24  | [[Note - Day 10 Class 24]] | [[词汇表 Day 10 Class 24]] | BG V.32-33  |
 | 2026/7/29    | 25  | [[Note - Day 11 Class 25]] | [[词汇表 Day 11 Class 25]] | BG V.33-35  |
 | 2026/7/30    | 26  | [[Note - Day 12 Class 26]] | [[词汇表 Day 12 Class 26]] | BG V.35-36  |
+| 2026/7/31    | 27  | [[Note - Day 13 Class 27]] | [[词汇表 Day 13 Class 27]] | 待补充         |
 
 [[主页|返回主页]] 
