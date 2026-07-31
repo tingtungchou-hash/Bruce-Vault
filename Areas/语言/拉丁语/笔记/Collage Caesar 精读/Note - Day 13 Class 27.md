@@ -57,9 +57,19 @@ neque noctem neque diem intermittit peditātum**que** sēsē subsequī **iubet**
 
 ② \[Rē demonstrātā Aduatucīs**que** concitātīs] \[posterō diē] \[in Nerviōs] **pervenit** 
 ==hortātur==**que**, 
-**nē** suī \[in perpetuum liberandī **atque** ulcīscendī Rōmānōs prō eīs, quās **acceperint**, iniūriīs occāsiōnem **dīmittant**:
+**nē** suī \[in perpetuum] liberandī **atque** ==ulcīscendī== Rōmānōs 
+\[prō eīs], <= quās **acceperint**, => \[iniūriīs] occāsiōnem **==dīmittant==**: 
 
-② 
+③ interfectōs esse lēgātōs duōs 
+magnam**que** partem exercitūs interīsse demōnstrat;
+
+④ nihil esse negōtī, subitō oppressam legiōnem quae cum Cicerōne hiemet interficī; sē ad eam rem profitētur adiūtōrem. Facile hāc ōrātiōne Nerviīs persuādet.
+
+② After the matter had been demonstrated and the Aduatuci was incited, Ambiorix went to the Nervii the next day, and urged that they do not lose the opportunity of their perpetual libertation and revenge against Romans 
+in return of what injustice they receive:  
+
+③ He demonstrated that two legates and a large part of the Roman army was killed. 
+
 ## 英文翻译
 XXXVII 
 ① Sabinus had the military tribunes who were present around him, 
