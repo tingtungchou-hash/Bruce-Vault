@@ -4,8 +4,8 @@
   "title": "Proofread translation",
   "titleGenerationStatus": "success",
   "createdAt": 1785483045150,
-  "updatedAt": 1785501539358,
-  "lastResponseAt": 1785501539358,
+  "updatedAt": 1785567406515,
+  "lastResponseAt": 1785567363958,
   "sessionId": "e69e4108-0e8f-48d4-b6ed-4e2fbded262c",
   "selectedModel": "opus",
   "providerState": {
@@ -14,12 +14,12 @@
   "currentNote": "Areas/语言/拉丁语/笔记/Collage Caesar 精读/Note - Day 13 Class 27.md",
   "usage": {
     "model": "opus",
-    "inputTokens": 44,
+    "inputTokens": 251,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 115328,
+    "cacheReadInputTokens": 127616,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 115372,
-    "percentage": 58
+    "contextTokens": 127867,
+    "percentage": 64
   }
 }
