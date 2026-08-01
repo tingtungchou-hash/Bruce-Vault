@@ -34,7 +34,7 @@ status: seedling
 - [[capiō, capere, cēpī, captus 3.]] (拿、抓——词根)
 - [[accipiō, accipere, accēpī, acceptus 3.]] (接收)
 - [[obsideō, obsidēre, obsēdī, obsessus 2.]] (围攻——本课同现的军事动词)
-- [[via, -ae f.]] (道路——本课 *obsessīs omnibus viīs...intercipiuntur*)
+
 
 ## 复习提示
 - 复合 *capiō* 动词中，*intercipiō* 强调"中途截取、阻断通道"

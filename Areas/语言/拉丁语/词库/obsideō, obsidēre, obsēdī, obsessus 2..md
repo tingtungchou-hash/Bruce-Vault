@@ -36,9 +36,7 @@ status: seedling
 ## 关联词汇
 - [[sedeō, sedēre, sēdī, sessus 2.]] (坐——词根)
 - [[obsessiō, -ōnis f.]] (围攻、封锁)
-- [[intercipiō, intercipere, intercēpī, interceptus 3.]] (拦截——本课同现军事动词)
 - [[via, -ae f.]] (道路——本课搭配: *obsessīs...viīs*)
-- [[oppugnō, oppugnāre, oppugnāvī, oppugnātus 1.]] (进攻、突击——对比词)
 
 ## 复习提示
 - 本课出现的是完成分词 *obsessus* 的夺格形式 *obsessīs* (= "having been blockaded")
