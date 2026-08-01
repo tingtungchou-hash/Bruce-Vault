@@ -15,7 +15,7 @@ status: seedling
 - [[opprimō, opprimere, oppressī, oppressus 3.]] — overwhelm, crush, take by surprise (*subitō oppressam*)
 - ★ [[hortor, hortārī, hortātus sum 1.dep.]] — urge, exhort (*hortātur nē... dīmittant*)
 - ★ [[profiteor, profitērī, professus sum 2.dep.]] — declare, profess, offer oneself (*sē adiūtōrem profitētur*)
-- [[ulcīscor, ulcīscī, ultus sum 3.dep.]] — avenge, take vengeance on (*ulcīscendī Rōmānōs*)
+- ★ [[ulcīscor, ulcīscī, ultus sum 3.dep.]] — avenge, take vengeance on (*ulcīscendī Rōmānōs*)
 
 ## 名词
 
@@ -30,7 +30,6 @@ status: seedling
 
 
 ## 连词
-
 
 ## 补充说明
 

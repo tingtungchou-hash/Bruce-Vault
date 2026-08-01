@@ -104,4 +104,9 @@ He persuaded the Nervii easily with this speech.
 [[词汇表 Day 13 Class 27]]
 
 ## 补充说明
-
+本章出现的idioms：
+- **certiōrem facere** — inform, report (lit. "make more certain") — §7: *eum dē rēbus gestīs certiōrem faciunt*
+- **ad unum omnēs** — all to the last man, every single one — §6: *noctū ad unum omnēs... sē ipsī interficiunt*
+- **nihil negōtī est** (+ inf.) — there is no difficulty (partitive gen.) — §38.4: *nihil esse negōtī... legiōnem interficī*
+- **occāsiōnem dīmittere** — let slip an opportunity — §38.2: *nē... occāsiōnem dīmittant* 
+- **dē condiciōnibus agere** — negotiate/discuss terms — §2: *dum dē condiciōnibus inter sē agunt*
