@@ -14,6 +14,7 @@ status: seedling
 - ★ [[adipīscor, adipīscī, adeptus sum 3. dep.]] — gain, obtain, attain (*hanc adeptī victōriam...cōnfīdēbant*)
 - [[obsideō, obsidēre, obsēdī, obsessus 2.]] — besiege, blockade (*obsessīs omnibus viīs*)
 - [[excitō, excitāre, excitāvī, excitātus 1.]] — erect, raise up, build (*turrēs...excitantur*)
+- ★ [[fore (irreg. fut. inf.)]] — to be about to be, = *futūrum esse* (*sē fore victōrēs cōnfīdēbant*)
 
 ## 名词
 
@@ -27,9 +28,6 @@ status: seedling
 - ★ [[nōndum (adv.)]] — not yet (*nōndum...fāmā perlātā*)
 - [[dē imprōvīsō (adv. phrase)]] — suddenly, unexpectedly (*dē imprōvīsō...advolant*)
 
-## 不规则形式
-
-- ★ [[fore (irreg. fut. inf.)]] — to be about to be, = *futūrum esse* (*sē fore victōrēs cōnfīdēbant*)
 
 ## 连词
 
