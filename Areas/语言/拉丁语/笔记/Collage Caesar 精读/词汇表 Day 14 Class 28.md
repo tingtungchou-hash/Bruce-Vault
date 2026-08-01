@@ -10,6 +10,10 @@ status: seedling
 
 ## 动词
 
+- ★ [[intercipiō, intercipere, intercēpī, interceptus 3.]] — intercept, cut off, block (*repentīnō equitum adventū interciperentur*)
+- ★ [[adipīscor, adipīscī, adeptus sum 3. dep.]] — gain, obtain, attain (*hanc adeptī victōriam...cōnfīdēbant*)
+- [[obsideō, obsidēre, obsēdī, obsessus 2.]] — besiege, blockade (*obsessīs omnibus viīs*)
+- [[excitō, excitāre, excitāvī, excitātus 1.]] — erect, raise up, build (*turrēs...excitantur*)
 
 ## 名词
 
@@ -19,8 +23,16 @@ status: seedling
 
 ## 副词
 
+- [[cōnfestim (adv.)]] — immediately, at once (*cōnfestim dīmissīs nuntiīs*)
+- ★ [[nōndum (adv.)]] — not yet (*nōndum...fāmā perlātā*)
+- [[dē imprōvīsō (adv. phrase)]] — suddenly, unexpectedly (*dē imprōvīsō...advolant*)
+
+## 不规则形式
+
+- ★ [[fore (irreg. fut. inf.)]] — to be about to be, = *futūrum esse* (*sē fore victōrēs cōnfīdēbant*)
 
 ## 连词
 
-## 补充说明
 
+## 补充说明
+- [[Note - Day 14 Class 28#补充说明|本课补充说明]] 含 5 个习语 + 历史现在时详解
