@@ -1,0 +1,24 @@
+{
+  "id": "conv-1785640246342-uyryt25hq",
+  "providerId": "claude",
+  "title": "Create today's Caesar close-reading note",
+  "titleGenerationStatus": "success",
+  "createdAt": 1785640246343,
+  "updatedAt": 1785640373299,
+  "lastResponseAt": 1785640373299,
+  "sessionId": "971afda2-f10d-44af-84b8-5020ab951241",
+  "selectedModel": "opus",
+  "providerState": {
+    "providerSessionId": "971afda2-f10d-44af-84b8-5020ab951241"
+  },
+  "currentNote": "Areas/语言/拉丁语/笔记/Collage Caesar 精读/College Caesar 精读.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 81,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 35584,
+    "contextWindow": 1000000,
+    "contextTokens": 35665,
+    "percentage": 4
+  }
+}
