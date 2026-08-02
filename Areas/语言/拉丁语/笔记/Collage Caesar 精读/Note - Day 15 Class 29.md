@@ -47,22 +47,18 @@ colloquī sēsē velle **dīcunt**.
 ⑤ ==Errāre== eōs **dīcunt**, 
 **sī** quidquam \[ab hīs] praesidī spērent, **quī** suīs rēbus **diffīdant**; 
 sēsē tamen hōc esse \[in Cicerōnem populum**que** Rōmānum] animō, 
-**ut** nihil 
-**nisi** hīberna ==recūsent== **atque** hanc inveterāscere cōnsuētūdinem **nōlint**:
-⑥ licēre illīs incolumibus per sē ex hībernis discēdere et quāscumque in partēs velint sine metū proficīscī. 
-
-
-
-⑤ They said that if those who distrust shese things hope for any defence from them, they wander (are not able to provide help); that they, however, are of this mind towards Cicero and the Roman People, that nothing, unless they object winter quaters and do not wish this costum to grow old 
+***ut** nihil nisi hīberna* ==recūsent== **atque** hanc inveterāscere cōnsuētūdinem **nōlint**:
+⑥ licēre \[illīs ==incolumibus==] \[per sē] \[ex hībernis] discēdere 
+**et** \[quāscumque in partēs velint] \[sine metū] proficīscī. 
 
 ## 英文翻译
 XL
 ⑤ No part of the night's time is interrupted for the sake of work; 
-The capability of being tranquil is given not to illness, and not to will. 
+the opportunity of rest is given ~~not to illness, and not to will~~ ***neither to the sick nor to the wounded***. 
 
-⑥ Anything that is the work for the battle of the recent days are prepared at night; 
-Many piles are burnt, and a great number of wall pili was prepared; 
-Towers are built, feathers and armors were woven from hurdles. 
+⑥ ~~Anything that is the work for the battle of the recent days are~~ ***Whatever things are needed for the attack of the next day are*** prepared at night; 
+~~Many piles are burnt~~ ***Many fire-hardened stakes***, a great number of wall pili was prepared; 
+Towers are built up with planking, ***battlements and breastworks*** ~~feathers and armors~~ are woven from wicker hurdles. 
 
 ⑦ Cicero himself, though his health was at a low level, 
 did not even leave the night's time of him to doing nothing, 
@@ -74,6 +70,8 @@ XLI
 ② The opportunity having been given, they recalled the same things which Ambiorix had discussed with Titurius: that the whole Gaul is armed;
 ③ That the Germans had crossed the Rhine, and that the winter quaters of Caesar and others are being besieged. 
 ④ They even added about the death of Sabinus: they pointed to Ambiorix for the reason of forming trust.  
+
+⑤ They said that if they hope for any protection from those who distrust ~~shese things~~ ***their own situation***, ~~they wander (are not able to provide help)~~ ***they (the Romans) are mistaken***; that they, however, are of this mind towards Cicero and the Roman People, that they refuse nothing other than winter quaters, and they do not wish this conduct to become an established one: ⑥ it is allowed for those uninjured to leave the winter quarters by themselves and set out to any part as they wish without fear. 
 
 ## 词汇积累
 
