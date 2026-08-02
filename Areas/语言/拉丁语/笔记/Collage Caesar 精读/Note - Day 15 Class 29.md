@@ -119,14 +119,14 @@ XLI
 
 本章 Caesar 密集使用围城与防御工事的技术词汇。以下按防御体系的逻辑顺序整理：
 
-| 拉丁语 | 英语 | 说明 |
-|--------|------|------|
-| **praeūstae sudēs** | fire-hardened stakes | *prae-* + *ūrō* "烧尖端"。木桩尖端经火烧硬化，插入壁垒前的地面（类似 *cippī*），阻挡敌军推进。译为"burnt piles"丢失了战术技术含义。 |
-| **murālia pīla** | wall-pikes | *mūrālis*（"墙的"）+ *pīlum*（"标枪/javelin"）。放置在城墙/壁垒上用于投掷或刺击的长矛。与军团士兵手持的 *pīlum* 同源但不完全相同。 |
-| **turrēs contabulantur** | towers are built with planking | *con-* + *tabula*（"木板"）→ "用木板搭建/分层建造"。Caesar 时代攻城塔和防御塔均为木结构多层建筑。 |
-| **pinnae** | battlements, crenellations | 城墙顶部的锯齿状防御结构（雉堞），守军在此掩护下射击。日常义为"羽毛"，军事语境中绝不可混淆。 |
-| **lōrīcae** | breastworks, parapets | 此处非"盔甲"(= *lōrīca segmentāta*)。围城语境中指城墙顶部的护墙/胸墙，士兵在其后掩护。判定依据：*ex crātibus attexuntur*（"用枝条编织而成"）—— 不可能指金属甲胄。 |
-| **crātēs** | wicker hurdles | 柳条编织的屏障/挡板。罗马军队用其覆盖工事表面、填充土方、或作为可移动防护。轻便且易得，是 Caesar 描述围城作业时的高频词。 |
+| 拉丁语                      | 英语                             | 说明                                                                                                           |
+| ------------------------ | ------------------------------ | ------------------------------------------------------------------------------------------------------------ |
+| **praeūstae sudēs**      | fire-hardened stakes           | *prae-* + *ūrō* "烧尖端"。木桩尖端经火烧硬化，插入壁垒前的地面（类似 *cippī*），阻挡敌军推进。译为"burnt piles"丢失了战术技术含义。                        |
+| **murālia pīla**         | wall-pikes                     | *mūrālis*（"墙的"）+ *pīlum*（"标枪/javelin"）。放置在城墙/壁垒上用于投掷或刺击的长矛。与军团士兵手持的 *pīlum* 同源但不完全相同。                        |
+| **turrēs contabulantur** | towers are built with planking | *con-* + *tabula*（"木板"）→ "用木板搭建/分层建造"。Caesar 时代攻城塔和防御塔均为木结构多层建筑。                                             |
+| **pinnae**               | battlements, crenellations     | 城墙顶部的锯齿状防御结构（雉堞），守军在此掩护下射击。日常义为"羽毛"，军事语境中绝不可混淆。                                                              |
+| **lōrīcae**              | breastworks, parapets          | 此处非"盔甲"(= *lōrīca segmentāta*)。围城语境中指城墙顶部的护墙/胸墙，士兵在其后掩护。判定依据：*ex crātibus attexuntur*（"用枝条编织而成"）—— 不可能指金属甲胄。 |
+| **crātēs**               | wicker hurdles                 | 柳条编织的屏障/挡板。罗马军队用其覆盖工事表面、填充土方、或作为可移动防护。轻便且易得，是 Caesar 描述围城作业时的高频词。                                            |
 
 **防御工事层级关系**（从外到内）：
 *praeūstae sudēs*（地面障碍）→ *murālia pīla*（城墙上投掷武器）→ *turrēs*（塔楼，制高点）→ *pinnae + lōrīcae*（城垛+护墙，守军掩体）→ 均以 *crātēs*（柳条）构建或覆盖。
