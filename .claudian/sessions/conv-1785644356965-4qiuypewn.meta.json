@@ -4,8 +4,8 @@
   "title": "Proofread translation",
   "titleGenerationStatus": "success",
   "createdAt": 1785644356965,
-  "updatedAt": 1785647286127,
-  "lastResponseAt": 1785647286127,
+  "updatedAt": 1785648099081,
+  "lastResponseAt": 1785648099081,
   "sessionId": "b9ce7ca0-1eb8-4edd-8b00-9e23ae008c3e",
   "selectedModel": "opus",
   "providerState": {
@@ -14,12 +14,12 @@
   "currentNote": "Areas/语言/拉丁语/笔记/Collage Caesar 精读/Note - Day 15 Class 29.md",
   "usage": {
     "model": "opus",
-    "inputTokens": 2319,
+    "inputTokens": 593,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 52096,
+    "cacheReadInputTokens": 101120,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 54415,
-    "percentage": 27
+    "contextTokens": 101713,
+    "percentage": 51
   }
 }
