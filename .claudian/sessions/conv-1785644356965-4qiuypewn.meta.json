@@ -4,8 +4,8 @@
   "title": "Proofread translation",
   "titleGenerationStatus": "success",
   "createdAt": 1785644356965,
-  "updatedAt": 1785726779380,
-  "lastResponseAt": 1785726779380,
+  "updatedAt": 1785732439537,
+  "lastResponseAt": 1785732439537,
   "sessionId": "b9ce7ca0-1eb8-4edd-8b00-9e23ae008c3e",
   "selectedModel": "opus",
   "providerState": {
@@ -13,12 +13,12 @@
   },
   "usage": {
     "model": "opus",
-    "inputTokens": 885,
+    "inputTokens": 124,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 103680,
+    "cacheReadInputTokens": 144896,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 104565,
-    "percentage": 52
+    "contextTokens": 145020,
+    "percentage": 73
   }
 }
