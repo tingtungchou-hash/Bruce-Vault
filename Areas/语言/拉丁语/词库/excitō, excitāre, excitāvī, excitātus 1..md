@@ -34,9 +34,10 @@ status: seedling
    a. *laudēs excitāre* — to establish a reputation (Cic. Sest. 2.5)
 
 ## 关联词汇
-- [[exciō, excīre, excīvī, excitus 4.]] (源动词: 唤起)
+- [[exciō, excīre, excīvī, excitus 4.]] (源动词: 唤起) 
 - [[aedificō, aedificāre, aedificāvī, aedificātus 1.]] (建造——同义动词)
 - [[incrēdibilis, -e adj.]] (难以置信的——本课搭配: *incrēdibilī celeritāte*)
+- [[cieō, ciēre, cīvī, citus 2.]] 
 
 ## 复习提示
 - 本课用义项 2 (建筑/工程语境)，不是"唤醒"

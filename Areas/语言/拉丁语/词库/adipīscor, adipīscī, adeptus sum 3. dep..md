@@ -28,8 +28,6 @@ status: seedling
 
 ## 关联词汇
 - [[apīscor, apīscī, aptus sum 3. dep.]] (词根: 获取)
-- [[inveniō, invenīre, invēnī, inventus 4.]] (发现、找到)
-- [[cōnfīdō, cōnfīdere, cōnfīsus sum 3.]] (本课同现: *adeptī...cōnfīdēbant*)
 
 ## 复习提示
 - 异态动词，形式被动但意义主动
