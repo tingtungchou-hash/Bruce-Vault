@@ -1,0 +1,24 @@
+{
+  "id": "conv-1785754117121-z5erlfhju",
+  "providerId": "claude",
+  "title": "Explain Morstein-Marx's views on useful sources",
+  "titleGenerationStatus": "success",
+  "createdAt": 1785754117121,
+  "updatedAt": 1785754216961,
+  "lastResponseAt": 1785754216961,
+  "sessionId": "0a2919f2-a111-4886-8801-ad7e65705e75",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "0a2919f2-a111-4886-8801-ad7e65705e75"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 914,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 64896,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 65810,
+    "percentage": 33
+  }
+}
