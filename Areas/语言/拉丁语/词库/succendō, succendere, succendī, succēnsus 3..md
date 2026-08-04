@@ -30,6 +30,8 @@ status: seedling
 - [[accendō, accendere, accendī, accēnsus 3.]] (点燃——近义复合词)
 - [[incendō, incendere, incendī, incēnsus 3.]] (纵火——近义复合词)
 - [[cōnflagrō, cōnflagrāre, cōnflagrāvī, cōnflagrātus 1.]] (彻底燃烧——本课同出)
+- [[ārdeō, ārdēre, ārsī, ārsus 2.]] 
+- [[torreō, torrēre, torruī, tostus 2.]] 
 
 ## 复习提示
 - 本课 *turris succēnsa est*：塔被点着了——完成被动，描述攻城的最后环节

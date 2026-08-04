@@ -21,7 +21,7 @@ status: seedling
 ## 关联词汇
 - [[stīpō, stīpāre, stīpāvī, stīpātus 1.]] (词根——"塞满/挤满")
 - [[dēnsus, -a, -um adj.]] (密集的)
-- [[cōnferciō, cōnfercīre, cōnfersī, cōnfertus 4.]] (塞满——近义词)
+- [[conferciō, confercīre, ---, confertum 4.]] (塞满——近义词)
 
 ## 复习提示
 - 本课 *ut sē sub ipsō vallō cōnstīpāverant* (直陈过去完成时) = 因为他们把自己挤在城墙脚下——注意此处 *ut* + 直陈 = 原因从句，非结果

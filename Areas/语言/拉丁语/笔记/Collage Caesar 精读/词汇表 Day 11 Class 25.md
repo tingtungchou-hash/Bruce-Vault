@@ -11,7 +11,7 @@ status: seedling
 ## 动词
 
 1. [[arripiō, arripere, arripuī, arreptum 3.]] -- to seize, snatch, grab hastily; BG 5.33 *ab impedimentis petere atque arripere properaret*
-2. [[properō, properāre, properāvī, properātum 1.]] -- to hasten, hurry, be quick; BG 5.33 *quae quisque...arripere properaret*
+2. ★ [[properō, properāre, properāvī, properātum 1.]] -- to hasten, hurry, be quick; BG 5.33 *quae quisque...arripere properaret*
 3. [[coniciō, conicere, coniēcī, coniectum 3.]] -- to throw, hurl; (trop.) to throw into a state; BG 5.34 *procul tela coniciant*
 4. ★ [[noceō, nocēre, nocuī, nocitum 2.]] -- to harm, injure (+ dat.); BG 5.34 *nihil eis noceri posse*
 5. ★ [[cēdō, cēdere, cessī, cessum 3.]] -- to yield, retreat, give way (+ dat.); BG 5.34 *quam in partem Romani impetum fecerint, cedant*

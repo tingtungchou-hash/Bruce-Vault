@@ -4,8 +4,8 @@
   "title": "Proofread translation focusing on item ⑥",
   "titleGenerationStatus": "success",
   "createdAt": 1785824867050,
-  "updatedAt": 1785826265297,
-  "lastResponseAt": 1785826265297,
+  "updatedAt": 1785830414366,
+  "lastResponseAt": 1785830414366,
   "sessionId": "28233947-c46a-499a-9030-586144383351",
   "selectedModel": "opus",
   "providerState": {
@@ -14,12 +14,12 @@
   "currentNote": "Areas/语言/拉丁语/笔记/Collage Caesar 精读/Note - Day 17 Class 31.md",
   "usage": {
     "model": "opus",
-    "inputTokens": 132,
+    "inputTokens": 333,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 105984,
+    "cacheReadInputTokens": 116608,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 106116,
-    "percentage": 53
+    "contextTokens": 116941,
+    "percentage": 58
   }
 }
