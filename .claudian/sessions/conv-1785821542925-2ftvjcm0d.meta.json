@@ -4,8 +4,8 @@
   "title": "Create today's Caesar close-reading note",
   "titleGenerationStatus": "success",
   "createdAt": 1785821542926,
-  "updatedAt": 1785833144527,
-  "lastResponseAt": 1785833144527,
+  "updatedAt": 1785911390036,
+  "lastResponseAt": 1785911390036,
   "sessionId": "0f06c482-3110-44cb-b65c-64025324d685",
   "selectedModel": "opus",
   "providerState": {
@@ -89,12 +89,12 @@
   },
   "usage": {
     "model": "opus",
-    "inputTokens": 49,
+    "inputTokens": 52,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 119936,
+    "cacheReadInputTokens": 124288,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 119985,
-    "percentage": 60
+    "contextTokens": 124340,
+    "percentage": 62
   }
 }
