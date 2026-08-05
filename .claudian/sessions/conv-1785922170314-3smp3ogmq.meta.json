@@ -1,0 +1,25 @@
+{
+  "id": "conv-1785922170314-3smp3ogmq",
+  "providerId": "claude",
+  "title": "Explain meaning of a sentence",
+  "titleGenerationStatus": "success",
+  "createdAt": 1785922170314,
+  "updatedAt": 1785922206057,
+  "lastResponseAt": 1785922206057,
+  "sessionId": "64ccccc5-fcf1-4603-8be1-99ed9241b34e",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "64ccccc5-fcf1-4603-8be1-99ed9241b34e"
+  },
+  "currentNote": "Areas/语言/拉丁语/笔记/Collage Caesar 精读/Note - Day 18 Class 32.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 2425,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 28032,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 30457,
+    "percentage": 15
+  }
+}
