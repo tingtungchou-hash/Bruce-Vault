@@ -32,20 +32,27 @@ quī prīmīs ōrdinibus appropinquārent, Titus Pullō et Lucius Vorēnus.
 ③ Ex hīs Pullō, **cum** acerrimē ad mūnitiōnēs pugnārētur, ‘Quid dubitās,’ inquit, ‘Vorēne? aut quem locum <= tuae probandae virtūtis | exspectās?
 ④ Hic diēs dē nostrīs contrōversiīs iudicābit.’ Haec cum dīxisset, prōcēdit extrā mūnitiōnēs quae**que** pars hostium cōnfertissima est vīsa irrumpit.
 
-⑤ **Nē** Vorēnus **quidem** tum sēsē vallō continet, sed omnium veritus exīstimātiōnem subsequitur. 
+⑤ **Nē** Vorēnus **quidem** tum sēsē vallō ==continet==, sed omnium veritus exīstimātiōnem subsequitur. 
 
 ⑥ Mediocrī spatiō relictō, Pullō pīlum in hostēs immittit atque ūnum ex multitudine prōcurrentem trāicit; 
 \[quō ==percussō== et exanimātō] hunc scūtīs prōtegunt, \[in hostem] tēla ūniversī coniciunt **neque** dant regrediendī facultātem.
 
-⑦ Trānsfīgitur scūtum Pullonī et verūtum in balteō dēfīgitur.
+⑦ Trānsfīgitur scūtum Pullonī et verūtum in balteō ==dēfīgitur==.
 
 ⑧ Āvertit hic casus vāgīnam, et gladium ēdūcere cōnantī dextram **morātur** manum, impedītumque hostēs **circumsistunt**. 
 
-⑨ Succurrit inimīcus illī Vorēnus et laborantī **subvenit**. 
-⑩ \[Ad hunc] sē \[confestim] ā Pullone omnis multitūdō **convertit**:
+⑨ Succurrit *inimīcus illī Vorēnus* et laborantī **subvenit**. 
+⑩ \[Ad hunc] sē \[confestim] ā Pullone omnis multitūdō **convertit**: 
 
-⑧ This misofrtune turned away the sheath, and it delayed the right hand to draw out the sword, and the enemies surrounded the hindered. 
-⑨ The hostile Vorenus ran down to him and went to rescue of those fighting hard ⑩ All multitude turned himself from Pullo to this immediately:  
+⑪ illum verūto arbitrantur occīsum. Gladiō \[comminus] ==rem gerit== Vorēnus **atque** \[ūnō interfectō] reliquōs \[paulum] prōpellit; 
+
+⑫ dum cupidius īnstat, \[in locum dēiectus inferiōrem] **concidit**. 
+Huic rūrsus circumventō fert subsidium *Pullō*, ⑬ atque ==ambō== incolumēs, complūribus interfectīs, summā cum laude sēsē intrā mūnitiōnēs recipiunt. 
+
+⑭ Sīc fortūna \[in contentiōne et certāmine] utrumque **versāvit**, 
+**ut** *alter alterī inimīcus* auxiliō salūtīque **esset**, 
+**neque** dīiūdicārī **posset**, uter utrī virtūte anteferendus **vidērētur**. 
+
 ## 英文翻译
 XLIV
 ① There were two most courageous men, centurions in this legion, who approached the first lines - Titus Pullo and Lucius Vorenus. 
@@ -57,9 +64,22 @@ and for many years contended for the most prestigeous place of the rivalry.
 
 ⑤ Not even Vorenus then hasten himself to the rampart, but, terrified of the judgement of all fellows, followed. 
 
-⑥ Pullo threw javelins into the enemies and pierced one out of many who was running, who, having been stricken and killed, they covered with cloaks, both threw javelins into the enemies, and didn't retreat. 
+⑥ Pullo threw a javelin into the enemies and pierced one out of many who was running, who, having been stricken and killed, they (the Gauls) covered with cloaks, and all threw javelins into the enemies ***（Pullo and Vorenus）***, ~~and didn't retreat~~ ***and didn't give them no chance to retreat***. 
 
-⑦ The shield of Pullo became out of shape and the javelins tied to the belt was deformed.  
+⑦ The shield of Pullo ~~became out of shape~~ ***was pierced through*** and one javelin  ~~tied~~ ***was stuck*** to the belt ~~was deformed~~.  
+
+⑧ This misofrtune turned away the sheath, and it delayed the right hand to draw out the sword, and the enemies surrounded the hindered. 
+
+⑨ ~~The hostile~~ Vorenus ***though hostile to Pullo*** ran down ~~to him~~ and went to the rescue of the one fighting hard, ⑩ All people turned to him from Pullo immediately: 
+
+⑪ It was thought that he died of a javelin. Vorenus in close contest did the thing with a sword and, one having been killed, propelled the others a little. 
+
+⑫ When ~~cupidity took a stand~~ ***he presses on too eagerly***, thrown to an inferior place, he fell. 
+To him again surrounded Pullo gave help, ⑬ and both retreated into the camps after having killed a lot, uninjured and with the greatest cheer.  
+
+⑭ In such a way in a tention and a contest changed both soldiers, 
+namely that it the one hostile to the other was of help and safety, 
+nor was it able to be misjudged, each one to the other seemed to be better in terms of virtue. 
 ## 词汇积累
 
 [[词汇表 Day 18 Class 32]]

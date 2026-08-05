@@ -1,0 +1,25 @@
+{
+  "id": "conv-1785918470341-i7skus5qd",
+  "providerId": "claude",
+  "title": "查看校对翻译 skill 当前内容",
+  "titleGenerationStatus": "success",
+  "createdAt": 1785918470341,
+  "updatedAt": 1785920970981,
+  "lastResponseAt": 1785920970981,
+  "sessionId": "6c024815-72bc-49ce-b47a-bd41e8ce0217",
+  "selectedModel": "opus",
+  "providerState": {
+    "providerSessionId": "6c024815-72bc-49ce-b47a-bd41e8ce0217"
+  },
+  "currentNote": "Areas/语言/拉丁语/笔记/Collage Caesar 精读/Note - Day 18 Class 32.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 389,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 50048,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 50437,
+    "percentage": 25
+  }
+}
