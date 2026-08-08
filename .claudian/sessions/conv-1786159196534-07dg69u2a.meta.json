@@ -1,0 +1,25 @@
+{
+  "id": "conv-1786159196534-07dg69u2a",
+  "providerId": "claude",
+  "title": "Proofread translation",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786159196535,
+  "updatedAt": 1786160718825,
+  "lastResponseAt": 1786160718825,
+  "sessionId": "ef9bfe59-03f8-4cc7-b971-1bbec9f5501f",
+  "selectedModel": "opus",
+  "providerState": {
+    "providerSessionId": "ef9bfe59-03f8-4cc7-b971-1bbec9f5501f"
+  },
+  "currentNote": "Areas/语言/拉丁语/笔记/Collage Caesar 精读/Note - Day 19 Class 33.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 919,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 93184,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 94103,
+    "percentage": 47
+  }
+}

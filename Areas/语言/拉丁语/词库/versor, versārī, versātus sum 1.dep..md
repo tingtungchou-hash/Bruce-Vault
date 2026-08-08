@@ -26,5 +26,11 @@ status: seedling
 - [[versus, -ūs m.]] — verse, line (字面义"转动" -> "一行")
 - [[adversor, adversārī, adversātus sum 1.dep.]] — to oppose
 
+## 本课用法
+
+- BG 5.45: `Gallus inter Gallōs sine ūllā suspiciōne versātus ad Caesarem pervenit` — "作为一个高卢人，在高卢人中间活动/穿行，没有引起任何怀疑，到达了 Caesar 那里"
+- `versātus` 为完成时分词（deponent），修饰主语 `ille` (奴隶)，表示"在活动中 / 往来穿梭之后"
+- 本课强调了 `versor` 的"混迹/穿梭"义：`inter + 宾格` 表示所处的群体环境，`sine ūllā suspiciōne` 为伴随状语
+
 ## 复习提示
 - *versor in bellō* — to take part in a war
