@@ -12,7 +12,7 @@ status: seedling
 
 # Note - Day 18 Class 32
 
-[[College Caesar 精读|返回导航]] | [[Note - Day 17 Class 31|上一篇]]
+[[College Caesar 精读|返回导航]] | [[Note - Day 17 Class 31|上一篇]] | [[Note - Day 19 Class 33|下一篇]]
 
 ---
 
