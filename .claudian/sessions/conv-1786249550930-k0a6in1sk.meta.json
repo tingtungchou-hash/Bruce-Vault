@@ -1,0 +1,25 @@
+{
+  "id": "conv-1786249550930-k0a6in1sk",
+  "providerId": "claude",
+  "title": "Proofread translation",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786249550931,
+  "updatedAt": 1786251973900,
+  "lastResponseAt": 1786251973900,
+  "sessionId": "358a149d-673c-4b02-a199-68b945a2cde8",
+  "selectedModel": "opus",
+  "providerState": {
+    "providerSessionId": "358a149d-673c-4b02-a199-68b945a2cde8"
+  },
+  "currentNote": "Areas/语言/拉丁语/笔记/Collage Caesar 精读/Note - Day 20 Class 34 - 35.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 422,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 121088,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 121510,
+    "percentage": 61
+  }
+}

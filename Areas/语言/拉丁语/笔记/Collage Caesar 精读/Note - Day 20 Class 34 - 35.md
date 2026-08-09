@@ -58,27 +58,27 @@ XLVIII
 XLVII 
 ① In about the 3rd. hour of the day, informed of the arrival of Crassus by those advanced guards, Caesar marched forward 20 miles that day. 
 
-② He put Crassus at command of Samarobriva and assigned the legion, because there for the sake of surviving the wintering he gave up the bagage of the army, the hostages of the cities, the public letters and all corn which he carried down here. 
+② He put Crassus in command of Samarobriva and assigned the legion, because there for the sake of surviving the wintering he gave up the bagage of the army, the hostages of the cities, the public letters and all corn which he carried down here. 
 
-③ Fabius, in order that he was commanded, met with the legion on the journey without much delay. 
+③ Fabius, ~~in order that he was commanded~~ ***as he had been commanded***, met with the legion on the journey without much delay. 
 
-④ After realising the death of Sabinus and the annihilation of the cohorts, since all of the troops of the Treveri had come to him, Labienus, fearing that if he had set out in a manner similar to a flee out of the camps, he was not able to endure the attack of the enemies, especially since he knew that they were exalted by the recent victory, he sent letters back to Caesar, that he would lead the legion out of the camps with great danger; He wrote in details what happened among the Eburiones; He informed all the cavalry and infantry that the troops of the Treveri had laid camp 3 miles away from their camps. 
+④ After realising the death of Sabinus and the annihilation of the cohorts, since all of the troops of the Treveri had come to him, Labienus, fearing that if he ~~had set out~~ ***were to set out*** in a manner similar to a flee out of the camps, he was not able to endure the attack of the enemies, especially since he knew that they were exalted by the recent victory, he sent a letter back to Caesar ~~, that he would lead the legion out of the camps with great danger~~ ***reporting with how great danger he would lead the legion out of winter quarters***; he wrote in detail what had happened among the Eburones; ~~He informed all the cavalry and infantry that the troops of the Treveri had laid camp~~ ***he reported that all the cavalry and infantry forces of the Treveri had encamped*** three miles away from ~~their camps~~ ***his camp***. 
 
 XLVIII
-① Caesar, having approved his plan, although disappointed by the reasoning of the three legions and gave back to two of them, still stationed one legion as aid of common safety quickly. 
-He went through a long journey to the borders of the Nervii. 
-② Here he recognised from the captives who were held in Cicero's camp, and the situation was seriously in danger. 
+① Caesar, having approved his plan, ~~although disappointed by the reasoning of the three legions and gave back to two of them~~ ***although, disappointed in his expectation of three legions, he had fallen back to two***, ~~still stationed one legion as aid of common safety quickly~~ ***nevertheless placed the sole aid for the common safety in speed***. 
+He ~~went through a long journey to the borders of~~ ***came by forced marches into the territory of*** the Nervii. 
+② ~~Here~~ ***There*** he ~~recognised~~ ***learned*** from the captives ~~who were held in Cicero's camp, and the situation was seriously in danger~~ ***what was going on at Cicero's [camp] and in how great danger the situation was***. 
 
 ③ Then he persuaded someone from the Gallian cavalry with great reward to carry a letter to Cicero. 
 ④ He sent this letter, writtin in Greek letters, in case that, shall the letter be intercepted, our plan wasn't known by the enemies. 
 ⑤ If he wasn't able to go into it, Caesar instructed him to throw a javelin with the letter tied to the tip of it into the fortification of the camps. 
 ⑥ In the letter Caesar wrote that he would come with the legions quickly; he urged that Cicero keep his pristine virtue (hold the position and do not surrender). 
 
-⑦ The Gaul, terrified of danger, threw the javelin so that the letter could be received. 
+⑦ The Gaul, ~~terrified of danger~~ ***fearing the danger***, threw the javelin ~~so that the letter could be received~~ ***as he had been instructed***. 
 ⑧ This javelin cracked into a tower by chance, and wasn't noticed by our men in two days. On the third day it was spotted by a certain soldier, taken off and sent to Cicero. 
 
 ⑨ He recited the entire letter in the presence of the soldiers, and the leter gave all soldiers great joy. 
-⑩ Then the smokes of burning things were seen from afar, a matter which lefted all doubt and uncertainty of the arrival of the legions. 
+⑩ Then the smokes of burning things were seen from afar, a matter which ~~lefted~~ ***dispelled*** all doubt and uncertainty of the arrival of the legions. 
 ## 词汇积累
 
 [[词汇表 Day 20 Class 34]]
