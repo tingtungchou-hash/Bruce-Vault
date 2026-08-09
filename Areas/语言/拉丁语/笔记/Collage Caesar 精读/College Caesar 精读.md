@@ -31,6 +31,7 @@ status: seedling
 | 2026/8/3     | 30  | [[Note - Day 16 Class 30]] | [[词汇表 Day 16 Class 30]] | 待补充         |
 | 2026/8/4     | 31  | [[Note - Day 17 Class 31]] | [[词汇表 Day 17 Class 31]] | 待补充         |
 | 2026/8/5     | 32  | [[Note - Day 18 Class 32]] | [[词汇表 Day 18 Class 32]] | 待补充         |
-| 2026/8/6     | 33  | [[Note - Day 19 Class 33]] | [[词汇表 Day 19 Class 33]] | 待补充         |
+| 2026/8/8     | 33  | [[Note - Day 19 Class 33]] | [[词汇表 Day 19 Class 33]] | 待补充         |
+| 2026/8/9     | 34  | [[Note - Day 20 Class 34]] | [[词汇表 Day 20 Class 34]] | 待补充         |
 
 [[主页|返回主页]] 

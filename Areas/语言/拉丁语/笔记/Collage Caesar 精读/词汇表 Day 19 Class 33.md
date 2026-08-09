@@ -1,6 +1,9 @@
 ---
-created: 2026-08-06
-tags: [vocabulary, language/latin, course]
+created: 2026-08-08
+tags:
+  - vocabulary
+  - language/latin
+  - course
 status: seedling
 ---
 
