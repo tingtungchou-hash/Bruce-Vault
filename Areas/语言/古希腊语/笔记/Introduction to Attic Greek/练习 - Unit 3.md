@@ -12,67 +12,67 @@ status: seedling
 
 Ex. ἔργα: nom. or acc. pl. of ἔργον, ἔργου, n., work
 
-| #   | 形式        | 识别结果                         |
-| --- | --------- | ---------------------------- |
-| 1   | ἥλιον     | acc. sing. of ἥλιοϛ, the sun |
-| 2   | πόλεμοι   | nom. pl. of πόλεμοϛ,         |
-| 3   | βιβλίοις  | dat. pl. of                  |
-| 4   | παιδίου   | gen. sing. of                |
-| 5   | θεῷ       | dat. sing. of                |
-| 6   | νόσοι     | nom. pl.                     |
-| 7   | ψήφῳ      | dat. sing.                   |
-| 8   | θανάτους  | acc. pl.                     |
-| 9   | νόμον     | acc. sing.                   |
-| 10  | ἀγγέλοις  | dat. pl.                     |
-| 11  | μέτρα     | nom. or acc. pl.             |
-| 12  | δῶρα      | nom. or acc. pl.             |
-| 13  | βίων      | gen. pl.                     |
-| 14  | ὁδῶν      | gen. pl.                     |
-| 15  | ἵππου     | gen. sing.                   |
-| 16  | ἀνθρώπῳ   | dat. sing.                   |
-| 17  | νόσους    |                              |
-| 18  | ἄνεμε     |                              |
-| 19  | λόγον     |                              |
-| 20  | ἔργοις    |                              |
-| 21  | ἄδελφε    |                              |
-| 22  | στρατηγῶν |                              |
-| 23  | οἴκῳ      |                              |
-| 24  | στρατόν   |                              |
+| #   | 形式        | 识别结果                                      |
+| --- | --------- | ----------------------------------------- |
+| 1   | ἥλιον     | acc. sing. of ἥλιος, the sun, m.          |
+| 2   | πόλεμοι   | nom. pl. of πόλεμος, war, m.              |
+| 3   | βιβλίοις  | dat. pl. of βιβλίον book, n.              |
+| 4   | παιδίου   | gen. sing. of παιδίον, child, n.          |
+| 5   | θεῷ       | dat. sing. of θεός, god, m.               |
+| 6   | νόσοι     | nom. pl. νόσος sickness, f.               |
+| 7   | ψήφῳ      | dat. sing. ψήφος pebble, f.               |
+| 8   | θανάτους  | acc. pl. ψάνατος death, m.                |
+| 9   | νόμον     | acc. sing. νόμος custom, law, m.          |
+| 10  | ἀγγέλοις  | dat. pl. ἀγγέλος messenger, m.            |
+| 11  | μέτρα     | nom. or acc. pl. μέτρον measure, size, n. |
+| 12  | δῶρα      | nom. or acc. pl. δῶρον gift. n.           |
+| 13  | βίων      | gen. pl. βίος life, m.                    |
+| 14  | ὁδῶν      | gen. pl. ὁδος  road, f.                   |
+| 15  | ἵππου     | gen. sing. ἵππος horse, m.                |
+| 16  | ἀνθρώπῳ   | dat. sing. ἄνθρωπος human being, m.       |
+| 17  | νόσους    | acc. pl. νόσος sickness, f.               |
+| 18  | ἄνεμε     | voc. sing. ἄνεμος wind, m.                |
+| 19  | λόγον     | acc. sing. λόγος word, m.                 |
+| 20  | ἔργοις    | dat. sing. ἔρνον work, action, n.         |
+| 21  | ἄδελφε    | voc. sing. ἄδελφος brother, m.            |
+| 22  | στρατηγῶν | gen. pl. στρατηγός general, m.            |
+| 23  | οἴκῳ      | dat. sing. οἴκος house, m.                |
+| 24  | στρατόν   | acc. sing. στατός army, host, m.          |
 
 ## II. 给出所要求的名词形式并标明其性
 
 Ex. gen. pl. of wind: ἀνέμων, m.
 
-| # | 要求 | 答案 |
-|---|---|---|
-| 1 | nom. pl. of stone, vote | |
-| 2 | gen. sing. of war | |
-| 3 | acc. pl. of child | |
-| 4 | nom. sing. of sickness | |
-| 5 | acc. sing. of measure | |
-| 6 | nom. pl. of child | |
-| 7 | acc. sing. of gift | |
-| 8 | nom. sing. of sun | |
-| 9 | voc. pl. of god | |
-| 10 | dat. sing. of death | |
-| 11 | dat. pl. of deed | |
-| 12 | gen. pl. of man | |
-| 13 | dat. pl. of horse | |
-| 14 | dat. sing. of road | |
-| 15 | gen. pl. of word | |
-| 16 | acc. pl. of messenger | |
-| 17 | voc. sing. of life | |
-| 18 | acc. sing. of law | |
-| 19 | nom. sing. of story | |
-| 20 | gen. sing. of work | |
-| 21 | dat. pl. of brother | |
-| 22 | voc. pl. of general | |
-| 23 | nom. pl. of wind | |
-| 24 | gen. sing. of army | |
-| 25 | acc. pl. of house | |
-| 26 | dat. pl. of messenger | |
-| 27 | dat. sing. of child | |
-| 28 | acc. sing. of teacher | |
+| #   | 要求                      | 答案                       |
+| --- | ----------------------- | ------------------------ |
+| 1   | nom. pl. of stone, vote | ψήφος => ψήφοι           |
+| 2   | gen. sing. of war       | πόλεμος => πολέμου       |
+| 3   | acc. pl. of child       | παιδίον => παιδία        |
+| 4   | nom. sing. of sickness  | νόσος                    |
+| 5   | acc. sing. of measure   | μέτρον => μέτρον         |
+| 6   | nom. pl. of child       | παιδίον => παιδία        |
+| 7   | acc. sing. of gift      | δῶρον => δῶρον           |
+| 8   | nom. sing. of sun       | ἥλιος                    |
+| 9   | voc. pl. of god         | δεός => δεοί             |
+| 10  | dat. sing. of death     | θάνατος => θανάτῳ        |
+| 11  | dat. pl. of deed        | ἔργον => ἔργοις          |
+| 12  | gen. pl. of man         | ἄνθρωπος => ἀνθρωπων     |
+| 13  | dat. pl. of horse       | οἶκος => οἴκοις          |
+| 14  | dat. sing. of road      | ὁδός => ὁδῳ              |
+| 15  | gen. pl. of word        | λόγος => λόγων           |
+| 16  | acc. pl. of messenger   | ἄγγελος => ἀγγέλονς      |
+| 17  | voc. sing. of life      | βίος => βίε              |
+| 18  | acc. sing. of law       | νόμος => νόμον           |
+| 19  | nom. sing. of story     | λόγος                    |
+| 20  | gen. sing. of work      | ἔργον => ἔργου           |
+| 21  | dat. pl. of brother     | ἀδελφός => ἀδελφοῖς      |
+| 22  | voc. pl. of general     | στρατηγός => στρατηγοί   |
+| 23  | nom. pl. of wind        | ἄνεμος => ἀνέμοι         |
+| 24  | gen. sing. of army      | στρατός => στρατοῦ       |
+| 25  | acc. pl. of house       | οἶκος => οἶκους          |
+| 26  | dat. pl. of messenger   | ἄγγελος => ἀγγέλοις      |
+| 27  | dat. sing. of child     | παιδίον => παιδίῳ        |
+| 28  | acc. sing. of teacher   | διδάσκαλος => διδασκάλον |
 
 ## III. 将下列短语译成英语
 

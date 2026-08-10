@@ -4,8 +4,8 @@
   "title": "Write YAML frontmatter for Unit 3 practice note",
   "titleGenerationStatus": "success",
   "createdAt": 1786360028954,
-  "updatedAt": 1786360454351,
-  "lastResponseAt": 1786360454351,
+  "updatedAt": 1786365283342,
+  "lastResponseAt": 1786365283342,
   "sessionId": "ebd3677d-ed97-45a7-a3bc-29c319b47ed3",
   "selectedModel": "opus",
   "providerState": {
@@ -14,12 +14,12 @@
   "currentNote": "Areas/语言/古希腊语/笔记/Introduction to Attic Greek/练习 - Unit 3.md",
   "usage": {
     "model": "opus",
-    "inputTokens": 131,
+    "inputTokens": 4444,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 56832,
+    "cacheReadInputTokens": 56960,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 56963,
-    "percentage": 28
+    "contextTokens": 61404,
+    "percentage": 31
   }
 }
