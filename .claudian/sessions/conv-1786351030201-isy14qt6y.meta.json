@@ -1,0 +1,25 @@
+{
+  "id": "conv-1786351030201-isy14qt6y",
+  "providerId": "claude",
+  "title": "完善古希腊语笔记导航并补主页链接",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786351030201,
+  "updatedAt": 1786351162457,
+  "lastResponseAt": 1786351162457,
+  "sessionId": "1d5a845e-9669-459c-a4fb-4f34dd4a4076",
+  "selectedModel": "opus",
+  "providerState": {
+    "providerSessionId": "1d5a845e-9669-459c-a4fb-4f34dd4a4076"
+  },
+  "currentNote": "Areas/语言/古希腊语/笔记/Introduction to Attic Greek/Introduction to Attic Greek - D. J. Mastronarde.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 132,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 46080,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 46212,
+    "percentage": 23
+  }
+}
