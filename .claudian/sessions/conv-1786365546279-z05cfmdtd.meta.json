@@ -1,0 +1,25 @@
+{
+  "id": "conv-1786365546279-z05cfmdtd",
+  "providerId": "claude",
+  "title": "Verify Parts I and II accuracy without editing",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786365546279,
+  "updatedAt": 1786365666780,
+  "lastResponseAt": 1786365666780,
+  "sessionId": "8389c2c8-7b23-4610-965d-4dcb85c8f737",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "8389c2c8-7b23-4610-965d-4dcb85c8f737"
+  },
+  "currentNote": "Areas/语言/古希腊语/笔记/Introduction to Attic Greek/练习 - Unit 3.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 2722,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 27776,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 30498,
+    "percentage": 15
+  }
+}
