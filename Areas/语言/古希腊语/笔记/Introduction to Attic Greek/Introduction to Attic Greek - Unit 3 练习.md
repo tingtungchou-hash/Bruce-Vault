@@ -82,23 +82,23 @@ Ex. ἥλιον καὶ ἀνέμους
 
 Answer: sun and winds (obj.)
 
-| # | 希腊语 | 英译 |
-|---|---|---|
-| 1 | καὶ ἐν ἀνθρώποις | |
-| 2 | εἰς νόσον | |
-| 3 | ἐν λόγῳ ἀλλ' οὐκ ἐν ἔργῳ | |
-| 4 | θεῷ καὶ ἀνθρώπῳ | |
-| 5 | ἐξ ἵππου | |
-| 6 | στρατηγὸς καὶ οὐκ ἄγγελος | |
-| 7 | καὶ σὺν διδασκάλοις | |
-| 8 | ἐκ πολέμου καὶ θανάτου | |
-| 9 | ἐν στρατῷ | |
-| 10 | νόμοις καὶ ψήφοις | |
-| 11 | εἰς ὁδὸν ἀλλ' οὐκ εἰς οἶκον | |
-| 12 | σὺν ἀνέμῳ | |
-| 13 | βίου καὶ θανάτου | |
-| 14 | ἐκ φόβου | |
-| 15 | παιδίων καὶ διδασκάλων | |
+| #   | 希腊语                         | 英译                                                            |
+| --- | --------------------------- | ------------------------------------------------------------- |
+| 1   | καὶ ἐν ἀνθρώποις            | even among humans (dat.)                                      |
+| 2   | εἰς νόσον                   | to sickness (acc.)                                            |
+| 3   | ἐν λόγῳ ἀλλ' οὐκ ἐν ἔργῳ    | in word but not in work (dat.)                                |
+| 4   | θεῷ καὶ ἀνθρώπῳ             | to a god and to a human (dat)                                 |
+| 5   | ἐξ ἵππου                    | from a horse (gen.)                                           |
+| 6   | στρατηγὸς καὶ οὐκ ἄγγελος   | a general and not a messenger (nom.)                          |
+| 7   | καὶ σὺν διδασκάλοις         | even with teachers (dat.)                                     |
+| 8   | ἐκ πολέμου καὶ θανάτου      | from war and death (gen.)                                     |
+| 9   | ἐν στρατῷ                   | in the army (dat.)                                            |
+| 10  | νόμοις καὶ ψήφοις           | to ~~norms (or~~ laws~~)~~ and ~~pebbles~~ ***votes*** (dat.) |
+| 11  | εἰς ὁδὸν ἀλλ' οὐκ εἰς οἶκον | to the road but not to the house (acc.)                       |
+| 12  | σὺν ἀνέμῳ                   | with wind (dat.)                                              |
+| 13  | βίου καὶ θανάτου            | of life and death (gen.)                                      |
+| 14  | ἐκ φόβου                    | out of fear (gen.)                                            |
+| 15  | παιδίων καὶ διδασκάλων      | of children and teachers (gen.)                               |
 
 ## IV. 将下列短语译成希腊语
 
@@ -106,18 +106,18 @@ Ex. toward children and horses
 
 Answer: εἰς παιδία καὶ ἵππους
 
-| # | 英语 | 希腊语 |
-|---|---|---|
-| 1 | not for generals but for armies | |
-| 2 | into fear and death | |
-| 3 | even with a messenger | |
-| 4 | in accounts and in laws | |
-| 5 | not a gift but sickness (obj.) | |
-| 6 | away from men | |
-| 7 | out of houses | |
-| 8 | teachers and laws (subj.) | |
-| 9 | also on a road | |
-| 10 | toward brothers | |
+| #   | 英语                              | 希腊语                         |
+| --- | ------------------------------- | --------------------------- |
+| 1   | not for generals but for armies | οὐ στρατηγοῖς ἀλλά στρατοἰς |
+| 2   | into fear and death             | αἰς φώβου καὶ θανάτου       |
+| 3   | even with a messenger           | καὶ σύν ἀγγέλῳ              |
+| 4   | in accounts and in laws         | ἐν λόγοις καὶ ἐν νόμ        |
+| 5   | not a gift but sickness (obj.)  |                             |
+| 6   | away from men                   |                             |
+| 7   | out of houses                   |                             |
+| 8   | teachers and laws (subj.)       |                             |
+| 9   | also on a road                  |                             |
+| 10  | toward brothers                 |                             |
 
 ## V. 重音标注练习
 
