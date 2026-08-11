@@ -4,8 +4,8 @@
   "title": "Create blank Ancient Greek lesson note",
   "titleGenerationStatus": "success",
   "createdAt": 1786428672981,
-  "updatedAt": 1786428787762,
-  "lastResponseAt": 1786428787762,
+  "updatedAt": 1786440926482,
+  "lastResponseAt": 1786440926482,
   "sessionId": "e900e52e-47a9-485d-9f79-c30da2a5c05b",
   "selectedModel": "haiku",
   "providerState": {
@@ -14,12 +14,12 @@
   "currentNote": "Areas/语言/古希腊语/笔记/Introduction to Attic Greek/Introduction to Attic Greek - D. J. Mastronarde.md",
   "usage": {
     "model": "haiku",
-    "inputTokens": 251,
+    "inputTokens": 130,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 32128,
+    "cacheReadInputTokens": 105472,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 32379,
-    "percentage": 16
+    "contextTokens": 105602,
+    "percentage": 53
   }
 }
