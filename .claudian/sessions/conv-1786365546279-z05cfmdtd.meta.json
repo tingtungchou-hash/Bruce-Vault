@@ -4,14 +4,14 @@
   "title": "Verify Parts I and II accuracy without editing",
   "titleGenerationStatus": "success",
   "createdAt": 1786365546279,
-  "updatedAt": 1786365666780,
+  "updatedAt": 1786415915325,
   "lastResponseAt": 1786365666780,
   "sessionId": "8389c2c8-7b23-4610-965d-4dcb85c8f737",
   "selectedModel": "haiku",
   "providerState": {
     "providerSessionId": "8389c2c8-7b23-4610-965d-4dcb85c8f737"
   },
-  "currentNote": "Areas/语言/古希腊语/笔记/Introduction to Attic Greek/练习 - Unit 3.md",
+  "currentNote": "Areas/语言/古希腊语/笔记/Introduction to Attic Greek/Introduction to Attic Greek - Unit 3 练习.md",
   "usage": {
     "model": "haiku",
     "inputTokens": 2722,
