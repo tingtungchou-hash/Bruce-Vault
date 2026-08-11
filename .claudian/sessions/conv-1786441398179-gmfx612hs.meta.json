@@ -1,0 +1,25 @@
+{
+  "id": "conv-1786441398179-gmfx612hs",
+  "providerId": "claude",
+  "title": "Extract Attic Greek Unit 4 exercises into note",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786441398180,
+  "updatedAt": 1786443773684,
+  "lastResponseAt": 1786443773684,
+  "sessionId": "93272686-ae2f-465e-a769-9c6fd4ab52dd",
+  "selectedModel": "opus",
+  "providerState": {
+    "providerSessionId": "93272686-ae2f-465e-a769-9c6fd4ab52dd"
+  },
+  "currentNote": "Areas/语言/古希腊语/教材/Introduction to Attic Greek (2nd edition) (Donald J. Mastronarde) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 3753,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 37504,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 41257,
+    "percentage": 21
+  }
+}
