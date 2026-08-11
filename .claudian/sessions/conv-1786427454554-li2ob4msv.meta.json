@@ -1,0 +1,25 @@
+{
+  "id": "conv-1786427454554-li2ob4msv",
+  "providerId": "claude",
+  "title": "Complete Ancient Greek preposition exercise",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786427454555,
+  "updatedAt": 1786428637773,
+  "lastResponseAt": 1786428547524,
+  "sessionId": "1b4679f9-0317-41bb-bb51-be1355b8668a",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "1b4679f9-0317-41bb-bb51-be1355b8668a"
+  },
+  "currentNote": "Areas/语言/古希腊语/笔记/Introduction to Attic Greek/Introduction to Attic Greek - Unit 3 练习.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 868,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 42496,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 43364,
+    "percentage": 22
+  }
+}

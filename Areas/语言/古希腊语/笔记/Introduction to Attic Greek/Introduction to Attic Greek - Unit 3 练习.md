@@ -4,7 +4,7 @@ created: 2026-08-10
 tags: [language/greek]
 status: seedling
 ---
-[[Introduction to Attic Greek - D. J. Mastronarde|返回导航]] | [[Introduction to Attic Greek (2nd edition) (Donald J. Mastronarde) (z-library.sk, 1lib.sk, z-lib.sk).pdf|教材链接]] | [[下一课]]
+[[Introduction to Attic Greek - D. J. Mastronarde|返回导航]] | [[Introduction to Attic Greek - Unit 3 笔记|本课笔记]] | [[Introduction to Attic Greek (2nd edition) (Donald J. Mastronarde) (z-library.sk, 1lib.sk, z-lib.sk).pdf|教材链接]] | [[下一课]]
 
 ---
 
@@ -109,15 +109,15 @@ Answer: εἰς παιδία καὶ ἵππους
 | #   | 英语                              | 希腊语                         |
 | --- | ------------------------------- | --------------------------- |
 | 1   | not for generals but for armies | οὐ στρατηγοῖς ἀλλά στρατοἰς |
-| 2   | into fear and death             | αἰς φώβου καὶ θανάτου       |
-| 3   | even with a messenger           | καὶ σύν ἀγγέλῳ              |
-| 4   | in accounts and in laws         | ἐν λόγοις καὶ ἐν νόμ        |
-| 5   | not a gift but sickness (obj.)  |                             |
-| 6   | away from men                   |                             |
-| 7   | out of houses                   |                             |
-| 8   | teachers and laws (subj.)       |                             |
-| 9   | also on a road                  |                             |
-| 10  | toward brothers                 |                             |
+| 2   | into fear and death             | εἰς φώβον καὶ θανάτον       |
+| 3   | even with a messenger           | καὶ σὺν ἀγγέλῳ              |
+| 4   | in accounts and in laws         | ἐν λόγοις καὶ ἐν νόμοις     |
+| 5   | not a gift but sickness (obj.)  | οὐ δῶρον ἀλλά νόσον         |
+| 6   | away from men                   | ἀπὸ ἀνθρώπων                |
+| 7   | out of houses                   | ἐξ οἴκων                    |
+| 8   | teachers and laws (subj.)       | διδασκάλοι καὶ νόμοι        |
+| 9   | also on a road                  | καὶ ἐν ~~ὁδῲ~~ ***ὁδῷ***    |
+| 10  | toward brothers                 | εἰς ἀδελφούς                |
 
 ## V. 重音标注练习
 
@@ -125,17 +125,17 @@ Answer: εἰς παιδία καὶ ἵππους
 
 Ex. κίνδυνος → κινδύνου (U 的长音迫使重音从 A 移至 P)
 
-| #   | 主格单数（带重音）   | 标重音          |
-| --- | ----------- | ------------ |
-| 1   | πλοῦτος     | πλουτον      |
-| 2   | χρόνος      | χρονοις      |
-| 3   | στρατηγός   | στρατηγε     |
-| 4   | διδάσκαλος  | διδασκαλου   |
-| 5   | στρατόπεδον | στρατοπεδοις |
-| 6   | ἑταῖρος     | ἑταιρους     |
-| 7   | ποταμός     | ποταμῳ       |
-| 8   | τρόπος      | τροπων       |
-| 9   | λίθος       | λιθοι        |
-| 10  | στάδιον     | σταδια       |
-| 11  | υἱός        | υἱων         |
-| 12  | οὐρανός     | οὐρανου      |
+| #   | 主格单数（带重音）   | 标重音                       |
+| --- | ----------- | ------------------------- |
+| 1   | πλοῦτος     | ~~πλούτον~~ ***πλοῦτον*** |
+| 2   | χρόνος      | χρόνοις                   |
+| 3   | στρατηγός   | στρατηγέ                  |
+| 4   | διδάσκαλος  | διδασκάλου                |
+| 5   | στρατόπεδον | στρατοπέδοις              |
+| 6   | ἑταῖρος     | ἑταίρους                  |
+| 7   | ποταμός     | ποταμῷ                    |
+| 8   | τρόπος      | τρόπων                    |
+| 9   | λίθος       | λίθοι                     |
+| 10  | στάδιον     | στάδια                    |
+| 11  | υἱός        | υἱῶν                      |
+| 12  | οὐρανός     | οὐρανοῦ                   |

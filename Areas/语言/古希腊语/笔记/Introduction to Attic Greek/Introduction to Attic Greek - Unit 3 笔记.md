@@ -34,7 +34,7 @@ status: seedling
 - if length of **U** changed 
 	- circumflex on P => acute (ο==ἶ==κος => ο==ἴ==κου)
 	- displacement of the accent from A to P (==ἄ==νθρωπος => ἀνθρ==ώ==που) 
-- nouns of the o-declension with an accented **U** has circumflex on U in dative and genetive of all numbers (στρατός => στρατ==οῦ==, στρατ==ῶ==ν)
+- nouns of the o-declension with an accented **U** has circumflex on U in **dative and genetive** of all numbers (στρατός => στρατ==οῦ==, στρατ==ῶ==ν)
 
 # prepositions 
 
