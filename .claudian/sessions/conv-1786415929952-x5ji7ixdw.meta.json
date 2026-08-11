@@ -4,8 +4,8 @@
   "title": "Create YAML frontmatter for note",
   "titleGenerationStatus": "success",
   "createdAt": 1786415929952,
-  "updatedAt": 1786418039024,
-  "lastResponseAt": 1786418039024,
+  "updatedAt": 1786420453731,
+  "lastResponseAt": 1786420453731,
   "sessionId": "93e35711-b999-4593-8cdd-687c14160c11",
   "selectedModel": "opus",
   "providerState": {
@@ -14,12 +14,12 @@
   "currentNote": "Areas/语言/古希腊语/笔记/Introduction to Attic Greek/Introduction to Attic Greek - Unit 3 笔记.md",
   "usage": {
     "model": "opus",
-    "inputTokens": 581,
+    "inputTokens": 623,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 34816,
+    "cacheReadInputTokens": 44416,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 35397,
-    "percentage": 18
+    "contextTokens": 45039,
+    "percentage": 23
   }
 }
