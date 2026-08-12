@@ -84,51 +84,61 @@ Write out the declension of **the sickness** in the singular only, of **the gift
 | voc. | νόσε     | δῶρα   | νίκη    | ~~νίκαι~~ ***νῖκαι*** |
 ## III. Identify the following noun forms and give at least one meaning.
 
-1. ψυχῇ
-2. στρατιάν
-3. νίκη
-4. ἀγοραῖς
-5. τιμῶν
-6. ἀρετάς
-7. συμφοραί
-8. θύρας
-9. ἀρχήν
-10. θεάς
-11. δώροις
-12. παιδείᾳ
-13. λόγους
-14. βιβλία
-15. τιμῇ
-16. συμφοραῖς
-17. ἄγγελε
-18. ἀγορῶν
-19. θεόν
-20. σκηνῆς
-21. φωνῇ
-22. δίκαι
-23. φυγάς
-24. νίκαις
-25. ἀδελφήν
-26. ἀρετῆς
-27. ἡδοναί
-28. ἀρχῶν
-29. τιμαί
-30. ἡμέραις
+1. ψυχῇ dat. sing. ~~land~~ ***soul*** (land: χώρα)
+2. στρατιάν acc. sing. army 
+3. νίκη nom. sing. victory 
+4. ἀγοραῖς dat. pl. assembly 
+5. τιμῶν gen. pl. honour  
+6. ἀρετάς acc. pl. excellence 
+7. συμφοραί nom. pl. event, misfortune
+8. θύρας gen. sing. ***or acc. pl.*** door 
+9. ἀρχήν acc. sing. beginning, office
+10. θεάς ~~gen. sing.~~ or acc. pl. godess 
+11. δώροις dat. pl. gift 
+12. παιδείᾳ dat. sing. education 
+13. λόγους acc. pl. word 
+14. βιβλία nom. or acc. pl. book  
+15. τιμῇ dat. sing. honour 
+16. συμφοραῖς dat. pl. event 
+17. ἄγγελε voc. sing. messenger 
+18. ἀγορῶν gen. pl. assembly 
+19. θεόν acc. sing. god 
+20. σκηνῆς gen. sing. tent
+21. φωνῇ dat. sing. voice, sound 
+22. δίκαι nom. pl. justice 
+23. φυγάς acc. pl. exile 
+24. νίκαις dat. pl. victory 
+25. ἀδελφήν acc. sing. sister 
+26. ἀρετῆς gen. sing. excellence 
+27. ἡδοναί nom. pl. joy 
+28. ἀρχῶν gen. pl. ~~land~~ ***rule, beginning, office*** 
+29. τιμαί nom. pl. honour 
+30. ἡμέραις dat. pl. day 
 
 ## IV. Translate the following into English.
 
 The underlined forms are verbs in the third person singular of the present tense, with the meaning given in brackets.
 
-1. ὁ στρατηγὸς καὶ τὰ βιβλία τῇ Ἀσπασίᾳ φέρει \["brings"].
-2. τὰς ψήφους λαμβάνει \["takes"].
-3. ὁ διδάσκαλος τὰ παιδία ἐκ τῆς σκηνῆς ἄγει \["leads"].
-4. τὰ παιδία γνώμην καὶ ἀρετὴν οὐκ ἔχει \["have"].
-5. ἡ Ξανθίππη ἐν τῷ οἴκῳ σὺν τῇ ἀδελφῇ μένει \["remains"], ἀλλὰ ὁ ἀδελφὸς τοὺς ἵππους εἰς τὴν ὁδὸν ἐλαύνει \["drives"].
-6. ὁ στρατὸς ἐκ τῆς χώρας φεύγει \["flees"].
-7. ὁ πόλεμος θάνατον καὶ νόσον τοῖς ἀνθρώποις φέρει \["brings"].
-8. ἐκ τῆς νίκης τιμὴν ἔχει \["has"].
-9. τὴν δημοκρατίαν λύει \["dissolves"].
-10. ὁ ἄγγελος τὰ παιδία τοῖς διδασκάλοις ἐπιτρέπει \["entrusts"].
+1. ὁ στρατηγὸς καὶ τὰ βιβλία τῇ Ἀσπασίᾳ φέρει \["brings"]. 
+	1. The general also brings the books to Aspasia. 
+2. τὰς ψήφους λαμβάνει \["takes"]. 
+	1. He takes the votes. 
+3. ὁ διδάσκαλος τὰ παιδία ἐκ τῆς σκηνῆς ἄγει \["leads"]. 
+	1. The teacher leads the children out of the stage building. 
+4. τὰ παιδία γνώμην καὶ ἀρετὴν οὐκ ἔχει \["have"]. 
+	1. The children don't have judgement and excellence. 
+5. ἡ Ξανθίππη ἐν τῷ οἴκῳ σὺν τῇ ἀδελφῇ μένει \["remains"], ἀλλὰ ὁ ἀδελφὸς τοὺς ἵππους εἰς τὴν ὁδὸν ἐλαύνει \["drives"]. 
+	1. Xanthippe remains in her house with her sister, but her brother drives the horses into the road. 
+6. ὁ στρατὸς ἐκ τῆς χώρας φεύγει \["flees"]. 
+	1. The army flees from the land. 
+7. ὁ πόλεμος θάνατον καὶ νόσον τοῖς ἀνθρώποις φέρει \["brings"]. 
+	1. The war brings death and sickness to human beings. 
+8. ἐκ τῆς νίκης τιμὴν ἔχει \["has"]. 
+	1. He has honour from the victory. 
+9. τὴν δημοκρατίαν λύει \["dissolves"]. 
+	1. He dissolves the democracy. 
+10. ὁ ἄγγελος τὰ παιδία τοῖς διδασκάλοις ἐπιτρέπει \["entrusts"]. 
+	1. The messenger entrusts the children to the teachers. 
 
 ## V. Translate the following into Greek.
 
@@ -136,13 +146,20 @@ When needed, the verb form is supplied in brackets.
 
 **Example:** The god does not receive \[λαμβάνει] the gifts. → ὁ θεὸς τὰ δῶρα οὐ λαμβάνει. (Other word orders are possible.)
 
-1. with pleasure
+1. with pleasure 
+	1. σὺν ἡδονῇ
 2. not of education but of friendship
-3. He writes \[γράφει] laws and brings \[φέρει] justice into the land.
+	1. οὐ παιδείας ἀλλὰ φιλίας
+3. He writes \[γράφει] laws and brings \[φέρει] justice into the land. 
+	1. νόμους γράφει καὶ δίκην εἰς τὴν χώραν φέρει
 4. even with respect to the soul
-5. The general persuades \[πείθει] the gods and the goddesses.
+	1. καὶ ~~σὺν τῇ τιμῇ τῇ ψυχῇ~~ ***σἰς τὴν ψυχήν***
+5. The general persuades \[πείθει] the gods and the goddesses. 
+	1. ὁ στρατηγὸς τοὺς θεοὺς καὶ τὰς θεὰς πείθει
 6. Aspasia entrusts \[ἐπιτρέπει] the gifts to the messenger.
-7. The army does not have \[ἔχει] fear and remains \[μένει] in the marketplace.
+	1. Ασπασια τὰ δὼρα τῷ ἀγγέλῳ ἐπιτρέπει
+7. The army does not have \[ἔχει] fear and remains \[μένει] in the marketplace. 
+	1. τὸς στρατὸς φὼβον οὺκ ἔχει καὶ ἐν τῂ ἀγορᾴ. 
 
 ## VI. Place the correct accent
 
