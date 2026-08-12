@@ -1,0 +1,25 @@
+{
+  "id": "conv-1786506702535-jrq82n3x2",
+  "providerId": "claude",
+  "title": "Create blank Ancient Greek Unit 5 note",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786506702535,
+  "updatedAt": 1786506737431,
+  "lastResponseAt": 1786506737431,
+  "sessionId": "415fdeef-f5e8-40b1-b5f0-ab04cdcfdaa0",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "415fdeef-f5e8-40b1-b5f0-ab04cdcfdaa0"
+  },
+  "currentNote": "Areas/语言/古希腊语/笔记/Introduction to Attic Greek/Introduction to Attic Greek - D. J. Mastronarde.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 179,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 32896,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 33075,
+    "percentage": 17
+  }
+}

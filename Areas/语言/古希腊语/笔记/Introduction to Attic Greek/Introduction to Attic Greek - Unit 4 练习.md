@@ -4,7 +4,7 @@ created: 2026-08-11
 tags: [language/greek]
 status: seedling
 ---
-[[Introduction to Attic Greek - D. J. Mastronarde|返回导航]] | [[Introduction to Attic Greek - Unit 4 笔记|本课笔记]] | [[Introduction to Attic Greek (2nd edition) (Donald J. Mastronarde) (z-library.sk, 1lib.sk, z-lib.sk).pdf|教材链接]] | [[Introduction to Attic Greek - Unit 5 笔记|下一篇]]
+[[Introduction to Attic Greek - D. J. Mastronarde|返回导航]] | [[Introduction to Attic Greek - Unit 4 笔记|本课笔记]] | [[Introduction to Attic Greek (2nd edition) (Donald J. Mastronarde) (z-library.sk, 1lib.sk, z-lib.sk).pdf|教材链接]] | [[Introduction to Attic Greek - Unit 3 练习|上一篇]] | [[Introduction to Attic Greek - Unit 5 练习|下一篇]]
 
 ---
 
@@ -159,23 +159,23 @@ When needed, the verb form is supplied in brackets.
 6. Aspasia entrusts \[ἐπιτρέπει] the gifts to the messenger.
 	1. Ασπασια τὰ δὼρα τῷ ἀγγέλῳ ἐπιτρέπει
 7. The army does not have \[ἔχει] fear and remains \[μένει] in the marketplace. 
-	1. τὸς στρατὸς φὼβον οὺκ ἔχει καὶ ἐν τῂ ἀγορᾴ. 
+	1. ὁ στρατὸς φὼβον οὐκ ἔχει καὶ ἐν τῇ ἀγορᾷ μένει. 
 
 ## VI. Place the correct accent
 
 In the following list, the first of each pair of forms is the nominative singular of an a-declension noun. Following the principle of persistent accentuation and the special rules applying to such nouns, place the correct accent on the second form in each pair.
 
-| | Nominative singular | Form to accent |
-|---|---|---|
-| 1. | ἀνάγκη | ἀναγκην |
-| 2. | μάχη | μαχαις |
-| 3. | ἐπιθυμία | ἐπιθυμιᾳ |
-| 4. | εἰρήνη | εἰρηνων |
-| 5. | εὐχή | εὐχης |
-| 6. | σοφία | σοφιαν |
-| 7. | πληγή | πληγαι |
-| 8. | ἐλευθερία | ἐλευθεριας |
-| 9. | ἡσυχία | ἡσυχιᾳ |
-| 10. | κεφαλή | κεφαλῃ |
-| 11. | δικαιοσύνη | δικαιοσυνην |
-| 12. | σπουδή | σπουδων |
+|     | Nominative singular | Form to accent |
+| --- | ------------------- | -------------- |
+| 1.  | ἀνάγκη              | ἀνάγκην        |
+| 2.  | μάχη                | μάχαις         |
+| 3.  | ἐπιθυμία            | ἐπιθυμίᾳ       |
+| 4.  | εἰρήνη              | εἰρηνῶν        |
+| 5.  | εὐχή                | εὐχῆς          |
+| 6.  | σοφία               | σοφίαν         |
+| 7.  | πληγή               | πληγαί         |
+| 8.  | ἐλευθερία           | ἐλευθερίας     |
+| 9.  | ἡσυχία              | ἡσυχίᾳ         |
+| 10. | κεφαλή              | κεφαλῇ         |
+| 11. | δικαιοσύνη          | δικαιοσύνην    |
+| 12. | σπουδή              | σπουδῶν        |
