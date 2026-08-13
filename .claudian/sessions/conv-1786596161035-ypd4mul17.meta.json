@@ -4,22 +4,21 @@
   "title": "Create Ancient Greek Unit 6 blank notes/exercises",
   "titleGenerationStatus": "success",
   "createdAt": 1786596161035,
-  "updatedAt": 1786601129003,
-  "lastResponseAt": 1786601129003,
+  "updatedAt": 1786605830868,
+  "lastResponseAt": 1786605830868,
   "sessionId": "1129681e-7a86-4cf9-9ea9-b16e45d114d6",
   "selectedModel": "opus",
   "providerState": {
     "providerSessionId": "1129681e-7a86-4cf9-9ea9-b16e45d114d6"
   },
-  "currentNote": "Areas/语言/古希腊语/笔记/Introduction to Attic Greek/Introduction to Attic Greek - D. J. Mastronarde.md",
   "usage": {
     "model": "opus",
-    "inputTokens": 396,
+    "inputTokens": 1380,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 48000,
+    "cacheReadInputTokens": 48896,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 48396,
-    "percentage": 24
+    "contextTokens": 50276,
+    "percentage": 25
   }
 }

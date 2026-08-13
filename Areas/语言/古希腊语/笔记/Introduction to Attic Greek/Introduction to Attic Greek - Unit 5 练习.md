@@ -43,3 +43,64 @@ Answer ἀποθνῄσκομεν
 28. you (sing.) are in exile φεύγω => φεύγεις 
 29. we do not endure φέρω => ού φέρομεν 
 30. she says λέγω => λέγει 
+
+# II. Translate the following verb forms into English. 
+
+Ex. λέγετε 
+Answer you (pl.) are saying 
+
+1. ἐλαύνεις you (sing.) are marching 
+2. φέρομεν we are carrying  
+3. γράφω I am writing 
+4. λαμβάνει he/she is taking 
+5. μένουσι they stay 
+6. ἔχεις you (sing.) have 
+7. πείθω I urge 
+8. φεύγομεν we are fleeing 
+9. πέμπει he sends 
+10. ἄγομεν we lead 
+11. οὐκ ἔχω I do not have 
+12. φεύγουσι they flee 
+13. λύεις you (sing.) release 
+14. φέρει he/she carries 
+15. ἐπιτρέπομεν we entrust 
+16. οὐ πέμπετε you do not send 
+17. λείπουσι they leave 
+18. λαμβάνω I take 
+19. ἄρχεις you (sing.) rule 
+20. λέγει he says 
+21. λύομεν we release 
+22. οὐ μένω I do not ~~carry~~ ***remain*** 
+23. ἐθέλετε you (pl.) wish 
+24. ἔχουσιν they have 
+25. ἐλαύνετε you (pl.) march 
+26. λείπω I ~~send~~ ***abandon***  
+27. ἄρχομεν we rule 
+28. ἐθέλουσι they wish 
+29. ἄρχετε you (pl.) rule 
+30. λέγεις you (sing.) speak 
+31. λείπει he/she leaves 
+32. ἐπιτρέπετε you (pl.) entrust
+33. μένεις you (sing.) remain 
+34. ἐλαύνει he/she ride 
+35. ἀποθνῄσκουσι they die 
+36. ἄγω I lead 
+37. ἔχομεν we have 
+38. οὐκ ἄγει he does not lead 
+39. οὐ λαμβάνετε you (pl.) do not take 
+40. φέρεις you (sing.) carry 
+
+# III. 
+
+1. Peisistratus and Isaeus are persuading the generals but not the army. 
+	1. 
+2. We do not tell the story to the tyrant. 
+3. The goddess drives the sisters away from the house. 
+4. Are you dissolving or overthrowing the democracy? 
+5. From deeds and from speeches men have honor. 
+6. I am leading the horses out of the tent into the sun. 
+7. The general begins the war, and we have not victory but misfortunes. 
+8. Not justly or in justice do (the) tyrants write the laws. 
+9. The army leaves the marketplace and marches out of the country.
+
+IV. 1. τὴν ἑταίραν εἰς τὴν οἶκον ἄγεις. 2. οἱ ἄνεμοι τοὺς ἑταίρους ἀπὸ τῆς χώρας φέρουσι(ν). 3. ἐκ τῆς νόσου οἱ ἵπποι ἀποθνῄσκουσι(ν). 4. (ἡ) Ἀσπασία φεύγει, ἀλλὰ δῶρα τοὶς παιδίοις πέμπει. 5. (ὁ) Ἰσαῖος καὶ (ἡ) Ξανθίππη πείθουσιν, ἀλλ’ οὐκ ἐθελομεν. 6. τὸν διδάσκαλον λαμβάνετε, ἀλλὰ τὰ βιβλία μένει
