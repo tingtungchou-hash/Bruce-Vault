@@ -13,7 +13,14 @@
       "Bash(cd \"Areas/语言/古希腊语/笔记/Introduction to Attic Greek\" && for f in \"Introduction to Attic Greek - D. J. Mastronarde.md\" \"Introduction to Attic Greek - Unit 1-2 笔记.md\" \"Introduction to Attic Greek - Unit 3 笔记.md\" \"Introduction to Attic Greek - Unit 3 练习.md\" \"Introduction to Attic Greek - Unit 4 笔记.md\"; do if [ -f \"$f\" ]; then echo \"OK   $f\"; else echo \"MISS $f\"; fi; done)",
       "Bash(rm -f unit4-*.png unit4-*.jpg test-low-*.png unit4_lines.txt unit4full.xml page57.xml)",
       "Bash(rmdir \"D:/knowledgebase/Bruce's Vault/System/Templates/_tmp_pdf\")",
-      "Bash(cd \"D:/knowledgebase/Bruce's Vault\" && for f in \"Introduction to Attic Greek - Unit 1-2 笔记\" \"Introduction to Attic Greek - Unit 3 笔记\" \"Introduction to Attic Greek - Unit 3 练习\" \"Introduction to Attic Greek - Unit 4 笔记\" \"Introduction to Attic Greek - Unit 4 练习\" \"Introduction to Attic Greek - Unit 5 笔记\" \"Introduction to Attic Greek - Unit 5 练习\"; do p=\"Areas/语言/古希腊语/笔记/Introduction to Attic Greek/$f.md\"; [ -f \"$p\" ] && echo \"OK   $f\" || echo \"MISS $f\"; done)"
+      "Bash(cd \"D:/knowledgebase/Bruce's Vault\" && for f in \"Introduction to Attic Greek - Unit 1-2 笔记\" \"Introduction to Attic Greek - Unit 3 笔记\" \"Introduction to Attic Greek - Unit 3 练习\" \"Introduction to Attic Greek - Unit 4 笔记\" \"Introduction to Attic Greek - Unit 4 练习\" \"Introduction to Attic Greek - Unit 5 笔记\" \"Introduction to Attic Greek - Unit 5 练习\"; do p=\"Areas/语言/古希腊语/笔记/Introduction to Attic Greek/$f.md\"; [ -f \"$p\" ] && echo \"OK   $f\" || echo \"MISS $f\"; done)",
+      "Bash(pdftotext -layout \"Areas/语言/古希腊语/教材/Introduction to Attic Greek \\(2nd edition\\) \\(Donald J. Mastronarde\\) \\(z-library.sk, 1lib.sk, z-lib.sk\\).pdf\" /tmp/iag.txt)",
+      "Read(//tmp/**)",
+      "Bash(cd /tmp && grep -n \"UNIT\" iag.txt | head -60)",
+      "Bash(pdfinfo \"/d/knowledgebase/Bruce's Vault/Areas/语言/古希腊语/教材/Introduction to Attic Greek \\(2nd edition\\) \\(Donald J. Mastronarde\\) \\(z-library.sk, 1lib.sk, z-lib.sk\\).pdf\")",
+      "Bash(pdfinfo *.pdf)",
+      "Bash(pdfinfo \"Introduction to Attic Greek \\(2nd edition\\) \\(Donald J. Mastronarde\\) \\(z-library.sk, 1lib.sk, z-lib.sk\\).pdf\")",
+      "Bash(cd /tmp && grep -niE \"unit [0-9]+|unit[0-9]+\" iag.txt | head -60)"
     ],
     "permissionGroups": {
       "vault-ops": {

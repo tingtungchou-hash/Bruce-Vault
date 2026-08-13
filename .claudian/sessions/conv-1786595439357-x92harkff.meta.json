@@ -1,0 +1,23 @@
+{
+  "id": "conv-1786595439357-x92harkff",
+  "providerId": "claude",
+  "title": "Create Ancient Greek notes and exercises",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786595439357,
+  "updatedAt": 1786596140336,
+  "sessionId": "b33f256e-97b3-48da-b609-d67c63784dac",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "b33f256e-97b3-48da-b609-d67c63784dac"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 127,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 42496,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 42623,
+    "percentage": 21
+  }
+}

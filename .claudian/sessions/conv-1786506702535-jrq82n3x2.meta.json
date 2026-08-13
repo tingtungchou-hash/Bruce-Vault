@@ -4,14 +4,13 @@
   "title": "Create blank Ancient Greek Unit 5 note",
   "titleGenerationStatus": "success",
   "createdAt": 1786506702535,
-  "updatedAt": 1786544034888,
+  "updatedAt": 1786595424019,
   "lastResponseAt": 1786544034888,
   "sessionId": "415fdeef-f5e8-40b1-b5f0-ab04cdcfdaa0",
   "selectedModel": "opus",
   "providerState": {
     "providerSessionId": "415fdeef-f5e8-40b1-b5f0-ab04cdcfdaa0"
   },
-  "currentNote": "Areas/语言/古希腊语/笔记/Introduction to Attic Greek/Introduction to Attic Greek - D. J. Mastronarde.md",
   "usage": {
     "model": "opus",
     "inputTokens": 37234,
