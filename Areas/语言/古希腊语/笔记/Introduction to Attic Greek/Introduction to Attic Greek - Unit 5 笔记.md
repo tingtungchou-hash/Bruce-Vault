@@ -8,3 +8,22 @@ status: seedling
 
 ---
 
+# Present Active Indicative of Ω-Verbs
+## catagories of verbs 
+- ω-verbs: stem - theme vowel (ο, ε, ω, η) - personal endings 
+- μι-verbs: stem - personal endings 
+## present active indicative conjugation of ω-verbs
+
+|            | sing. | dual  | pl.      |
+| ---------- | ----- | ----- | -------- |
+| 1st person | -ω    |       | -ομεν    |
+| 2nd person | -εις  | -ετον | -ετε     |
+| 3rd person | -ει   | -ετον | -ουσι(ν) |
+nota bene
+- ν may be added when: 
+	- the verb appears at **the end of a clause**, or 
+	- is followed by a word **beginning with a vowel** 
+- the accentuation of all finite forms of verbs is **recessive** 
+- neutral plural takes singular verbs 
+
+
