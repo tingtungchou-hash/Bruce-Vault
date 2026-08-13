@@ -90,17 +90,38 @@ Answer you (pl.) are saying
 39. οὐ λαμβάνετε you (pl.) do not take 
 40. φέρεις you (sing.) carry 
 
-# III. 
+# III. Translate each sentence into English.
 
-1. Peisistratus and Isaeus are persuading the generals but not the army. 
-	1. 
-2. We do not tell the story to the tyrant. 
-3. The goddess drives the sisters away from the house. 
-4. Are you dissolving or overthrowing the democracy? 
-5. From deeds and from speeches men have honor. 
-6. I am leading the horses out of the tent into the sun. 
-7. The general begins the war, and we have not victory but misfortunes. 
-8. Not justly or in justice do (the) tyrants write the laws. 
-9. The army leaves the marketplace and marches out of the country.
+1. ὁ Πεισίστρατος καὶ ὁ Ἰσαῖος τοὺς στρατηγοὺς πείθουσιν, ἀλλ’ οὐ τὸν στρατόν. 
+	1. Peisistratus and Ieaeus persuade the generals, but not the army. 
+2. οὐ λέγομεν τὸν λόγον τῷ τυράννῳ. 
+	1. We do not tell the story to the tyrant 
+3. ἡ θεὰ ἐλαύνει τὰς ἀδελφὰς ἀπὸ τοῦ οἴκου. 
+	1. The goddess drives the sisters away from the house. 
+4. λύετε τὴν δημοκρατίαν; 
+	1. Are you dissoving the democracy? 
+5. ἐκ τῶν ἔργων καὶ ἐκ τῶν λόγων τιμὴν ἔχουσιν οἱ ἄνθρωποι. 
+	1. For ~~excellence~~ ***deeds*** and the word the men have honour. 
+6. τοὺς ἵππους ἄγω ἐκ τῆς σκηνῆς εἰς ἥλιον. 
+	1. I lead the horses from the tent towards the sun. 
+7. ὁ στρατηγὸς τοῦ πολεμοῦ ἄρχει καὶ οὐ νίκην ἀλλὰ συμφορὰς ἔχομεν. 
+	1. The general of the war rules and we have not victory but misfortunes.  
+8. οὐκ ἐν δίκῃ τοὺς νόμους οἱ τύραννοι γράφουσιν. 
+	1. The tyrants write these laws not in justice. 
+9. ἡ στρατιὰ τὴν ἀγορὰν λείπει καὶ ἐκ τῆς χώρας ἐλαύνει. 
+	1. The army left the assembly and marches from the land. 
 
-IV. 1. τὴν ἑταίραν εἰς τὴν οἶκον ἄγεις. 2. οἱ ἄνεμοι τοὺς ἑταίρους ἀπὸ τῆς χώρας φέρουσι(ν). 3. ἐκ τῆς νόσου οἱ ἵπποι ἀποθνῄσκουσι(ν). 4. (ἡ) Ἀσπασία φεύγει, ἀλλὰ δῶρα τοὶς παιδίοις πέμπει. 5. (ὁ) Ἰσαῖος καὶ (ἡ) Ξανθίππη πείθουσιν, ἀλλ’ οὐκ ἐθελομεν. 6. τὸν διδάσκαλον λαμβάνετε, ἀλλὰ τὰ βιβλία μένει
+# IV. Render the following sentences into Greek.
+
+1. You (s.) are leading the courtesan into the house.
+	1. τὴν ἑταίραν εἰς τὸν οἶκον ἄγεις. 
+2. The winds carry the comrades away from the land. 
+	1. οἱ ἄνεμοι τοὺς ἑταίρους ἀπὸ τῆς χώρας φέρουσι.  
+3. As result of the sickness the horses are dying. 
+	1. ἐκ ~~τῳ νότῳ~~ ***τῆς νόσοῦ*** οἱ ἵπποι ἀποθνῄσκουσι. 
+4. Aspasia is in exile but sends gifts for the children. 
+	1. Ἀσπασια φεύγει ἀλλὰ τοῖς παιδίοις δώνα πέμπει. 
+5. Isaeus and Xanthippe are persuading, but we are not willing. 
+	1. ὁ Ἰσαῖος καὶ ἡ Ξανθίππη πείθουσι, ἀλλ᾿ οὐκ ἐθέλομεν. 
+6. You (pl.) are taking the teacher, but the books remain. 
+	1. τον διδάσκαλον λαμβάνετε, ἀλλὰ τὰ βιβλία ~~μένουσι~~ ***μένει***.   
