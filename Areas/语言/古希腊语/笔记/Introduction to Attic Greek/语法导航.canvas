@@ -1,0 +1,43 @@
+{
+	"nodes":[
+		{"id":"da5fc68935c14730","type":"text","text":"古希腊语语法","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"db4b1477cc63fdad","type":"text","text":"句法（syntax）","x":160,"y":160,"width":250,"height":60},
+		{"id":"67ba02b239c3fa84","type":"text","text":"词法（morphology）","x":-420,"y":-160,"width":200,"height":60},
+		{"id":"bb4d55046726d1ed","type":"text","text":"名词","x":-820,"y":-520,"width":80,"height":60},
+		{"id":"39cc5c230b34df02","type":"text","text":"O变格法名词（o-declension nouns）","x":-1160,"y":-745,"width":179,"height":65},
+		{"id":"e13f8f001e27dbee","type":"text","text":"A变格法名词（a-declension nouns）","x":-1140,"y":-420,"width":159,"height":80},
+		{"id":"24a818662a60aab0","type":"text","text":"短音α阴性（short alpha feminine）","x":-1520,"y":-340,"width":250,"height":60},
+		{"id":"7dc48d2c2608051e","type":"text","text":"长音α阴性（long alpha feminine）","x":-1520,"y":-480,"width":250,"height":60},
+		{"id":"b053cd1849a43df9","type":"text","text":"长音α阳性（long alpha mascular）","x":-1480,"y":-124,"width":194,"height":84},
+		{"id":"c1eb8cd2c5ea1951","type":"file","file":"Areas/语言/古希腊语/笔记/Introduction to Attic Greek/Introduction to Attic Greek - Unit 6 笔记.md","subpath":"#A-Declension Nouns III","x":-1880,"y":-40,"width":260,"height":257},
+		{"id":"1a119e7d2968d0ab","type":"file","file":"Areas/语言/古希腊语/笔记/Introduction to Attic Greek/Introduction to Attic Greek - Unit 6 笔记.md","subpath":"#A-Declension Nouns II","x":-1880,"y":-380,"width":260,"height":270},
+		{"id":"d07c42275626f057","type":"file","file":"Areas/语言/古希腊语/笔记/Introduction to Attic Greek/Introduction to Attic Greek - Unit 4 笔记.md","subpath":"#A-Declension Part I","x":-1851,"y":-821,"width":231,"height":388},
+		{"id":"e66943fc7b0511b8","type":"text","text":"冠词（articles）","x":-1140,"y":-939,"width":165,"height":60},
+		{"id":"2981da83213ed8f3","type":"file","file":"Areas/语言/古希腊语/笔记/Introduction to Attic Greek/Introduction to Attic Greek - Unit 4 笔记.md","subpath":"#Articles","x":-1440,"y":-1210,"width":223,"height":331},
+		{"id":"644887eacc3c426f","type":"text","text":"动词","x":-820,"y":400,"width":88,"height":60},
+		{"id":"362ce2d9a170076d","type":"text","text":"ω变格法动词（ω declension）","x":-1120,"y":262,"width":173,"height":78},
+		{"id":"660ed6d5a3b6239f","type":"file","file":"Areas/语言/古希腊语/笔记/Introduction to Attic Greek/Introduction to Attic Greek - Unit 5 笔记.md","subpath":"#Present Active Indicative of Ω-Verbs","x":-1968,"y":301,"width":348,"height":249},
+		{"id":"552ace1e89bf80a2","type":"text","text":"主动态现在时直陈式（Active Present Indicative）","x":-1535,"y":338,"width":250,"height":60},
+		{"id":"265ec5596c75e539","type":"file","file":"Areas/语言/古希腊语/笔记/Introduction to Attic Greek/Introduction to Attic Greek - Unit 3 笔记.md","subpath":"#o-declension","x":-1507,"y":-745,"width":248,"height":212}
+	],
+	"edges":[
+		{"id":"71d477443389c4b0","fromNode":"39cc5c230b34df02","fromSide":"left","toNode":"265ec5596c75e539","toSide":"right"},
+		{"id":"ebaf47b4fbaf1da6","fromNode":"bb4d55046726d1ed","fromSide":"left","toNode":"39cc5c230b34df02","toSide":"right"},
+		{"id":"14fbf894d8aff456","fromNode":"67ba02b239c3fa84","fromSide":"left","toNode":"bb4d55046726d1ed","toSide":"right"},
+		{"id":"e1b45369ea740aea","fromNode":"da5fc68935c14730","fromSide":"left","toNode":"67ba02b239c3fa84","toSide":"right"},
+		{"id":"4e7d7a6e947ade2a","fromNode":"bb4d55046726d1ed","fromSide":"left","toNode":"e13f8f001e27dbee","toSide":"right"},
+		{"id":"721e862ac03ebc67","fromNode":"da5fc68935c14730","fromSide":"right","toNode":"db4b1477cc63fdad","toSide":"left"},
+		{"id":"61cc9fc9418de370","fromNode":"e13f8f001e27dbee","fromSide":"left","toNode":"7dc48d2c2608051e","toSide":"right"},
+		{"id":"19cf16d89853610c","fromNode":"e13f8f001e27dbee","fromSide":"left","toNode":"24a818662a60aab0","toSide":"right"},
+		{"id":"6e18e06ddf898505","fromNode":"67ba02b239c3fa84","fromSide":"left","toNode":"644887eacc3c426f","toSide":"right"},
+		{"id":"218ceeed91d68041","fromNode":"24a818662a60aab0","fromSide":"left","toNode":"1a119e7d2968d0ab","toSide":"right"},
+		{"id":"4df3b83af1049bd7","fromNode":"b053cd1849a43df9","fromSide":"left","toNode":"c1eb8cd2c5ea1951","toSide":"right"},
+		{"id":"d4089b22f740ee51","fromNode":"e13f8f001e27dbee","fromSide":"left","toNode":"b053cd1849a43df9","toSide":"right"},
+		{"id":"aa6e8fc147e277e8","fromNode":"7dc48d2c2608051e","fromSide":"left","toNode":"d07c42275626f057","toSide":"right"},
+		{"id":"e8fe2e220e5f0907","fromNode":"bb4d55046726d1ed","fromSide":"left","toNode":"e66943fc7b0511b8","toSide":"right"},
+		{"id":"56fc4a363cdafda6","fromNode":"e66943fc7b0511b8","fromSide":"left","toNode":"2981da83213ed8f3","toSide":"right"},
+		{"id":"62b9e95896c5b8b2","fromNode":"644887eacc3c426f","fromSide":"left","toNode":"362ce2d9a170076d","toSide":"right"},
+		{"id":"953e56d16a3fca72","fromNode":"362ce2d9a170076d","fromSide":"left","toNode":"552ace1e89bf80a2","toSide":"right"},
+		{"id":"abdc71db092ea03c","fromNode":"552ace1e89bf80a2","fromSide":"left","toNode":"660ed6d5a3b6239f","toSide":"right"}
+	]
+}

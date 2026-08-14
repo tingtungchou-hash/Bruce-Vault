@@ -3,8 +3,7 @@ created: 2026-08-10
 tags: [language/greek, moc]
 status: seedling
 ---
-[[主页|返回主页]] | [[Introduction to Attic Greek (2nd edition) (Donald J. Mastronarde) (z-library.sk, 1lib.sk, z-lib.sk).pdf|教材]] 
-
+[[主页|返回主页]] | [[Introduction to Attic Greek (2nd edition) (Donald J. Mastronarde) (z-library.sk, 1lib.sk, z-lib.sk).pdf|教材]] | [[Areas/语言/古希腊语/笔记/Introduction to Attic Greek/语法导航.canvas|语法导航]] 
 
 | UNIT | 笔记                                            | 练习                                          | 语法点                                                             |
 | ---- | --------------------------------------------- | ------------------------------------------- | --------------------------------------------------------------- |
