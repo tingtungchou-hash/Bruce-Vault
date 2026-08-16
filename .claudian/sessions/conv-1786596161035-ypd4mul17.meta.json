@@ -4,8 +4,8 @@
   "title": "Create Ancient Greek Unit 6 blank notes/exercises",
   "titleGenerationStatus": "success",
   "createdAt": 1786596161035,
-  "updatedAt": 1786608966871,
-  "lastResponseAt": 1786608966871,
+  "updatedAt": 1786855224685,
+  "lastResponseAt": 1786855224684,
   "sessionId": "1129681e-7a86-4cf9-9ea9-b16e45d114d6",
   "selectedModel": "opus",
   "providerState": {
@@ -13,12 +13,12 @@
   },
   "usage": {
     "model": "opus",
-    "inputTokens": 648,
+    "inputTokens": 499,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 95872,
+    "cacheReadInputTokens": 108032,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 96520,
-    "percentage": 48
+    "contextTokens": 108531,
+    "percentage": 54
   }
 }
