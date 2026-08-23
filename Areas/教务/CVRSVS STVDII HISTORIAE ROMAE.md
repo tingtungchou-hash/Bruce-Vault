@@ -183,7 +183,7 @@ https://history.pku.edu.cn/xspy/tzgg/20000e900944421bafc2bf9932ac899a.htm
 | 外文历史名著选读 (下)           | 2   | 91   |
 | 哲学导论                   | 2   | 88.5 |
 | 速成法语                   | 2   | 99   |
-[[大一综测计算器.html]]
+[[大一综测计算器.html]] 
 
 # 马可波罗计划与罗马一大留学
 ## 章程文件
@@ -200,4 +200,3 @@ https://history.pku.edu.cn/xspy/tzgg/20000e900944421bafc2bf9932ac899a.htm
 1. [[The 10-steps-path to Study in Italy]]
 ### 罗马一大文件
 1. [[admission_procedures_orientation_and_information_1.pdf]]
-
