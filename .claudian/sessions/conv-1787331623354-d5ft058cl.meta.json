@@ -1,0 +1,25 @@
+{
+  "id": "conv-1787331623354-d5ft058cl",
+  "providerId": "claude",
+  "title": "Complete checked note sections from context",
+  "titleGenerationStatus": "success",
+  "createdAt": 1787331623355,
+  "updatedAt": 1787331661146,
+  "lastResponseAt": 1787331661146,
+  "sessionId": "a224885e-66e8-4a90-a6ae-27ebac36ac90",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "a224885e-66e8-4a90-a6ae-27ebac36ac90"
+  },
+  "currentNote": "家教简历.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 238,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 31872,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 32110,
+    "percentage": 16
+  }
+}
