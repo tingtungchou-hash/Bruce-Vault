@@ -4,8 +4,8 @@
   "title": "Format selection into neat readable list",
   "titleGenerationStatus": "success",
   "createdAt": 1787464083236,
-  "updatedAt": 1787464160711,
-  "lastResponseAt": 1787464160711,
+  "updatedAt": 1787473813856,
+  "lastResponseAt": 1787473813856,
   "sessionId": "293136b8-b01f-4f11-991f-ac6c13519a1f",
   "selectedModel": "haiku",
   "providerState": {
@@ -14,12 +14,12 @@
   "currentNote": "Areas/语言/古希腊语/笔记/Introduction to Attic Greek/Introduction to Attic Greek - Unit 6 练习.md",
   "usage": {
     "model": "haiku",
-    "inputTokens": 137,
+    "inputTokens": 730,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 40832,
+    "cacheReadInputTokens": 55424,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 40969,
-    "percentage": 20
+    "contextTokens": 56154,
+    "percentage": 28
   }
 }
