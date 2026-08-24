@@ -100,19 +100,32 @@ status: seedling
 
 ## IV. Translate the following sentences into English.
 
-1. τὰς Μοίρας οὐ πείθουσιν οἱ θεοί. The gods do not send Moira. 
-2. οἱ ἑταῖροι τὴν ἀλήθειαν τῷ κριτῇ λέγουσιν. The companions told the truth to the judge. 
+1. τὰς Μοίρας οὐ πείθουσιν οἱ θεοί. 
+	1. The gods do not ~~send Moira~~ ***persuade the Fates***. 
+2. οἱ ἑταῖροι τὴν ἀλήθειαν τῷ κριτῇ λέγουσιν. 
+	1. The companions tell the truth to the judge. 
 3. διὰ τὰ ἔργα τὸν ἄγγελον λύομεν. 
-4. τοὺς ναύτας ἄγεις εἰς τὴν θάλατταν.
-5. οἱ στρατηγοὶ μετὰ τῶν στρατιωτῶν τὰς σκηνὰς καὶ τὰς ἵππους λείπουσιν.
-6. οἱ δικασταὶ δῶρα οὐ λαμβάνουσιν.
-7. ὁ δεσπότης τὰς τραπέζας ταῖς ἱερείαις ἐπιτρέπει.
-8. ἐν τῇ ἀγορᾷ Καλλίας τὰς νίκας τοῖς πολίταις λέγει.
+	1. We release the messenger on account of the deeds. 
+4. τοὺς ναύτας ἄγεις εἰς τὴν θάλατταν. 
+	1. You lead the sailors to the sea. 
+5. οἱ στρατηγοὶ μετὰ τῶν στρατιωτῶν τὰς σκηνὰς καὶ τὰς ἵππους λείπουσιν. 
+	1. The generals together with the soldiers abandon the tents and the horses. 
+6. οἱ δικασταὶ δῶρα οὐ λαμβάνουσιν. 
+	1. The judges do not take bribes. 
+7. ὁ δεσπότης τὰς τραπέζας ταῖς ἱερείαις ἐπιτρέπει. 
+	1. The master entrusts the banks to the priestesses. 
+8. ἐν τῇ ἀγορᾷ Καλλίας τὰς νίκας τοῖς πολίταις λέγει. 
+	1. In the agora Callias informs the citizens of the victories. 
 
 ## V. Translate the following into Greek.
 
-1. The citizens have laws but not justice.
-2. In the war the sickness begins, and the hoplites are fleeing.
+1. The citizens have laws but not justice. 
+	1. ~~ου τὴν δίκην ἀλλὰ τούς νόμους οἱ πόλιται~~ ***οἱ πολῖται νόμους ἔχουσιν ἀλλ᾿ οὐ δίκην.***
+2. In the war the sickness begins, and the hoplites are fleeing. 
+	1. ἐν τῷ πολέμῳ ἡ νόσος ἄρχει, καὶ οἱ ~~ὁπλίται~~ ***ὁπλῖται*** φεύγουσιν.
 3. Poets persuade the citizens by means of the tongue.
-4. The soldiers take the bridge, but the general dies in the attempt.
-5. You (sing.) have reputation but do not speak the truth.
+	1. ~~αἱ~~ ***οἱ*** ποιηταὶ διὰ τῆς ~~γλῶττας~~ ***γλώττης*** ~~τάς~~ ***τοὺς*** πολίτας πείθουσιν.
+4. The soldiers take the bridge, but the general dies in the attempt. 
+	1. οἱ ~~στρατιώται~~ ***στρατιῶται*** τήν γέφυραν λαμβάνουσι, ἀλλ᾿ ὁ στρατηγὸς ἐν τῇ πείρᾳ ἀποθνῄσκει.
+5. You (sing.) have reputation but do not speak the truth. 
+	1. ~~τήν δόξην~~ ***δόξαν*** ἔχεις, ἀλλὰ οὐ λέγεις τὴν ἀλήθειαν.
