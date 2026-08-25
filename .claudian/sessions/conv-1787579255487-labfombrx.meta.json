@@ -4,8 +4,8 @@
   "title": "Tidy Obsidian notes into neat readable list",
   "titleGenerationStatus": "success",
   "createdAt": 1787579255488,
-  "updatedAt": 1787579301448,
-  "lastResponseAt": 1787579301448,
+  "updatedAt": 1787643273580,
+  "lastResponseAt": 1787643273580,
   "sessionId": "a578f251-e2a8-4764-a23c-d2335d3a925c",
   "selectedModel": "haiku",
   "providerState": {
@@ -14,12 +14,12 @@
   "currentNote": "Areas/语言/古希腊语/笔记/Introduction to Attic Greek/Introduction to Attic Greek - Unit 7 练习.md",
   "usage": {
     "model": "haiku",
-    "inputTokens": 321,
+    "inputTokens": 558,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 32640,
+    "cacheReadInputTokens": 47232,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 32961,
-    "percentage": 16
+    "contextTokens": 47790,
+    "percentage": 24
   }
 }

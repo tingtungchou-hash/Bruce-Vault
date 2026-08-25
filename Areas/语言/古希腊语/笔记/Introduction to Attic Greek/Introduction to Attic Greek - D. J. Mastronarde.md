@@ -11,5 +11,6 @@ status: seedling
 | 3    | [[Introduction to Attic Greek - Unit 3 笔记]]   | [[Introduction to Attic Greek - Unit 3 练习]] | o-declension nonuns - propositions I                            |
 | 4    | [[Introduction to Attic Greek - Unit 4 笔记]]   | [[Introduction to Attic Greek - Unit 4 练习]] | a-declension nouns I - articles                                 |
 | 5    | [[Introduction to Attic Greek - Unit 5 笔记]]   | [[Introduction to Attic Greek - Unit 5 练习]] | present active indicative of ω-verbs                            |
-| 6    | [[Introduction to Attic Greek - Unit 6 笔记]]   | [[Introduction to Attic Greek - Unit 6 练习]] | a-declension nouns II -a-declension nouns III - propositions II |
-| 7    | [[Introduction to Attic Greek - Unit 7 笔记]] | [[Introduction to Attic Greek - Unit 7 练习]] |  |
+| 6    | [[Introduction to Attic Greek - Unit 6 笔记]]   | [[Introduction to Attic Greek - Unit 6 练习]] | a-declension nouns II -a-declension nouns III - prepositions II |
+| 7    | [[Introduction to Attic Greek - Unit 7 笔记]]   | [[Introduction to Attic Greek - Unit 7 练习]] | vowel-declension adjectives                                     |
+| 8    | [[Introduction to Attic Greek - Unit 8 笔记]]   | [[Introduction to Attic Greek - Unit 8 练习]] |                                                                 |

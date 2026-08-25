@@ -10,33 +10,64 @@ status: seedling
 
 **I. Give the requested form of each phrase in Greek.**
 
-1. shameful deeds (dat.) τῷ αἰσχρῷ ἔργῳ
-2. the harsh misfortune (acc.) 
-3. the base men (nom.)
-4. a clear measure (gen.)
-5. the friendly messenger (dat.)
-6. the wealthy umpires (acc.)
-7. a beautiful bridge (gen.)
-8. a good portion (dat.)
-9. the consecrated roads (gen.)
-10. the just law (acc.)
+1. shameful deeds (dat.) τοῖς αἰσχροῖς ἔργοις 
+2. the harsh misfortune (acc.) τήν χαλεπήν συμφοράν
+3. the base men (nom.) οἱ πονηρο~~ὶ~~***ί*** ~~ἄνθρωποι~~  
+4. a clear measure (gen.) ~~τοῦ~~ δήλου μέτρου
+5. the friendly messenger (dat.) τῷ φίλιῳ ἀγγέλῳ 
+6. the wealthy umpires (acc.) ~~τάς~~ ***τοὺς***  πλούσιας κριτάς 
+7. a beautiful bridge (gen.) ~~τῆς~~ καλῆς γεφύρας 
+8. a good portion (dat.) ~~τῇ~~ ἀγαθῇ μοίρᾳ
+9. the consecrated roads (gen.) τῶν ἱερῶν ὁδῶν 
+10. the just law (acc.) τόν δίκαιον νόμον 
 
 **II. For each sentence or phrase (a) translate into English; (b) identify fully all adjective forms; (c) specify the use of the adjective (either attributive modifying which noun, or predicative modifying which noun, or used as a substantive).**
 
 Ex. ὁ χαλεπὸς πόλεμος
 Answer (a) the cruel war; (b) χαλεπὸς is nom. sing. masc. of χαλεπός, -ή, -όν; (c) attributive modifying πόλεμος.
 
-1. εἰς τὸν δίκαιον λόγον
+1. εἰς τὸν δίκαιον λόγον 
+	1. to the just word 
+	2. δίκαιον acc. sing. masc. 
+	3. attributive
 2. διὰ τῶν μακρῶν θυρῶν
+	1. through the great gates
+	2. μακρῶν gen. pl. fem. 
+	3. attributive 
 3. μετὰ τῶν καλῶν θεῶν
+	1. among the beautiful gods/godesses 
+	2. καλῶν gen. pl. masc. or fem. 
+	3. attributive 
 4. εἰς τὴν τοῦ στρατηγοῦ σκηνήν
+	1. to the tent of the general 
+	2. no adjective. στρατηγοῦ gen. sing. masc. 
+	3. attributive 
 5. ἀπὸ τῆς πολεμίας στρατιᾶς
+	1. away from the enemy army 
+	2. πολεμίας gen. sing. fem. 
+	3. attributive 
 6. σὺν τοῖς ἀνθρώποις τοῖς ἀγαθοῖς
+	1. together with the good people
+	2. ἀγαθοῖς dat. pl. masc. 
+	3. attributive 
 7. διὰ τὸ αἰσχρόν
-8. μικρὰ τὰ τοῦ Ἰσαίου παιδία.
+	1. by aid of disgraceful deed 
+	2. αἰσχρόν acc. sing. neut. 
+	3. substantive
+8. μικρὰ τὰ τοῦ Ἰσαίου παιδία. 
+	1. the children of Isaios are small
+	2. μικρὰ nom. pl. neut.
+	3. predicative
 9. ὁ δίκαιος ἄξιος τῆς ἀρχῆς.
-10. ἄξιοι κακῶν οἱ πονηροί.
-11. οἱ σοφοὶ τὴν ἀλήθειαν λέγουσιν.
+	1. the just one is worthy of the ruler 
+	2. δίκαιος nom. sing. masc. ἄξιος nom. sing. masc. 
+	3. δίκαιος substantive ἄξιος predicative 
+10. ἄξιοι κακῶν οἱ πονηροί. 
+	1. the evil ones are worthy of the bad things
+	2. ἄξιοι πονηροί nom. pl. masc. κακῶν gen. pl. neut. 
+	3. πονηροί κακῶν substantive ἄξιοι predicative 
+11. οἱ σοφοὶ τὴν ἀλήθειαν λέγουσιν. 
+	1. 
 12. ἡ ἐκ τῶν θεῶν μοῖρα δήλη.
 13. ἱερὰ τὰ βιβλία τὰ τῶν κριτῶν.
 14. διὰ τὸ ἀγαθὸν ἔργον ὁ δικαστὴς τὸν κακὸν λύει.
