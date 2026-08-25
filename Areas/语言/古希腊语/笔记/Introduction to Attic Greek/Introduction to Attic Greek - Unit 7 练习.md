@@ -35,7 +35,7 @@ Answer (a) the cruel war; (b) χαλεπὸς is nom. sing. masc. of χαλεπ�
 	2. μακρῶν gen. pl. fem. 
 	3. attributive 
 3. μετὰ τῶν καλῶν θεῶν
-	1. among the beautiful gods/godesses 
+	1. ~~among~~ ***with*** the beautiful gods/godesses 
 	2. καλῶν gen. pl. masc. or fem. 
 	3. attributive 
 4. εἰς τὴν τοῦ στρατηγοῦ σκηνήν
@@ -51,7 +51,7 @@ Answer (a) the cruel war; (b) χαλεπὸς is nom. sing. masc. of χαλεπ�
 	2. ἀγαθοῖς dat. pl. masc. 
 	3. attributive 
 7. διὰ τὸ αἰσχρόν
-	1. by aid of disgraceful deed 
+	1. ~~by aid~~ ***on account*** of disgraceful deed 
 	2. αἰσχρόν acc. sing. neut. 
 	3. substantive
 8. μικρὰ τὰ τοῦ Ἰσαίου παιδία. 
@@ -59,7 +59,7 @@ Answer (a) the cruel war; (b) χαλεπὸς is nom. sing. masc. of χαλεπ�
 	2. μικρὰ nom. pl. neut.
 	3. predicative
 9. ὁ δίκαιος ἄξιος τῆς ἀρχῆς.
-	1. the just one is worthy of the ruler 
+	1. the just one is worthy of the ~~ruler~~ ***office***  
 	2. δίκαιος nom. sing. masc. ἄξιος nom. sing. masc. 
 	3. δίκαιος substantive ἄξιος predicative 
 10. ἄξιοι κακῶν οἱ πονηροί. 
@@ -67,23 +67,51 @@ Answer (a) the cruel war; (b) χαλεπὸς is nom. sing. masc. of χαλεπ�
 	2. ἄξιοι πονηροί nom. pl. masc. κακῶν gen. pl. neut. 
 	3. πονηροί κακῶν substantive ἄξιοι predicative 
 11. οἱ σοφοὶ τὴν ἀλήθειαν λέγουσιν. 
-	1. 
+	1. the wise tell the truth
+	2. σοφοὶ nom. pl. masc. 
+	3. substantive
 12. ἡ ἐκ τῶν θεῶν μοῖρα δήλη.
+	1. the fate out of the gods is manifest. 
+	2. δήλη nom. sing. fem. 
+	3. predicative 
 13. ἱερὰ τὰ βιβλία τὰ τῶν κριτῶν.
-14. διὰ τὸ ἀγαθὸν ἔργον ὁ δικαστὴς τὸν κακὸν λύει.
+	1. the  books of the umpires are consecrated 
+	2. ἱερὰ nom. pl. neut. 
+	3. predicative 
+14. διὰ τὸ ἀγαθὸν ἔργον ὁ δικαστὴς τὸν κακὸν λύει. 
+	1. on account of the good work the judge releases the evil man. 
+	2. ἀγαθὸν acc. sing. neut. κακὸν acc. sing. masc. 
+	3. ἀγαθὸν attributive κακὸν substantive 
 15. οἱ πολῖται τοὺς νόμους μετὰ γνώμης σοφῆς γράφουσιν.
+	1. the citizens inscribe the laws with the wise judgement 
+	2. σοφῆς gen. sing. fem. 
+	3. attributive
 16. ἡ ἀδελφὴ μετὰ φιλίας καὶ ἡδονῆς φέρει τὰς τοὺ ἀδελφοῦ συμφοράς
+	1. the sister bears the misfortunes of the brother with friendship and pleasure. 
+	2. no adjective. ἀδελφοῦ gen. sing. masc. 
+	3. attributive 
 
 **III. Translate the following phrases and sentences into Greek.**
 
-1. toward the small bridge
-2. because of the valor of the foot soldiers
-3. in the holy books
-4. throughout the long life
-5. with the small children of the messenger
-6. The poet’s exile is disgraceful.
-7. The deeds of wise men are worthy of honor.
-8. Good books are worthy friends.
-9. The soldiers in the marketplace are handsome.
-10. You (plur.) are not leading the children of the poet out of the large tent.
-11. We are taking the rich men and not the just citizens.
+1. toward the small bridge 
+	1. εἰς τὴν μίκρην γέφυραν 
+2. because of the valor of the foot soldiers 
+	1. διὰ τὴν τῶν πεζῶν ἀρετὴν 
+3. in the holy books 
+	1. ἐν τοῖς ἱέρους βιβλίους 
+4. throughout the long life 
+	1. διὰ τῷ μάκρῳ βίῳ 
+5. with the small children of the messenger 
+	1. μετά τῶν μίκρων ἀγγέλου παιδίων 
+6. The poet’s exile is disgraceful. 
+	1. ἡ ποιητοῦ φυγή αἰσχρή. 
+7. The deeds of wise men are worthy of honor. 
+	1. τὰ τῶν σόφων ἐργὰ ἄξια τίμης. 
+8. Good books are worthy friends. 
+	1. τὰ βιβλία εἰσὶ οἱ ἄξιοι φίδιοι. 
+9. The soldiers in the marketplace are handsome. 
+	1. οἱ ἐν τῇ ἀγορᾷ στρατιώται καλοί. 
+10. You (plur.) are not leading the children of the poet out of the large tent. 
+	1. τά ποιητοῦ παιδία ἐκ τῆς μάκρης  σκηνῆς οὐκ ἄγετε 
+11. We are taking the rich men and not the just citizens. 
+	1. οὐ οἱ ἀγαθαὶ πολίηαι ἀλλὰ οἰ 
