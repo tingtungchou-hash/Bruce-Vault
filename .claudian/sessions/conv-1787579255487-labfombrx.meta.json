@@ -1,0 +1,25 @@
+{
+  "id": "conv-1787579255487-labfombrx",
+  "providerId": "claude",
+  "title": "Tidy Obsidian notes into neat readable list",
+  "titleGenerationStatus": "success",
+  "createdAt": 1787579255488,
+  "updatedAt": 1787579301448,
+  "lastResponseAt": 1787579301448,
+  "sessionId": "a578f251-e2a8-4764-a23c-d2335d3a925c",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "a578f251-e2a8-4764-a23c-d2335d3a925c"
+  },
+  "currentNote": "Areas/语言/古希腊语/笔记/Introduction to Attic Greek/Introduction to Attic Greek - Unit 7 练习.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 321,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 32640,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 32961,
+    "percentage": 16
+  }
+}
