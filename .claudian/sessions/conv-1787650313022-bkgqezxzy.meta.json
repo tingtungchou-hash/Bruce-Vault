@@ -1,0 +1,25 @@
+{
+  "id": "conv-1787650313022-bkgqezxzy",
+  "providerId": "claude",
+  "title": "Check Ancient Greek exercise sentences",
+  "titleGenerationStatus": "success",
+  "createdAt": 1787650313022,
+  "updatedAt": 1787650622988,
+  "lastResponseAt": 1787650622988,
+  "sessionId": "2e400b60-463f-47ae-87a7-370d391669a5",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "2e400b60-463f-47ae-87a7-370d391669a5"
+  },
+  "currentNote": "Areas/语言/古希腊语/笔记/Introduction to Attic Greek/Introduction to Attic Greek - Unit 7 练习.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 7439,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 35072,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 42511,
+    "percentage": 21
+  }
+}

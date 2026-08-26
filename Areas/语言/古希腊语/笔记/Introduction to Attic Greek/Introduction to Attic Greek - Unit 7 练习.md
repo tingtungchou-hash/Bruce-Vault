@@ -94,24 +94,24 @@ Answer (a) the cruel war; (b) χαλεπὸς is nom. sing. masc. of χαλεπ�
 **III. Translate the following phrases and sentences into Greek.**
 
 1. toward the small bridge 
-	1. εἰς τὴν μίκρην γέφυραν 
+	1. εἰς τὴν ~~μίκρην~~ ***μικρὰν*** γέφυραν 
 2. because of the valor of the foot soldiers 
 	1. διὰ τὴν τῶν πεζῶν ἀρετὴν 
 3. in the holy books 
-	1. ἐν τοῖς ἱέρους βιβλίους 
+	1. ἐν τοῖς ~~ἱέρους~~ ***ἱεροῖς*** βιβλίους 
 4. throughout the long life 
-	1. διὰ τῷ μάκρῳ βίῳ 
+	1. διὰ ~~τῷ μάκρῳ βίῳ~~ ***τοῦ μακροῦ βίου*** 
 5. with the small children of the messenger 
-	1. μετά τῶν μίκρων ἀγγέλου παιδίων 
+	1. μετὰ τῶν ~~μίκρων~~ ***μικρῶν*** ~~ἀγγέλου~~ παιδίων ***τῶν τοῦ ἀγγέλου*** 
 6. The poet’s exile is disgraceful. 
-	1. ἡ ποιητοῦ φυγή αἰσχρή. 
+	1. ἡ ~~ποιητοῦ~~ ***τοῦ ποιητοῦ*** φυγή ~~αἰσχρή~~ ***αἰσχρά***. 
 7. The deeds of wise men are worthy of honor. 
-	1. τὰ τῶν σόφων ἐργὰ ἄξια τίμης. 
+	1. τὰ τῶν σόφων ~~ἐργὰ~~ ***ἔργα*** ἄξια ~~τίμης~~ ***τιμῆς***. 
 8. Good books are worthy friends. 
-	1. τὰ βιβλία εἰσὶ οἱ ἄξιοι φίδιοι. 
+	1. τὰ ***ἀγαθὰ*** βιβλία εἰσὶ ~~οἱ ἄξιοι φίδιοι~~ ***οἱ φίλοι ἄξιοι***. 
 9. The soldiers in the marketplace are handsome. 
 	1. οἱ ἐν τῇ ἀγορᾷ στρατιώται καλοί. 
 10. You (plur.) are not leading the children of the poet out of the large tent. 
-	1. τά ποιητοῦ παιδία ἐκ τῆς μάκρης  σκηνῆς οὐκ ἄγετε 
+	1. τὰ ~~ποιητοῦ~~ ***τοῦ ποιητοῦ*** παιδία ἐκ τῆς ~~μάκρης~~ ***μακρᾶς*** σκηνῆς οὐκ ἄγετε 
 11. We are taking the rich men and not the just citizens. 
-	1. οὐ οἱ ἀγαθαὶ πολίηαι ἀλλὰ οἰ 
+	1. τοὺς ~~πλούσιους~~ ***πλουσίους*** καὶ οὐ τοὺς ~~ἀγαθοὺς~~ ***δικαίους*** πολίτας ~~ελαύνομεν~~ ***λαμβάνομεν***.  
