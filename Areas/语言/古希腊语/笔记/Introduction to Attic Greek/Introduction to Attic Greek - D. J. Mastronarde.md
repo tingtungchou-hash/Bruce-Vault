@@ -14,3 +14,4 @@ status: seedling
 | 6    | [[Introduction to Attic Greek - Unit 6 笔记]]   | [[Introduction to Attic Greek - Unit 6 练习]] | a-declension nouns II -a-declension nouns III - prepositions II |
 | 7    | [[Introduction to Attic Greek - Unit 7 笔记]]   | [[Introduction to Attic Greek - Unit 7 练习]] | vowel-declension adjectives                                     |
 | 8    | [[Introduction to Attic Greek - Unit 8 笔记]]   | [[Introduction to Attic Greek - Unit 8 练习]] |                                                                 |
+| 9    | [[Introduction to Attic Greek - Unit 9 笔记]]   | [[Introduction to Attic Greek - Unit 9 练习]] |                                                                 |
