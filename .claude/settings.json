@@ -20,7 +20,11 @@
       "Bash(pdfinfo \"/d/knowledgebase/Bruce's Vault/Areas/语言/古希腊语/教材/Introduction to Attic Greek \\(2nd edition\\) \\(Donald J. Mastronarde\\) \\(z-library.sk, 1lib.sk, z-lib.sk\\).pdf\")",
       "Bash(pdfinfo *.pdf)",
       "Bash(pdfinfo \"Introduction to Attic Greek \\(2nd edition\\) \\(Donald J. Mastronarde\\) \\(z-library.sk, 1lib.sk, z-lib.sk\\).pdf\")",
-      "Bash(cd /tmp && grep -niE \"unit [0-9]+|unit[0-9]+\" iag.txt | head -60)"
+      "Bash(cd /tmp && grep -niE \"unit [0-9]+|unit[0-9]+\" iag.txt | head -60)",
+      "Bash(cd \"D:/knowledgebase/Bruce's Vault/Areas/语言/古希腊语/笔记/Introduction to Attic Greek\"\nf=\"Introduction to Attic Greek - Unit 9 练习.md\"\ngrep -n \"ᾴδιον\" \"$f\" || echo \"未找到 ῥᾴδιον\")",
+      "Bash(cd \"D:/knowledgebase/Bruce's Vault/Areas/语言/古希腊语/笔记/Introduction to Attic Greek\"\necho \"=== 导航页 Unit 8-10 行 ===\"\nsed -n '16,18p' \"Introduction to Attic Greek - D. J. Mastronarde.md\"\necho \"\"\necho \"=== 每个笔记/练习的 上一篇/下一篇 链完整性 ===\"\nfor n in 9 10; do\n  for kind in 笔记 练习; do\n    f=\"Introduction to Attic Greek - Unit $n $kind.md\"\n    echo \"--- Unit $n $kind ---\"\n    grep -oE '\\\\[\\\\[Introduction to Attic Greek - Unit [0-9]+ \\(笔记|练习\\)\\\\|\\(上一篇|下一篇\\)\\\\]\\\\]' \"$f\" | sed 's/\\\\|.*//;s/\\\\[\\\\[//' | while read t; do\n      [ -e \"$t.md\" ] && echo \"OK   -> $t\" || echo \"BROKEN -> $t\"\n    done\n  done\ndone)",
+      "Bash(cd \"D:/knowledgebase/Bruce's Vault/Areas/语言/古希腊语/笔记/Introduction to Attic Greek\"\nfor n in 9 10; do\n  for kind in 笔记 练习; do\n    f=\"Introduction to Attic Greek - Unit $n $kind.md\"\n    echo \"--- Unit $n $kind ---\"\n    # 提取所有指向 Unit X 笔记/练习 的 wikilink 目标\n    grep -oE '\\\\[\\\\[Introduction to Attic Greek - Unit [0-9]+ \\(笔记|练习\\)\\\\]\\\\]' \"$f\" | sed 's/\\\\[\\\\[//;s/\\\\]\\\\]//' | while read t; do\n      if [ -e \"$t.md\" ]; then echo \"OK    $t\"; else echo \"BROKEN $t\"; fi\n    done\n  done\ndone)",
+      "Bash(cd \"D:/knowledgebase/Bruce's Vault/Areas/语言/古希腊语/笔记/Introduction to Attic Greek\"\nfor n in 9 10; do\n  for kind in 笔记 练习; do\n    f=\"Introduction to Attic Greek - Unit $n $kind.md\"\n    echo \"--- Unit $n $kind ---\"\n    grep -oE 'Introduction to Attic Greek - Unit [0-9]+ \\(笔记|练习\\)' \"$f\" | sort -u | while read t; do\n      if [ -e \"$t.md\" ]; then echo \"OK    $t\"; else echo \"BROKEN $t\"; fi\n    done\n  done\ndone)"
     ],
     "permissionGroups": {
       "vault-ops": {
