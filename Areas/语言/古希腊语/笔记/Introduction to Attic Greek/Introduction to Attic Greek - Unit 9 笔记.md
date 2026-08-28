@@ -8,3 +8,29 @@ status: seedling
 
 ---
 
+# Present active infinitive 
+## construction 
+ω => ειν 
+e.g. ἐλαύνω => ἑλαύνειν 
+## usage 
+### **complementary infinitive** 
+for verbs meaning **will, desire, request, permission, choice, command**, and the like: 
+- ἐθέλω **μένειν**. 
+- I wish to stay
+- τοὺς συμμάχους **μένειν** πείθομεν. 
+- We're urging the allies to remain. 
+### **with impersonal expressions** 
+impersonals are considered neutral singulars here. 
+- ἄρχειν χαλεπόν. 
+- To lead is difficult. 
+- δεῖ πέμπειν δῶρα. 
+- It is necessary to send gifts. 
+### **articular infinitive** 
+infinitives can be used as substantives, but the article must be used when the infinitive functions as a substantive in the **genetive** or **dative** or as **the object of a preposition**. 
+- **τὸ ἄρχειν** πόνον φέρει.  
+- ἐκ **τοῦ λαμβάνειν** τὸν ἵππον 
+- πρὸς **τῷ** δῶρα **λαμβάνειν** 
+- πρὸς **τὸ ἐλαύνειν** τὰς ἵππους 
+## negation 
+use μή 
+# Two-ending adjectives  
