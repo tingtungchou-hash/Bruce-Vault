@@ -50,7 +50,7 @@ status: seedling
 - οὐ => οὔ at the end of a sentence 
 - a prolictic receives an acute accent when it is followed by an enclitic 
 
-### enclitics 
+### enclitics
 
 - U accented => keep circumflex or acute, acute not changed into a grave
 	- ἀγαθός τις, ἀγαθῷ τῳ, τῶν ἀγαθῶν ἐστι 

@@ -15,4 +15,4 @@ status: seedling
 | 7    | [[Introduction to Attic Greek - Unit 7 笔记]]   | [[Introduction to Attic Greek - Unit 7 练习]]  | vowel-declension adjectives                                      |
 | 8    | [[Introduction to Attic Greek - Unit 8 笔记]]   | [[Introduction to Attic Greek - Unit 8 练习]]  | second-person indicative - relative pronoun                      |
 | 9    | [[Introduction to Attic Greek - Unit 9 笔记]]   | [[Introduction to Attic Greek - Unit 9 练习]]  | present infinitive - two-ending adjectives                       |
-| 10   | [[Introduction to Attic Greek - Unit 10 笔记]]  | [[Introduction to Attic Greek - Unit 10 练习]] |                                                                  |
+| 10   | [[Introduction to Attic Greek - Unit 10 笔记]]  | [[Introduction to Attic Greek - Unit 10 练习]] | rresent of εἰμί - usages of dative and genetive                  |

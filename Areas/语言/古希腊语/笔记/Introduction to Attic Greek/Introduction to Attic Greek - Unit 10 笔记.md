@@ -16,6 +16,22 @@ status: seedling
 | 1st | εἰμί  |       | ἐσμέν   |
 | 2nd | εἶ    | ἐστόν | ἐστέ    |
 | 3rd | ἐστί  | ἐστόν | εἰσί(ν) |
+- inperative
+	- singular **ἴσθι** 
+	- plural **ἔστε** 
+- infinitive **εἶναι** 
 ## accentuation 
-except **εἶ**, all forms of the present indicative of 
+Except **εἶ**, all forms of the present indicative of εἰμί are **[[Introduction to Attic Greek - Unit 1-2 笔记#enclitics|enclitics]]**.  
+- The enclitic forms are accented on **U** when the preceding word **has an acute on P** 
+- Otherwise the enclitic has no accent 
+## emphantic ἔστι 
+ἔστι(ν) is used when 
+- stressing existence (there is)
+- the preceding word is 
+	- the proclitic οὐκ, εἰ, ὡς  
+	- the conjunction καί, ἀλλὰ 
+	- the demonstrative τοῦτ᾿
+# Usages of Dative and Genetive
+
+
  
