@@ -18,7 +18,7 @@ status: seedling
 7. οὐ σοφοί ἐσμεν. We're not wise. 
 8. σοφή ἐστιν. She is wise. 
 9. χαλεπόν ἐστι. It is difficult. 
-10. ὅσιαι ἔστε. You're (plural) pious. 
+10. ὅσιαι ἔστε. ~~You're (plural)~~ ***Be*** pious. 
 11. οὐκ ἔστι λίθος. There's no stone. 
 12. ἔστι τὸ καλόν. There's beauty. 
 
@@ -27,25 +27,26 @@ status: seedling
 Ex. I am harsh. χαλεπός εἰμι. or χαλεπή εἰμι.
 
 1. It is worthy. 
-	1. ἄξιὸς ἐστι. 
+	1. ἄξιὸν ἐστι. 
 2. The Athenians are responsible. 
-	1. οἱ Ἀθηναῖοι αἵτιοὶ εἰσι. 
+	1. οἱ Ἀθηναῖοι αἵτιοί εἰσι. 
 3. The battle is long. 
-	1. ἡ μάχη μακρή ἐστι. 
+	1. ἡ μάχη μακρὰ ἐστι. 
 4. We are immortal. 
-	1. ἀθάνατοὶ ἐσμεν. 
+	1. ἀθάνατοί ἐσμεν. 
 5. I am a sailor. 
-	1. ὁ ναύτης εἰμι. 
+	1. ~~ὁ~~ ναύτης εἰμί. 
 6. You (sing.) are pious. 
 	1. ἥσιοι εἶ. 
 7. You (pl.) are just. 
-	1. δίκαιοὶ ἐστε. 
+	1. δίκαιοί ἐστε. 
 8. Perjury is not just. 
-	1. ἀδίκη ἡ ἐπιορκία ἐστι. 
+	1. ἀδίκ~~η~~***ος*** ἡ ἐπιορκία ἐστιν. 
+	2. **ἡ ἐπιορκία οὐ δικαία ἐστίν.** 
 9. She is responsible. 
 	1. αἰτία ἐστι.
 10. The pebble is small. 
-	1. ὁ ψῆφος μικρὸς ἐστι. 
+	1. ~~ὁ~~ ***ἡ*** ψῆφος μικρ~~ὸς~~***ὰ*** ἐστι. 
 11. The tyrant is the general. 
 	1. ὁ τύραννος ὁ στρατηγὸς ἐστι. 
 
@@ -56,13 +57,20 @@ Ex. τῷ σοφῷ βιβλία ἐστίν. (a) The wise man has books. (b) da
 1. οἱ πλεῖστοι τῶν πολιτῶν εἰσι δίκαιοι.
 	1. The majority of the citizens are just. 
 2. τῷ πονηρῷ οἱ νόμοι οὔκ εἰσι καλοί. *(Note proclitic accented before enclitic: Unit 2.12d.)* 
-	1. the laws are not nice to the evil ones. 
+	1. the laws are not nice to the evil one. 
 3. ἡ ἐπιθυμία τοῦ πλούτου τοὺς ἀνθρώπους κακὰ πάσχειν πείθει. 
-	1. The desire of wealth persuades human beings to 
-4. τῇ ὑστέρᾳ ἡμέρᾳ εἰρήνην γράφουσιν.
-5. οἱ ἀθάνατοί εἰσιν αἴτιοι τῶν ἀγαθῶν τοῖς ἀνθρώποις.
+	1. The desire of wealth persuades human beings to experience bad feelings. 
+4. τῇ ὑστέρᾳ ἡμέρᾳ εἰρήνην γράφουσιν. 
+	1. They write peace treaty on the latter day. 
+5. οἱ ἀθάνατοί εἰσιν αἴτιοι τῶν ἀγαθῶν τοῖς ἀνθρώποις. 
+	1. The immortal are responsible of the good to human beings. 
 6. τῶν Ἀθηναίων ἐστὶν ἡ νίκη.
+	1. The victory is the Athenians'. 
 7. οἱ ἀνόσιοι λίθους μικροὺς ἐκ τοῦ ποταμοῦ λαμβάνουσιν οἷς τὸ ἱερὸν βάλλουσιν.
-8. οὐ δεῖ λέγειν τὸν τῶν πολεμίων φόβον.
-9. πράττετε τὰ καλὰ καὶ φεύγετε τὰ ἄδικα.
+	1. The unholy take small stones out of the river with which they strike the temple.  
+8. οὐ δεῖ λέγειν τὸν τῶν πολεμίων φόβον. 
+	1. It is not necessary to tell the fear of the enemies. 
+9. πράττετε τὰ καλὰ καὶ φεύγετε τὰ ἄδικα. 
+	1. Do the beautiful and avoid the unjust! 
 10. ἐν τῇ προτέρᾳ μάχῃ οἱ πλεῖστοι τῶν ὁπλιτῶν οὐ φεύγουσιν
+	1. In the former battle the majority of hoplites do not flee. 

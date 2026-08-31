@@ -4,8 +4,8 @@
   "title": "Create Today's Ancient Greek Notes and Practice",
   "titleGenerationStatus": "success",
   "createdAt": 1787724987144,
-  "updatedAt": 1788003920995,
-  "lastResponseAt": 1788003920995,
+  "updatedAt": 1788007304091,
+  "lastResponseAt": 1788007304091,
   "sessionId": "6257e65a-7193-4654-8f39-4bd5a90ad2c1",
   "selectedModel": "haiku",
   "providerState": {
@@ -14,12 +14,12 @@
   "currentNote": "Areas/语言/古希腊语/笔记/Introduction to Attic Greek/Introduction to Attic Greek - D. J. Mastronarde.md",
   "usage": {
     "model": "haiku",
-    "inputTokens": 560,
+    "inputTokens": 7474,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 87296,
+    "cacheReadInputTokens": 90240,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 87856,
-    "percentage": 44
+    "contextTokens": 97714,
+    "percentage": 49
   }
 }
