@@ -31,16 +31,12 @@ the middle voice indicates that the subject is more closely involved or interest
 - **ἄγω** I lead
 - **ἄγομαι** I lead (a woman) for myself; I marry (a woman)
 - **γράφω** I write
-- **γράφομαι** I indict, bring a suit against (literally, I get X、[’s name] recorded by the magistrates)
+- **γράφομαι** I indict, bring a suit against (literally, I get X\[’s name] recorded by the magistrates)
 - **φέρω** I carry
 - **φέρομαι** I carry off for myself, I win (a prize)
 - **δικάζω** I (as a judge) decide a suit
 - **δικάζομαι** I (as a plaintiff ) conduct a suit
 - **σπένδω** I pour a libation
 - **σπένδομαι** I make a truce (solemnized by a libation)
-- **λύω** I release
-- **λύομαι** I ransom
-- **βουλεύω** I plan
-- **βουλεύομαι** I deliberate
 - **πολιτεύω** I am a citizen
 - **πολιτεύομαι** I behave like a citizen; I participate in public affairs; I am a politician
