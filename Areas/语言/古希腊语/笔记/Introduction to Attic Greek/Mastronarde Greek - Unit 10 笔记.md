@@ -4,7 +4,7 @@ created: 2026-08-26
 tags: [language/greek]
 status: seedling
 ---
-[[Introduction to Attic Greek - D. J. Mastronarde|返回导航]] | [[Introduction to Attic Greek - Unit 10 练习|本课练习]] | [[Introduction to Attic Greek (2nd edition) (Donald J. Mastronarde) (z-library.sk, 1lib.sk, z-lib.sk).pdf|教材链接]] | [[Introduction to Attic Greek - Unit 9 笔记|上一篇]]
+[[Mastronarde Greek - D. J. Mastronarde|返回导航]] | [[Mastronarde Greek - Unit 10 练习|本课练习]] | [[Introduction to Attic Greek (2nd edition) (Donald J. Mastronarde) (z-library.sk, 1lib.sk, z-lib.sk).pdf|教材链接]] | [[Mastronarde Greek - Unit 9 笔记|上一篇]]
 
 ---
 # Present of εἰμί 
@@ -21,7 +21,7 @@ status: seedling
 	- plural **ἔστε** 
 - infinitive **εἶναι** 
 ## accentuation 
-Except **εἶ**, all forms of the present indicative of εἰμί are **[[Introduction to Attic Greek - Unit 1-2 笔记#enclitics|enclitics]]**.  
+Except **εἶ**, all forms of the present indicative of εἰμί are **[[Mastronarde Greek - Unit 1-2 笔记#enclitics|enclitics]]**.  
 - The enclitic forms are accented on **U** when the preceding word **has an acute on P** 
 - Otherwise the enclitic has no accent 
 ## emphantic ἔστι 
