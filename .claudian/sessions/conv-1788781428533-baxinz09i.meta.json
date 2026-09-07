@@ -1,0 +1,25 @@
+{
+  "id": "conv-1788781428533-baxinz09i",
+  "providerId": "claude",
+  "title": "Tidy selection into structured readable list",
+  "titleGenerationStatus": "success",
+  "createdAt": 1788781428533,
+  "updatedAt": 1788783054075,
+  "lastResponseAt": 1788783054075,
+  "sessionId": "cc8195b9-4598-416e-8fab-dd994bac1954",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "cc8195b9-4598-416e-8fab-dd994bac1954"
+  },
+  "currentNote": "Areas/语言/古希腊语/笔记/Introduction to Attic Greek/Mastronarde Greek - Unit 11 练习.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 2689,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 49280,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 51969,
+    "percentage": 26
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "conv-1788783199321-4ffk8hb2i",
+  "providerId": "claude",
+  "title": "Summarize today's learning into course section",
+  "titleGenerationStatus": "success",
+  "createdAt": 1788783199322,
+  "updatedAt": 1788783240329,
+  "lastResponseAt": 1788783240329,
+  "sessionId": "3ea3090f-28d2-4c51-b270-f99f9f509263",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "3ea3090f-28d2-4c51-b270-f99f9f509263"
+  },
+  "currentNote": "Calendar/Daily/2026-09-07.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 197,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 35200,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 35397,
+    "percentage": 18
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "conv-1788781309090-v23pvprls",
+  "providerId": "claude",
+  "title": "Write YAML frontmatter based on other notes",
+  "titleGenerationStatus": "success",
+  "createdAt": 1788781309090,
+  "updatedAt": 1788781411115,
+  "lastResponseAt": 1788781353527,
+  "sessionId": "9c2e8596-705e-45d7-8808-4f7bd6462efc",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "9c2e8596-705e-45d7-8808-4f7bd6462efc"
+  },
+  "currentNote": "毛泽东思想概论.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 64,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 30592,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 30656,
+    "percentage": 15
+  }
+}

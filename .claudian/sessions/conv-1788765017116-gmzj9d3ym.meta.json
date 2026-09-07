@@ -4,14 +4,13 @@
   "title": "Write YAML frontmatter for Obsidian note",
   "titleGenerationStatus": "success",
   "createdAt": 1788765017117,
-  "updatedAt": 1788765142144,
+  "updatedAt": 1788781288897,
   "lastResponseAt": 1788765142144,
   "sessionId": "7ff0be1d-a0ea-4836-8e45-d962efd9b4d2",
   "selectedModel": "haiku",
   "providerState": {
     "providerSessionId": "7ff0be1d-a0ea-4836-8e45-d962efd9b4d2"
   },
-  "currentNote": "引论 26-9-7.md",
   "usage": {
     "model": "haiku",
     "inputTokens": 592,
