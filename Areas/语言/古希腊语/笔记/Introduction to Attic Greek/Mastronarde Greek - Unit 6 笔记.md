@@ -8,16 +8,16 @@ status: seedling
 
 ---
 # A-Declension Nouns II 
-
+short fem. a 
 ## alpha subset 
 
-|     | sing. | dual | plur. |
-| --- | ----- | ---- | ----- |
-| n   | ας    | α    | αι    |
-| g   | ου    | αιν  | ῶν    |
-| d   | ᾳ     | αιν  | αις   |
-| a   | αν    | α    | ας    |
-| v   | α     | α    | αι    |
+|     | sing. | dual | plur.  |
+| --- | ----- | ---- | ------ |
+| n   | α     | α    | αι     |
+| g   | ας    | αιν  | ῶν     |
+| d   | ᾳ     | αιν  | αις    |
+| a   | αν    | α    | ας     |
+| v   | α     | α    | αι     |
 ## eta subset 
 
 |     | sing. | dual | plur. |
@@ -28,15 +28,16 @@ status: seedling
 | a   | αν    | α    | ας    |
 | v   | α     | α    | αι    |
 # A-Declension Nouns III 
+long masc. a  
 ## alpha subset 
 
-|     | sing. | dual | plur.  |
-| --- | ----- | ---- | ------ |
-| n   | α     | α    | αι     |
-| g   | ας    | αιν  | ῶν     |
-| d   | ᾳ     | αιν  | αις    |
-| a   | αν    | α    | ας     |
-| v   | α     | α    | αι     |
+|     | sing. | dual | plur. |
+| --- | ----- | ---- | ----- |
+| n   | ας    | α    | αι    |
+| g   | ου    | αιν  | ῶν    |
+| d   | ᾳ     | αιν  | αις   |
+| a   | αν    | α    | ας    |
+| v   | α     | α    | αι    |
 ## eta subset 
 
 |     | sing. | dual | plur. |

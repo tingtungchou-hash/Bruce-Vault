@@ -4,8 +4,8 @@
   "title": "Rename Intro to Attic Greek to Mastronarde Greek",
   "titleGenerationStatus": "success",
   "createdAt": 1788670982327,
-  "updatedAt": 1788673936112,
-  "lastResponseAt": 1788673936112,
+  "updatedAt": 1788680319915,
+  "lastResponseAt": 1788680319770,
   "sessionId": "60c152e0-b9b3-45cc-97fd-00b519095319",
   "selectedModel": "haiku",
   "providerState": {
@@ -13,12 +13,12 @@
   },
   "usage": {
     "model": "haiku",
-    "inputTokens": 1695,
+    "inputTokens": 55,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 93056,
+    "cacheReadInputTokens": 84736,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 94751,
-    "percentage": 47
+    "contextTokens": 84791,
+    "percentage": 42
   }
 }

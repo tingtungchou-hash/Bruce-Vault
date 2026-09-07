@@ -1,0 +1,25 @@
+{
+  "id": "conv-1788680320198-vzwopvodc",
+  "providerId": "claude",
+  "title": "Install markitdown skill /转Markdown in vault",
+  "titleGenerationStatus": "success",
+  "createdAt": 1788680320198,
+  "updatedAt": 1788680364761,
+  "lastResponseAt": 1788680364761,
+  "sessionId": "728684bc-edfc-496a-9d4f-962b39375637",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "728684bc-edfc-496a-9d4f-962b39375637"
+  },
+  "currentNote": "Areas/语言/古希腊语/笔记/Introduction to Attic Greek/语法导航.canvas",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 356,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 33536,
+    "contextWindow": 200000,
+    "contextTokens": 33892,
+    "percentage": 17,
+    "contextWindowIsAuthoritative": true
+  }
+}
