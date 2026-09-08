@@ -4,22 +4,21 @@
   "title": "Complete frontmatter for Latin reading lesson 1",
   "titleGenerationStatus": "success",
   "createdAt": 1788853842858,
-  "updatedAt": 1788853911099,
-  "lastResponseAt": 1788853911099,
+  "updatedAt": 1788856758847,
+  "lastResponseAt": 1788856758847,
   "sessionId": "30848cbf-fa00-4b12-b46b-a1477763bb61",
   "selectedModel": "haiku",
   "providerState": {
     "providerSessionId": "30848cbf-fa00-4b12-b46b-a1477763bb61"
   },
-  "currentNote": "导论(1) 26-9-8 拉丁语阅读.md",
   "usage": {
     "model": "haiku",
-    "inputTokens": 81,
+    "inputTokens": 198,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 33024,
+    "cacheReadInputTokens": 36480,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 33105,
-    "percentage": 17
+    "contextTokens": 36678,
+    "percentage": 18
   }
 }
