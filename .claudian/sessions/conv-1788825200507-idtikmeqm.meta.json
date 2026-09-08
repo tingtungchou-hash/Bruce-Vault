@@ -1,0 +1,25 @@
+{
+  "id": "conv-1788825200507-idtikmeqm",
+  "providerId": "claude",
+  "title": "Add YAML frontmatter to four selected notes",
+  "titleGenerationStatus": "success",
+  "createdAt": 1788825200508,
+  "updatedAt": 1788825554947,
+  "lastResponseAt": 1788825269486,
+  "sessionId": "9d6e6fb4-94a8-48f6-85cd-1392cee3e0b8",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "9d6e6fb4-94a8-48f6-85cd-1392cee3e0b8"
+  },
+  "currentNote": "Areas/学业/课程/大二上/大二上导航.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 175,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 36608,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 36783,
+    "percentage": 18
+  }
+}

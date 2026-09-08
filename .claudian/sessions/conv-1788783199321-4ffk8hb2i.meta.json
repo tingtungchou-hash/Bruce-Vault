@@ -4,8 +4,8 @@
   "title": "Summarize today's learning into course section",
   "titleGenerationStatus": "success",
   "createdAt": 1788783199322,
-  "updatedAt": 1788783240329,
-  "lastResponseAt": 1788783240329,
+  "updatedAt": 1788825560970,
+  "lastResponseAt": 1788824588629,
   "sessionId": "3ea3090f-28d2-4c51-b270-f99f9f509263",
   "selectedModel": "haiku",
   "providerState": {
@@ -14,12 +14,12 @@
   "currentNote": "Calendar/Daily/2026-09-07.md",
   "usage": {
     "model": "haiku",
-    "inputTokens": 197,
+    "inputTokens": 67,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 35200,
+    "cacheReadInputTokens": 36992,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 35397,
-    "percentage": 18
+    "contextTokens": 37059,
+    "percentage": 19
   }
 }

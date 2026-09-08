@@ -1,0 +1,25 @@
+{
+  "id": "conv-1788826004050-a506z7l32",
+  "providerId": "claude",
+  "title": "Add ## headers before each date topic",
+  "titleGenerationStatus": "success",
+  "createdAt": 1788826004050,
+  "updatedAt": 1788826026489,
+  "lastResponseAt": 1788826026489,
+  "sessionId": "67440dd6-fd0c-4843-bdbf-c98e2a428ef5",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "67440dd6-fd0c-4843-bdbf-c98e2a428ef5"
+  },
+  "currentNote": "2026秋拉丁语阅读一课程大纲.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 5372,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 30464,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 35836,
+    "percentage": 18
+  }
+}
