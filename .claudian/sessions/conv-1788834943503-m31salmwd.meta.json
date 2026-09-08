@@ -4,8 +4,8 @@
   "title": "Tidy Markdown note into structured file",
   "titleGenerationStatus": "success",
   "createdAt": 1788834943503,
-  "updatedAt": 1788835029415,
-  "lastResponseAt": 1788835029415,
+  "updatedAt": 1788853822336,
+  "lastResponseAt": 1788851518975,
   "sessionId": "b5f2c27d-8450-490b-89c9-b7273a38946a",
   "selectedModel": "haiku",
   "providerState": {
@@ -14,12 +14,12 @@
   "currentNote": "Areas/学业/课程/大二上/基础古希腊语(1)/PKU Elementary Greek S1 2026-2027 Syllabus 20260802.md",
   "usage": {
     "model": "haiku",
-    "inputTokens": 269,
+    "inputTokens": 343,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 39168,
+    "cacheReadInputTokens": 48896,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 39437,
-    "percentage": 20
+    "contextTokens": 49239,
+    "percentage": 25
   }
 }
