@@ -4,14 +4,14 @@
   "title": "补全中国近代史课程导言笔记的 frontmatter",
   "titleGenerationStatus": "success",
   "createdAt": 1788825588318,
-  "updatedAt": 1788825624778,
+  "updatedAt": 1788833702583,
   "lastResponseAt": 1788825624778,
   "sessionId": "2ddff74b-b2b7-460a-ad63-a62b9b13a075",
   "selectedModel": "haiku",
   "providerState": {
     "providerSessionId": "2ddff74b-b2b7-460a-ad63-a62b9b13a075"
   },
-  "currentNote": "导言 26-9-8 中近史(1).md",
+  "currentNote": "Areas/学业/课程/大二上/中国近代史/导言 26-9-8 中近史(1).md",
   "usage": {
     "model": "haiku",
     "inputTokens": 100,

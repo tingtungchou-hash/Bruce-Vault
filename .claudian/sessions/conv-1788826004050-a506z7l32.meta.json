@@ -4,14 +4,14 @@
   "title": "Add ## headers before each date topic",
   "titleGenerationStatus": "success",
   "createdAt": 1788826004050,
-  "updatedAt": 1788826026489,
+  "updatedAt": 1788833702772,
   "lastResponseAt": 1788826026489,
   "sessionId": "67440dd6-fd0c-4843-bdbf-c98e2a428ef5",
   "selectedModel": "haiku",
   "providerState": {
     "providerSessionId": "67440dd6-fd0c-4843-bdbf-c98e2a428ef5"
   },
-  "currentNote": "2026秋拉丁语阅读一课程大纲.md",
+  "currentNote": "Areas/学业/课程/大二上/其它课程/2026秋拉丁语阅读一课程大纲.md",
   "usage": {
     "model": "haiku",
     "inputTokens": 5372,

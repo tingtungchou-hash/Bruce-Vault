@@ -1,0 +1,25 @@
+{
+  "id": "conv-1788832822140-55h1adw6l",
+  "providerId": "claude",
+  "title": "Highlight all deadlines in Obsidian vault",
+  "titleGenerationStatus": "success",
+  "createdAt": 1788832822140,
+  "updatedAt": 1788833705900,
+  "lastResponseAt": 1788832884341,
+  "sessionId": "496a4904-bda1-4bd5-89c7-3c6bb5ee92f7",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "496a4904-bda1-4bd5-89c7-3c6bb5ee92f7"
+  },
+  "currentNote": "Areas/学业/课程/大二上/其它课程/毛泽东思想概论.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 267,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 38400,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 38667,
+    "percentage": 19
+  }
+}

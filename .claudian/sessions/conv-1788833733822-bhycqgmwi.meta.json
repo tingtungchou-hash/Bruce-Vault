@@ -1,0 +1,25 @@
+{
+  "id": "conv-1788833733822-bhycqgmwi",
+  "providerId": "claude",
+  "title": "Generate Obsidian frontmatter based on other notes",
+  "titleGenerationStatus": "success",
+  "createdAt": 1788833733822,
+  "updatedAt": 1788834766059,
+  "lastResponseAt": 1788834766059,
+  "sessionId": "c9d51ba1-7cd5-48ae-91b5-1257fe94abab",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "c9d51ba1-7cd5-48ae-91b5-1257fe94abab"
+  },
+  "currentNote": "26-9-8 古希腊语(1).md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 2826,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 36608,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 39434,
+    "percentage": 20
+  }
+}
