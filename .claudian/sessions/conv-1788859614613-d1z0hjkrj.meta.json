@@ -1,0 +1,25 @@
+{
+  "id": "conv-1788859614613-d1z0hjkrj",
+  "providerId": "claude",
+  "title": "检查课程资料并列出待交作业",
+  "titleGenerationStatus": "success",
+  "createdAt": 1788859614614,
+  "updatedAt": 1788862765854,
+  "lastResponseAt": 1788862765854,
+  "sessionId": "968ae550-d8cc-47f3-b576-924017e5f3e7",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "968ae550-d8cc-47f3-b576-924017e5f3e7"
+  },
+  "currentNote": "Areas/学业/课程/大二上/大二上导航.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 257,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 83200,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 83457,
+    "percentage": 42
+  }
+}
