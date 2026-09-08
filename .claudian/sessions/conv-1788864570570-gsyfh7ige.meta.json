@@ -4,8 +4,8 @@
   "title": "Add YAML frontmatter to note",
   "titleGenerationStatus": "success",
   "createdAt": 1788864570571,
-  "updatedAt": 1788864578374,
-  "lastResponseAt": 1788864578374,
+  "updatedAt": 1788872994438,
+  "lastResponseAt": 1788872994438,
   "sessionId": "62e8bd0f-a86e-4089-a2b2-abe9441e070a",
   "selectedModel": "haiku",
   "providerState": {
@@ -14,12 +14,12 @@
   "currentNote": "Areas/学业/课程/大二上/公共初级意大利语/第一课 26-9-8 公初意.md",
   "usage": {
     "model": "haiku",
-    "inputTokens": 340,
+    "inputTokens": 924,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 27776,
+    "cacheReadInputTokens": 28288,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 28116,
-    "percentage": 14
+    "contextTokens": 29212,
+    "percentage": 15
   }
 }
