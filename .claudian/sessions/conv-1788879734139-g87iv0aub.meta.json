@@ -1,0 +1,25 @@
+{
+  "id": "conv-1788879734139-g87iv0aub",
+  "providerId": "claude",
+  "title": "总结今日学习并录入日记",
+  "titleGenerationStatus": "success",
+  "createdAt": 1788879734139,
+  "updatedAt": 1788880656328,
+  "lastResponseAt": 1788880656328,
+  "sessionId": "5ee930d6-c8ae-4257-afbb-dfd1e311c43c",
+  "selectedModel": "opus",
+  "providerState": {
+    "providerSessionId": "5ee930d6-c8ae-4257-afbb-dfd1e311c43c"
+  },
+  "currentNote": "Calendar/Daily/2026-09-08.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 244,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 38528,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 38772,
+    "percentage": 19
+  }
+}

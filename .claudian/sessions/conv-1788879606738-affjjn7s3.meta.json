@@ -1,0 +1,25 @@
+{
+  "id": "conv-1788879606738-affjjn7s3",
+  "providerId": "claude",
+  "title": "Summarize today's notes into daily journal",
+  "titleGenerationStatus": "success",
+  "createdAt": 1788879606738,
+  "updatedAt": 1788879647798,
+  "lastResponseAt": 1788879647798,
+  "sessionId": "70237776-874e-46ba-8893-f58842e46d9b",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "70237776-874e-46ba-8893-f58842e46d9b"
+  },
+  "currentNote": "Calendar/Daily/2026-09-08.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 904,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 33408,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 34312,
+    "percentage": 17
+  }
+}
