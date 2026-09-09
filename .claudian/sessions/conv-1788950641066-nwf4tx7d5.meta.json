@@ -4,8 +4,8 @@
   "title": "Complete Obsidian note frontmatter",
   "titleGenerationStatus": "success",
   "createdAt": 1788950641067,
-  "updatedAt": 1788952216075,
-  "lastResponseAt": 1788952216075,
+  "updatedAt": 1788955708888,
+  "lastResponseAt": 1788955708888,
   "sessionId": "3942d80e-0170-4cf9-b995-1e65ed432c72",
   "selectedModel": "haiku",
   "providerState": {
@@ -14,12 +14,12 @@
   "currentNote": "第一课 26-9-9 世文地(1).md",
   "usage": {
     "model": "haiku",
-    "inputTokens": 2534,
+    "inputTokens": 774,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 35456,
+    "cacheReadInputTokens": 39168,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 37990,
-    "percentage": 19
+    "contextTokens": 39942,
+    "percentage": 20
   }
 }

@@ -41,6 +41,7 @@ the articles ὁ, ἡ, τό can be used:
 # αὐτός, οὐτή, οὐτόν 
 - of the **oblique cases** (gen. dat. acc.) only, used as the **personal pronoun** of the third person
 	- ἀποκτείνουσιν αὐτόν
-- when used in agreement with a noun in any case, as **emphatic** or **intensive**, **in predicate position**
-	- τὰ βιβλία ἦν αὐτοῦ τοῦ διδασκάλου, οὐ τοῦ ποιητοῦ.
-- when 
+- when used in agreement with a noun in any case **in predicate position**, as **emphatic** or **intensive**
+	- τὰ βιβλία ἦν **αὐτοῦ** τοῦ διδασκάλου, οὐ τοῦ ποιητοῦ.
+	- This book **is** the teacher's, not the poet's. (**predicative**)
+- when placed in attributive position, it is adjectival meaning "**the same**"
