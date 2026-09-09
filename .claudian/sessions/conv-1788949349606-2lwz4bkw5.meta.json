@@ -1,0 +1,25 @@
+{
+  "id": "conv-1788949349606-2lwz4bkw5",
+  "providerId": "claude",
+  "title": "Create today's blank U12 note with frontmatter",
+  "titleGenerationStatus": "success",
+  "createdAt": 1788949349606,
+  "updatedAt": 1788950627638,
+  "lastResponseAt": 1788950251435,
+  "sessionId": "d19034ed-244e-418d-9d5f-a88f7ce60677",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "d19034ed-244e-418d-9d5f-a88f7ce60677"
+  },
+  "currentNote": "Areas/语言/古希腊语/笔记/Introduction to Attic Greek/Mastronarde Greek - D. J. Mastronarde.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 779,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 31872,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 32651,
+    "percentage": 16
+  }
+}
