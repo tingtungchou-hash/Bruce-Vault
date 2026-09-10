@@ -1,0 +1,25 @@
+{
+  "id": "conv-1789007851030-lxy43c4r5",
+  "providerId": "claude",
+  "title": "解释此处\"自在\"的含义",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789007851031,
+  "updatedAt": 1789008172719,
+  "lastResponseAt": 1789008172719,
+  "sessionId": "3c2bfa75-9b9d-4752-bf46-d81e549d085d",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "3c2bfa75-9b9d-4752-bf46-d81e549d085d"
+  },
+  "currentNote": "Areas/学业/课程/大二上/西方现代政治思想/导论 26-9-10 西政思.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 1748,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 27776,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 29524,
+    "percentage": 15
+  }
+}

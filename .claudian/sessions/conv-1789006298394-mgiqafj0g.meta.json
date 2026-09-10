@@ -1,0 +1,24 @@
+{
+  "id": "conv-1789006298394-mgiqafj0g",
+  "providerId": "claude",
+  "title": "Complete frontmatter for political thought notes",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789006298395,
+  "updatedAt": 1789007841693,
+  "lastResponseAt": 1789006348760,
+  "sessionId": "bfea0133-81a0-489c-a407-11204a914517",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "bfea0133-81a0-489c-a407-11204a914517"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 167,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 32512,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 32679,
+    "percentage": 16
+  }
+}
