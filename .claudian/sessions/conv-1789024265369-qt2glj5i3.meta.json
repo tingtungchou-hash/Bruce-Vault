@@ -1,0 +1,25 @@
+{
+  "id": "conv-1789024265369-qt2glj5i3",
+  "providerId": "claude",
+  "title": "Generate YAML frontmatter for Obsidian note",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789024265369,
+  "updatedAt": 1789024375383,
+  "lastResponseAt": 1789024296601,
+  "sessionId": "90c9c524-9019-4bcf-87ff-54a2adc27f10",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "90c9c524-9019-4bcf-87ff-54a2adc27f10"
+  },
+  "currentNote": "鸦片战争 26-9-10 中近史(2).md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 209,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 31104,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 31313,
+    "percentage": 16
+  }
+}

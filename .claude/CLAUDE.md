@@ -47,15 +47,18 @@
 - **每日笔记**: `YYYY-MM-DD.md`（用 Obsidian Daily Notes 插件）
 
 ### YAML Frontmatter 规范
-每篇笔记都应包含：
+每篇笔记都应包含 `created` 与 `tags`（**必填**）：
 ```yaml
 ---
 title: ""
 created: {{date}}
 tags: []
-status: seedling     # seedling | growing | evergreen
 ---
 ```
+
+> `status` 字段已**废弃不用** —— seedling / growing / evergreen 三级状态经实践无实用价值，新建笔记一律不写。历史笔记中残留的 `status` 行可留待日后清理。
+> 无值字段**整行省略**（如无教师就不写 `professor`），不写空占位。
+> 带导航栏的笔记（课程 / 语言 / 文献）另见 `/新建笔记`，其 frontmatter 字段规范以该 skill 为准。
 
 ### 标签体系
 > **规则：所有标签必须使用英文**（含 YAML frontmatter 中的 `tags` 字段），禁止使用中文标签。
@@ -113,6 +116,7 @@ status: seedling     # seedling | growing | evergreen
 - **禁用 emoji** — 所有内容生成禁止使用 emoji，包括标题、列表、状态标记、提示语等任何位置
 
 ### 常用命令
+- `/新建笔记` — 从零创建带导航栏的课程 / 语言 / 文献笔记（组装导航栏、生成 frontmatter 与正文骨架、接入上级导航）
 - "帮我整理这节课的笔记" — 从对话/草稿生成结构化笔记
 - "帮我做闪卡" — 从笔记提取 Q&A 对
 - "解释这个词的词源" — 跨语言追根溯源

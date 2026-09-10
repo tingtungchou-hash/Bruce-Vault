@@ -4,7 +4,22 @@
   "title": "Audit note-creation skills and plan template wo...",
   "titleGenerationStatus": "success",
   "createdAt": 1789022841537,
-  "updatedAt": 1789022846060,
-  "sessionId": null,
-  "selectedModel": "haiku"
+  "updatedAt": 1789024221269,
+  "lastResponseAt": 1789024221213,
+  "sessionId": "fa6876ac-48c4-4537-bd1f-5e20fcb0baf9",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "fa6876ac-48c4-4537-bd1f-5e20fcb0baf9"
+  },
+  "currentNote": "Areas/学业/课程/大二上/基础古希腊语(1)/26-9-9 古希腊语(2).md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 885,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 58496,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 59381,
+    "percentage": 30
+  }
 }

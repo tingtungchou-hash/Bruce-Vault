@@ -1,0 +1,24 @@
+{
+  "id": "conv-1789024221557-rkqzwpg1q",
+  "providerId": "claude",
+  "title": "Implement Obsidian note system with nav bar",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789024221558,
+  "updatedAt": 1789025767055,
+  "lastResponseAt": 1789025767055,
+  "sessionId": "4d99abff-8f6f-4725-9c0f-b6e9e227fc30",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "4d99abff-8f6f-4725-9c0f-b6e9e227fc30"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 600,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 64384,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 64984,
+    "percentage": 32
+  }
+}
