@@ -1,0 +1,25 @@
+{
+  "id": "conv-1789036876571-lflczl4x9",
+  "providerId": "claude",
+  "title": "Create Italian lesson 2 course note",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789036876571,
+  "updatedAt": 1789036908286,
+  "lastResponseAt": 1789036908286,
+  "sessionId": "2c0246c4-f61f-441e-b84a-6b0bc82ae9c6",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "2c0246c4-f61f-441e-b84a-6b0bc82ae9c6"
+  },
+  "currentNote": "Areas/学业/课程/大二上/公共初级意大利语/公共初级意大利语 - 导航.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 474,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 36864,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 37338,
+    "percentage": 19
+  }
+}
