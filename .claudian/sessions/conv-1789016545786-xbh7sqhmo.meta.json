@@ -1,0 +1,25 @@
+{
+  "id": "conv-1789016545786-xbh7sqhmo",
+  "providerId": "claude",
+  "title": "Create Ancient Greek lesson note from template",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789016545786,
+  "updatedAt": 1789016570737,
+  "lastResponseAt": 1789016570737,
+  "sessionId": "75909f8f-5322-4886-a42e-3962d2d0d05d",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "75909f8f-5322-4886-a42e-3962d2d0d05d"
+  },
+  "currentNote": "Areas/学业/课程/大二上/基础古希腊语(1)/基础古希腊语(1)导航.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 157,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 30208,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 30365,
+    "percentage": 15
+  }
+}
