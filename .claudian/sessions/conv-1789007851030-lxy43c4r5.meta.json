@@ -4,8 +4,8 @@
   "title": "解释此处\"自在\"的含义",
   "titleGenerationStatus": "success",
   "createdAt": 1789007851031,
-  "updatedAt": 1789008172719,
-  "lastResponseAt": 1789008172719,
+  "updatedAt": 1789012839409,
+  "lastResponseAt": 1789012839409,
   "sessionId": "3c2bfa75-9b9d-4752-bf46-d81e549d085d",
   "selectedModel": "haiku",
   "providerState": {
@@ -14,12 +14,12 @@
   "currentNote": "Areas/学业/课程/大二上/西方现代政治思想/导论 26-9-10 西政思.md",
   "usage": {
     "model": "haiku",
-    "inputTokens": 1748,
+    "inputTokens": 7667,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 27776,
+    "cacheReadInputTokens": 52864,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 29524,
-    "percentage": 15
+    "contextTokens": 60531,
+    "percentage": 30
   }
 }
