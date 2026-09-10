@@ -1,0 +1,25 @@
+{
+  "id": "conv-1789035473927-7wr331ckq",
+  "providerId": "claude",
+  "title": "Explain grammatical role of clause in sentence",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789035473927,
+  "updatedAt": 1789036175100,
+  "lastResponseAt": 1789036175100,
+  "sessionId": "c634ccbd-d42d-432c-97b2-88fb117422c0",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "c634ccbd-d42d-432c-97b2-88fb117422c0"
+  },
+  "currentNote": "Areas/语言/拉丁语/笔记/Wheelock's Latin Reader/26-9-10 Wheelock Verrem.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 232,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 60672,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 60904,
+    "percentage": 30
+  }
+}

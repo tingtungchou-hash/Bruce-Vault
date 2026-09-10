@@ -9,7 +9,7 @@ tags:
   - reading
 status: seedling
 ---
-[[Wheelock's Latin Reader - 导航|返回导航]] | [[Wheelocks Latin Reader Selections from Latin Literature (2nd Edition) (Frederick M. Wheelock, Richard A. LaFleur) (z-library.sk, 1lib.sk, z-lib.sk).pdf|教材链接]] | [[下一课]] 
+[[Wheelock's Latin Reader - 导航|返回导航]] | [[主页|返回主页]] | [[Wheelocks Latin Reader Selections from Latin Literature (2nd Edition) (Frederick M. Wheelock, Richard A. LaFleur) (z-library.sk, 1lib.sk, z-lib.sk).pdf|教材链接]] | [[26-9-10 Wheelock Verrem|下一课]]  
 
 --- 
 # Text - Cic. In C. Verrem Actio Prima 1 - 14 
