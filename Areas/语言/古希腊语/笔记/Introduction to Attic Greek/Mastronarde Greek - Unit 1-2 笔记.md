@@ -55,5 +55,8 @@ status: seedling
 - U accented => keep circumflex or acute, acute not changed into a grave
 	- ἀγαθός τις, ἀγαθῷ τῳ, τῶν ἀγαθῶν ἐστι 
 - a disyllabic enclitic receives an accent on its second syllable. 
+	- λόγος τις, λόγῳ τιν==ί==, λόγῳ τιν==ὶ== καλῷ, λόγων τιν==ῶ==ν 
 - a word with a **circumflex on P** or an **acute on A** receives an extra accent on **U** 
-	- δῶρόν τι, ἄνθρωπός τις 
+	- δῶρ==ό==ν τι, ἄνθρωπ==ό==ς τις 
+- a proclictic followed by an enclitic receives an acute accent 
+	- εἴ τις, οὔκ εἰσι 
