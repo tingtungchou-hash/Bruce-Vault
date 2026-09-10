@@ -4,8 +4,8 @@
   "title": "Create Italian lesson 2 course note",
   "titleGenerationStatus": "success",
   "createdAt": 1789036876571,
-  "updatedAt": 1789036908286,
-  "lastResponseAt": 1789036908286,
+  "updatedAt": 1789045679492,
+  "lastResponseAt": 1789045433438,
   "sessionId": "2c0246c4-f61f-441e-b84a-6b0bc82ae9c6",
   "selectedModel": "haiku",
   "providerState": {
@@ -14,12 +14,12 @@
   "currentNote": "Areas/学业/课程/大二上/公共初级意大利语/公共初级意大利语 - 导航.md",
   "usage": {
     "model": "haiku",
-    "inputTokens": 474,
+    "inputTokens": 224,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 36864,
+    "cacheReadInputTokens": 42880,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 37338,
-    "percentage": 19
+    "contextTokens": 43104,
+    "percentage": 22
   }
 }
