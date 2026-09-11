@@ -1,0 +1,25 @@
+{
+  "id": "conv-1789052382521-epepy951d",
+  "providerId": "claude",
+  "title": "Write today's study summary into daily note",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789052382522,
+  "updatedAt": 1789052451728,
+  "lastResponseAt": 1789052451728,
+  "sessionId": "3978d020-94da-4239-bbe5-dced0bab8558",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "3978d020-94da-4239-bbe5-dced0bab8558"
+  },
+  "currentNote": "Calendar/Daily/2026-09-10.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 273,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 47616,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 47889,
+    "percentage": 24
+  }
+}
