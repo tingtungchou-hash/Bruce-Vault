@@ -1,0 +1,25 @@
+{
+  "id": "conv-1789092501171-wld0l5ylt",
+  "providerId": "claude",
+  "title": "Create blank Latin reading note for 导论(2)",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789092501171,
+  "updatedAt": 1789092547931,
+  "lastResponseAt": 1789092547931,
+  "sessionId": "8b9f3fb3-46e2-4e82-9e8e-0c344371760e",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "8b9f3fb3-46e2-4e82-9e8e-0c344371760e"
+  },
+  "currentNote": "Areas/学业/课程/大二上/拉丁语阅读（1）/拉丁语阅读(1) - 导航.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 162,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 39552,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 39714,
+    "percentage": 20
+  }
+}
