@@ -21,10 +21,11 @@ status: seedling
 
 ## 阅读进度
 
-| 日期     | 阅读文本                             | 笔记                         |
-| ------ | -------------------------------- | -------------------------- |
-| 26-9-9 | Cicero, In C. Verrem Actio Prima | [[26-9-9 Wheelock Verrem]] |
+| 日期      | 阅读文本                             | 笔记                          |
+| ------- | -------------------------------- | --------------------------- |
+| 26-9-9  | Cicero, In C. Verrem Actio Prima | [[26-9-9 Wheelock Verrem]]  |
 | 26-9-10 | Cicero, In C. Verrem Actio Prima | [[26-9-10 Wheelock Verrem]] |
+| 26-9-11 | Cicero, In C. Verrem Actio Prima | [[26-9-11 Wheelock Verrem]] |
 
 ## 备注
 - 待阅读后补充各章文本、笔记与单词表链接

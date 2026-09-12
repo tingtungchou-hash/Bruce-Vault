@@ -4,8 +4,8 @@
   "title": "Organize Obsidian vault note",
   "titleGenerationStatus": "success",
   "createdAt": 1789105822137,
-  "updatedAt": 1789106115611,
-  "lastResponseAt": 1789106115611,
+  "updatedAt": 1789111894292,
+  "lastResponseAt": 1789111890266,
   "sessionId": "d00ae751-2e8e-415a-aa5c-350a23bf7723",
   "selectedModel": "haiku",
   "providerState": {
@@ -14,12 +14,12 @@
   "currentNote": "Areas/学业/课程/大二上/公共初级意大利语/第二课 26-9-10 公初意.md",
   "usage": {
     "model": "haiku",
-    "inputTokens": 249,
+    "inputTokens": 1981,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 72320,
+    "cacheReadInputTokens": 86912,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 72569,
-    "percentage": 36
+    "contextTokens": 88893,
+    "percentage": 44
   }
 }
