@@ -1,0 +1,25 @@
+{
+  "id": "conv-1789214845209-bwpmdvx5f",
+  "providerId": "claude",
+  "title": "Assess desktop file operation capability",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789214845210,
+  "updatedAt": 1789216116153,
+  "lastResponseAt": 1789216116153,
+  "sessionId": "4aacd4a5-d4da-4962-be33-843d5f3895f9",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "4aacd4a5-d4da-4962-be33-843d5f3895f9"
+  },
+  "currentNote": "Areas/学业/文献库/古典学学术史/古典学学术史地图.canvas",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 158,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 60160,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 60318,
+    "percentage": 30
+  }
+}
