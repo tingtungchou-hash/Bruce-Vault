@@ -4,8 +4,8 @@
   "title": "Create preposition collocation note from link",
   "titleGenerationStatus": "success",
   "createdAt": 1789274639337,
-  "updatedAt": 1789277805209,
-  "lastResponseAt": 1789277805209,
+  "updatedAt": 1789279467936,
+  "lastResponseAt": 1789279467936,
   "sessionId": "7937e4a0-1d0a-4d71-a86f-cf160b71aaf7",
   "selectedModel": "haiku",
   "providerState": {
@@ -14,12 +14,12 @@
   "currentNote": "Areas/语言/古希腊语/笔记/Introduction to Attic Greek/Mastronarde Greek - D. J. Mastronarde.md",
   "usage": {
     "model": "haiku",
-    "inputTokens": 387,
+    "inputTokens": 235,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 109440,
+    "cacheReadInputTokens": 153856,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 109827,
-    "percentage": 55
+    "contextTokens": 154091,
+    "percentage": 77
   }
 }

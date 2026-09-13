@@ -36,23 +36,23 @@ tags: [language/greek]
 
 | 介词 | gen. | dat. | acc. | 格数 |
 | --- | :---: | :---: | :---: | :---: |
-| ἀπό | √ |  |  | 单 |
-| ἐκ / ἐξ | √ |  |  | 单 |
-| ἀντί | √ |  |  | 单 |
-| πρό | √ |  |  | 单 |
-| ἐν |  | √ |  | 单 |
-| σύν |  | √ |  | 单 |
-| εἰς / ἐς |  |  | √ | 单 |
-| ἀνά |  |  | √ | 单 |
-| διά | √ |  | √ | 双 |
-| μετά | √ |  | √ | 双 |
-| κατά | √ |  | √ | 双 |
-| ὑπέρ | √ |  | √ | 双 |
-| ἐπί | √ | √ | √ | 三 |
-| παρά | √ | √ | √ | 三 |
-| πρός | √ | √ | √ | 三 |
-| περί | √ | √ | √ | 三 |
-| ὑπό | √ | √ | √ | 三 |
+| [[Mastronarde介词搭配#^ana\|ἀνά]] |  |  | √ | 单 |
+| [[Mastronarde介词搭配#^anti\|ἀντί]] | √ |  |  | 单 |
+| [[Mastronarde介词搭配#^apo\|ἀπό]] | √ |  |  | 单 |
+| [[Mastronarde介词搭配#^dia\|διά]] | √ |  | √ | 双 |
+| [[Mastronarde介词搭配#^eis\|εἰς / ἐς]] |  |  | √ | 单 |
+| [[Mastronarde介词搭配#^ek\|ἐκ / ἐξ]] | √ |  |  | 单 |
+| [[Mastronarde介词搭配#^en\|ἐν]] |  | √ |  | 单 |
+| [[Mastronarde介词搭配#^epi\|ἐπί]] | √ | √ | √ | 三 |
+| [[Mastronarde介词搭配#^kata\|κατά]] | √ |  | √ | 双 |
+| [[Mastronarde介词搭配#^meta\|μετά]] | √ |  | √ | 双 |
+| [[Mastronarde介词搭配#^para\|παρά]] | √ | √ | √ | 三 |
+| [[Mastronarde介词搭配#^peri\|περί]] | √ | √ | √ | 三 |
+| [[Mastronarde介词搭配#^pro\|πρό]] | √ |  |  | 单 |
+| [[Mastronarde介词搭配#^pros\|πρός]] | √ | √ | √ | 三 |
+| [[Mastronarde介词搭配#^syn\|σύν]] |  | √ |  | 单 |
+| [[Mastronarde介词搭配#^hyper\|ὑπέρ]] | √ |  | √ | 双 |
+| [[Mastronarde介词搭配#^hypo\|ὑπό]] | √ | √ | √ | 三 |
 
 **读表要点**：
 
@@ -64,16 +64,14 @@ tags: [language/greek]
 
 ## 单格介词
 
-| 介词 | 支配格 | 释义 | 出处 |
-| --- | --- | --- | --- |
-| ἀπό（ἀπ'/ἀφ' 元音前） | gen. | away from, from | [[Mastronarde Greek - Unit 3 笔记\|Unit 3]] |
-| ἐκ（ἐξ 元音前） | gen. | out of, forth from | [[Mastronarde Greek - Unit 3 笔记\|Unit 3]] |
-| ἐν | dat. | in, within, on, at, among | [[Mastronarde Greek - Unit 3 笔记\|Unit 3]] |
-| εἰς / ἐς | acc. | into, to, toward | [[Mastronarde Greek - Unit 3 笔记\|Unit 3]] |
-| σύν | dat. | together with, with | [[Mastronarde Greek - Unit 3 笔记\|Unit 3]] |
-| ἀντί | gen. | instead of, in place of, in return for | [[Mastronarde Greek - Unit 6 笔记\|Unit 6]] |
-| πρό | gen. | in front of; in defense of; before | [[Mastronarde Greek - Unit 6 笔记\|Unit 6]] |
-| ἀνά | acc. | up, up along, throughout | [[Mastronarde Greek - Unit 12 笔记\|Unit 12]] |
+- **ἀπό**（ἀπ'/ἀφ' 元音前）＋ gen. — away from, from　[[Mastronarde Greek - Unit 3 笔记|Unit 3]] ^apo
+- **ἐκ / ἐξ**（ἐξ 元音前）＋ gen. — out of, forth from　[[Mastronarde Greek - Unit 3 笔记|Unit 3]] ^ek
+- **ἐν** ＋ dat. — in, within, on, at, among　[[Mastronarde Greek - Unit 3 笔记|Unit 3]] ^en
+- **εἰς / ἐς** ＋ acc. — into, to, toward　[[Mastronarde Greek - Unit 3 笔记|Unit 3]] ^eis
+- **σύν** ＋ dat. — together with, with　[[Mastronarde Greek - Unit 3 笔记|Unit 3]] ^syn
+- **ἀντί** ＋ gen. — instead of, in place of, in return for　[[Mastronarde Greek - Unit 6 笔记|Unit 6]] ^anti
+- **πρό** ＋ gen. — in front of; in defense of; before　[[Mastronarde Greek - Unit 6 笔记|Unit 6]] ^pro
+- **ἀνά** ＋ acc. — up, up along, throughout　[[Mastronarde Greek - Unit 12 笔记|Unit 12]] ^ana
 
 **助记**：属格 4 个（ἀπό, ἐκ, ἀντί, πρό）都是"**从……**"（离开 / 出自 / 代替 / 之前）；与格 2 个（ἐν, σύν）都是"**在某处 / 与某人**"；宾格 2 个（εἰς, ἀνά）都是"**向某处 / 向上**"。
 
@@ -90,7 +88,7 @@ tags: [language/greek]
 | gen. | through（空间 / 时间）；by（施事 / 工具） | per + acc. |
 | acc. | because of, on account of, by aid of, by reason of | propter / ob + acc. |
 
-**助记**：核心义「穿过」—— gen. 是穿过某空间 / 某时段 / 借由某工具；acc. 由「经由某原因」抽象为「因为」。**gen. 偏「经由」，acc. 偏「缘由」**。
+**助记**：核心义「穿过」—— gen. 是穿过某空间 / 某时段 / 借由某工具；acc. 由「经由某原因」抽象为「因为」。**gen. 偏「经由」，acc. 偏「缘由」**。 ^dia
 
 ### μετά ｜ [[Mastronarde Greek - Unit 6 笔记|Unit 6]]
 
@@ -99,7 +97,7 @@ tags: [language/greek]
 | gen. | among, with | cum + abl. |
 | acc. | after（时间或等级） | post + acc. |
 
-**助记**：核心义「在……中间（amidst）」—— gen. 是身处其中 →「与……一起」；acc. 是次序上「紧随其后」→「在……之后」。**in the midst of → with；next in order → after**（一为空间同时，一为时间先后）。
+**助记**：核心义「在……中间（amidst）」—— gen. 是身处其中 →「与……一起」；acc. 是次序上「紧随其后」→「在……之后」。**in the midst of → with；next in order → after**（一为空间同时，一为时间先后）。 ^meta
 
 ### κατά ｜ [[Mastronarde Greek - Unit 12 笔记|Unit 12]]
 
@@ -108,7 +106,7 @@ tags: [language/greek]
 | gen. | down from, down upon; against | de + abl. / contra + acc. |
 | acc. | down along, over, throughout; in accordance with; concerning | secundum + acc. |
 
-**助记**：核心义「向下」—— gen. 是向下**离开**某物（→ 引申「针对、反对」）；acc. 是沿着某物**向下铺开**（→「遍及、按照」）。**gen. 是"离开"（落到某物上 / 冲着某物去），acc. 是"铺开"（沿着、按照）**。
+**助记**：核心义「向下」—— gen. 是向下**离开**某物（→ 引申「针对、反对」）；acc. 是沿着某物**向下铺开**（→「遍及、按照」）。**gen. 是"离开"（落到某物上 / 冲着某物去），acc. 是"铺开"（沿着、按照）**。 ^kata
 
 ### ὑπέρ ｜ [[Mastronarde Greek - Unit 12 笔记|Unit 12]]
 
@@ -117,7 +115,7 @@ tags: [language/greek]
 | gen. | over, above; in defense of; concerning | pro + abl. |
 | acc. | over, across, beyond（运动或位置） | super / trans + acc. |
 
-**助记**：核心义「在上方」—— gen. 从上方笼罩 →「为……出头、代表」；acc. 越过某个限度 →「越过、超出」。**gen. 对应 pro（代表），acc. 对应 super（越过）**。
+**助记**：核心义「在上方」—— gen. 从上方笼罩 →「为……出头、代表」；acc. 越过某个限度 →「越过、超出」。**gen. 对应 pro（代表），acc. 对应 super（越过）**。 ^hyper
 
 ---
 
@@ -133,7 +131,7 @@ tags: [language/greek]
 | dat. | upon, over; next to; in addition to | in + abl. |
 | acc. | onto, up to, toward; against | in + acc. |
 
-**助记**：核心义「在上」—— gen. = 接触点（贴在表面之上 / 在某人的任期之内）；dat. = 停驻点（就在其上 / 其旁 / 附加于）；acc. = 落点（落到其上 / 冲着而去）。**gen. 贴着，dat. 待着，acc. 扑上去**。
+**助记**：核心义「在上」—— gen. = 接触点（贴在表面之上 / 在某人的任期之内）；dat. = 停驻点（就在其上 / 其旁 / 附加于）；acc. = 落点（落到其上 / 冲着而去）。**gen. 贴着，dat. 待着，acc. 扑上去**。 ^epi
 
 ### παρά ｜ [[Mastronarde Greek - Unit 8 笔记|Unit 8]]
 
@@ -143,7 +141,7 @@ tags: [language/greek]
 | dat. | by the side of, at the house of（宾语几乎必为人） | apud |
 | acc. | to the side of; beside, alongside; past, beyond, contrary to | ad / praeter + acc. |
 
-**助记**：核心义「在……旁边」（一条平行线）—— gen. 从旁边来；dat. 在某人处；acc. 到旁边去 / 越过去。**παρὰ + dat. = apud**（最好用的一条）；三点连成一线：从哪来、在哪、去哪。
+**助记**：核心义「在……旁边」（一条平行线）—— gen. 从旁边来；dat. 在某人处；acc. 到旁边去 / 越过去。**παρὰ + dat. = apud**（最好用的一条）；三点连成一线：从哪来、在哪、去哪。 ^para
 
 ### πρός ｜ [[Mastronarde Greek - Unit 8 笔记|Unit 8]]
 
@@ -153,7 +151,7 @@ tags: [language/greek]
 | dat. | near, beside; in addition to | apud（近旁） |
 | acc. | to, toward; against; in respect to, regarding | ad + acc. |
 
-**助记**：核心义「朝向」—— acc. 最核心：朝过去（to, toward, against）；dat. 就在旁边（near, beside）；gen. 是「从对方那一方来的」（如 πρὸς τῶν πολιτῶν = 从公民那里）。**πρός = "面向"，故 acc. 最核心；gen. 是"从对面来"**。
+**助记**：核心义「朝向」—— acc. 最核心：朝过去（to, toward, against）；dat. 就在旁边（near, beside）；gen. 是「从对方那一方来的」（如 πρὸς τῶν πολιτῶν = 从公民那里）。**πρός = "面向"，故 acc. 最核心；gen. 是"从对面来"**。 ^pros
 
 ### περί ｜ [[Mastronarde Greek - Unit 12 笔记|Unit 12]]
 
@@ -163,7 +161,7 @@ tags: [language/greek]
 | dat. | around（位置）；about（所争夺的对象） | circum（静态） |
 | acc. | around（运动）；about, concerning | circum + acc. |
 
-**助记**：核心义「环绕」—— gen. 环绕某**话题** →「关于」；dat. 环绕某**位置**（静止）；acc. **绕行**某物（运动）。**三大义都从"环绕"长出来：绕话题 = 关于，绕位置 = 在……周围，绕一圈 = 环绕运动**。
+**助记**：核心义「环绕」—— gen. 环绕某**话题** →「关于」；dat. 环绕某**位置**（静止）；acc. **绕行**某物（运动）。**三大义都从"环绕"长出来：绕话题 = 关于，绕位置 = 在……周围，绕一圈 = 环绕运动**。 ^peri
 
 ### ὑπό ｜ [[Mastronarde Greek - Unit 12 笔记|Unit 12]]
 
@@ -173,7 +171,7 @@ tags: [language/greek]
 | dat. | under; under the power of | sub + abl. |
 | acc. | under; during, in the course of | sub + acc. |
 
-**助记**：核心义「在下」—— gen. 从下方把动作**推上来** →「被（施事者）」；dat. **被压在下面**（隶属、支配）；acc. **钻到下面去**（运动）/ 在某过程之下（"在……期间"）。**被动句施事者用 ὑπό + gen. ≈ 拉丁 ab + abl.**；"under the power of" 是静压，"during" 是过程覆盖。
+**助记**：核心义「在下」—— gen. 从下方把动作**推上来** →「被（施事者）」；dat. **被压在下面**（隶属、支配）；acc. **钻到下面去**（运动）/ 在某过程之下（"在……期间"）。**被动句施事者用 ὑπό + gen. ≈ 拉丁 ab + abl.**；"under the power of" 是静压，"during" 是过程覆盖。 ^hypo
 
 ---
 
