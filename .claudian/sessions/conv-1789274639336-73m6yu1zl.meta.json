@@ -1,0 +1,25 @@
+{
+  "id": "conv-1789274639336-73m6yu1zl",
+  "providerId": "claude",
+  "title": "Create preposition collocation note from link",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789274639337,
+  "updatedAt": 1789277805209,
+  "lastResponseAt": 1789277805209,
+  "sessionId": "7937e4a0-1d0a-4d71-a86f-cf160b71aaf7",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "7937e4a0-1d0a-4d71-a86f-cf160b71aaf7"
+  },
+  "currentNote": "Areas/语言/古希腊语/笔记/Introduction to Attic Greek/Mastronarde Greek - D. J. Mastronarde.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 387,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 109440,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 109827,
+    "percentage": 55
+  }
+}

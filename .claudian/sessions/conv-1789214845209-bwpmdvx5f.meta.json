@@ -4,8 +4,8 @@
   "title": "Assess desktop file operation capability",
   "titleGenerationStatus": "success",
   "createdAt": 1789214845210,
-  "updatedAt": 1789219480192,
-  "lastResponseAt": 1789219480192,
+  "updatedAt": 1789275062001,
+  "lastResponseAt": 1789275062001,
   "sessionId": "4aacd4a5-d4da-4962-be33-843d5f3895f9",
   "selectedModel": "haiku",
   "providerState": {
@@ -5212,12 +5212,12 @@
   "currentNote": "Areas/学业/文献库/古典学学术史/古典学学术史地图.canvas",
   "usage": {
     "model": "haiku",
-    "inputTokens": 411,
+    "inputTokens": 755,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 189056,
+    "cacheReadInputTokens": 113152,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 189467,
-    "percentage": 95
+    "contextTokens": 113907,
+    "percentage": 57
   }
 }

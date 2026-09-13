@@ -5,6 +5,9 @@ status: seedling
 ---
 [[主页|返回主页]] | [[Introduction to Attic Greek (2nd edition) (Donald J. Mastronarde) (z-library.sk, 1lib.sk, z-lib.sk).pdf|教材]] | [[Areas/语言/古希腊语/笔记/Introduction to Attic Greek/语法导航.canvas|语法导航]] 
 
+---
+# 课程列表
+
 | UNIT | 笔记                                  | 练习                                 | 语法点                                                              |
 | ---- | ----------------------------------- | ---------------------------------- | ---------------------------------------------------------------- |
 | 1-2  | [[Mastronarde Greek - Unit 1-2 笔记]] |                                    | alphabet - accentuation - elision crasis - proclitic - enclitic  |
@@ -17,5 +20,7 @@ status: seedling
 | 9    | [[Mastronarde Greek - Unit 9 笔记]]   | [[Mastronarde Greek - Unit 9 练习]]  | present infinitive - two-ending adjectives                       |
 | 10   | [[Mastronarde Greek - Unit 10 笔记]]  | [[Mastronarde Greek - Unit 10 练习]] | present of εἰμί - usages of dative and genetive                  |
 | 11   | [[Mastronarde Greek - Unit 11 笔记]]  | [[Mastronarde Greek - Unit 11 练习]] | present middle/passive indicative                                |
-| 12   | [[Mastronarde Greek - Unit 12 笔记]]  |                                    |                                                                  |
+| 12   | [[Mastronarde Greek - Unit 12 笔记]]  | [[Mastronarde Greek - Unit 12 练习]] |                                                                  |
 |      |                                     |                                    |                                                                  |
+# 专题整理
+- [[Mastronarde介词搭配]] 
