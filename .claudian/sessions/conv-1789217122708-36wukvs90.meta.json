@@ -1,0 +1,25 @@
+{
+  "id": "conv-1789217122708-36wukvs90",
+  "providerId": "claude",
+  "title": "Clean Wikipedia article and translate to Chinese",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789217122709,
+  "updatedAt": 1789217259468,
+  "lastResponseAt": 1789217173873,
+  "sessionId": "e2814ea0-7791-46aa-8f71-d3f6c1f730e1",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "e2814ea0-7791-46aa-8f71-d3f6c1f730e1"
+  },
+  "currentNote": "Resources/attachments/clippings/Ezechiel Spanheim.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 2080,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 36224,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 38304,
+    "percentage": 19
+  }
+}

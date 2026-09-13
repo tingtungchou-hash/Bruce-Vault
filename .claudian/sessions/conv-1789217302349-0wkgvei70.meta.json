@@ -1,0 +1,25 @@
+{
+  "id": "conv-1789217302349-0wkgvei70",
+  "providerId": "claude",
+  "title": "Clean Wikipedia article and translate to Chinese",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789217302349,
+  "updatedAt": 1789217416578,
+  "lastResponseAt": 1789217416578,
+  "sessionId": "a3dee3c7-e7e1-44e7-bfdb-d63b8dd6b7e6",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "a3dee3c7-e7e1-44e7-bfdb-d63b8dd6b7e6"
+  },
+  "currentNote": "Resources/attachments/clippings/Ezechiel Spanhemius - Vicipaedia.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 508,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 45696,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 46204,
+    "percentage": 23
+  }
+}
