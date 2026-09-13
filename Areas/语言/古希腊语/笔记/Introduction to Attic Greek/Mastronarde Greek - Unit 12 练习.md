@@ -49,23 +49,24 @@ tags: [language/greek]
 ### II. Translate.
 
 1. οἱ μὲν σοφοὶ εὖ πράττουσιν, οἱ δὲ κακοὶ οὔ. (For the accent on οὔ, see Unit 2.11.)
-	1. The wise try, while the unwise do not. 
+	1. The wise ~~try~~ ***fare well***, while the unwise do not. 
 2. οὐ πόλεμον βουλόμεθα ἔχειν ἀλλ’ εἰρήνην. 
 	1. We do not want the war - we want peace. 
 3. οἱ πολῖται σπένδουσι τοῖς θεοῖς οἳ μάχονται ὑπὲρ τῆς χώρας· αἴτιοι γάρ εἰσι τοῦ καλῶς πράττειν.
-	1. The citizens make a truce to the gods who fight over the lands, who are responsible for doing what's nice. 
+	1. The citizens pour libations to the gods who fight ~~over the lands, who are responsible for doing what's nice~~ ***on behalf of the country. For they are responsible for their faring well***. 
 4. καλὴ ἡ χώρα ἡ ὑπὲρ τοῦ ποταμοῦ εἰς ἣν τὰ παιδία αὐτοῦ ἔρχεται. 
-	1. The land over the river is beautiful to which the same children go. 
+	1. The land over the river is beautiful to which ~~the same~~ ***his*** children go. 
 5. ὑπὸ αὐτῶν τε τῶν Ἀθηναίων καὶ τῶν συμμάχων ἤδη δικαίως βλάπτονται οἱ βάρβαροι. 
-	1. Under him both of the Athenians and of the allies the barbarians now justly damage 
+	1. ~~Under him both of~~ ***By both*** the Athenians ~~and of the~~ ***themselves and their*** allies the barbarians now justly ~~damage~~ ***are being harmed*** 
 6. τὸ δίκαια πράττειν χαλεπὸν μὲν τοῖς πλείστοις, ῥᾴδιον δὲ τοῖς σοφοῖς. 
-	1. Justice is to effect the difficult to the many, while the easy to the wise. 
+	1. ~~Justice is to effect the difficult to the many, while the easy to the wise~~ ***To do just things is difficult for most people but easy for the wise***. 
 7. τοῖς πολίταις παρακελεύεται ὁσίοις εἶναι καὶ νῦν καὶ αὖθις. (For the case of ὁσίοις review Unit 10.5.)
-	1.  To the citizens, to be pious is prepared both now and in the future. (The citizens are prepared to be pious both now and in the future)
+	1.  ~~To the citizens, to be pious is prepared~~ ***She or he exhorts the citizens to be pious*** both now and in the future. 
 8. οἱ ἀγαθοὶ τὴν τιμὴν ἀντὶ τοῦ πλούτου ἔχειν ἀεὶ βούλονται. 
-	1. The kind men always want to have the victory instead of wealth. 
+	1. The good men always want to have the honor instead of wealth. 
 9. ὁ μὲν Πεισίστρατος νῦν τοὺς πεζοὺς τάττει ἐνθάδε παρὰ τὴν θάλατταν, ὁ δ’ Ἰσαῖος καὶ οἱ ναῦται ῥᾳδίως ἔρχονται ἀνὰ τὸν ποταμόν· δοκεῖ γὰρ αὐτοῖς τὴν στρατιὰν ἤδη λείπειν. 
 	1. Peisistratos now arranges the infantrymen here to near the sea, while Isaios and the sailors easily go onto the river; for it seems best to them to abandon the army immediately. 
 10. ἡ ἱέρεια τοὺς πλείστους τῶν δούλων τῷ ἀδελφῷ ἐπιτρέπει· οἱ δὲ αὐτίκα φεύγειν βούλονται· κακῶς γὰρ ἔχουσιν. 
-	1. the priestess entrusts the majority of the slaves to the sister; and at once they wnat to flee; for they have
+	1. the priestess entrusts the majority of the slaves to her brother; and at once they want to flee; for they are in bad shape. 
 11. ὁ διδάσκαλος κελεύει τοὺς νεανίας τοὺς πόνους εὖ φέρειν, ἀλλ’ οὐ πείθεσθαι αὐτῷ ἐθέλουσιν.
+	1. The teacher orders the young men to bear the hard work well, but they do not wish to obey him. 

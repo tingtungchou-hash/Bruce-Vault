@@ -1,0 +1,25 @@
+{
+  "id": "conv-1789284394748-x5ppplgaf",
+  "providerId": "claude",
+  "title": "Create today's Wheelock's Latin reading note",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789284394748,
+  "updatedAt": 1789284421686,
+  "lastResponseAt": 1789284421686,
+  "sessionId": "ff5eb84c-d9bb-4fd5-9056-af7c3e3e81f9",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "ff5eb84c-d9bb-4fd5-9056-af7c3e3e81f9"
+  },
+  "currentNote": "Areas/语言/拉丁语/笔记/Wheelock's Latin Reader/Wheelock's Latin Reader - 导航.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 287,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 32768,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 33055,
+    "percentage": 17
+  }
+}
