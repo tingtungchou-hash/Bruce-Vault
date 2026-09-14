@@ -1,0 +1,25 @@
+{
+  "id": "conv-1789370143310-j5ygffoch",
+  "providerId": "claude",
+  "title": "Tidy content into a neat readable list",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789370143310,
+  "updatedAt": 1789370646771,
+  "lastResponseAt": 1789370646771,
+  "sessionId": "ee7d5d67-d419-4754-b696-058db22e2e2b",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "ee7d5d67-d419-4754-b696-058db22e2e2b"
+  },
+  "currentNote": "Areas/学业/课程/大二上/古希腊罗马史/引论 26-9-7 古希罗(1).md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 363,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 38272,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 38635,
+    "percentage": 19
+  }
+}

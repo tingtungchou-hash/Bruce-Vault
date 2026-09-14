@@ -1,0 +1,25 @@
+{
+  "id": "conv-1789369855352-flk7cy8q3",
+  "providerId": "claude",
+  "title": "Create Obsidian notes for lecture 2",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789369855352,
+  "updatedAt": 1789370131363,
+  "lastResponseAt": 1789369928662,
+  "sessionId": "2487909c-1cd6-42ab-8c3c-1ffe0e069693",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "2487909c-1cd6-42ab-8c3c-1ffe0e069693"
+  },
+  "currentNote": "Areas/学业/课程/大二上/古希腊罗马史/古希腊罗马史-导航.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 136,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 48000,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 48136,
+    "percentage": 24
+  }
+}
