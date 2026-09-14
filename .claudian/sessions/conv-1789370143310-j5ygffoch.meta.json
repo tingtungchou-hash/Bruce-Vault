@@ -4,8 +4,8 @@
   "title": "Tidy content into a neat readable list",
   "titleGenerationStatus": "success",
   "createdAt": 1789370143310,
-  "updatedAt": 1789370646771,
-  "lastResponseAt": 1789370646771,
+  "updatedAt": 1789379879828,
+  "lastResponseAt": 1789379530259,
   "sessionId": "ee7d5d67-d419-4754-b696-058db22e2e2b",
   "selectedModel": "haiku",
   "providerState": {
@@ -14,12 +14,12 @@
   "currentNote": "Areas/学业/课程/大二上/古希腊罗马史/引论 26-9-7 古希罗(1).md",
   "usage": {
     "model": "haiku",
-    "inputTokens": 363,
+    "inputTokens": 182,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 38272,
+    "cacheReadInputTokens": 71296,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 38635,
-    "percentage": 19
+    "contextTokens": 71478,
+    "percentage": 36
   }
 }
