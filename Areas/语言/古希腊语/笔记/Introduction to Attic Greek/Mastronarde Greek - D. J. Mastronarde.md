@@ -21,6 +21,7 @@ status: seedling
 | 10   | [[Mastronarde Greek - Unit 10 笔记]]  | [[Mastronarde Greek - Unit 10 练习]] | present of εἰμί - usages of dative and genetive                  |
 | 11   | [[Mastronarde Greek - Unit 11 笔记]]  | [[Mastronarde Greek - Unit 11 练习]] | present middle/passive indicative                                |
 | 12   | [[Mastronarde Greek - Unit 12 笔记]]  | [[Mastronarde Greek - Unit 12 练习]] |                                                                  |
-|      |                                     |                                    |                                                                  |
+| 13   | [[Mastronarde Greek - Unit 13 笔记]]  | [[Mastronarde Greek - Unit 13 练习]] | contract verbs in -έω - demonstratives                           |
 # 专题整理
 - [[Mastronarde介词搭配]] 
+- 
