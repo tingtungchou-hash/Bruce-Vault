@@ -4,8 +4,8 @@
   "title": "Create Unit 13 blank notes and exercise files",
   "titleGenerationStatus": "success",
   "createdAt": 1789360385916,
-  "updatedAt": 1789362953680,
-  "lastResponseAt": 1789362953680,
+  "updatedAt": 1789367343195,
+  "lastResponseAt": 1789367343194,
   "sessionId": "4bc038a3-3cec-49cc-b87a-d8d5c2972de2",
   "selectedModel": "haiku",
   "providerState": {
@@ -14,12 +14,12 @@
   "currentNote": "Areas/语言/古希腊语/笔记/Introduction to Attic Greek/Mastronarde Greek - D. J. Mastronarde.md",
   "usage": {
     "model": "haiku",
-    "inputTokens": 1070,
+    "inputTokens": 163,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 86400,
+    "cacheReadInputTokens": 123264,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 87470,
-    "percentage": 44
+    "contextTokens": 123427,
+    "percentage": 62
   }
 }
