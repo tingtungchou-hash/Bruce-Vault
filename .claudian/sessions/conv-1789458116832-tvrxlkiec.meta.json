@@ -1,0 +1,25 @@
+{
+  "id": "conv-1789458116832-tvrxlkiec",
+  "providerId": "claude",
+  "title": "Create Latin reading note for today",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789458116832,
+  "updatedAt": 1789460423422,
+  "lastResponseAt": 1789460423422,
+  "sessionId": "72eec17b-e6cf-46db-aa12-863cce705272",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "72eec17b-e6cf-46db-aa12-863cce705272"
+  },
+  "currentNote": "Areas/学业/课程/大二上/拉丁语阅读（1）/拉丁语阅读(1) - 导航.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 428,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 117888,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 118316,
+    "percentage": 59
+  }
+}
