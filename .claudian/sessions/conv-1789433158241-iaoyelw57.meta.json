@@ -4,8 +4,8 @@
   "title": "Split note into new 嘉道萧条 note and update nav",
   "titleGenerationStatus": "success",
   "createdAt": 1789433158241,
-  "updatedAt": 1789433230497,
-  "lastResponseAt": 1789433230497,
+  "updatedAt": 1789436151735,
+  "lastResponseAt": 1789436151735,
   "sessionId": "f828a0ff-48fc-4dc0-8a60-48048db830d0",
   "selectedModel": "haiku",
   "providerState": {
@@ -14,12 +14,12 @@
   "currentNote": "Areas/学业/课程/大二上/中国近代史/鸦片战争 26-9-10 中近史(2).md",
   "usage": {
     "model": "haiku",
-    "inputTokens": 223,
+    "inputTokens": 1271,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 55296,
+    "cacheReadInputTokens": 90880,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 55519,
-    "percentage": 28
+    "contextTokens": 92151,
+    "percentage": 46
   }
 }
