@@ -6,7 +6,7 @@ tags:
   - language/latin
   - reading
 ---
-[[Wheelock's Latin Reader - 导航|返回导航]] | [[主页|返回主页]] | [[26-9-13 Wheelock Verrem|上一篇]] | [[26-9-14 Wheelock Verrem|下一篇]] | [[Wheelocks Latin Reader Selections from Latin Literature (2nd Edition) (Frederick M. Wheelock, Richard A. LaFleur) (z-library.sk, 1lib.sk, z-lib.sk).pdf|本课教材]]
+[[Wheelock's Latin Reader - 导航|返回导航]] | [[主页|返回主页]] | [[26-9-13 Wheelock Verrem|上一篇]] | [[26-9-15 Wheelock Verrem|下一篇]] | [[Wheelocks Latin Reader Selections from Latin Literature (2nd Edition) (Frederick M. Wheelock, Richard A. LaFleur) (z-library.sk, 1lib.sk, z-lib.sk).pdf|本课教材]]
 
 ---
 # Cicero, In C. Verrem Actio Prima - Text

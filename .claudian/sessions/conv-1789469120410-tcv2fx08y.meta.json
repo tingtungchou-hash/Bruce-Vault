@@ -1,0 +1,25 @@
+{
+  "id": "conv-1789469120410-tcv2fx08y",
+  "providerId": "claude",
+  "title": "Create Italian lesson note for today",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789469120411,
+  "updatedAt": 1789469727995,
+  "lastResponseAt": 1789469155899,
+  "sessionId": "3131ce88-4396-474e-903e-fa7e83c46ec5",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "3131ce88-4396-474e-903e-fa7e83c46ec5"
+  },
+  "currentNote": "Areas/学业/课程/大二上/公共初级意大利语/公共初级意大利语 - 导航.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 446,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 38912,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 39358,
+    "percentage": 20
+  }
+}
