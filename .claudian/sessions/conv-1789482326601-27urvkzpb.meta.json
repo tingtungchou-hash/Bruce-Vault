@@ -1,0 +1,25 @@
+{
+  "id": "conv-1789482326601-27urvkzpb",
+  "providerId": "claude",
+  "title": "整理 Obsidian 知识库笔记",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789482326602,
+  "updatedAt": 1789482490626,
+  "lastResponseAt": 1789482378086,
+  "sessionId": "c6469ee5-d0bd-4fce-8f09-66b2690f4db7",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "c6469ee5-d0bd-4fce-8f09-66b2690f4db7"
+  },
+  "currentNote": "Areas/学业/课程/大二上/公共初级意大利语/第三课 26-9-15 公初意.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 183,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 36352,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 36535,
+    "percentage": 18
+  }
+}

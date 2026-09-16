@@ -1,0 +1,25 @@
+{
+  "id": "conv-1789482516457-du0t9c99g",
+  "providerId": "claude",
+  "title": "总结今日学习内容并录入 Obsidian 日记",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789482516458,
+  "updatedAt": 1789482573843,
+  "lastResponseAt": 1789482573843,
+  "sessionId": "990b6780-f7cd-4bb8-83ec-8023db0eb529",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "990b6780-f7cd-4bb8-83ec-8023db0eb529"
+  },
+  "currentNote": "Calendar/Daily/2026-09-15.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 480,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 74368,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 74848,
+    "percentage": 37
+  }
+}
