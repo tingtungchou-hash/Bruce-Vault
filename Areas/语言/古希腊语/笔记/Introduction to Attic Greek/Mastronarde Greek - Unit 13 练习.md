@@ -167,7 +167,7 @@ tags: [language/greek]
 4. ἐκεῖνοι τοὺς μὲν ἀγαθοὺς ἀδικοῦσι, τοὺς δὲ κακοὺς ὠφελοῦσιν. 
 	1. ~~these~~ ***those*** people ~~are unjust to~~ ***do wrong to*** the good men, ~~while nice to~~ ***but help*** the wicked men. 
 5. τῷ σοφῷ στρατηγῷ δεῖται, οἶμαι, τῶνδε· τοῦ καλῶς βουλεύεσθαι πρὸ τῆς μάχης καὶ τοῦ εὖ πράττειν ἐν τῇ μάχῃ. 
-	1. the wise general ~~wants, thinks of these~~ ***has need of the following, I suppose***; of ~~encouraging the noble men to the war~~ ***deliberating well before the battle*** and of ~~fare~~ ***faring*** well in the battle
+	1. the wise general ~~wants, thinks of these~~ ***has need of the following, I suppose***; of ~~encouraging the noble men to the war~~ ***deliberating well before the battle*** and of faring well in the battle
 6. οὗτος ῥᾳδίως τιμὴν φέρεται· οὕτω δίκαιος καὶ σοφὸς τοῖς πολίταις δοκεῖ διὰ τοὺς καλοὺς νόμους οὓς γράφει. 
 	1. this man easily ~~seizes victory~~ ***wins honor for himself***; ~~it is necessary to this man just and wise~~ ***so just and wise does he seem*** to the citizens ~~through~~ ***because of*** the ~~nice~~ ***fine*** laws which he ~~erects~~ ***writes***.
 7. οἱ ναῦται οἳ ἐνθάδε ἀφικνοῦνται ἀεὶ ὠφελεῖν τοὺς βαρβάρους δοκοῦσιν. 
