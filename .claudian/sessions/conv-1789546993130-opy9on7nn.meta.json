@@ -1,0 +1,25 @@
+{
+  "id": "conv-1789546993130-opy9on7nn",
+  "providerId": "claude",
+  "title": "Organize content into a readable structured list",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789546993131,
+  "updatedAt": 1789548431091,
+  "lastResponseAt": 1789548431091,
+  "sessionId": "5d878bb8-d8bc-469e-8753-145825c0acd9",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "5d878bb8-d8bc-469e-8753-145825c0acd9"
+  },
+  "currentNote": "Areas/语言/古希腊语/笔记/Introduction to Attic Greek/Mastronarde Greek - Unit 13 练习.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 825,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 56192,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 57017,
+    "percentage": 29
+  }
+}

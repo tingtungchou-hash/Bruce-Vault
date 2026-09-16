@@ -31,25 +31,80 @@ huius libidines \[cum illius ==continentia==]:
 
 # Grammar
 
-## 一、`Nēmō [fere] vestrum est quīn (= quī nōn) ([quem ad modum] captae sint ā M. Marcello Syracūsae) saepe audierit, [nōn numquam] etiam [in annālibus] lēgerit.`
+## 1. Nemo fere vestrum est quin quem ad modum captae sint a M. Marcello Syracusae saepe audierit, non numquam etiam in annalibus legerit.
 
-- **`quīn` ＝ `quī nōn`**：主句 *Nēmō … est* 是**否定存在句**。凡主句否定某人／某物的存在，其后的**特征关系从句**即以 *quīn* 引导，否定词由 *quīn* 承担，从句内不得再出现 *nōn*。同类触发词：*nēmō*、*nihil*、*nūllus*、*quis est?*。此处 *quī* 是关系代词 **nom. sg. m.**，先行词为 *nēmō*，在从句中作主语。
-- **虚拟式（特征关系从句）**：*audierit*（< *audiō*）、*lēgerit*（< *legō*）皆为**完成时虚拟式 3 单**。从句不是指认某个具体的人，而是**刻画一类人**（「不曾听说过的人」），故用虚拟式。形式警示：二者与**将来完成时陈述式**同形，全凭 *quīn* 强制虚拟式方能排除误读。
-- **为何用完成时而非现在时**：主句为现在时 *est*，若单纯表特征用现在时虚拟式即可；此处取完成时，强调动作的**完成／经验性**——不是「正在听」，而是「（平生）听说过」。这是 *nēmō est quīn …* 的固定语感。
-- **嵌在中间的间接疑问句**：*quem ad modum*（＝ *quemadmodum*，how）引出间接疑问句，作 *audierit* 的宾语。谓语用虚拟式 *captae sint*（*capiō* 完成时虚拟被动 3 复），主语 *Syracūsae*（nom. pl. f.，城名只用复数）；用完成时，因所指为公元前 212 年那次已成过去的攻陷，相对于主句是**先时**。*ā M. Marcello* 为被动式的**施事夺格**。
-- **词序**：间接疑问句整体前置、主语 *Syracūsae* 后置，构成交错。
+### 语法树
+
+```
+主句
+├─ 主语 Nēmō ［不定代词 nom.sg.］
+│   ├─ 状语 fere ［副词，限定 Nēmō →「几乎」］
+│   └─ 部分属格 vestrum ［人称代词 gen.pl.］
+├─ 谓语 est ［sum 现在时陈述 3sg.］
+└─ 特征关系从句 quīn … audierit, … lēgerit
+    ├─ 主语 quī ［关系代词 nom.sg.m.，先行词 = Nēmō］
+    ├─ 谓语① audierit ［audiō 完成时虚拟 3sg.］
+    │   ├─ 状语 saepe ［副词］
+    │   └─ 宾语从句·间接疑问 quem ad modum … captae sint …
+    │       ├─ 疑问词 quem ad modum ［疑问副词 = how］
+    │       ├─ 主语 Syracūsae ［城名 nom.pl.f.］
+    │       ├─ 谓语 captae sint ［capiō 完成时虚拟被动 3pl.］
+    │       └─ 施事 ā M. Marcello ［ā + 夺格］
+    └─ 谓语② lēgerit ［legō 完成时虚拟 3sg.，与 audierit 无连词并列］
+        ├─ 状语 nōn numquam ［曲言 =「有时」］
+        ├─ 状语 etiam ［副词］
+        └─ 状语 in annālibus ［in + 夺格］
+```
+
+### 细部用法
+
+- **Nēmō**［不定代词 nom.sg.］：主句主语，**同时作 *quīn* 从句的先行词**；与部分属格 *vestrum* 连用＝「你们中没有一个」。
+- **quīn ＝ quī nōn**：由**否定存在句**触发——凡主句否定某人／某物的存在，其后的**特征关系从句**即以 *quīn* 引导，否定词由 *quīn* 承担，从句内不得再出现 *nōn*。同类触发词：*nēmō*、*nihil*、*nūllus*、*quis est?*。
+- **quī**［关系代词 nom.sg.m.］：从句主语，先行词＝*nēmō*——这解释了为何取**阳性单数**而非中性。
+- **est**［sum 现在时陈述 3sg.］：主句谓语，与 *nēmō* 构成「没有……这样的人」的否定存在句。
+- **audierit / lēgerit**［audiō / legō **完成时虚拟** 3sg.］：
+  - **式**：虚拟式，因属**特征关系从句**——从句刻画一类人，不指认具体某人。
+  - **时态**：主句为现在时 *est*，此处却用**完成时**虚拟式，强调动作的**完成／经验性**——不是「正在听」，而是「（平生）听说过」。
+  - **形式警示**：二者与**将来完成时陈述式**同形，全凭 *quīn* 强制虚拟式方能排除误读。
+  - 两个谓语仅以逗号连接（**asyndeton**），共用同一个 *quīn*。
+- **quem ad modum**［疑问副词］：＝ *quemadmodum*，引出**间接疑问句**，作 *audierit* 的宾语。
+- **captae sint**［capiō **完成时虚拟被动** 3pl.］：间接疑问句谓语。**式**用虚拟式（间接疑问句铁律）；**时态**用完成时，因所指为公元前 212 年那次已成过去的攻陷，相对于主句为**先时**。
+- **Syracūsae**［城名 nom.pl.f.］：**只用复数**（pluralia tantum），故谓语与修饰语一律取复数；此处作间接疑问句主语，后置造成交错。
+- **ā M. Marcello**［ā ＋ 夺格］：被动式的**施事夺格**。
+- **saepe / nōn numquam / etiam / in annālibus**［状语］：*saepe* 饰 *audierit*；*nōn numquam*（曲言＝「有时」）、*etiam*、*in annālibus*（in ＋ 夺格）饰 *lēgerit*。
 - **修辞（否定吸收／litotes）**：字面「没有人不曾听说」，实即「**人人都听说过**」——双重否定反增其力。
 
 > 译文：你们中几乎没有人不曾常常听说叙拉古是如何被马尔凯卢斯攻陷的，有时甚至还在史书里读到过。
 
-## 二、`ab illō quī cēpit, conditās, ab hōc quī cōnstitūtās accēpit, captās dicētis Syracūsās.`
+## 2. ab illō quī cēpit, conditās, ab hōc quī cōnstitūtās accēpit, captās dicētis Syracūsās.
 
-- **整体：间接引语（accusative + infinitive）**。主句动词 *dicētis*（*dīcō* 将来时主动陈述 2 复）引出间接引语；**宾格主语**为 *Syracūsās*（*Syracūsae, -ārum* 的**希腊式 acc. pl.**，该城名只用复数，故一切修饰语取阴复）；**表语性完成被动分词** *conditās*、*captās*（acc. pl. f.，与 *Syracūsās* 一致）＝ *conditās esse*、*captās esse*，**系词不定式 *esse* 省略**。
-- **时态的相对性**：间接引语中不定式的时态表**相对时间**而非绝对时间。主句为**将来时** *dicētis*，分词为**完成**被动，表示**先于**说话时——你将来会说，叙拉古（当年）**被建立**／**被攻占**。
-- **施事夺格**：*ab illō*、*ab hōc* 皆 *ab* ＋ 夺格，与被动分词搭配表施事。*ab illō* ＝ 马塞卢斯（M. Claudius Marcellus，前 212 年攻陷叙拉古）；*ab hōc* ＝ 维勒斯，*hic* 为法庭现场指称，「眼前这位被告」。
-- **关系从句用陈述式**：*quī cēpit*、*quī … accēpit* 均为陈述式——它们只补充事实，不受 *dicētis* 的间接引语管辖，故不用虚拟式。
-- **`cōnstitūtās` 为述语性分词**：作 *accēpit* 的**补足性述语**——「接手时它已然井然有序」。注意与 *conditās* 的对文：前者「建立」，后者「已建立、已就绪」。
-- **词序交错（hyperbaton）**：修饰 *Syracūsās* 的 *conditās*、*captās* 被远远抛在句前，中心词压于句末，读到末尾才落定。
+### 语法树
+
+```
+主句
+├─ 谓语 dicētis ［dīcō 将来时陈述 2pl.］
+└─ 宾语从句·间接引语（accusative + infinitive）
+    ├─ 主语 Syracūsās ［Syracūsae 的希腊式 acc.pl.f.］
+    ├─ 表语① conditās ［condō PPP acc.pl.f.，= conditās (esse)］
+    │   └─ 施事 ab illō ［ab + 夺格］
+    │       └─ 关系从句 quī cēpit ［关系代词 nom.sg.m. 作主语；capiō 完成时陈述 3sg.］
+    ├─ 表语② captās ［capiō PPP acc.pl.f.，= captās (esse)］
+    │   └─ 施事 ab hōc ［ab + 夺格］
+    │       └─ 关系从句 quī … accēpit ［关系代词 nom.sg.m. 作主语；accipiō 完成时陈述 3sg.］
+    │           └─ 补足述语 cōnstitūtās ［cōnstituō PPP acc.pl.f.，述语性分词］
+    └─ ⌀ esse ［系词不定式省略，两处］
+```
+
+### 细部用法
+
+- **dicētis**［dīcō **将来时陈述** 2pl.］：主句谓语，引出**间接引语**。
+- **Syracūsās**［**希腊式 acc.pl.f.**］：间接引语的**宾格主语**；城名只用复数，故修饰语取阴复。
+- **conditās / captās**［condō / capiō **PPP acc.pl.f.**］：**表语性完成被动分词**，与 *Syracūsās* 一致，等于 *conditās esse* / *captās esse*——**系词不定式 *esse* 省略**。
+- **时态的相对性**：间接引语中不定式的时态表**相对时间**而非绝对时间。主句为将来时 *dicētis*，分词为完成被动，表示**先于**说话时——你将来会说，叙拉古（当年）被建立／被攻占。
+- **ab illō / ab hōc**［ab ＋ 夺格］：与被动分词搭配的**施事**。*ab illō* ＝ 马塞卢斯（M. Claudius Marcellus，前 212 年攻陷叙拉古）；*ab hōc* ＝ 维勒斯，*hic* 为法庭现场指称，「眼前这位被告」。
+- **quī cēpit / quī … accēpit**［关系代词 nom.sg.m. ＋ **完成时陈述** 3sg.］：用**陈述式**——它们只补充事实，不受 *dicētis* 的间接引语管辖。
+- **cōnstitūtās**［cōnstituō PPP acc.pl.f.］：作 *accēpit* 的**述语性分词**（补足性述语）——「接手时它已然井然有序」。与 *conditās* 构成对文：前者「建立」，后者「已建立、已就绪」。
+- **词序交错（hyperbaton）**：修饰 *Syracūsās* 的 *conditās*、*captās* 被远远抛在句前，中心词压于句末。
 - **观念上的交叉（chiasmus）**：
 
 | | 实际动作 | 却被说成 |
