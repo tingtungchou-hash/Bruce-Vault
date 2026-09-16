@@ -1,0 +1,25 @@
+{
+  "id": "conv-1789534743452-bdcplv734",
+  "providerId": "claude",
+  "title": "Create blank Latin lesson 2 note",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789534743453,
+  "updatedAt": 1789534778782,
+  "lastResponseAt": 1789534778782,
+  "sessionId": "675cb356-8d00-4210-ac59-a5e0af6694e7",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "675cb356-8d00-4210-ac59-a5e0af6694e7"
+  },
+  "currentNote": "Areas/学业/课程/大二上/拉丁美洲史/拉丁美洲史-导航.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 422,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 38784,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 39206,
+    "percentage": 20
+  }
+}
