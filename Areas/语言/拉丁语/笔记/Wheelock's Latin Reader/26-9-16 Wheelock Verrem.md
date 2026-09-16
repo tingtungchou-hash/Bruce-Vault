@@ -37,28 +37,29 @@ huius libidines \[cum illius ==continentia==]:
 
 ```
 主句
-├─ 主语 Nēmō ［不定代词 nom.sg.］
-│   ├─ 状语 fere ［副词，限定 Nēmō →「几乎」］
-│   └─ 部分属格 vestrum ［人称代词 gen.pl.］
-├─ 谓语 est ［sum 现在时陈述 3sg.］
-└─ 特征关系从句 quīn … audierit, … lēgerit
-    ├─ 主语 quī ［关系代词 nom.sg.m.，先行词 = Nēmō］
-    ├─ 谓语① audierit ［audiō 完成时虚拟 3sg.］
-    │   ├─ 状语 saepe ［副词］
-    │   └─ 宾语从句·间接疑问 quem ad modum … captae sint …
-    │       ├─ 疑问词 quem ad modum ［疑问副词 = how］
-    │       ├─ 主语 Syracūsae ［城名 nom.pl.f.］
-    │       ├─ 谓语 captae sint ［capiō 完成时虚拟被动 3pl.］
-    │       └─ 施事 ā M. Marcello ［ā + 夺格］
-    └─ 谓语② lēgerit ［legō 完成时虚拟 3sg.，与 audierit 无连词并列］
-        ├─ 状语 nōn numquam ［曲言 =「有时」］
-        ├─ 状语 etiam ［副词］
-        └─ 状语 in annālibus ［in + 夺格］
+├─ 主语 Nēmō
+│   ├─ 状语 fere
+│   └─ 属格 vestrum
+├─ 谓语 est
+└─ 关系从句 quīn
+    ├─ 主语 quī
+    ├─ 谓语① audierit
+    │   ├─ 状语 saepe
+    │   └─ 宾语从句（间接疑问）
+    │       ├─ 疑问词 quem ad modum
+    │       ├─ 主语 Syracūsae
+    │       ├─ 谓语 captae sint
+    │       └─ 施事 ā M. Marcello
+    └─ 谓语② lēgerit
+        ├─ 状语 nōn numquam
+        ├─ 状语 etiam
+        └─ 状语 in annālibus
 ```
 
 ### 细部用法
 
 - **Nēmō**［不定代词 nom.sg.］：主句主语，**同时作 *quīn* 从句的先行词**；与部分属格 *vestrum* 连用＝「你们中没有一个」。
+- **fere / vestrum**［副词 / 人称代词 gen.pl.］：*fere*「几乎」限定 *nēmō*；*vestrum* 为**部分属格**。
 - **quīn ＝ quī nōn**：由**否定存在句**触发——凡主句否定某人／某物的存在，其后的**特征关系从句**即以 *quīn* 引导，否定词由 *quīn* 承担，从句内不得再出现 *nōn*。同类触发词：*nēmō*、*nihil*、*nūllus*、*quis est?*。
 - **quī**［关系代词 nom.sg.m.］：从句主语，先行词＝*nēmō*——这解释了为何取**阳性单数**而非中性。
 - **est**［sum 现在时陈述 3sg.］：主句谓语，与 *nēmō* 构成「没有……这样的人」的否定存在句。
@@ -82,21 +83,22 @@ huius libidines \[cum illius ==continentia==]:
 
 ```
 主句
-├─ 谓语 dicētis ［dīcō 将来时陈述 2pl.］
-└─ 宾语从句·间接引语（accusative + infinitive）
-    ├─ 主语 Syracūsās ［Syracūsae 的希腊式 acc.pl.f.］
-    ├─ 表语① conditās ［condō PPP acc.pl.f.，= conditās (esse)］
-    │   └─ 施事 ab illō ［ab + 夺格］
-    │       └─ 关系从句 quī cēpit ［关系代词 nom.sg.m. 作主语；capiō 完成时陈述 3sg.］
-    ├─ 表语② captās ［capiō PPP acc.pl.f.，= captās (esse)］
-    │   └─ 施事 ab hōc ［ab + 夺格］
-    │       └─ 关系从句 quī … accēpit ［关系代词 nom.sg.m. 作主语；accipiō 完成时陈述 3sg.］
-    │           └─ 补足述语 cōnstitūtās ［cōnstituō PPP acc.pl.f.，述语性分词］
-    └─ ⌀ esse ［系词不定式省略，两处］
+├─ 谓语 dicētis
+└─ 间接引语（acc. + inf.）
+    ├─ 主语 Syracūsās
+    ├─ 表语① conditās
+    │   └─ 施事 ab illō
+    │       └─ 关系从句 quī cēpit
+    ├─ 表语② captās
+    │   └─ 施事 ab hōc
+    │       └─ 关系从句 quī … accēpit
+    │           └─ 补足述语 cōnstitūtās
+    └─ ⌀ esse
 ```
 
 ### 细部用法
 
+- **整体＝间接引语（accusative + infinitive）**：主句动词 *dicētis* 之后的整块是**宾语从句**，采用「宾格主语 ＋ 不定式（此处为表语性分词）」结构。
 - **dicētis**［dīcō **将来时陈述** 2pl.］：主句谓语，引出**间接引语**。
 - **Syracūsās**［**希腊式 acc.pl.f.**］：间接引语的**宾格主语**；城名只用复数，故修饰语取阴复。
 - **conditās / captās**［condō / capiō **PPP acc.pl.f.**］：**表语性完成被动分词**，与 *Syracūsās* 一致，等于 *conditās esse* / *captās esse*——**系词不定式 *esse* 省略**。
