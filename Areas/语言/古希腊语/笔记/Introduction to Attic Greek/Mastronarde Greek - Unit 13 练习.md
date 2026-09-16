@@ -75,58 +75,106 @@ tags: [language/greek]
 1. νοσεῖτε
 	1. you pl are sick 
 2. δέονται
-	1. 
+	1. they want 
 3. δοκεῖν
+	1. ~~to lack~~ ***to seem*** 
 4. φιλοῦμαι
+	1. ~~I love~~ ***I am loved/liked***
 5. αἱροῦμεν
+	1. we take
 6. ὠφελεῖ
+	1. he/she helps 
 7. ἀφικνεῖσθαι
+	1. to arrive
 8. κρατῇ
+	1. ~~you rule~~ ***you are being conquered*** 
 9. δοκοῦσι
+	1. ~~they lack~~ ***they seem*** 
 10. οἰκῶ
+	1. I live
 11. ἀδικεῖσθε
+	1. ~~they're unjust~~ ***you (pl.) are being wronged***
 12. ἀφικνεῖται
+	1. he arrives 
 13. φοβεῖν
+	1. to terrify 
 14. ποιεῖς
+	1. you make
 15. φοβούμεθα
+	1. we're terrified 
 16. πυνθάνεται
+	1. he learns 
 17. ἀκούεις
+	1. you hear
 18. εὑρίσκῃ
+	1. you're sing ~~discoverd~~ ***discovered*** 
 19. ἀδικεῖν
+	1. to be unjust 
 20. δεῖ
+	1. it is necessary 
 21. κρατοῦσι
+	1. ~~they are strong~~ ***they rule / conquer*** 
 22. οἰκοῦνται
+	1. they're ~~inhibited~~ ***inhabited*** 
 23. αἱρούμεθα
+	1. we are seized 
 24. φιλεῖτε
+	1. you pl love 
 25. πολιτεύῃ
+	1. ~~you pl~~ ***you (s.)*** participate in politics
 26. ὠφέλει
+	1. ~~he helps~~ ***help! (impt.)*** 
 27. ποιεῖται
+	1. he is made 
 28. δοκεῖς
+	1. ~~you sing are lacked~~ ***you (s.) seem*** 
 29. ὠφελοῦμαι
+	1. I'm helped
 30. γιγνόμεθα
+	1. we become
 
 ## III. Render each phrase into Greek in the designated case
 
 1. the following brave Athenians (acc.)
+	1. τοὺς ἀγαθοὺς Ἀθηναίους ~~ὅδους~~ ***τούσδε*** 
 2. that worthless ally (dat.)
-3. this noble victory (nom.)
+	1. ἐκείνῳ ***τῷ*** ~~πονερῷ~~ ***πονηρῷ*** συμμάχῳ
+3. this noble victory (nom.) 
+	1. ***ἥδε*** ἡ καλὴ νίκη 
 4. these harsh toils (gen.)
+	1. ***τούτων*** τῶν χαλεπῶν πόνων
 5. those beloved children (acc.)
+	1. ***ἐκεῖνα*** τὰ φίλα παιδία 
 6. the former bad reputation (nom.)
+	1. ἡ κακὴ δόξα ἐκείνη
 7. these wealthy people (acc.)
+	1. τοὺς πλουσίους ~~ανθρώπους~~ ***ἀνθρώπους*** ~~οὔτους~~ ***τούτους*** 
 8. this hostile army (dat.)
+	1. τῷ ~~πολεμιῷ~~ ***πολεμίῳ*** στρατῷ ~~οὔτῳ~~ ***τούτῳ***
 9. those evil misfortunes (gen.)
+	1. ~~τῆς~~ ***τῶν*** ~~καλῆς~~ ***κακῶν*** ~~συνφορᾶς~~ ***συμφορῶν*** ~~ἐκείνης~~ ***ἐκείνων*** 
 10. that clever deed (acc.)
+	1. τὸ ***σοφὸν*** ἔργον ~~ἐκεῖνον~~ ***ἐκεῖνο*** 
 
 ## IV. Translate
 
-1. οἱ βάρβαροι οὓς ἐκεῖνοι κρατοῦσιν ἐπὶ τῇ θαλάττῃ οἰκοῦσιν.
-2. αὗται μὲν τὰ παιδία φοβοῦσιν, ἐκεῖναι δὲ φοβοῦνται.
+1. οἱ βάρβαροι οὓς ἐκεῖνοι κρατοῦσιν ἐπὶ τῇ θαλάττῃ οἰκοῦσιν. 
+	1. the barbarians whom those people ~~rule~~ ***are conquering*** live near the sea. 
+2. αὗται μὲν τὰ παιδία φοβοῦσιν, ἐκεῖναι δὲ φοβοῦνται. 
+	1. ~~these people~~ ***these women*** terrify the children, while those ~~are terrified~~ ***are afraid***
 3. ταύτῃ τῇ ἡμέρᾳ δοκεῖ τοῖς πολίταις εἰρήνην ποιεῖσθαι πρὸς τοὺς πολεμίους· νοσοῦσι γὰρ οἱ πλεῖστοι τῶν στρατιωτῶν.
-4. ἐκεῖνοι τοὺς μὲν ἀγαθοὺς ἀδικοῦσι, τοὺς δὲ κακοὺς ὠφελοῦσιν.
-5. τῷ σοφῷ στρατηγῷ δεῖται, οἶμαι, τῶνδε· τοῦ καλῶς βουλεύεσθαι πρὸ τῆς μάχης καὶ τοῦ εὖ πράττειν ἐν τῇ μάχῃ.
-6. οὗτος ῥᾳδίως τιμὴν φέρεται· οὕτω δίκαιος καὶ σοφὸς τοῖς πολίταις δοκεῖ διὰ τοὺς καλοὺς νόμους οὓς γράφει.
-7. οἱ ναῦται οἳ ἐνθάδε ἀφικνοῦνται ἀεὶ ὠφελεῖν τοὺς βαρβάρους δοκοῦσιν.
+	1. ~~to~~ ***on*** this day it seems best to the citizens ~~that peace is secured from~~ ***to make peace with*** the enemies; because the majority of the soldiers ~~are in bad shape~~ ***are sick***. 
+4. ἐκεῖνοι τοὺς μὲν ἀγαθοὺς ἀδικοῦσι, τοὺς δὲ κακοὺς ὠφελοῦσιν. 
+	1. ~~these~~ ***those*** people ~~are unjust to~~ ***do wrong to*** the good men, ~~while nice to~~ ***but help*** the wicked men. 
+5. τῷ σοφῷ στρατηγῷ δεῖται, οἶμαι, τῶνδε· τοῦ καλῶς βουλεύεσθαι πρὸ τῆς μάχης καὶ τοῦ εὖ πράττειν ἐν τῇ μάχῃ. 
+	1. the wise general ~~wants, thinks of these~~ ***has need of the following, I suppose***; of ~~encouraging the noble men to the war~~ ***deliberating well before the battle*** and of ~~fare~~ ***faring*** well in the battle
+6. οὗτος ῥᾳδίως τιμὴν φέρεται· οὕτω δίκαιος καὶ σοφὸς τοῖς πολίταις δοκεῖ διὰ τοὺς καλοὺς νόμους οὓς γράφει. 
+	1. this man easily ~~seizes victory~~ ***wins honor for himself***; ~~it is necessary to this man just and wise~~ ***so just and wise does he seem*** to the citizens ~~through~~ ***because of*** the ~~nice~~ ***fine*** laws which he ~~erects~~ ***writes***.
+7. οἱ ναῦται οἳ ἐνθάδε ἀφικνοῦνται ἀεὶ ὠφελεῖν τοὺς βαρβάρους δοκοῦσιν. 
+	1. the sailors who arrive here seem to always help the barbarians 
 8. οἱ μὲν ἀδελφοὶ οὗτοι τὸν αὐτὸν οἶκον οἰκοῦσιν, αἱ δ’ ἀδελφαὶ αὐτῶν σὺν ταῖς ἱερείαις τὸ ἱερὸν οἰκοῦσιν.
-9. μὴ αἱρεῖσθε ἐν τῷ βίῳ τὰ ῥᾴδια, ἀλλὰ τὰ καλά.
+	1. these brothers live in ~~this~~ ***the same*** house, ~~and whose~~ ***while their*** sisters~~, however,~~ live with the priestesses in the shrine
+9. μὴ αἱρεῖσθε ἐν τῷ βίῳ τὰ ῥᾴδια, ἀλλὰ τὰ καλά. 
+	1. do not ~~seize~~ ***choose*** easy things in ~~the~~ life, but the noble ones. 
 10. δεόμεθα καὶ τῶν Ἀθηναίων μὴ αἰσχρῶς λείπειν τοὺς ἐκεῖ Ἕλληνας.
+	1. we ~~want~~ ***beseech*** also ~~of~~ the Athenians not to abandon the Greeks there shamefully. 

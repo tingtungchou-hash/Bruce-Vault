@@ -4,8 +4,8 @@
   "title": "Create blank Latin lesson 2 note",
   "titleGenerationStatus": "success",
   "createdAt": 1789534743453,
-  "updatedAt": 1789560611694,
-  "lastResponseAt": 1789560611694,
+  "updatedAt": 1789565914391,
+  "lastResponseAt": 1789565914391,
   "sessionId": "675cb356-8d00-4210-ac59-a5e0af6694e7",
   "selectedModel": "haiku",
   "providerState": {
@@ -14,12 +14,12 @@
   "currentNote": "Areas/学业/课程/大二上/拉丁美洲史/拉丁美洲史-导航.md",
   "usage": {
     "model": "haiku",
-    "inputTokens": 528,
+    "inputTokens": 957,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 73856,
+    "cacheReadInputTokens": 147456,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 74384,
-    "percentage": 37
+    "contextTokens": 148413,
+    "percentage": 74
   }
 }
