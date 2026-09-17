@@ -59,7 +59,7 @@ status: seedling
 - to individualise the noun, frequently used with proper names 
 - serve as a possessive adjective, translated in accordance with the context 
 - modify abstract nouns and abstract substantives 
-- refer to an entire class and make a general statement 
+- refer to an entire class and make a general statement (generic use)
 
 
 
