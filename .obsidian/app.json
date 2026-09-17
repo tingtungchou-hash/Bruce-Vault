@@ -9,6 +9,7 @@
     "downscalePercent": 53
   },
   "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "Resources/attachments/images",
   "showLineNumber": false,
   "vimMode": false,
   "rightToLeft": false
