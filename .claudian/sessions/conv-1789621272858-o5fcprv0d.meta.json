@@ -4,8 +4,8 @@
   "title": "Create today's daily note",
   "titleGenerationStatus": "success",
   "createdAt": 1789621272858,
-  "updatedAt": 1789649521976,
-  "lastResponseAt": 1789649521976,
+  "updatedAt": 1789656941162,
+  "lastResponseAt": 1789655322718,
   "sessionId": "51d07592-546d-4be6-acbe-29ab34609542",
   "selectedModel": "haiku",
   "providerState": {
@@ -14,12 +14,12 @@
   "currentNote": "Areas/学业/课程/大二上/基础古希腊语(1)/基础古希腊语(1)导航.md",
   "usage": {
     "model": "haiku",
-    "inputTokens": 235,
+    "inputTokens": 186,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 213248,
+    "cacheReadInputTokens": 230912,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 213483,
+    "contextTokens": 231098,
     "percentage": 100
   }
 }
