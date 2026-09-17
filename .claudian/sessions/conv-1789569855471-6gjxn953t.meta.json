@@ -4,8 +4,8 @@
   "title": "Summarize today's study notes",
   "titleGenerationStatus": "success",
   "createdAt": 1789569855471,
-  "updatedAt": 1789569973498,
-  "lastResponseAt": 1789569973498,
+  "updatedAt": 1789613637469,
+  "lastResponseAt": 1789613637469,
   "sessionId": "6099afdb-1313-4962-a343-a1a78b8aae89",
   "selectedModel": "haiku",
   "providerState": {
@@ -14,12 +14,12 @@
   "currentNote": "Calendar/Daily/2026-09-16.md",
   "usage": {
     "model": "haiku",
-    "inputTokens": 555,
+    "inputTokens": 534,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 44288,
+    "cacheReadInputTokens": 104448,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 44843,
-    "percentage": 22
+    "contextTokens": 104982,
+    "percentage": 52
   }
 }
