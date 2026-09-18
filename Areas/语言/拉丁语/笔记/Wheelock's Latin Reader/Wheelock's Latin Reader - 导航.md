@@ -29,7 +29,8 @@ status: seedling
 | 26-9-13 | Cicero, In C. Verrem Actio Prima   | [[26-9-13 Wheelock Verrem]] |
 | 26-9-14 | Cicero, In C. Verrem Actio Prima   | [[26-9-14 Wheelock Verrem]] |
 | 26-9-15 | Cicero, In C. Verrem Actio Prima   | [[26-9-15 Wheelock Verrem]] |
-| 26-9-16 | Cicero, In C. Verrem Actio Secunda | [[26-9-16 Wheelock Verrem]]  |
+| 26-9-16 | Cicero, In C. Verrem Actio Secunda | [[26-9-16 Wheelock Verrem]] |
+| 26-9-18 | Cicero, In C. Verrem Actio Secunda | [[26-9-18 Wheelock Verrem]] |
 
 ## 备注
 - 待阅读后补充各章文本、笔记与单词表链接

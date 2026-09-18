@@ -8,7 +8,7 @@ tags:
   - language/latin
   - reading
 ---
-[[Wheelock's Latin Reader - 导航|返回导航]] | [[主页|返回主页]] | [[26-9-15 Wheelock Verrem|上一篇]] | [[Wheelocks Latin Reader Selections from Latin Literature (2nd Edition) (Frederick M. Wheelock, Richard A. LaFleur) (z-library.sk, 1lib.sk, z-lib.sk).pdf|本课教材]]
+[[Wheelock's Latin Reader - 导航|返回导航]] | [[主页|返回主页]] | [[26-9-15 Wheelock Verrem|上一篇]] | [[26-9-18 Wheelock Verrem|下一篇]] | [[Wheelocks Latin Reader Selections from Latin Literature (2nd Edition) (Frederick M. Wheelock, Richard A. LaFleur) (z-library.sk, 1lib.sk, z-lib.sk).pdf|本课教材]]
 
 ---
 Unius etiam urbis omnium pulcherrimae atque ornatissimae, Syracusarum, direptionem commemorabo. Nemo fere vestrum est quin quem ad modum captae sint a M. Marcello Syracusae saepe audierit, non numquam etiam in annalibus legerit. Conferte hanc pacem cum illo bello, huius praetoris adventum cum illius imperatoris victoria, huius cohortem impuram cum illius exercitu invicto, huius libidines cum illius continentia: ab illo qui cepit, conditas, ab hoc qui constitutas accepit, captas dicetis Syracusas.

@@ -1,0 +1,25 @@
+{
+  "id": "conv-1789716447215-jp64dejbo",
+  "providerId": "claude",
+  "title": "Create blank Wheelock reader note for today",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789716447215,
+  "updatedAt": 1789716575440,
+  "lastResponseAt": 1789716575440,
+  "sessionId": "23981ddb-8de1-491a-bc2d-8e2629eb8f72",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "23981ddb-8de1-491a-bc2d-8e2629eb8f72"
+  },
+  "currentNote": "Areas/语言/拉丁语/笔记/Wheelock's Latin Reader/Wheelock's Latin Reader - 导航.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 1227,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 48640,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 49867,
+    "percentage": 25
+  }
+}
