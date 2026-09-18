@@ -30,16 +30,16 @@ Attention:
 # Labial and Velar Plosive Stems 
 nouns of this type are all masculine or feminine, have stems ending in π, β, φ or κ, γ, χ
 
-| case                | masc./fem. | neuter | κλωπ-  |
-| ------------------- | ---------- | ------ | ------ |
-| sing. nom.          | — / -ς     | —      | κλώψ   |
-| sing. gen.          | -ος        | -ος    | κλωπός |
-| sing. dat.          | -ι         | -ι     | κλωπί  |
-| sing. acc.          | -α / -ν    | —      | κλῶπα  |
-| sing. voc.          | — / ς      | —      | κλώψ   |
-| dual nom./acc./voc. | ε          | ε      |        |
-| dual gen./dat.      | οιν        | ειν    |        |
-| plur. nom.          | -ες        | -α     |        |
-| plur. gen.          | -ων        | -ων    |        |
-| plur. dat.          | -σι(ν)     | -σι(ν) |        |
-| plur. acc.          | -ας        | α      |        |
+| case                | masc./fem. | κλωπ-    |
+| ------------------- | ---------- | -------- |
+| sing. nom.          | — / -ς     | κλώψ     |
+| sing. gen.          | -ος        | κλωπός   |
+| sing. dat.          | -ι         | κλωπί    |
+| sing. acc.          | -α / -ν    | κλῶπα    |
+| sing. voc.          | — / ς      | κλώψ     |
+| dual nom./acc./voc. | ε          | κλῶπε    |
+| dual gen./dat.      | οιν        | κλωποῖν  |
+| plur. nom.          | -ες        | κλῶπες   |
+| plur. gen.          | -ων        | κλωπῶν   |
+| plur. dat.          | -σι(ν)     | κλωψί(ν) |
+| plur. acc.          | -ας        | κλῶπας   |

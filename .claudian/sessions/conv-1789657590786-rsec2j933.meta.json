@@ -4,8 +4,8 @@
   "title": "Write frontmatter and add Obsidian homepage entry",
   "titleGenerationStatus": "success",
   "createdAt": 1789657590786,
-  "updatedAt": 1789662553489,
-  "lastResponseAt": 1789662553489,
+  "updatedAt": 1789708847268,
+  "lastResponseAt": 1789708847268,
   "sessionId": "14dacdf5-d91f-4394-bc56-947e49b61dd9",
   "selectedModel": "sonnet",
   "providerState": {
@@ -14,12 +14,12 @@
   "currentNote": "Areas/外快/家教/李宇轩（f. 李丹）家教导航.md",
   "usage": {
     "model": "sonnet",
-    "inputTokens": 500,
+    "inputTokens": 260,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 109568,
+    "cacheReadInputTokens": 177408,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 110068,
-    "percentage": 55
+    "contextTokens": 177668,
+    "percentage": 89
   }
 }
