@@ -4,22 +4,22 @@
   "title": "Explain meaning of a sentence",
   "titleGenerationStatus": "success",
   "createdAt": 1789713962914,
-  "updatedAt": 1789717551150,
-  "lastResponseAt": 1789717551150,
+  "updatedAt": 1789718705442,
+  "lastResponseAt": 1789718705442,
   "sessionId": "0ab685dd-d238-437f-8c20-37a4555bb4f7",
-  "selectedModel": "sonnet",
+  "selectedModel": "haiku",
   "providerState": {
     "providerSessionId": "0ab685dd-d238-437f-8c20-37a4555bb4f7"
   },
   "currentNote": "Areas/语言/古希腊语/笔记/Introduction to Attic Greek/Mastronarde Greek - Unit 14 笔记.md",
   "usage": {
-    "model": "sonnet",
-    "inputTokens": 417,
+    "model": "haiku",
+    "inputTokens": 730,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 149376,
+    "cacheReadInputTokens": 260736,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 149793,
-    "percentage": 75
+    "contextTokens": 261466,
+    "percentage": 100
   }
 }
