@@ -4,8 +4,8 @@
   "title": "Convert 胡宝国 PDF to markdown in same folder",
   "titleGenerationStatus": "success",
   "createdAt": 1789801715069,
-  "updatedAt": 1789803335069,
-  "lastResponseAt": 1789803335069,
+  "updatedAt": 1789830686255,
+  "lastResponseAt": 1789830686255,
   "sessionId": "247c9a9a-bbdd-4e54-af94-e498d3d9f922",
   "selectedModel": "haiku",
   "providerState": {
@@ -14,12 +14,12 @@
   "currentNote": "Areas/学业/课程/大二上/历史论文写作/历史论文写作-导航.md",
   "usage": {
     "model": "haiku",
-    "inputTokens": 155,
+    "inputTokens": 1415,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 94848,
+    "cacheReadInputTokens": 98048,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 95003,
-    "percentage": 48
+    "contextTokens": 99463,
+    "percentage": 50
   }
 }
