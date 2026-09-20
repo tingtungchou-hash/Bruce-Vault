@@ -1,0 +1,25 @@
+{
+  "id": "conv-1789906409668-7p04mbuwb",
+  "providerId": "claude",
+  "title": "Verify book list in PDF against markdown notes",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789906409669,
+  "updatedAt": 1789907331230,
+  "lastResponseAt": 1789907331230,
+  "sessionId": "ca6dcc12-af76-41dc-b07e-c12b48d51bca",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "ca6dcc12-af76-41dc-b07e-c12b48d51bca"
+  },
+  "currentNote": "+inbox/书籍报销列表.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 158,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 77440,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 77598,
+    "percentage": 39
+  }
+}

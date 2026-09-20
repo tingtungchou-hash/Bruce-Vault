@@ -3,10 +3,10 @@
   "spellcheck": false,
   "pdfExportSettings": {
     "includeName": true,
-    "pageSize": "A5",
+    "pageSize": "A4",
     "landscape": false,
     "margin": "0",
-    "downscalePercent": 53
+    "downscalePercent": 100
   },
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "Resources/attachments/images",
