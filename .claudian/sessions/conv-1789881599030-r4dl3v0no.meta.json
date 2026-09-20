@@ -4,8 +4,8 @@
   "title": "Condense Latin third declension explanation",
   "titleGenerationStatus": "success",
   "createdAt": 1789881599031,
-  "updatedAt": 1789882700484,
-  "lastResponseAt": 1789882700484,
+  "updatedAt": 1789886318217,
+  "lastResponseAt": 1789886318217,
   "sessionId": "28edd051-7913-4203-b12d-5aa6482b96f8",
   "selectedModel": "haiku",
   "providerState": {
@@ -14,12 +14,12 @@
   "currentNote": "Areas/语言/古希腊语/笔记/Introduction to Attic Greek/Mastronarde Greek - Unit 14 笔记.md",
   "usage": {
     "model": "haiku",
-    "inputTokens": 435,
+    "inputTokens": 181,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 106240,
+    "cacheReadInputTokens": 119168,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 106675,
-    "percentage": 53
+    "contextTokens": 119349,
+    "percentage": 60
   }
 }
