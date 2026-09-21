@@ -1,0 +1,25 @@
+{
+  "id": "conv-1789966614674-lkjfajpev",
+  "providerId": "claude",
+  "title": "Create history paper writing lesson 3 content",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789966614675,
+  "updatedAt": 1789966799819,
+  "lastResponseAt": 1789966799819,
+  "sessionId": "00bb10de-b7a6-4731-9f05-edeec77cc5f3",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "00bb10de-b7a6-4731-9f05-edeec77cc5f3"
+  },
+  "currentNote": "Areas/学业/课程/大二上/历史论文写作/历史论文写作-导航.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 190,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 44800,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 44990,
+    "percentage": 22
+  }
+}
