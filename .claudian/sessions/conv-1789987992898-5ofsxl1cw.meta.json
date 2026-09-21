@@ -4,22 +4,21 @@
   "title": "Add frontmatter to lecture notes",
   "titleGenerationStatus": "success",
   "createdAt": 1789987992898,
-  "updatedAt": 1789988070342,
-  "lastResponseAt": 1789988070342,
+  "updatedAt": 1789991788679,
+  "lastResponseAt": 1789990560186,
   "sessionId": "e68d7aee-bd4b-4414-b8af-664ce60c6b79",
   "selectedModel": "haiku",
   "providerState": {
     "providerSessionId": "e68d7aee-bd4b-4414-b8af-664ce60c6b79"
   },
-  "currentNote": "Magistrates-Elect in the PoliticalLife of the Roman Republic (9-21).md",
   "usage": {
     "model": "haiku",
-    "inputTokens": 168,
+    "inputTokens": 349,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 41856,
+    "cacheReadInputTokens": 47488,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 42024,
-    "percentage": 21
+    "contextTokens": 47837,
+    "percentage": 24
   }
 }

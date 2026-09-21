@@ -1,0 +1,25 @@
+{
+  "id": "conv-1789991809929-2kwt3d87u",
+  "providerId": "claude",
+  "title": "Add image to end of file",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789991809929,
+  "updatedAt": 1789992452561,
+  "lastResponseAt": 1789992452561,
+  "sessionId": "3cc92b56-4050-4437-a7fa-69d0392cc91d",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "3cc92b56-4050-4437-a7fa-69d0392cc91d"
+  },
+  "currentNote": "Magistrates-Elect in the Political Life of the Roman Republic (9-21).md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 192,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 55808,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 56000,
+    "percentage": 28
+  }
+}
