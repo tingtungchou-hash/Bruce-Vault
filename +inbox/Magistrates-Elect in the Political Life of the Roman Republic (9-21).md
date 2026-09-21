@@ -18,11 +18,6 @@ the language of ancient sources
 - agenda setting formal powers <=> other factors
 - privati <=> migistratus
 
-## Cic. Verr. 1.37
-- 2 points Cic. makes to justify his status as aedile-elect being more important than Hortensius' as consul-elect
-	- he is more beneficient to the Roman People 
-	- he is more active as a magistrate-elect 
-
 # Roman Republic as a meritocracy
 - Populus Romanus as ==Referenzobjekt== (Joachim Holkeskamp)
 - contiones as *exclusively magisterial meetings* <=> contiones/*coetus* (technically, they were not contiones, while they were usually compared to contiones by ancient authors) as *non-magisterial meetings* (i.e. by *privati*)
@@ -45,6 +40,11 @@ the language of ancient sources
 
 # the case of the tribune-elect
 ==**magistratus designatus**==: formally privatus, but resembling magistratus
+
+## Cic. Verr. 1.37
+- 2 points Cic. makes to justify his status as aedile-elect being more important than Hortensius' as consul-elect
+	- he is more beneficient to the Roman People
+	- he is more active as a magistrate-elect
 
 ## formal / symbolic status
 - Terminology resembled that of an incumbent magistrate
@@ -93,8 +93,6 @@ Cic. Verr. 1.27
 	- A *designatus* could become a focal point in unofficial political communication
 	- A large *conventus* gathered around the consul-designate Hortensius, making his words and even those of supporters widely known (Cic. *Verr.* 1.18)
 
-*why did ancient authors use the terminology of magistrates* for magistrates elects, while they did use a different terminology for family letters. does such usage indicates political initiative? the prof. thinks so. maybe for the Romans the
-
 # Designati: concluding points
 - 1 A transitional status
 	- Formally a *privatus*, without magisterial prerogatives (no immunity, no *ius edicendi*)
@@ -127,12 +125,13 @@ Cic. Verr. 1.27
 	- It particularly benefited those whose actual influence could not be contained within the formal magisterial system
 
 # follow-up questions
-- how about privati *cum imperio*?
+- *why did ancient authors use the terminology of magistrates* for magistrates elects, while they did use a different terminology for family letters. does such usage indicates political initiative? the prof. thinks so. maybe for the Romans the
 - on the question of terminology, we do not know whether the usage was not rhetoric, while real power?
+- how about privati *cum imperio*?
 - how did we know the effectiveness of Metellus come from his *family*, or his future *magistracy*?
 	- the case of Bibulus, who was not able to act despite his powerful family
 	- also the case of a respected magistrate, though respected, drived out of the forum
-- can this be an epitome of threat? 
-- does a line have to be drawn between tribuni and other magistrates? 
+- can this be an epitome of threat?
+- does a line have to be drawn between tribuni and other magistrates?
 - consul vs consul elect
-- the concept of edictum? does it has to be a privilege of magistrates? can it be a policy instead of an order? 
+- the concept of edictum? does it has to be a privilege of magistrates? can it be a policy instead of an order?

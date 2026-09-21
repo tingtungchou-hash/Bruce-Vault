@@ -1,0 +1,25 @@
+{
+  "id": "conv-1789999381064-x8a00gvrr",
+  "providerId": "claude",
+  "title": "录入今日学习内容到每日笔记",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789999381064,
+  "updatedAt": 1790000433596,
+  "lastResponseAt": 1790000433596,
+  "sessionId": "1378fa92-b310-43c6-86a7-f47b0182d67c",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "1378fa92-b310-43c6-86a7-f47b0182d67c"
+  },
+  "currentNote": "Calendar/Daily/2026-09-21.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 807,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 88960,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 89767,
+    "percentage": 45
+  }
+}
