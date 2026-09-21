@@ -4,8 +4,8 @@
   "title": "Add image to end of file",
   "titleGenerationStatus": "success",
   "createdAt": 1789991809929,
-  "updatedAt": 1789992452561,
-  "lastResponseAt": 1789992452561,
+  "updatedAt": 1789995198198,
+  "lastResponseAt": 1789995198198,
   "sessionId": "3cc92b56-4050-4437-a7fa-69d0392cc91d",
   "selectedModel": "haiku",
   "providerState": {
@@ -14,12 +14,12 @@
   "currentNote": "Magistrates-Elect in the Political Life of the Roman Republic (9-21).md",
   "usage": {
     "model": "haiku",
-    "inputTokens": 192,
+    "inputTokens": 169,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 55808,
+    "cacheReadInputTokens": 86784,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 56000,
-    "percentage": 28
+    "contextTokens": 86953,
+    "percentage": 43
   }
 }
