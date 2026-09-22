@@ -4,8 +4,8 @@
   "title": "Add frontmatter and relocate Obsidian note",
   "titleGenerationStatus": "success",
   "createdAt": 1790035218257,
-  "updatedAt": 1790041168591,
-  "lastResponseAt": 1790041168591,
+  "updatedAt": 1790057583922,
+  "lastResponseAt": 1790057583922,
   "sessionId": "2a78ca64-3ae1-4a00-8b3d-de5e13337a01",
   "selectedModel": "haiku",
   "providerState": {
@@ -13,12 +13,12 @@
   },
   "usage": {
     "model": "haiku",
-    "inputTokens": 1981,
+    "inputTokens": 272,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 100352,
+    "cacheReadInputTokens": 183040,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 102333,
-    "percentage": 51
+    "contextTokens": 183312,
+    "percentage": 92
   }
 }
