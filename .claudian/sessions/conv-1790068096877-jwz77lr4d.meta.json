@@ -1,0 +1,25 @@
+{
+  "id": "conv-1790068096877-jwz77lr4d",
+  "providerId": "claude",
+  "title": "Create blank Obsidian note",
+  "titleGenerationStatus": "success",
+  "createdAt": 1790068096878,
+  "updatedAt": 1790068137938,
+  "lastResponseAt": 1790068137938,
+  "sessionId": "6cbd4ac3-84eb-49e9-9ea4-969643e6a8d5",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "6cbd4ac3-84eb-49e9-9ea4-969643e6a8d5"
+  },
+  "currentNote": "Areas/学业/课程/大二上/拉丁语阅读（1）/拉丁语阅读(1) - 导航.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 626,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 43008,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 43634,
+    "percentage": 22
+  }
+}
