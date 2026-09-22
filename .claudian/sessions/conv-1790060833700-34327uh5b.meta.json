@@ -4,8 +4,8 @@
   "title": "Add Latin grammar analysis to # Grammar section",
   "titleGenerationStatus": "success",
   "createdAt": 1790060833700,
-  "updatedAt": 1790061945000,
-  "lastResponseAt": 1790061945000,
+  "updatedAt": 1790065247825,
+  "lastResponseAt": 1790065247825,
   "sessionId": "a8d53fbb-fd32-46d4-9fa0-2c115cc50142",
   "selectedModel": "haiku",
   "providerState": {
@@ -14,12 +14,12 @@
   "currentNote": "Areas/学业/课程/大二上/拉丁语阅读（1）/Div. in Caec. 2.md",
   "usage": {
     "model": "haiku",
-    "inputTokens": 239,
+    "inputTokens": 261,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 55552,
+    "cacheReadInputTokens": 60416,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 55791,
-    "percentage": 28
+    "contextTokens": 60677,
+    "percentage": 30
   }
 }

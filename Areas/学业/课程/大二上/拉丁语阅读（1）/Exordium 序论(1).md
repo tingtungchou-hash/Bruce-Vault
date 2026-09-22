@@ -25,12 +25,54 @@ tags:
 
 5. adductus sum, iudices, officio, fide, misericordia, multorum bonorum exemplo, vetere consuetudine institutoque maiorum, **ut** onus huius laboris atque offici non ex meo, sed ex meorum necessariorum tempore mihi suscipiendum putarem. quo in negotio tamen illa me res, iudices, consolatur, quod haec quae videtur esse accusatio mea non potius accusatio quam ==defensio== ==est existimanda==. ==defendo== enim multos mortalis, multas civitates, provinciam Siciliam totam; quam ob rem, quia mihi unus ==est accusandus==, prope modum manere in instituto meo videor et non omnino a defendendis hominibus sublevandisque discedere. 
 
-# phrases 
+## phrases analysis 
 - tot annos - accusative of duration of time
 - in causis indiciisque publicis 
-- defenderim multos, laeserim neminem 
+- defenderim multos, laeserim neminem - had defended many while harmed few
 - subito nunc - now suddenly 
 - nutata voluntate - will having been changed 
-- ad accusandum descendere - gerund 
-- mei consili causam rationemque 
-- una et id quod facio probabit et in hac causa profecto neminem praeponendum mihi esse actorem putabit 
+- ad accusandum descendere - ad + gerundive => purpose  
+- mei consili(i) causam rationemque - the reason and reasoning of my decision 
+- una et id quod facio probabit et in hac causa profecto neminem praeponendum mihi esse actorem putabit - *==una et ... et ...==* (once both A and B) 
+- iucundam diuturnamque memoriam 
+- quaesturae nominisque mei 
+- cum summum in veteribus patronis multis, tum non nullum etiam in me praesidium - ==cum ... tum ... ==
+- non nullum 
+- populati atque vexati 
+- ad me publice saepe venerunt - publice: in a formal way
+- suarum fortunarum omnium causam defensionemque susciperem 
+- commodis eorum me non defuturm (esse) - desum + dat. to fail one's duty in ... 
+- *non iam* ut commoda sua, sed ut vitam salutemque totius provinciae defenderem: ==non iam== no longer
+- ne deos quidem - ==ne ... quidem==: even ... not 
+- simulacra sanctissima 
+- ex delubris religiossimis 
+- luxuries in flagitiis, crudelitas in suppliciis, avaritia in rapinis, superbia in contumeliis
+- hoc uno praetore 
+- per triennium 
+- rogare et orare *ne* illos supplices aspernarer 
+- me incolumi 
+- officio, fide, misericordia 
+- multorum bonorum exemplo 
+- vetere consuetudine istitutoque miorum 
+- ==onus== huius laboris atque offici non ex meo, sed ex meorum necessariorum tempore mihi suscipiendum putarem - ==ex tempore==: *timing, urgency, chance, occasion* 
+- non ex meo, sed ex meorum necessariorum tempore 
+- quo in negotio 
+- non potius accusatio quam defensio {mea accusatio} est existimanda - not so much as A than as B 
+- quam ob rem 
+- prope modum - more or less
+- non omnino 
+- a defendendis hominibus sublevandisque discedere
+
+## Rhetorics 
+- anticipatio: *si quis ... miratur* 
+- contentio: *defenderim multos, laeserim neminem* 
+- dissolutio: *defenderim multos, ~~et~~ laeserim neminem* 
+- compar: *defenderim multos, laeserim neminem* 
+- interpretatio/synonymia: *causam rationemque* 
+- translatio: *laeserim ~~accusaverim~~ neminem* 
+- repetitio: *populati atque vexti cuncti* 
+- traductio: *si quod **tempus** accidisset, quo **tempore** aliquid a me requirerent* 
+- cimiliter cadens: *luxuries in flagitiis, ... superbia in contumeliis* 
+- slliteratio
+- correctio: *non potius accusatio quam defensio* 
+- derivatio: *non potius accusatio quam **defensio** est existimanda. **defendo**...* 
