@@ -8,12 +8,12 @@ tags:
   - course
   - language/latin
 ---
-[[拉丁语阅读(1) - 导航|返回导航]] | [[主页|返回主页]] | [[Divinatio in Caecilium|全文链接]] 
+[[拉丁语阅读(1) - 导航|返回导航]] | [[主页|返回主页]] | [[Divinatio in Caecilium|全文链接]] | [[Div. in Caec. 2|下一课]] 
 
 ---
 
 # Original Text 
-si quis vestrum, iudices, aut eorum qui adsunt, forte miratur me, qui tot annos in causis iudiciisque publicis ita sim versatus ut defenderim multos, laeserim neminem, subito nunc mutata voluntate ad accusandum descendere, is, si mei consili causam rationemque cognoverit, una et id quod facio probabit, et in hac causa profecto neminem praeponendum mihi esse actorem putabit. 
+\[1] si quis vestrum, iudices, aut eorum qui adsunt, forte miratur me, qui tot annos in causis iudiciisque publicis ita sim versatus ut defenderim multos, laeserim neminem, subito nunc mutata voluntate ad accusandum descendere, is, si mei consili causam rationemque cognoverit, una et id quod facio probabit, et in hac causa profecto neminem praeponendum mihi esse actorem putabit. 
 
 # Text Analysis 
 **si** quis <= vestrum, iudices, aut {quis} eorum <= qui adsunt, ==forte== **miratur** me, 
