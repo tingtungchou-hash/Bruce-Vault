@@ -1,0 +1,25 @@
+{
+  "id": "conv-1790085792982-nk8v6s9jv",
+  "providerId": "claude",
+  "title": "Organize Obsidian vault notes",
+  "titleGenerationStatus": "success",
+  "createdAt": 1790085792983,
+  "updatedAt": 1790086648140,
+  "lastResponseAt": 1790086648140,
+  "sessionId": "15764d02-1aed-4bc7-82a7-8468b5cc61ed",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "15764d02-1aed-4bc7-82a7-8468b5cc61ed"
+  },
+  "currentNote": "Areas/学业/课程/大二上/公共初级意大利语/第五课 26-9-22 公初意.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 697,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 100992,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 101689,
+    "percentage": 51
+  }
+}
