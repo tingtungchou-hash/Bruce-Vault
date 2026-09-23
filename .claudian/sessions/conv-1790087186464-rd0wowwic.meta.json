@@ -4,8 +4,8 @@
   "title": "Record today's study content in daily note",
   "titleGenerationStatus": "success",
   "createdAt": 1790087186465,
-  "updatedAt": 1790087284205,
-  "lastResponseAt": 1790087284205,
+  "updatedAt": 1790140892042,
+  "lastResponseAt": 1790139430251,
   "sessionId": "37fbba8b-2178-4341-97ab-0fb6f3073222",
   "selectedModel": "haiku",
   "providerState": {
@@ -14,12 +14,12 @@
   "currentNote": "Calendar/Daily/2026-09-22.md",
   "usage": {
     "model": "haiku",
-    "inputTokens": 254,
+    "inputTokens": 245,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 59136,
+    "cacheReadInputTokens": 73728,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 59390,
-    "percentage": 30
+    "contextTokens": 73973,
+    "percentage": 37
   }
 }

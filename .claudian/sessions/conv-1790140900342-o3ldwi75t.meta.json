@@ -1,0 +1,25 @@
+{
+  "id": "conv-1790140900342-o3ldwi75t",
+  "providerId": "claude",
+  "title": "Generate Western names",
+  "titleGenerationStatus": "success",
+  "createdAt": 1790140900342,
+  "updatedAt": 1790141341342,
+  "lastResponseAt": 1790141341342,
+  "sessionId": "2cf6bb68-9734-4dab-bec3-ad8dc2696b6c",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "2cf6bb68-9734-4dab-bec3-ad8dc2696b6c"
+  },
+  "currentNote": "Areas/学业/课程/大二上/拉丁美洲史/第二课 26-9-16 拉美史.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 175,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 40704,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 40879,
+    "percentage": 20
+  }
+}
