@@ -8,7 +8,7 @@ tags:
   - course
   - language/latin
 ---
-[[拉丁语阅读(1) - 导航|返回导航]] | [[主页|返回主页]] | [[Divinatio in Caecilium|全文链接]] | [[Div. in Caec. 3|上一课]]
+[[拉丁语阅读(1) - 导航|返回导航]] | [[主页|返回主页]] | [[Divinatio in Caecilium|全文链接]] | [[Div. in Caec. 3|上一课]] | [[Div. in Caec. 5|下一课]] 
 
 ---
 # Original Text
