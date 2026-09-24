@@ -13,43 +13,44 @@ short fem. a
 
 |     | sing. | dual | plur.  |
 | --- | ----- | ---- | ------ |
-| n   | α     | α    | αι     |
-| g   | ας    | αιν  | ῶν     |
+| n   | ᾰ     | ᾱ    | αι     |
+| g   | ᾱς    | αιν  | ῶν     |
 | d   | ᾳ     | αιν  | αις    |
-| a   | αν    | α    | ας     |
-| v   | α     | α    | αι     |
+| a   | ᾰν    | ᾱ    | ᾱς     |
+| v   | ᾰ     | ᾱ    | αι     |
 ## eta subset 
 
 |     | sing. | dual | plur. |
 | --- | ----- | ---- | ----- |
-| n   | α     | α    | αι    |
+| n   | ᾰ     | ᾱ    | αι    |
 | g   | ης    | αιν  | ῶν    |
 | d   | ῃ     | αιν  | αις   |
-| a   | αν    | α    | ας    |
-| v   | α     | α    | αι    |
+| a   | ᾰν    | ᾱ    | ᾱς    |
+| v   | ᾰ     | ᾱ    | αι    |
 # A-Declension Nouns III 
 long masc. a  
+(most words in this group are proper names while the number of nouns is smaller)
 ## alpha subset 
 
 |     | sing. | dual | plur. |
 | --- | ----- | ---- | ----- |
-| n   | ας    | α    | αι    |
+| n   | ᾱς    | ᾱ    | αι    |
 | g   | ου    | αιν  | ῶν    |
 | d   | ᾳ     | αιν  | αις   |
-| a   | αν    | α    | ας    |
-| v   | α     | α    | αι    |
+| a   | ᾱν    | ᾱ    | ᾱς    |
+| v   | ᾱ     | ᾱ    | αι    |
 ## eta subset 
 
 |     | sing. | dual | plur. |
 | --- | ----- | ---- | ----- |
-| n   | ης    | α    | αι    |
+| n   | ης    | ᾱ    | αι    |
 | g   | ου    | αιν  | ῶν    |
 | d   | ῃ     | αιν  | αις   |
-| a   | ην    | α    | ας    |
-| v   | α     | α    | αι    |
+| a   | ην    | ᾱ    | ᾱς    |
+| v   | ᾰ     | ᾱ    | αι    |
 # Prepositions II 
 
-- ἀντί + gen. instead of, instead of, in place of 
+- ἀντί + gen. instead of, in place of, in return for  
 - πρό + gen. in front of, indefense of, before 
 - διά + gen. through, by (agent or means)
 - διά + acc. because of, on account of, by aid of, by reason of 

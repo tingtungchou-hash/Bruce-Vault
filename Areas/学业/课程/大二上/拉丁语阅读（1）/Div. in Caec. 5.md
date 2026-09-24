@@ -12,8 +12,10 @@ tags:
 
 ---
 # Original Text
+adductus sum, iudices, officio, fide, misericordia, multorum bonorum exemplo, vetere consuetudine institutoque maiorum, ut onus huius laboris atque offici non ex meo, sed ex meorum necessariorum tempore mihi suscipiendum putarem. quo in negotio tamen illa me res, iudices, consolatur, quod haec quae videtur esse accusatio mea non potius accusatio quam defensio est existimanda. defendo enim multos mortalis, multas civitates, provinciam Siciliam totam; quam ob rem, quia mihi unus est accusandus, prope modum manere in instituto meo videor et non omnino a defendendis hominibus sublevandisque discedere.
 
 # Text Analysis
+adductus sum, iudices, officio, fide, misericordia, multorum bonorum exemplo, vetere consuetudine institutoque maiorum, ut onus huius laboris atque offici non ex meo, sed ex meorum necessariorum tempore mihi suscipiendum putarem. quo in negotio tamen illa me res, iudices, consolatur, quod haec quae videtur esse accusatio mea non potius accusatio quam defensio est existimanda. defendo enim multos mortalis, multas civitates, provinciam Siciliam totam; quam ob rem, quia mihi unus est accusandus, prope modum manere in instituto meo videor et non omnino a defendendis hominibus sublevandisque discedere.
 
 # Translation
 

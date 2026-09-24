@@ -12,20 +12,20 @@ status: seedling
 
 | case | sing. | dual | plur. |
 | ---- | ----- | ---- | ----- |
-| nom. | α     | α    | αι    |
-| gen. | ας    | αιν  | ῶν    |
+| nom. | ᾱ     | ᾱ    | αι    |
+| gen. | ᾱς    | αιν  | ῶν    |
 | dat. | ᾳ     | αιν  | αις   |
-| acc. | αν    | α    | aς    |
-| voc. | α     | α    | αι    |
+| acc. | ᾱν    | ᾱ    | ᾱς    |
+| voc. | ᾱ     | ᾱ    | αι    |
 ## η subset
 
 | case | sing. | dual | plur. |
 | ---- | ----- | ---- | ----- |
-| nom. | η     | α    | αι    |
-| gen. | ησ    | αιν  | ῶν    |
+| nom. | η     | ᾱ    | αι    |
+| gen. | ης    | αιν  | ῶν    |
 | dat. | ῃ     | αιν  | αις   |
-| acc. | ην    | α    | aς    |
-| voc. | η     | α    | αι    |
+| acc. | ην    | ᾱ    | ᾱς    |
+| voc. | η     | ᾱ    | αι    |
 ## note on accentuation 
 
 - nouns of the a-declension with an accented **U** has circumflex on U in **dative and genetive** of all numbers (φυγή => φυγῆς, θεά => θεᾷ) 
