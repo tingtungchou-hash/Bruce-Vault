@@ -128,7 +128,7 @@ tags: [language/greek]
 
 (From this point on it is recommended that the student cease to write out translations of Greek sentences. In order to learn to read Greek rather than decipher it, one must practice translating mentally or orally from the text, and one must learn to return to a text previously translated and recall most or all of one's previous reading of it.)
 
-1. διὰ τὰς καλὰς ὄρνιθας οὐ φοβούμεθα τὸν πρὸς ἐκείνους πόλεμον.
+1. διὰ τὰς καλὰς ὄρνιθας οὐ φοβούμεθα τὸν πρὸς ἐκείνους πόλεμον. 
 2. κακὸν λείπειν τὴν ἀσπίδα, ἀλλ' ἀγαθὸν σῴζειν \["save"] τὴν ψυχήν.
 3. μετὰ ταῦτα ὕδωρ φέρουσιν οἱ γέροντες τοῖς νεανίαις οἳ ὑπὲρ τῆς πατρίδος μάχονται.
 4. οἱ φύλακες οὓς οἱ πολέμιοι αἱροῦσιν ἀποθνῄσκουσιν.
@@ -138,9 +138,3 @@ tags: [language/greek]
 8. ἐν μὲν τῷ πολέμῳ ἀκούειν βουλόμεθα τὰ τέρατα ἃ οἱ θεοὶ πέμπειν δοκοῦσιν, ἐν δ' εἰρήνῃ οὔ.
 9. ἡ τοῦ φυγάδος ἀδελφὴ οὐκ ἐν τῷ οἴκῳ μένει, ἀλλ' ἀεὶ ἐπὶ ταῖς θύραις ἐστίν. ἔπειτα δ' ὁ τύραννος αὐτὴν αἱρεῖ, ἀλλ' ἀποκτείνειν φοβεῖται.
 
-### IV. Render into Greek
-
-1. It seems best to the citizens to choose this poet, for they do not like the majority of them. 
-2. He begs that man to speak on behalf of the peace treaty.
-3. These things are not this way, but you (pl.) always fare well.
-4. Are they not grateful to Peisistratus for the goods things he does?
