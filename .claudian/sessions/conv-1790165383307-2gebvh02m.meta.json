@@ -4,8 +4,8 @@
   "title": "Tidy contents for readability",
   "titleGenerationStatus": "success",
   "createdAt": 1790165383307,
-  "updatedAt": 1790227729348,
-  "lastResponseAt": 1790227729348,
+  "updatedAt": 1790235243577,
+  "lastResponseAt": 1790235243577,
   "sessionId": "127c886a-9304-4db3-b3b7-0f9df828b0fa",
   "selectedModel": "haiku",
   "providerState": {
@@ -14,12 +14,12 @@
   "currentNote": "Areas/语言/古希腊语/笔记/Introduction to Attic Greek/Mastronarde Greek - Unit 14 练习.md",
   "usage": {
     "model": "haiku",
-    "inputTokens": 187,
+    "inputTokens": 3163,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 203008,
+    "cacheReadInputTokens": 224640,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 203195,
+    "contextTokens": 227803,
     "percentage": 100
   }
 }
