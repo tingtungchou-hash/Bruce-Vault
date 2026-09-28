@@ -1,0 +1,35 @@
+{
+	"nodes":[
+		{"id":"7ead0f12202f00e2","type":"text","text":"The 3rd Declension","x":-1058,"y":408,"width":250,"height":60},
+		{"id":"e1d70b1f79952364","type":"text","text":"Dental Plosive Stems (==τ δ θ==)","x":-600,"y":189,"width":250,"height":60},
+		{"id":"ee6891cb60d543f8","type":"text","text":"Labial & Velar Plosive Stems (==π β φ, κ γ χ==)","x":-600,"y":0,"width":250,"height":60},
+		{"id":"d5707a78d477306b","x":-600,"y":468,"width":250,"height":76,"type":"text","text":"Nouns in a liquid or nasal (==λ, ρ, ν==) "},
+		{"id":"a0150dcbe9d17265","x":-600,"y":720,"width":250,"height":60,"type":"text","text":"Irregular stems in ==-ρ==  "},
+		{"id":"d2da67abdbb20269","x":-600,"y":920,"width":250,"height":60,"type":"text","text":"Stems in ==-σ=="},
+		{"id":"14836ed0b4ba30ca","x":580,"y":484,"width":250,"height":60,"type":"text","text":"acc. sing. has -α"},
+		{"id":"67b3216fecbfb47b","x":580,"y":159,"width":250,"height":60,"type":"text","text":"acc. sing. has -α or -ν depending on accent"},
+		{"id":"a8ab82d74f933a13","x":580,"y":11,"width":250,"height":99,"type":"text","text":"shorter stem used for nom voc sing, dat pl and sometimes acc sing"},
+		{"id":"5c206d0a376d04cd","type":"text","text":"Masculine & Feminine nouns in ==-ις== (-ας -υς ) ","x":60,"y":-120,"width":250,"height":60},
+		{"id":"89d8724b0f41f5d6","type":"text","text":"Neuter nouns in ==-τ==","x":60,"y":1,"width":250,"height":60},
+		{"id":"c79909dd484fa03c","type":"text","text":"Masculine nouns in ==-ντ==","x":60,"y":110,"width":250,"height":60},
+		{"id":"8b889619cd3eebbb","x":580,"y":-120,"width":250,"height":60,"type":"text","text":"the monosyllabic-stem rule "},
+		{"id":"c02ff611706c8865","type":"text","text":"lenthening of vowels preceding the stem end ","x":580,"y":249,"width":250,"height":87},
+		{"id":"695b27c6617f44fc","x":580,"y":360,"width":250,"height":87,"type":"text","text":"lenthening of vowels preceding the stem end "}
+	],
+	"edges":[
+		{"id":"71d9ee4de2b7d0a0","fromNode":"e1d70b1f79952364","fromSide":"right","toNode":"5c206d0a376d04cd","toSide":"left"},
+		{"id":"b99fa1eb094f6799","fromNode":"e1d70b1f79952364","fromSide":"right","toNode":"c79909dd484fa03c","toSide":"left"},
+		{"id":"f8d4dfd8e11466ee","fromNode":"e1d70b1f79952364","fromSide":"right","toNode":"89d8724b0f41f5d6","toSide":"left"},
+		{"id":"ff4d2e854d10712f","fromNode":"7ead0f12202f00e2","fromSide":"right","toNode":"ee6891cb60d543f8","toSide":"left"},
+		{"id":"b2ecd593518d7d2d","fromNode":"7ead0f12202f00e2","fromSide":"right","toNode":"e1d70b1f79952364","toSide":"left"},
+		{"id":"85515cdab51b0e15","fromNode":"7ead0f12202f00e2","fromSide":"right","toNode":"d5707a78d477306b","toSide":"left"},
+		{"id":"fca082541fefc3e7","fromNode":"7ead0f12202f00e2","fromSide":"right","toNode":"a0150dcbe9d17265","toSide":"left"},
+		{"id":"9c77202b2606c95e","fromNode":"7ead0f12202f00e2","fromSide":"right","toNode":"d2da67abdbb20269","toSide":"left"},
+		{"id":"c16a03f3ed4dd654","fromNode":"ee6891cb60d543f8","fromSide":"right","toNode":"14836ed0b4ba30ca","toSide":"left","toEnd":"none"},
+		{"id":"f7f50c3e937cb453","fromNode":"5c206d0a376d04cd","fromSide":"right","toNode":"67b3216fecbfb47b","toSide":"left","toEnd":"none"},
+		{"id":"ab28881bd9ea4fee","fromNode":"5c206d0a376d04cd","fromSide":"right","toNode":"a8ab82d74f933a13","toSide":"left","toEnd":"none"},
+		{"id":"9119b9faeebfd922","fromNode":"c79909dd484fa03c","fromSide":"right","toNode":"695b27c6617f44fc","toSide":"left","toEnd":"none"},
+		{"id":"a674d5807c1173b2","fromNode":"695b27c6617f44fc","fromSide":"left","toNode":"d5707a78d477306b","toSide":"right","toEnd":"none"},
+		{"id":"b1f6483ee207bc38","fromNode":"14836ed0b4ba30ca","fromSide":"left","toNode":"d5707a78d477306b","toSide":"right","toEnd":"none"}
+	]
+}
