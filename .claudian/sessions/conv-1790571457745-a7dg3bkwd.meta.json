@@ -4,8 +4,8 @@
   "title": "Create blank history paper writing note",
   "titleGenerationStatus": "success",
   "createdAt": 1790571457746,
-  "updatedAt": 1790593800506,
-  "lastResponseAt": 1790593800506,
+  "updatedAt": 1790597099374,
+  "lastResponseAt": 1790597099374,
   "sessionId": "b4f713cc-1518-451c-9f51-7c58a3a95172",
   "selectedModel": "sonnet",
   "providerState": {
@@ -14,12 +14,12 @@
   "currentNote": "Areas/学业/课程/大二上/历史论文写作/历史论文写作-导航.md",
   "usage": {
     "model": "sonnet",
-    "inputTokens": 260,
+    "inputTokens": 204,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 165248,
+    "cacheReadInputTokens": 173824,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 165508,
-    "percentage": 83
+    "contextTokens": 174028,
+    "percentage": 87
   }
 }
