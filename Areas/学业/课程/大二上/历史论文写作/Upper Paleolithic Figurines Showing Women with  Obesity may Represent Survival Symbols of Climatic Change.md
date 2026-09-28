@@ -33,9 +33,9 @@ Figurines of women with obesity or who are pregnant ("**Venus figurines**") from
 
 ## Introduction
 
-Obesity is rare in hunter-gatherer cultures. Nevertheless, dozens of handheld figurines of women with obesity have been identified that date to Ice Age European hunter-gatherers from 38,000 to 14,000 years BP (before present) (1,2). Several counterintuitive aspects characterize these figurines. First, they often show realistic features of obesity despite the accepted view that obesity was rare among these peoples (Supporting Information Figure S1A). Most figurines are also naked, or nearly so, which seems ironic for their proximity to the glaciers (3). The figurines also focus on the torso and sexual features, and the head is typically faceless with small arms and no feet. However, the glossing over of details in carving of the figurines was not from lack of skill, for other carvings, such as the lifelike Brassempouy (Supporting Information Figure S1B), attest to rendering individualized portraits. Many figurines are in or near childbearing years, with some appearing pregnant and others showing abdominal obesity or expanded fat in the buttocks (steatopygy), suggestive of overnutrition. A few figures of women are on the verge of puberty, and occasional figurines of middle-aged women are known. However, obesity is restricted to female figurines, as the known male figurines are elongated and slender (Supporting Information Figure S1C).
+**Obesity is rare in hunter-gatherer cultures**. Nevertheless, dozens of handheld figurines of women with obesity have been identified that date to Ice Age European hunter-gatherers from 38,000 to 14,000 years BP (before present) (1,2). Several ==counterintuitive== aspects characterize these figurines. First, they often show realistic features of obesity despite the accepted view that obesity was rare among these peoples (Supporting Information Figure S1A). Most figurines are also naked, or nearly so, which seems ironic for their proximity to the glaciers (3). The figurines also focus on the torso and sexual features, and the head is typically faceless with small arms and no feet. However, the glossing over of details in carving of the figurines was not from lack of skill, for other carvings, such as the lifelike Brassempouy (Supporting Information Figure S1B), attest to rendering individualized portraits. Many figurines are in or near childbearing years, with some appearing pregnant and others showing abdominal obesity or expanded fat in the buttocks (steatopygy), suggestive of overnutrition. A few figures of women are on the verge of puberty, and occasional figurines of middle-aged women are known. **However, obesity is restricted to female figurines**, as the known male figurines are elongated and slender (Supporting Information Figure S1C).
 
-That the figurines with obesity are always women, of which some are pregnant, has led to the long-standing interpretation that the figurines represent fertility or beauty (hence the general adoption of the term "Venus" figurines) (2). Yet it has been difficult to test this hypothesis. Here we suggest that the meaning of the figurines can be best explained by understanding the climatic and environmental changes that were occurring during that time and how these factors affected their nutrition and survival. Specifically, we hypothesize that the figurines were meant to enhance survival of the hunting and gathering band. Especially during pregnancy, obesity helped assure survival during episodes of severe food shortage. To provide background for this hypothesis, we briefly discuss climate change in Paleolithic Europe and how it affected nutrition among early modern humans.
+That the figurines with obesity are always women, of which some are pregnant, has led to the long-standing interpretation that the figurines represent fertility or beauty (hence the general adoption of the term "Venus" figurines) (2). Yet it has been difficult to test this hypothesis. Here we suggest that the meaning of the figurines can be best explained by understanding the climatic and environmental changes that were occurring during that time and how these factors affected their nutrition and survival. Specifically, **we hypothesize that ==the figurines were meant to enhance survival of the hunting and gathering band**==. Especially during pregnancy, obesity helped assure survival during episodes of severe food shortage. To provide background for this hypothesis, we briefly discuss climate change in Paleolithic Europe and how it affected nutrition among early modern humans.
 
 ## Climatic Change in Upper Paleolithic Europe
 
@@ -47,7 +47,7 @@ The Gravettians had better-quality "backed" stone projectile points, which provi
 
 Yet temperatures fell a significant 4°C to 8°C beginning around 28,000 BP, which culminated in the Last Glacial Maximum at 22,000 BP (5). Temperatures during the coldest months may have reached minus 10°C to 15°C (8). Less rainfall fell and the plant growing season shortened (5). In these extreme conditions, some human populations near the glaciers succumbed, whereas others relocated to sheltered, forested valleys south (9). As large game became overhunted, survival relied on smaller animals, such as hares, rabbits, marmots, and birds (10).
 
-The shortage of food during the harsher times of the year dramatically reduced population size (9,11,12). One estimate suggests that the population fell to a nadir between 29,000 and 25,000 BP, when the population declined to one-third that of the prior period (33,000-29,000 BP) (9). Reflecting nutritional intake, stature fell an average of 3 to 4 inches by 22,000 BP (5,13). Also indicating nutritional stress, dental striations (enamel hypoplasia) changed from being relatively infrequent during the early Upper Paleolithic (16%) to being comparatively commonplace (29%) by 22,000 BP (5).
+The shortage of food during the harsher times of the year dramatically reduced population size (9,11,12). One estimate suggests that the population fell to a nadir between 29,000 and 25,000 BP, when the population declined to one-third that of the prior period (33,000-29,000 BP) (9). Reflecting nutritional intake, stature fell an average of 3 to 4 inches by 22,000 BP (5,13). Also indicating **nutritional stress, dental striations** (enamel hypoplasia) changed from being relatively infrequent during the early Upper Paleolithic (16%) to being comparatively commonplace (29%) by 22,000 BP (5).
 
 It was during the ebb and flow over 24,000 years of the last glaciation (38,000 to 14,000 BP) that most figurines of women with obesity were made. We, therefore, tested the hypothesis that the severity of obesity might be greatest during the periods of nutritional stress and advancing glaciers based on empirical measurements of the figurines as they related to location relative to the glaciers.
 
@@ -79,7 +79,7 @@ Increased body fat likely provided an adaptive strategy in the frigid weather, e
 
 **Limitations to our study** include the fact that the measurements were made from photographs and that we were not able to include circumferential measurements. Moreover, the exact age of each figurine was not always known and, in some cases, was based on associated finds and/or stylistic attributes. It is also possible that the shift to leaner figurines could have represented a shift in location to the south and, especially in Spain, cultural changes, ethnic subgroups, or other changes unrelated to climatic stress.
 
-In summary, environmental and nutritional stress of the Upper Paleolithic period correlates with the appearance of figurines of women with obesity among hunter-gatherers in Europe as they adapted to environmental stressors that reduced population and stature and, in some regions, resulted in outright extinction. ==During this period, the figurines emerged as an ideological tool to help improve fertility and survival of the mother and newborns==. The aesthetics of art thus had a significant function in **emphasizing health and survival** to accommodate increasingly austere climatic conditions.
+In summary, environmental and nutritional stress of the Upper Paleolithic period correlates with the appearance of figurines of women with obesity among hunter-gatherers in Europe as they adapted to environmental stressors that reduced population and stature and, in some regions, resulted in outright extinction. ==During this period, the figurines emerged as an **ideological tool** to help improve fertility and survival of the mother and newborns==. The aesthetics of art thus had a significant function in **emphasizing health and survival** to accommodate increasingly austere climatic conditions.
 
 ## Figures
 
@@ -143,12 +143,19 @@ Supporting information: Additional Supporting Information may be found in the on
 14. Frisch RE. Critical fatness hypothesis. Am J Physiol 1997;273(1 Pt 1):E231-E232.
 ---
 # 问题
-1. 文章切入点和论证目标是“作为一种意识形态工具的冰期肥胖女性雕像”，这个主题到底是什么意思？
-	1. 在
+1. 文章切入点和论证目标是“作为一种**意识形态工具**的冰期肥胖女性雕像”，这个主题到底是什么意思？
 2. 文章是怎么提出问题的，其逻辑线索是什么？
+	1. 问题的历史化：把现象变成一个可以放到历史语境下被理解的事，在这一论文中，figurines与历史现实背景相矛盾的“==counterintuitive== characteristics” 是问题提出的来源
 3. 提出问题，意味着提出假设，假设是一种想象，科学研究离不开想象，文章是如何提出最关键假设的？其逻辑基础是什么？
+	1. 最关键的假设：雕塑形象与气候变化有关
+	2. 如何提出：肥胖程度与据冰川距离的正相关关系
+	3. 逻辑基础：冰期的人由于营养缺乏是普遍瘦弱的
 4. 文章如何搜集、组织并分析数据（资料或史料），如何指向自己的论证方向？
+	1. 使用照片而非实物测量，有缺陷
 5. 论证与分析紧密相关，文章是怎么做到让论证和分析紧紧围绕自己的主题、从而让主题变得有力量的？
 6. 关注细节是历史研究的最大特征，这篇文章有哪些给你深刻印象的细节讨论？
+	1. 不同出现地点对雕塑胖瘦程度的差异
 7. 任何研究都必须面对自身的薄弱环节，如数据（资料或史料）不足，解释多样，逻辑缺环，等等，如何处理这些薄弱环节是研究论文质量高低的关键，这篇文章是如何处理这一问题的？
+	1. 数量差别的失衡与不均质，文化/风格差异受到了忽视、解释多样
+	2. 关系vs因果，雕像形制与冰川分布的相关性能否得出其具体的作用机制和作为护身符“意识形态工具”的结论？
 8. 总起来看，你是否喜欢这类历史文章？为什么？
