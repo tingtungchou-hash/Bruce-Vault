@@ -76,3 +76,4 @@ tags:
 - slliteratio
 - correctio: *non potius accusatio quam defensio* 
 - derivatio: *non potius accusatio quam **defensio** est existimanda. **defendo**...* 
+# Hamiltonian Method 
