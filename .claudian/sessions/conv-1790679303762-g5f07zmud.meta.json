@@ -1,0 +1,25 @@
+{
+  "id": "conv-1790679303762-g5f07zmud",
+  "providerId": "claude",
+  "title": "Organize classical civilization notes",
+  "titleGenerationStatus": "success",
+  "createdAt": 1790679303762,
+  "updatedAt": 1790680623651,
+  "lastResponseAt": 1790680623651,
+  "sessionId": "8ff6d58f-0921-4a21-8e0a-fd3cbb6b8bd2",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "8ff6d58f-0921-4a21-8e0a-fd3cbb6b8bd2"
+  },
+  "currentNote": "Areas/学业/课程/大二上/公共初级意大利语/第六课 26-9-24 公初意.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 190,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 84608,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 84798,
+    "percentage": 42
+  }
+}
