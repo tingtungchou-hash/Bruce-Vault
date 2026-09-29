@@ -63,10 +63,23 @@ qui iudicia manere apud ordinem senatorium volunt, queruntur accusatores se idon
 	- name of the censors 
 - populare et plausibile factum est 
 # Methods of approaching Latin learning 
-- *Direct Method*, F. R. Dale 
+- *Direct Method*, Leonard Bloomfield 
 - *Syntactic Structures*, Noam Chomsky 
 - ==*A New Latin Syntax*, E. C. Woodcock==: a historical method of approaching the Latin language, taking into consideration the historical evolution of it, the unconstancy of different Latins, etc. 
 	- a simple example:
 		- "eat" frater imperat 
 		- frater imperat ut eat 
-		- ire frater imperat
+		- (eum) ire frater imperat
+> 例子：et ((hoc quod facio) mē (reī pūblicae causā) facere) profitērer（Cic. Div. in Caec. 6）
+ ```
+主句
+├─ 连词 et
+└─ 谓语 profiterer
+   └─ 宾语从句（ACI）
+      ├─ 主语 mē
+      ├─ 谓语 facere
+      ├─ 宾语 hoc
+      │  └─ 定语从句 quod facio
+      └─ 状语 reī pūblicae causā
+ ```
+- Latin Grammar, Dirk Panhuis: invastion of inguistic methodology and terminology into latin grammanology 

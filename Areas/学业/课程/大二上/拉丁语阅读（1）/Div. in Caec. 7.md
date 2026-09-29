@@ -16,11 +16,12 @@ quid est, pro deum hominumque fidem, in quo ego rei publicae plus hoc tempore pr
 
 # Text Analysis
 quid est, pro deum hominumque fidem, in quo ego rei publicae plus hoc tempore ==prodesse== possim? quid est quod 
-aut populo Romano gratius esse debeat, 
-aut sociis exterisque nationibus ==optatius== esse possit, 
+aut populo Romano *gratius esse* **debeat**, 
+aut sociis exterisque nationibus *==optatius== esse* **possit**, 
 aut saluti fortunisque omnium magis accommodatum sit? 
 populatae, vexatae, ==funditus== eversae provinciae, socii stipendiariique populi Romani adflicti, miseri, iam non salutis spem sed ==solacium== exiti quaerunt. 
 
+\*provinciae: gen. sing. or nom. pl.? 
 # Translation
 what is, by faith of god and human, the thing in which I would be able to set an example for the republic in such a time? what is there that is able to be more dear to the Roman People, or what is able to be more desired by the allies and foreign nations, or what is more fit for the safety and fortunes of all people? The allies and tribute-payers of the harmed and miserable Roman People, of the province fundamentally turned up-side-down, harmed and plundered, now do not ask for the hope of safety but solace of ruins. 
 # Vocabulary

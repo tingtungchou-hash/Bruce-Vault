@@ -4,8 +4,8 @@
   "title": "Classify Greek noun features by accent and endings",
   "titleGenerationStatus": "success",
   "createdAt": 1790646587284,
-  "updatedAt": 1790665951696,
-  "lastResponseAt": 1790665951696,
+  "updatedAt": 1790671271092,
+  "lastResponseAt": 1790671271092,
   "sessionId": "201c5a8a-783a-4621-97ef-a49d5676b206",
   "selectedModel": "haiku",
   "providerState": {
@@ -14,12 +14,12 @@
   "currentNote": "第三变格法.canvas",
   "usage": {
     "model": "haiku",
-    "inputTokens": 299,
+    "inputTokens": 2615,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 145920,
+    "cacheReadInputTokens": 161536,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 146219,
-    "percentage": 73
+    "contextTokens": 164151,
+    "percentage": 82
   }
 }

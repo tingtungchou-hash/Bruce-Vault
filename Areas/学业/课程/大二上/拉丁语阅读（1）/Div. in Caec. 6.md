@@ -12,12 +12,14 @@ tags:
 
 ---
 # Original Text
-quodsi hanc causam tam idoneam, tam inlustrem, tam gravem non haberem, – si aut hoc a me Siculi non petissent aut mihi cum Siculis causa tantae necessitudinis non intercederet, et hoc quod facio me rei publicae causa facere profiterer, ut homo singulari cupiditate, audacia, scelere praeditus, cuius furta atque flagitia non in Sicilia solum, sed in Achaia, Asia, Cilicia, Pamphylia, Romae denique ante oculos omnium maxima turpissimaque nossemus, me agente in iudicium vocaretur,--quis tandem esset qui meum factum aut consilium posset reprehendere?
+quodsi hanc causam tam idoneam, tam inlustrem, tam gravem non haberem, – si aut hoc a me Siculi non petissent aut mihi cum Siculis causa tantae necessitudinis non intercederet, et hoc quod facio me rei publicae causa facere profiterer, ut homo singulari cupiditate, audacia, scelere praeditus, cuius furta atque flagitia non in Sicilia solum, sed in Achaia, Asia, Cilicia, Pamphylia, Romae denique ante oculos omnium maxima turpissimaque nossemus, me agente in iudicium vocaretur, – quis tandem esset qui meum factum aut consilium posset reprehendere?
+
+\*nossemus = novissemus
 
 # Text Analysis
 **quodsi** hanc causam tam idoneam, tam inlustrem, tam gravem non haberem, – 
 **si** aut hoc a me Siculi non petissent aut mihi cum Siculis causa tantae necessitudinis non intercederet, 
-**et** *hoc* <= (quod facio) me rei publicae causa facere profiterer, 
+**et** *hoc* <= (quod facio) me rei publicae causa **facere** profiterer, 
 **ut** homo <= (singulari cupiditate, audacia, scelere praeditus), <= (cuius furta atque flagitia non in Sicilia solum, sed in Achaia, Asia, Cilicia, Pamphylia, Romae denique ante oculos omnium maxima turpissimaque **nossemus**), 
 me agente in iudicium vocaretur, 
 – quis tandem esset qui meum factum aut consilium posset reprehendere?
