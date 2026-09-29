@@ -4,8 +4,8 @@
   "title": "Fill Greek declension table, Mastronarde U14-15",
   "titleGenerationStatus": "success",
   "createdAt": 1790595549700,
-  "updatedAt": 1790642575946,
-  "lastResponseAt": 1790642575946,
+  "updatedAt": 1790645784777,
+  "lastResponseAt": 1790645784777,
   "sessionId": "7078349a-8151-4134-a18b-e05d7bf64680",
   "selectedModel": "haiku",
   "providerState": {
@@ -14,12 +14,12 @@
   "currentNote": "第三变格法.canvas",
   "usage": {
     "model": "haiku",
-    "inputTokens": 488,
+    "inputTokens": 313,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 229376,
+    "cacheReadInputTokens": 253952,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 229864,
+    "contextTokens": 254265,
     "percentage": 100
   }
 }

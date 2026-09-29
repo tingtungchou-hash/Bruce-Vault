@@ -1,0 +1,10 @@
+{
+  "id": "conv-1790646587283-0e43lpswx",
+  "providerId": "claude",
+  "title": "Classify Greek noun features by accent and endings",
+  "titleGenerationStatus": "success",
+  "createdAt": 1790646587284,
+  "updatedAt": 1790646591239,
+  "sessionId": null,
+  "selectedModel": "haiku"
+}
