@@ -4,10 +4,10 @@
   "title": "总结同文件夹范文的选题特点",
   "titleGenerationStatus": "success",
   "createdAt": 1790851481007,
-  "updatedAt": 1790933263442,
-  "lastResponseAt": 1790933263442,
+  "updatedAt": 1790934915059,
+  "lastResponseAt": 1790934915059,
   "sessionId": "5d02216e-f35d-4c79-be72-f6c21fed469c",
-  "selectedModel": "sonnet",
+  "selectedModel": "opus",
   "providerState": {
     "providerSessionId": "5d02216e-f35d-4c79-be72-f6c21fed469c",
     "subagentData": {
@@ -75,13 +75,13 @@
   },
   "currentNote": "+inbox/毛概期中论文/期中论文草稿.md",
   "usage": {
-    "model": "sonnet",
-    "inputTokens": 2231,
+    "model": "opus",
+    "inputTokens": 3261,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 91520,
+    "cacheReadInputTokens": 166144,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 93751,
-    "percentage": 47
+    "contextTokens": 169405,
+    "percentage": 85
   }
 }
