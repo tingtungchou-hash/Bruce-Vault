@@ -4,8 +4,8 @@
   "title": "Review thesis framework and cited arguments",
   "titleGenerationStatus": "success",
   "createdAt": 1791017819677,
-  "updatedAt": 1791019355981,
-  "lastResponseAt": 1791019355981,
+  "updatedAt": 1791024520434,
+  "lastResponseAt": 1791024520434,
   "sessionId": "ff5727f8-4196-4ed0-8186-61c2e67da809",
   "selectedModel": "haiku",
   "providerState": {
@@ -480,15 +480,15 @@
       }
     }
   },
-  "currentNote": "+inbox/毛概期中论文/论文框架.md",
+  "currentNote": "Archived/毛概期中论文/论文框架.md",
   "usage": {
     "model": "haiku",
-    "inputTokens": 375,
+    "inputTokens": 219,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 109056,
+    "cacheReadInputTokens": 128000,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 109431,
-    "percentage": 55
+    "contextTokens": 128219,
+    "percentage": 64
   }
 }
