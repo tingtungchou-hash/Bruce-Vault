@@ -13,8 +13,10 @@ tags:
 ---
 
 # Original Text
+in hac libidine hominum nocentissimorum, in populi Romani cotidiana querimonia, iudiciorum infamia, totius ordinis offensione, cum hoc unum his tot incommodis remedium esse arbitrarer, ut homines idonei atque integri causam rei publicae legumque susciperent, fateor me salutis omnium causa ad eam partem accessisse rei publicae sublevandae quae maxime laboraret. 
 
 # Text Analysis
+in hac libidine hominum nocentissimorum, in populi Romani cotidiana querimonia, iudiciorum infamia, totius ordinis offensione, cum hoc unum his tot incommodis remedium esse arbitrarer, ut homines idonei atque integri causam rei publicae legumque susciperent, fateor me salutis omnium causa ad eam partem accessisse rei publicae sublevandae quae maxime laboraret. 
 
 # Translation
 
