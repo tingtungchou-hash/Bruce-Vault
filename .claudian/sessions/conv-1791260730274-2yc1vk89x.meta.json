@@ -4,8 +4,8 @@
   "title": "辨析指代对象为人还是物",
   "titleGenerationStatus": "success",
   "createdAt": 1791260730274,
-  "updatedAt": 1791260838509,
-  "lastResponseAt": 1791260838509,
+  "updatedAt": 1791262354935,
+  "lastResponseAt": 1791262354935,
   "sessionId": "acab2ce8-8b92-4ce7-8c72-d9f506ba6e06",
   "selectedModel": "haiku",
   "providerState": {
@@ -14,12 +14,12 @@
   "currentNote": "Areas/学业/课程/大二上/拉丁语阅读（1）/Div. in Caec. 10.md",
   "usage": {
     "model": "haiku",
-    "inputTokens": 244,
+    "inputTokens": 162,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 29568,
+    "cacheReadInputTokens": 96256,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 29812,
-    "percentage": 15
+    "contextTokens": 96418,
+    "percentage": 48
   }
 }
