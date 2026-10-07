@@ -13,11 +13,30 @@ tags:
 
 ---
 我的计划是通过考察“声称不提及某事，实则提及甚至详细叙说”这种修辞现象在*Divinatio in Caecilium*中的使用、它与虚拟式/让步从句/人称代词等的配合使用造成的修辞效果、它所针对的对象以及对不同对象产生的不同情感效应，了解这一修辞现象在西塞罗演说词中的地位和效果。
-以上提及的修辞现象在古典时期有为数众多的不同名称，经过我的搜集和学习，大略有以下几种：
-Demetrius of Phaleron的*De elocutione* 263中写道记载了一种名为παράλειψις的修辞(https://www.attalus.org/old/demetr5.html#263, https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2008.01.0630%3Abook%3D5%3Achapter%3D263)，其要旨在“”
 
-> ... ἐκ μὲν οὖν τῶν τῆς διανοίας σχημάτων, ἐκ μὲν τῆς παραλείψεως ὀνομαζομένης οὕτως ... ἐν γὰρ τούτοις καὶ εἴρηκεν πάντα, ὅσα ἐβούλετο, καὶ παραλιπεῖν αὐτά φησιν, ὡς δεινότερα εἰπεῖν ἔχων ἕτερα. Καὶ ἡ προειρημένη δ̓ ἀποσιώπησις τοῦ αὐτοῦ ἤθους ἐχομένη δεινότερον ποιήσει τὸν λόγον.
-> ... Take, for instance, that which is called 'praetermission' ... In these words the orator has said everything he wished, while professing to have passed everything over in his desire to proceed to weightier matters. The figure 'aposiopesis' already mentioned, which partakes of the same character, will also make expression more forcible. 
+Demetrius of Phaleron 的* De elocutione* 263中写道记载了一种名为 παράλειψις 的修辞，其要旨在“已经说出了想说的一切，却声称自己是为了转向更重大的问题而把一切都略过不提”
+
+> ... ἐκ μὲν οὖν τῶν τῆς διανοίας σχημάτων, ἐκ μὲν τῆς παραλείψεως ὀνομαζομένης οὕτως ... ἐν γὰρ τούτοις καὶ εἴρηκεν πάντα, ὅσα ἐβούλετο, καὶ παραλιπεῖν αὐτά φησιν, ὡς δεινότερα εἰπεῖν ἔχων ἕτερα. 
+> ... Take, for instance, that which is called 'praetermission' ... In these words the orator has said everything he wished, while professing to have passed everything over in his desire to proceed to weightier matters. 
+
+Poebammon the Sophist 的 *de figuris* 中同样提到了 παράλειψις（或称ὑποσιώπησις），称其要旨在“假装沉默但却丝毫不少地被说出来”
+
+> Παράλειψις δὲ ἤτοι ὑποσιώπησις ἐστι νόημα ἐν προσποιήσει σιωπῆς οὐδὲν ἧττον λεγόμενον, ὡς ἵνα ἐγκαλῶν τινι εἴπω, ὅτι σιγῶ τόδε καταλέγων τὰ ἀδικήματα. 
+> Paraleipsis, or hyposeiopesis, is a thought expressed under a pretense of silence, none the less stated—as when, in accusing someone, I say that I am silent about this while recounting his offenses. 
+
+![[Pasted image 20261007235643.png]]
+
+而需要注意的是，紧接着出现在 Demetrius of Phaleron *De elocutione* 264中提及的另一种修辞 ἀποσιώπησις 与 παράλειψις不是同一种，虽然作者认为二者效用相似。
+
+> Καὶ ἡ προειρημένη δ̓ ἀποσιώπησις τοῦ αὐτοῦ ἤθους ἐχομένη δεινότερον ποιήσει τὸν λόγον.
+> The figure 'aposiopesis' already mentioned, which partakes of the same character, will also make expression more forcible. 
+
+Quintilian *Institutio Oratoria* 9.2.54 中举的例子可以看出ἀποσιώπησις（西塞罗称为reticentia，Celsus 称为 obticentia，其他人称为 interruptio ）是在演讲过程中实打实的沉默停顿，与 ἀποσιώπησις 不同—— ἀποσιώπησις 的精要之处在于“‘假意’沉默，实则指出”，我主要想考察的是后者。西塞罗貌似很喜欢用这种修辞（他称为occulatio），在*Rhetorica ad Herennium* 4.37中，西塞罗记载：
+
+> Occultatio est cum dicimus nos praeterire aut non scire aut nolle dicere id quod nunc maxime dicimus ... Haec utilis est exornatio si aut ad rem quam non pertineat aliis ostendere, quod occulte admonuisse prodest, aut longum est aut ignobile, aut planum non potest fieri, aut facile potest reprehendi; ut utilius sit occulte fecisse suspicionem quam eiusmodi intendisse orationem quae redarguatur. 
+> Paralipsisa occurs when we say that we are passing by, or do not know, or refuse to say that which precisely now we are saying ... This figure is useful if employed in a matter which it is not pertinent to call specifically to the attention of others, because there is advantage in making only an indirect reference to it, or because the direct reference would be tedious or undignified, or cannot be made clear, or can easily be refuted. As a result, it is of greater advantage to create a suspicion by Paralipsis than to insist directly on a statement that is refutable.
+
+可见西塞罗将其定位为暗中制造疑窦的同时免于招致驳斥的一种便利修辞。西塞罗自述认为这种修辞用于冗长、不体面、不清楚或易被驳斥的，
 
 # §§1-12 的虚拟式用法
 由deepseek整理的我已经翻译过的
@@ -78,3 +97,6 @@ Demetrius of Phaleron的*De elocutione* 263中写道记载了一种名为παρ�
 §8、§11、§12 全无虚拟式
 
 附记：§§1-12 无 praeteritio。上表 50 处虚拟式中没有一处构成 praeteritio（παράλειψις，宣称略过而实已提及）。序论里最接近的修辞是 §1 的 anticipatio（预设诘难并回应）与 §§10-11 的 partitio（宣告将要讲什么），二者与 praeteritio 方向相反。全篇最早的 praeteritio 见于 §13：quos omnis a me nominari non est necesse；紧跟 §14：quid ego his testibus utor。
+
+Demetrius of Phaleron 的来源： https://www.attalus.org/old/demetr5.html#263 为英文译文, https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2008.01.0630%3Abook%3D5%3Achapter%3D263 为古希腊语原文
+Poebammon the Sophist的来源： https://eulogikon.org/works/phoebammon-figures-prs-aa?utm_source=chatgpt.com 收录电子版， https://digi.ub.uni-heidelberg.de/diglit/bav_pal_gr_66/0270/image,info 为Vatikan, Biblioteca Apostolica Vaticana, Pal. gr. 66 132v手稿，此外还应有MS Queens 33中提及，但未暇查证
