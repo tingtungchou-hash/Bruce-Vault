@@ -1,0 +1,25 @@
+{
+  "id": "conv-1791352073997-68spgh6lk",
+  "providerId": "claude",
+  "title": "Extract highlighted words into #vocabulary",
+  "titleGenerationStatus": "success",
+  "createdAt": 1791352073998,
+  "updatedAt": 1791352790159,
+  "lastResponseAt": 1791352790159,
+  "sessionId": "989a7651-1035-4689-b628-35c0c5362c6d",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "989a7651-1035-4689-b628-35c0c5362c6d"
+  },
+  "currentNote": "Areas/学业/课程/大二上/拉丁语阅读（1）/Div. in Caec. 12.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 188,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 67840,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 68028,
+    "percentage": 34
+  }
+}
