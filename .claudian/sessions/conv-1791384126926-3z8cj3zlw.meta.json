@@ -4,7 +4,22 @@
   "title": "Plan approach for assignment due tomorrow",
   "titleGenerationStatus": "success",
   "createdAt": 1791384126927,
-  "updatedAt": 1791384133801,
-  "sessionId": null,
-  "selectedModel": "haiku"
+  "updatedAt": 1791385649895,
+  "lastResponseAt": 1791385649895,
+  "sessionId": "1bccc631-974d-4326-bacd-eedb0075ce4f",
+  "selectedModel": "opus",
+  "providerState": {
+    "providerSessionId": "1bccc631-974d-4326-bacd-eedb0075ce4f"
+  },
+  "currentNote": "Areas/学业/课程/大二上/拉丁语阅读（1）/2026秋拉丁语阅读一课程大纲.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 142,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 108160,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 108302,
+    "percentage": 54
+  }
 }
