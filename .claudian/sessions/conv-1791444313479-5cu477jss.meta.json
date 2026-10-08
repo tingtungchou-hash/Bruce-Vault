@@ -4,8 +4,8 @@
   "title": "Analyze Taiping Rebellion collapse from institu...",
   "titleGenerationStatus": "success",
   "createdAt": 1791444313480,
-  "updatedAt": 1791446520970,
-  "lastResponseAt": 1791446520970,
+  "updatedAt": 1791453972546,
+  "lastResponseAt": 1791453852290,
   "sessionId": "fbc1a5a9-c08f-4b00-ac3a-ecd628963546",
   "selectedModel": "haiku",
   "providerState": {
@@ -14,12 +14,12 @@
   "currentNote": "Areas/学业/课程/大二上/中国近代史/太平天国（三） 26-9-24 中近史(6).md",
   "usage": {
     "model": "haiku",
-    "inputTokens": 711,
+    "inputTokens": 857,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 59136,
+    "cacheReadInputTokens": 125952,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 59847,
-    "percentage": 30
+    "contextTokens": 126809,
+    "percentage": 63
   }
 }
