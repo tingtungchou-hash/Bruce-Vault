@@ -9,7 +9,7 @@ status: seedling
 ---
 
 # Vowel-declension adjectives I 
-## delension chart 
+## declension chart 
 ### singular 
 
 |      | m.  | f.    | n.  |
@@ -48,3 +48,4 @@ status: seedling
 
 \* the modifiers can also be a repositional phrase, or a participle, or certain dependent genitives, or (occasionally) even an adverb 
 
+# .
