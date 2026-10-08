@@ -16,7 +16,7 @@ tags:
 
 我的计划是通过考察“声称不提及某事，实则提及甚至详细叙说”（姑且用“佯略/praeteritio”这个术语表达）这种修辞现象在*Divinatio in Caecilium*中的使用、它与虚拟式/让步从句/人称代词等的配合使用造成的修辞效果、它所针对的对象以及对不同对象产生的不同情感效应，了解这一修辞现象在西塞罗演说词中的地位和效果。
 
-Demetrius of Phaleron 的* De elocutione* 263中写道记载了一种名为 παράλειψις 的修辞，其要旨在“已经说出了想说的一切，却声称自己是为了转向更重大的问题而把一切都略过不提”
+Demetrius of Phaleron 的*De elocutione* 263中写道记载了一种名为 παράλειψις 的修辞，其要旨在“已经说出了想说的一切，却声称自己是为了转向更重大的问题而把一切都略过不提”
 
 > ... ἐκ μὲν οὖν τῶν τῆς διανοίας σχημάτων, ἐκ μὲν τῆς παραλείψεως ὀνομαζομένης οὕτως ... ἐν γὰρ τούτοις καὶ εἴρηκεν πάντα, ὅσα ἐβούλετο, καὶ παραλιπεῖν αὐτά φησιν, ὡς δεινότερα εἰπεῖν ἔχων ἕτερα. 
 > ... Take, for instance, that which is called 'praetermission' ... In these words the orator has said everything he wished, while professing to have passed everything over in his desire to proceed to weightier matters. 
@@ -33,12 +33,14 @@ Poebammon the Sophist 的 *de figuris* 中同样提到了 παράλειψις�
 > Καὶ ἡ προειρημένη δ̓ ἀποσιώπησις τοῦ αὐτοῦ ἤθους ἐχομένη δεινότερον ποιήσει τὸν λόγον.
 > The figure 'aposiopesis' already mentioned, which partakes of the same character, will also make expression more forcible. 
 
-Quintilian *Institutio Oratoria* 9.2.54 中举的例子可以看出ἀποσιώπησις（西塞罗称为reticentia，Celsus 称为 obticentia，其他人称为 interruptio ）是在演讲过程中实打实的沉默停顿，与 ἀποσιώπησις 不同—— ἀποσιώπησις 的精要之处在于“‘假意’沉默，实则指出”，我主要想考察的是后者。西塞罗貌似很喜欢用这种修辞（他称为occulatio，后来通行的称法是praeteritio，大致相当于παράλειψις），在*Rhetorica ad Herennium* 4.37中，西塞罗记载：
+Quintilian *Institutio Oratoria* 9.2.54 中举的例子可以看出ἀποσιώπησις（西塞罗称为reticentia，Celsus 称为 obticentia，其他人称为 interruptio ）是在演讲过程中实打实的沉默停顿，与 ἀποσιώπησις 不同—— ἀποσιώπησις 的精要之处在于“‘假意’沉默，实则指出”，我主要想考察的是后者。西塞罗貌似很喜欢用这种修辞（他称为occulatio，后来通行的称法是praeteritio，相当于希腊语中的παράλειψις/ὑποσιώπησις），在*Rhetorica ad Herennium* 4.37中，西塞罗记载：
 
 > Occultatio est cum dicimus nos praeterire aut non scire aut nolle dicere id quod nunc maxime dicimus ... Haec utilis est exornatio si aut ad rem quam non pertineat aliis ostendere, quod occulte admonuisse prodest, aut longum est aut ignobile, aut planum non potest fieri, aut facile potest reprehendi; ut utilius sit occulte fecisse suspicionem quam eiusmodi intendisse orationem quae redarguatur. 
 > Paralipsisa occurs when we say that we are passing by, or do not know, or refuse to say that which precisely now we are saying ... This figure is useful if employed in a matter which it is not pertinent to call specifically to the attention of others, because there is advantage in making only an indirect reference to it, or because the direct reference would be tedious or undignified, or cannot be made clear, or can easily be refuted. As a result, it is of greater advantage to create a suspicion by Paralipsis than to insist directly on a statement that is refutable.
 
-可见西塞罗将其定位为暗中制造疑窦的同时免于招致驳斥的一种便利修辞。西塞罗自述认为这种修辞用于冗长、不体面、不清楚或易被驳斥的，或是提及此事与引起他人注意无关的文段。但西塞罗似乎比较偏好这一修辞，而时常用近乎于阴阳怪气或人身攻击的方式把它用在别人身上，其目的就是“提请别人注意”，通过这种连续不断的旁敲侧击制造观众对对手这个人的质疑，达到贬损对手的目的，从而赢得演说的胜利。我想探究的，就是“佯略”（παράλειψις/ὑποσιώπησις/occulatio/praeteritio）在Divinatio in Caecilium中是如何运用的，是否有一定的格式语言或者常常搭配的句法，以及它可能蕴含的关于古罗马司法辩论的启示。
+可见西塞罗将其定位为暗中制造疑窦的同时免于招致驳斥的一种便利修辞。西塞罗自述认为这种修辞用于冗长、不体面、不清楚或易被驳斥的，或是提及此事与引起他人注意无关（ad rem quam non pertineat aliis ostendere）的文段。但我认为这不是一种简单的“防弊”的被动修辞：若冗长、不体面、易于被驳斥或无关宏旨，那么大可以干脆不提这一件事，真正重要的是西塞罗所说的“制造疑窦”（fecisse suspicionem），而假装省略是主动制造疑窦攻击对手的重要一环；Demetrius of Phaleron *De elocutione* 263 中说的“声称他略过不提”（καὶ παραλιπεῖν αὐτά φησιν）重点也是“声称”（φησιν），是一种主动的修辞策略，而不是受情势所迫。尤其是考虑到西塞罗本人就似乎比较偏好这一修辞，而时常用近乎于阴阳怪气或人身攻击的方式把它用在别人身上，其目的就是“提请别人注意”，通过这种连续不断的旁敲侧击制造观众对对手这个人的质疑，达到贬损对手的目的，从而赢得演说的胜利而非防止过于冗长进行逃避。
+
+可见西塞罗把这一修辞定位为在暗中制造疑窦、同时免于招致驳斥的便利手段。据他自述，此修辞在如下情形下才有用：所涉之事冗长（longum）、不体面（ignobile）、无法说清（planum non potest fieri）或易被驳倒（facile potest reprehendi），抑或不宜向他人径直点明、暗中提醒反有裨益（ad rem quam non pertineat aliis ostendere）。但我认为它并非一种简单的“防弊”式被动修辞：若某事实属冗长、不体面、易被驳倒或无关宏旨，大可以干脆不提；它真正着意之处，恰在西塞罗所说的“制造疑窦”（fecisse suspicionem）——佯称略过，本身就是主动制造疑窦、攻击对手的一环。Demetrius of Phaleron _De elocutione_ 263 论 παράλειψις，要点落在“**声称**他略过不提”（καὶ παραλιπεῖν αὐτά φησιν）：它是主动的修辞策略，而非受情势所迫的退让。何况西塞罗本人似乎偏好此修辞，且常以近乎阴阳怪气乃至人身攻击的方式施于对手，其意正在“提请别人注意”——借连续不断的旁敲侧击，使听众对对手其人渐生怀疑，以收贬损之效、赢得论辩，而非为免冗长而回避。而我想探究的，就是“佯略”（παράλειψις/ὑποσιώπησις/occulatio/praeteritio）在Divinatio in Caecilium中是如何运用的，是否有一定的格式语言或者常常搭配的句法，以及它可能蕴含的关于古罗马司法辩论的启示。
 
 # §§1-12 的虚拟式用法
 
