@@ -4,8 +4,8 @@
   "title": "Move PDF, convert to Markdown, update nav",
   "titleGenerationStatus": "success",
   "createdAt": 1791454031630,
-  "updatedAt": 1791454680091,
-  "lastResponseAt": 1791454680091,
+  "updatedAt": 1791458499071,
+  "lastResponseAt": 1791458499071,
   "sessionId": "64314c0c-b40b-40a2-a357-58098fdeab91",
   "selectedModel": "haiku",
   "providerState": {
@@ -14,12 +14,12 @@
   "currentNote": "Areas/学业/课程/大二上/历史论文写作/历史论文写作-导航.md",
   "usage": {
     "model": "haiku",
-    "inputTokens": 168,
+    "inputTokens": 220,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 118528,
+    "cacheReadInputTokens": 161152,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 118696,
-    "percentage": 59
+    "contextTokens": 161372,
+    "percentage": 81
   }
 }
