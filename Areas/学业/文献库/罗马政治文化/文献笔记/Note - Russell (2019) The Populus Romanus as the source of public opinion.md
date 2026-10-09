@@ -14,7 +14,7 @@ status: seedling
 - **年份**: 2019
 - **标题**: "The Populus Romanus as the source of public opinion"
 - **所属著作**: *Communicating Public Opinion in the Roman Republic* (ed. C. Rosillo-López), Franz Steiner Verlag, pp. 41-58
-- **来源**: [[communicating-public-opinion-in-the-roman-republic-3515121722-9783515121729_compress.pdf#page=41]]
+- **来源**: [[communicating-public-opinion-in-the-roman-republic-3515121722-9783515121729_compress.pdf#page=41]] 
 - **关键词**: populus, public opinion, Roman Republic, popular sovereignty
 
 ## 核心论点
