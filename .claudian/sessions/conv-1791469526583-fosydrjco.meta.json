@@ -1,0 +1,25 @@
+{
+  "id": "conv-1791469526583-fosydrjco",
+  "providerId": "claude",
+  "title": "Summarize today's study into daily note",
+  "titleGenerationStatus": "success",
+  "createdAt": 1791469526590,
+  "updatedAt": 1791469637966,
+  "lastResponseAt": 1791469637966,
+  "sessionId": "8b1fa312-ebbb-4e3e-8054-a3c8c7180bc8",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "8b1fa312-ebbb-4e3e-8054-a3c8c7180bc8"
+  },
+  "currentNote": "Calendar/Daily/2026-10-08.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 518,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 84864,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 85382,
+    "percentage": 43
+  }
+}
