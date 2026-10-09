@@ -4,8 +4,8 @@
   "title": "Summarize today's study into daily note",
   "titleGenerationStatus": "success",
   "createdAt": 1791469526590,
-  "updatedAt": 1791514437217,
-  "lastResponseAt": 1791514437217,
+  "updatedAt": 1791517016388,
+  "lastResponseAt": 1791517016388,
   "sessionId": "8b1fa312-ebbb-4e3e-8054-a3c8c7180bc8",
   "selectedModel": "haiku",
   "providerState": {
@@ -14,12 +14,12 @@
   "currentNote": "Calendar/Daily/2026-10-08.md",
   "usage": {
     "model": "haiku",
-    "inputTokens": 1927,
+    "inputTokens": 189,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 110464,
+    "cacheReadInputTokens": 126336,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 112391,
-    "percentage": 56
+    "contextTokens": 126525,
+    "percentage": 63
   }
 }
