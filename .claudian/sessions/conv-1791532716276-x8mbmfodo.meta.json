@@ -4,8 +4,8 @@
   "title": "解释给定句子的含义",
   "titleGenerationStatus": "success",
   "createdAt": 1791532716276,
-  "updatedAt": 1791532734754,
-  "lastResponseAt": 1791532734754,
+  "updatedAt": 1791533982016,
+  "lastResponseAt": 1791533982016,
   "sessionId": "6a5305bb-4d4f-4822-a75f-9868f684a025",
   "selectedModel": "haiku",
   "providerState": {
@@ -14,12 +14,12 @@
   "currentNote": "Areas/学业/课程/大二上/拉丁语阅读（1）/Div. in Caec. 14.md",
   "usage": {
     "model": "haiku",
-    "inputTokens": 623,
+    "inputTokens": 422,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 28800,
+    "cacheReadInputTokens": 70912,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 29423,
-    "percentage": 15
+    "contextTokens": 71334,
+    "percentage": 36
   }
 }
