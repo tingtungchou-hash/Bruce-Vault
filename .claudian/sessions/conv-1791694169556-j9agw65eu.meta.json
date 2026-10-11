@@ -1,0 +1,25 @@
+{
+  "id": "conv-1791694169556-j9agw65eu",
+  "providerId": "claude",
+  "title": "Update vocabulary navigation",
+  "titleGenerationStatus": "success",
+  "createdAt": 1791694169556,
+  "updatedAt": 1791696852098,
+  "lastResponseAt": 1791696852098,
+  "sessionId": "b24972f3-6489-46bf-aa17-38076614ef9e",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "b24972f3-6489-46bf-aa17-38076614ef9e"
+  },
+  "currentNote": "Areas/学业/课程/大二上/公共初级意大利语/单词导航.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 1101,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 96384,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 97485,
+    "percentage": 49
+  }
+}
