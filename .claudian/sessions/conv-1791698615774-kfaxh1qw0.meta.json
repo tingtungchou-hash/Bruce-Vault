@@ -4,8 +4,8 @@
   "title": "Optimize book cart total under 1000",
   "titleGenerationStatus": "success",
   "createdAt": 1791698615775,
-  "updatedAt": 1791699814357,
-  "lastResponseAt": 1791699814357,
+  "updatedAt": 1791708563777,
+  "lastResponseAt": 1791708563777,
   "sessionId": "85e7b270-8fc1-4854-b04b-735e5be20510",
   "selectedModel": "haiku",
   "providerState": {
@@ -14,12 +14,12 @@
   "currentNote": "+inbox/书籍报销列表.md",
   "usage": {
     "model": "haiku",
-    "inputTokens": 689,
+    "inputTokens": 734,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 39168,
+    "cacheReadInputTokens": 71168,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 39857,
-    "percentage": 20
+    "contextTokens": 71902,
+    "percentage": 36
   }
 }
