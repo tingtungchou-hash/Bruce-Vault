@@ -125,31 +125,31 @@ tags: [language/greek]
 
 ### ἐπί ｜ [[Mastronarde Greek - Unit 8 笔记|Unit 8]]
 
-| 格 | 释义 | 拉丁类比（近似） |
-| --- | --- | --- |
-| gen. | upon; in the time of | super + abl.（贴附 / 当时） |
-| dat. | upon, over; next to; in addition to | in + abl. |
-| acc. | onto, up to, toward; against | in + acc. |
+| 格    | 释义                                      | 拉丁类比（近似）              |
+| ---- | --------------------------------------- | --------------------- |
+| gen. | upon; ==in the time of==                | super + abl.（贴附 / 当时） |
+| dat. | upon, over; next to; ==in addition to== | in + abl.             |
+| acc. | onto, up to, toward; ==against==        | in + acc.             |
 
 **助记**：核心义「在上」—— gen. = 接触点（贴在表面之上 / 在某人的任期之内）；dat. = 停驻点（就在其上 / 其旁 / 附加于）；acc. = 落点（落到其上 / 冲着而去）。**gen. 贴着，dat. 待着，acc. 扑上去**。 ^epi
 
 ### παρά ｜ [[Mastronarde Greek - Unit 8 笔记|Unit 8]]
 
-| 格 | 释义 | 拉丁类比（近似） |
-| --- | --- | --- |
-| gen. | from the side of, from（宾语多为人） | a / ab + abl. |
-| dat. | by the side of, at the house of（宾语几乎必为人） | apud |
-| acc. | to the side of; beside, alongside; past, beyond, contrary to | ad / praeter + acc. |
+| 格    | 释义                                                               | 拉丁类比（近似）            |
+| ---- | ---------------------------------------------------------------- | ------------------- |
+| gen. | from the side of, from（宾语多为人）                                    | a / ab + abl.       |
+| dat. | by the side of, ==at the house of==（宾语几乎必为人）                     | apud                |
+| acc. | to the side of; beside, alongside; past, ==beyond, contrary to== | ad / praeter + acc. |
 
 **助记**：核心义「在……旁边」（一条平行线）—— gen. 从旁边来；dat. 在某人处；acc. 到旁边去 / 越过去。**παρὰ + dat. = apud**（最好用的一条）；三点连成一线：从哪来、在哪、去哪。 ^para
 
 ### πρός ｜ [[Mastronarde Greek - Unit 8 笔记|Unit 8]]
 
-| 格 | 释义 | 拉丁类比（近似） |
-| --- | --- | --- |
-| gen. | from, proceeding from（宾语多为人） | a / ab + abl. |
-| dat. | near, beside; in addition to | apud（近旁） |
-| acc. | to, toward; against; in respect to, regarding | ad + acc. |
+| 格    | 释义                                                | 拉丁类比（近似）      |
+| ---- | ------------------------------------------------- | ------------- |
+| gen. | from, proceeding from（宾语多为人）                      | a / ab + abl. |
+| dat. | near, beside; ==in addition to==                  | apud（近旁）      |
+| acc. | to, toward; against; ==in respect to, regarding== | ad + acc.     |
 
 **助记**：核心义「朝向」—— acc. 最核心：朝过去（to, toward, against）；dat. 就在旁边（near, beside）；gen. 是「从对方那一方来的」（如 πρὸς τῶν πολιτῶν = 从公民那里）。**πρός = "面向"，故 acc. 最核心；gen. 是"从对面来"**。 ^pros
 

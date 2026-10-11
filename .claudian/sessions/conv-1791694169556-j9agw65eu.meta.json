@@ -4,8 +4,8 @@
   "title": "Update vocabulary navigation",
   "titleGenerationStatus": "success",
   "createdAt": 1791694169556,
-  "updatedAt": 1791696852098,
-  "lastResponseAt": 1791696852098,
+  "updatedAt": 1791697919332,
+  "lastResponseAt": 1791697919332,
   "sessionId": "b24972f3-6489-46bf-aa17-38076614ef9e",
   "selectedModel": "haiku",
   "providerState": {
@@ -14,12 +14,12 @@
   "currentNote": "Areas/学业/课程/大二上/公共初级意大利语/单词导航.md",
   "usage": {
     "model": "haiku",
-    "inputTokens": 1101,
+    "inputTokens": 1086,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 96384,
+    "cacheReadInputTokens": 125824,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 97485,
-    "percentage": 49
+    "contextTokens": 126910,
+    "percentage": 63
   }
 }
