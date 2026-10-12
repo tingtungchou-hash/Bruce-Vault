@@ -1,0 +1,25 @@
+{
+  "id": "conv-1791732931360-2hyhwuppd",
+  "providerId": "claude",
+  "title": "Polish and output short essay",
+  "titleGenerationStatus": "success",
+  "createdAt": 1791732931360,
+  "updatedAt": 1791733049952,
+  "lastResponseAt": 1791733049952,
+  "sessionId": "4ec2ac88-2a7d-4a16-901d-c18ccf59165d",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "4ec2ac88-2a7d-4a16-901d-c18ccf59165d"
+  },
+  "currentNote": "利兹·波顿需要无罪吗？.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 283,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 34304,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 34587,
+    "percentage": 17
+  }
+}
