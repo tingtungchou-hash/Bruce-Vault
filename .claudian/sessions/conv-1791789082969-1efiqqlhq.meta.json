@@ -4,8 +4,8 @@
   "title": "Create blank note",
   "titleGenerationStatus": "success",
   "createdAt": 1791789082970,
-  "updatedAt": 1791810269719,
-  "lastResponseAt": 1791810269719,
+  "updatedAt": 1791811611845,
+  "lastResponseAt": 1791811241373,
   "sessionId": "d1d392e6-9f4e-4919-8589-9e6854d71559",
   "selectedModel": "haiku",
   "providerState": {
@@ -14,12 +14,12 @@
   "currentNote": "Areas/学业/课程/大二上/古希腊罗马史/古希腊罗马史-导航.md",
   "usage": {
     "model": "haiku",
-    "inputTokens": 647,
+    "inputTokens": 342,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 167296,
+    "cacheReadInputTokens": 185216,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 167943,
-    "percentage": 84
+    "contextTokens": 185558,
+    "percentage": 93
   }
 }
