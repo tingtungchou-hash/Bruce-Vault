@@ -24,9 +24,17 @@ adsunt, queruntur Siculi universi; ad meam fidem, quam **habent** *spectatam iam
 - esse voluerunt: implied *esse* through applying appositive 
 
 ## \[12]
-Vtrum, Q. Caecili, hoc dices, me non Siculorum **rogatu** ad causam accedere, an optimorum fidelissimorumque sociorum voluntatem apud hos gravem esse non oportere? si id audebis dicere, quod C. Verres, cui te inimicum esse simulas, maxime existimari vult, Siculos hoc a me non petisse, primum causam inimici tui sublevabis, de quo non praeiudicium, sed plane iudicium iam factum putatur, quod ita percrebruit, Siculos omnis actorem suae causae contra illius iniurias quaesisse. ^12
+Vtrum, Q. Caecili, hoc dices, me non Siculorum **rogatu** ad causam accedere, an optimorum fidelissimorumque sociorum voluntatem apud hos gravem esse non oportere? 
 - utrum ... an ...: whether this ... or that ...; which of the two, this ... or that ... 
 - rogatu: supine of rogare or ablative of the 4th declension noun rogatus? both leads to the meaning of "at the request of ..." 
+- non oportere: compare videtur, arbitror, etc. a way of being polite 
+**si** id **audebis** dicere, quod C. Verres, cui te inimicum esse simulas, maxime existimari vult, Siculos hoc a me non petisse, primum causam inimici tui **sublevabis**, de quo non praeiudicium, sed plane iudicium iam **factum** putatur, quod ita percrebruit, Siculos omnis actorem suae causae contra illius iniurias quaesisse. ^12
+- si audebis ... sublevabis: open contition
+- QUOD
 
 ## \[13]
-hoc si tu, inimicus eius, factum negabis, quod ipse, cui maxime haec res obstat, negare non audet, videto ne nimium familiariter inimicitias exercere videare. deinde sunt testes viri clarissimi nostrae civitatis, quos omnis a me nominari non est necesse: eos qui adsunt appellabo, quos, si mentirer, testis esse impudentiae meae minime vellem. scit is qui est in consilio, C. Marcellus, scit is quem adesse video, Cn. Lentulus Marcellinus; quorum fide atque praesidio Siculi maxime nituntur, quod omnino Marcellorum nomini tota illa provincia adiuncta est. ^13
+hoc si tu, inimicus eius, factum negabis, quod ipse, cui maxime haec res obstat, negare non audet, **videto ne** nimium familiariter inimicitias exercere videare. deinde sunt testes viri clarissimi nostrae civitatis, quos omnis a me nominari non est necesse: eos qui adsunt appellabo, quos, si **mentirer**, testis esse impudentiae meae minime vellem. scit is qui est in consilio, C. Marcellus, scit is quem adesse video, Cn. Lentulus Marcellinus; quorum fide atque praesidio Siculi maxime nituntur, quod omnino Marcellorum nomini tota illa provincia adiuncta est. ^13
+- videto ne ...: see to it that ... 
+- mentirer: if I were lying, present contrary to fact, i. e. Cicero isn't lying 
+- scit ... scit ...: postposition of subjects, meant to emphasise the verb 
+- 
