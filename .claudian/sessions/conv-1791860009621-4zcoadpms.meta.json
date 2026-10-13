@@ -4,8 +4,8 @@
   "title": "Translate Greek sentence into Latin",
   "titleGenerationStatus": "success",
   "createdAt": 1791860009621,
-  "updatedAt": 1791860031312,
-  "lastResponseAt": 1791860031312,
+  "updatedAt": 1791862657812,
+  "lastResponseAt": 1791862626868,
   "sessionId": "18906cbb-f3de-4c2d-b344-4c034afafa34",
   "selectedModel": "haiku",
   "providerState": {
@@ -14,12 +14,12 @@
   "currentNote": "Areas/学业/课程/大二上/基础古希腊语(1)/26-10-11 古希腊语(9).md",
   "usage": {
     "model": "haiku",
-    "inputTokens": 460,
+    "inputTokens": 203,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 30208,
+    "cacheReadInputTokens": 32384,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 30668,
-    "percentage": 15
+    "contextTokens": 32587,
+    "percentage": 16
   }
 }
