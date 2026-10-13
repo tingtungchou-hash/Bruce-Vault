@@ -4,8 +4,8 @@
   "title": "Check ChatGPT share link readability",
   "titleGenerationStatus": "success",
   "createdAt": 1791811618779,
-  "updatedAt": 1791849916970,
-  "lastResponseAt": 1791849916970,
+  "updatedAt": 1791856842497,
+  "lastResponseAt": 1791856842497,
   "sessionId": "8783cf20-cb60-4e48-8d4e-ec42cc28c626",
   "selectedModel": "haiku",
   "providerState": {
@@ -14,12 +14,12 @@
   "currentNote": "Areas/学业/课程/大二上/拉丁语阅读（1）/Div. in Caec. 17.md",
   "usage": {
     "model": "haiku",
-    "inputTokens": 340,
+    "inputTokens": 277,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 184064,
+    "cacheReadInputTokens": 210176,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 184404,
-    "percentage": 92
+    "contextTokens": 210453,
+    "percentage": 100
   }
 }
