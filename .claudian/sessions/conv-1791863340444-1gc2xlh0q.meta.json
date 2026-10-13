@@ -4,8 +4,8 @@
   "title": "Restore sentences to Ancient Greek with long vo...",
   "titleGenerationStatus": "success",
   "createdAt": 1791863340444,
-  "updatedAt": 1791891412060,
-  "lastResponseAt": 1791891412060,
+  "updatedAt": 1791897993938,
+  "lastResponseAt": 1791897993937,
   "sessionId": "285830fc-3658-4083-92d3-36bac4abdb17",
   "selectedModel": "haiku",
   "providerState": {
@@ -14,12 +14,12 @@
   "currentNote": "Areas/学业/课程/大二上/基础古希腊语(1)/26-10-13 古希腊语(10).md",
   "usage": {
     "model": "haiku",
-    "inputTokens": 195,
+    "inputTokens": 517,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 88192,
+    "cacheReadInputTokens": 110720,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 88387,
-    "percentage": 44
+    "contextTokens": 111237,
+    "percentage": 56
   }
 }
