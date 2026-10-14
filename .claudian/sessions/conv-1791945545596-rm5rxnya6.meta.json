@@ -1,0 +1,25 @@
+{
+  "id": "conv-1791945545596-rm5rxnya6",
+  "providerId": "claude",
+  "title": "Create Greek model tests from Mastronarde units...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1791945545597,
+  "updatedAt": 1791948511342,
+  "lastResponseAt": 1791948511342,
+  "sessionId": "d7d45ff6-1a2c-43f1-a9ee-f9d2156ce89c",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "d7d45ff6-1a2c-43f1-a9ee-f9d2156ce89c"
+  },
+  "currentNote": "+inbox/model test.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 168,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 167296,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 167464,
+    "percentage": 84
+  }
+}
