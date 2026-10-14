@@ -4,8 +4,8 @@
   "title": "Create blank Obsidian note",
   "titleGenerationStatus": "success",
   "createdAt": 1791953634348,
-  "updatedAt": 1791953675882,
-  "lastResponseAt": 1791953675882,
+  "updatedAt": 1791959140136,
+  "lastResponseAt": 1791959140136,
   "sessionId": "bfd68417-4c01-4b24-97dd-4ba59622c49c",
   "selectedModel": "haiku",
   "providerState": {
@@ -14,12 +14,12 @@
   "currentNote": "Areas/学业/课程/大二上/拉丁美洲史/拉丁美洲史-导航.md",
   "usage": {
     "model": "haiku",
-    "inputTokens": 253,
+    "inputTokens": 1180,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 42624,
+    "cacheReadInputTokens": 72192,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 42877,
-    "percentage": 21
+    "contextTokens": 73372,
+    "percentage": 37
   }
 }
