@@ -232,87 +232,139 @@ Note: you must indicate all accents, rough and smooth breathings, and iota subsc
 
 ὁ στρατιώτης, ἡ θάλαττα, ἡ ὑγίεια
 
+ὁ στρατιώτης   οἱ στρατιῶται 
+τοῦ στρατιώτου   τῶν στρατιωτῶν 
+τῷ στρατιώτῃ   τοῖς στρατιώταις 
+τὸν στρατιώτην   τοὺς στρατιώτας 
+στρατιῶτα   στρατιῶται 
+
+ἡ θάλαττα   αἱ θάλατται 
+τῆς θαλάττης   τῶν θαλαττῶν 
+τῇ θαλάττῃ  ταῖς θαλάτταις 
+τὴν θαλάτταν   τὰς θαλάττας
+θάλαττα   θάλατται 
+
+ἡ ὑγίεια   αἱ ὑγίειαι 
+τῆς ὑγιείας   τῶν ὑγιειῶν 
+τῇ ὑγιείᾳ  ταῖς ὑγιείαις 
+τὴν ὑγίειαν   τὰς ὑγιείας 
+ὑγίεια   ὑγίειαι
+
 2) Give one English translation of each of the three nouns above.
+
+soldier, sea, health 
 
 ### B) Declension of adjectives and pronouns
 
 3) Decline the adjective χαλεπός, χαλεπή, χαλεπόν (difficult) in the masculine, feminine, and neuter, singular and plural.
 
+χαλεπός χαλεπή χαλεπόν 
+χαλεποῦ χαλεπῆς χαλεποῦ 
+χαλεπῷ χαλεπῇ χαλεπῷ 
+χαλεπόν χαλεπήν χαλεπόν 
+χαλεπέ χαλεπή χαλεπόν 
+χαλεποί χαλεπαί χαλεπά 
+χαλεπῶν χαλεπῶν χαλεπῶν
+χαλεποῖς χαλεπαῖς χαλεποῖς 
+χαλεπούς χαλεπάς χαλεπά 
+χαλεποί χαλεπαί χαλεπά 
+
 4) Decline the definite article ὁ, ἡ, τό in the singular and plural.
+
+ὁ ἡ τό 
+τοῦ τῆς τοῦ 
+τῷ τῇ τῷ 
+τόν τήν τό 
+οἱ αἱ τά 
+τῶν τῶν τῶν
+τοῖς ταῖς τοῖς 
+τούς τάς τά 
 
 ### C) Conjugation and imperative
 
 5) Give the present indicative active of the following verbs in all persons, singular and plural: πείθω, ἐθέλω
 
-6) Give the second person singular and second person plural imperative of: ἄρχω, ἐλαύνω. Then negate one of them with the correct negative adverb.
+πείθω πείθεις πείθει πείθομεν πείθετε πείθουσι(ν) 
+ἐθέλω ἐθέλεις ἐθέλει ἐθέλομεν ἐθέλετε ἐθέλουσι(ν)
+
+6) Give the second person singular and second person plural imperative of: ἄρχω, ἐλαύνω. Then negate one of them with the correct negative adverb. 
+
+ἄρχε ἄρχετε μὴ ἄρχετε 
+ἔλαυνε ἐλαύνετε μὴ ἔλαυνε 
 
 ### D) Give the case, number, gender, and meaning in English of the following forms (give all possibilities where a form is ambiguous)
 
-7) ἀρχῆς
-8) στρατιώτην
-9) δώρων
-10) φυγῇ
-11) σοφοί
-12) τραπέζαις
-13) ἱερείας
-14) ψήφους
-15) ναύτῃ
-16) ἀληθείᾳ
-17) πολῖται
-18) ἔργοις
+7) ἀρχῆς   gen sing fem beginning 
+8) στρατιώτην   acc sing masc soldier 
+9) δώρων   gen pl neut gift 
+10) φυγῇ   dat sing fem flight 
+11) σοφοί   nom or voc pl masc wise (men)  
+12) τραπέζαις   dat pl fem table 
+13) ἱερείας   gen sing or acc pl fem priestess 
+14) ψήφους   acc pl fem pebble stone, vote 
+15) ναύτῃ   dat sing masc sailor 
+16) ἀληθείᾳ   dat sing fem truth 
+17) πολῖται   nom or voc pl citizens 
+18) ἔργοις   dat pl neut deed 
 
 ### E) Change of nouns
 
-19) Change noun number (7) into acc s
-20) Change noun number (8) into nom pl
-21) Change noun number (9) into dat s
-22) Change noun number (10) into gen s
-23) Change noun number (11) into dat pl
-24) Change noun number (12) into gen pl
-25) Change noun number (13) into voc s
-26) Change noun number (14) into nom s
+19) Change noun number (7) into acc s ἀρχήν 
+20) Change noun number (8) into nom pl στρατιῶται 
+21) Change noun number (9) into dat s δώρῳ 
+22) Change noun number (10) into gen s φυγῆς 
+23) Change noun number (11) into dat pl σοφοῖς 
+24) Change noun number (12) into gen pl τραπεζῶν 
+25) Change noun number (13) into voc s ἱέρεια
+26) Change noun number (14) into nom s ψῆφος 
 
 ### F) Give the tense, mood, voice, person, number, and one translation of the following verb forms
 
-27) πέμπετε
-28) ἐλαύνομεν
-29) οὐκ ἐθέλουσιν
-30) φέρεις
-31) μένουσιν
-32) γράφει
-33) φεύγεις
-34) ἐπιτρέπουσιν
+27) πέμπετε   pres ind act 2 pl send
+28) ἐλαύνομεν   pres ind act 1 pl drive 
+29) οὐκ ἐθέλουσιν   pres ind act 3 pl do not wish 
+30) φέρεις   pres ind act 2 sing carry, bear 
+31) μένουσιν   pres ind act 3 pl stay 
+32) γράφει   pres ind act 3 sing write 
+33) φεύγεις   pres ind act 2 sing flee 
+34) ἐπιτρέπουσιν   pres ind act 3 pl entrust 
 
 ### G) Place the correct accent (acute, circumflex, or grave) on the indicated syllable
 
-35) λυω — U
-36) μενει — P
-37) ἀνθρωποι — A
-38) ἀνθρωποις — P
-39) δωρον — P
-40) ἀδελφη — U
-41) λειπε — P
-42) ναυτης — P
+35) λυω — U λύω
+36) μενει — P μένει
+37) ἀνθρωποι — A ἄνθρωποι
+38) ἀνθρωποις — P ἀνθρώποις
+39) δωρον — P δῶρον
+40) ἀδελφη — U ἀδελφή
+41) λειπε — P λεῖπε
+42) ναυτης — P ναύτης
 
 ### H) Translate the following phrases into English
 
-43) ἀντὶ τῶν δώρων
-44) μετὰ τὴν νίκην
-45) διὰ τῆς γλώττης
-46) πρὸς τοὺς στρατιώτας
-47) ἐπὶ τοῖς στρατιώταις
-48) παρὰ τοῦ διδασκάλου
-49) πρὸ τοῦ πολέμου
-50) σὺν τῷ σοφῷ
+43) ἀντὶ τῶν δώρων in place of the gifts 
+44) μετὰ τὴν νίκην after the victory 
+45) διὰ τῆς γλώττης through the tongue
+46) πρὸς τοὺς στρατιώτας against the soldiers 
+47) ἐπὶ τοῖς στρατιώταις next to the soldiers 
+48) παρὰ τοῦ διδασκάλου from the side of the teacher 
+49) πρὸ τοῦ πολέμου before the war 
+50) σὺν τῷ σοφῷ with the wise man 
 
 ### I) Translate the following sentences into English
 
 51) τὰς Μοίρας οὐ πείθουσιν οἱ θεοί.
+	1) the gods do not persuade the goddesses of fate 
 52) ὁ στρατηγὸς τοῦ πολέμου ἄρχει καὶ οὐ νίκην ἀλλὰ συμφορὰς ἔχομεν.
+	1) the general starts the war and we have no victory but misfortunes 
 53) ὁ στρατὸς ἐκ τῆς χώρας φεύγει.
+	1) the army flees from the land 
 54) οἱ ἄνθρωποι τοὺς πόνους παρὰ τῶν θεῶν ἔχουσιν.
+	1) the human beings have the toils from the gods 
 55) ὁ ἀδελφός, ὃς ἐπὶ μακρὸν χρόνον ἐκ τῆς χώρας φεύγει, παρὰ τῶν φίλων τὸν βίον λαμβάνει.
+	1) the brother, who is in exile from the country for a long time, takes his life from his friends. 
 56) οἱ ἄγγελοι τὰς τῆς στρατιᾶς συμφορὰς λέγουσιν τοῖς ἐν τῇ ἀγορᾷ πολίταις.
+	1) the messengers tell the misfortunes of the army to the citizens in the aogra. 
 
 ## Test 1 答案
 

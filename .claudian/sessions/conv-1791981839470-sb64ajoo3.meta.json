@@ -1,0 +1,25 @@
+{
+  "id": "conv-1791981839470-sb64ajoo3",
+  "providerId": "claude",
+  "title": "Check test2 quiz answers",
+  "titleGenerationStatus": "success",
+  "createdAt": 1791981839471,
+  "updatedAt": 1791982508339,
+  "lastResponseAt": 1791982508339,
+  "sessionId": "43879877-7497-4c5d-bb3b-1e93e231a8e6",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "43879877-7497-4c5d-bb3b-1e93e231a8e6"
+  },
+  "currentNote": "+inbox/model test.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 288,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 46592,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 46880,
+    "percentage": 23
+  }
+}
