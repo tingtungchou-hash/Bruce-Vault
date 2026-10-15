@@ -4,8 +4,8 @@
   "title": "Organize highlighted vocabulary into lesson notes",
   "titleGenerationStatus": "success",
   "createdAt": 1791982717772,
-  "updatedAt": 1792058454298,
-  "lastResponseAt": 1792058454298,
+  "updatedAt": 1792062818314,
+  "lastResponseAt": 1792062818314,
   "sessionId": "7ce9fc65-0294-435c-af79-e88cad6f8532",
   "selectedModel": "sonnet",
   "providerState": {
@@ -14,12 +14,12 @@
   "currentNote": "Areas/学业/课程/大二上/拉丁语阅读（1）/Div. in Caec. 19.md",
   "usage": {
     "model": "sonnet",
-    "inputTokens": 152,
+    "inputTokens": 516,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 133248,
+    "cacheReadInputTokens": 141952,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 133400,
-    "percentage": 67
+    "contextTokens": 142468,
+    "percentage": 71
   }
 }
