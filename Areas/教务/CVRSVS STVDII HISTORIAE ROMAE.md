@@ -6,9 +6,9 @@
 [[25-26第一学期（大一上）选课手册.pdf#page=25&selection=9,0,21,1|选课手册]]
 - [x] [习近平新时代中国特色社会主义思想概论](http://sims.pku.edu.cn/bkxjTeaching/edu/pku/stu/teaching/bkxj/jpf/courseBK/getCourseDetail.do?course_seq_no=bkkc202200562265&kclx=BK)（3）
 - [x] [思想道德与法治](http://sims.pku.edu.cn/bkxjTeaching/edu/pku/stu/teaching/bkxj/jpf/courseBK/getCourseDetail.do?course_seq_no=bkkc202300591122&kclx=BK)（3）
-- [ ] 中近史（4）
+- [x] 中近史（4）
 - [ ] 马原（3）
-- [ ] 毛概（3）
+- [x] 毛概（3）
 - [ ] 形策（2）
 	- [x] 理论教学
 	- [ ] 讲座1
@@ -17,17 +17,17 @@
 	- [ ] 讲座4
 - [ ] 思政实践（2）
 	- [x] 爱乐传习（1）
-	- [ ] 暑期实践（1）
+	- [x] 暑期实践（1）
 注：形势与政策为1学期课堂理论教学（一年级上）、 4 次讲座（一至三年级）[[25-26第一学期（大一上）选课手册.pdf#page=26&selection=128,0,154,1|选课手册]]
 ### 思政选必（I）
 [[25-26第一学期（大一上）选课手册.pdf#page=27&selection=0,0,11,1|选课手册]]
 - [ ] 思政选必 
 ### 大学英语（8）
 - [x] [批判性思维与学术写作](http://sims.pku.edu.cn/bkxjTeaching/edu/pku/stu/teaching/bkxj/jpf/courseBK/getCourseDetail.do?course_seq_no=bkkc201600288606&kclx=BK)（2）
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+- [x] 
+- [x] [[公共初级意大利语 - 导航|公共初级意大利语]] （3）
+- [x] 
+- [x] 
 - [ ] 
 - [ ] 
 注：除了中国通史（古代部分）（近代部分）这种不可以选的课之外都可以用于填补大学英语的学分空缺
@@ -76,15 +76,15 @@
 毕业要求 [[25培养方案文科卷.pdf#page=714&selection=68,0,69,15|培养方案]]
 课程设置 [[25培养方案文科卷.pdf#page=718&selection=37,0,38,9|培养方案]]
 ### 学术基础课（10）
-- [ ] 基础古希腊语1（2）
+- [x] [[基础古希腊语(1)导航|基础古希腊语1]]（2）
 - [ ] 基础古希腊语2（2）
 - [ ] 基础拉丁语1（2）
 - [x] [基础拉丁语（2）](http://sims.pku.edu.cn/bkxjTeaching/edu/pku/stu/teaching/bkxj/jpf/courseBK/getCourseDetail.do?course_seq_no=bkkc202100521667&kclx=BK)（2）
 - [ ] 古典学导论（2）
 ### 文献精读课（8）
 #### 古希腊语拉丁语阅读课（4）
-- [ ] 
-- [ ] 
+- [x] [[拉丁语阅读(1) - 导航|拉丁语阅读（1）]]  
+- [x] 
 - [ ] 
 - [ ] 
 #### 原典阅读课（4）
@@ -105,12 +105,12 @@
 [[25培养方案文科卷.pdf#page=150&selection=22,0,27,2|培养方案]]
 ### 必修课（21）
 - [x] [史学新生导学](http://sims.pku.edu.cn/bkxjTeaching/edu/pku/stu/teaching/bkxj/jpf/courseBK/getCourseDetail.do?course_seq_no=bkkc201600290647&kclx=BK) （2）
-- [ ] 历史论文写作 （2）
+- [x] [[历史论文写作-导航|历史论文写作]] （2）
 - [x] [世界史通论](http://sims.pku.edu.cn/bkxjTeaching/edu/pku/stu/teaching/bkxj/jpf/courseBK/getCourseDetail.do?course_seq_no=bkkc201600289518&kclx=BK)（4）
-- [ ] 古希腊罗马史（2）
+- [x] [[古希腊罗马史-导航|古希腊罗马史]]（2）
 - [ ] 古代东方文明/中世纪欧洲史（2）
 - [ ] 欧洲史（3）
-- [ ] 拉丁美洲史（2）
+- [x] [[拉丁美洲史-导航|拉丁美洲史]]（2）
 - [x] [外国历史文选（上）](http://sims.pku.edu.cn/bkxjTeaching/edu/pku/stu/teaching/bkxj/jpf/courseBK/getCourseDetail.do?course_seq_no=bkkc201400237053&kclx=BK)）（2）
 - [x] [欧美近现代史练习](http://sims.pku.edu.cn/bkxjTeaching/edu/pku/stu/teaching/bkxj/jpf/courseBK/getCourseDetail.do?course_seq_no=bkkc202000462023&kclx=BK)（2）
 ### 选修课 
