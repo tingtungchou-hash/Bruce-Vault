@@ -16,7 +16,7 @@ tags:
 
 我的计划是通过考察“声称不提及某事，实则提及甚至详细叙说”（姑且用“佯略/praeteritio”这个术语表达）这种修辞现象在*Divinatio in Caecilium*中的使用、它与虚拟式/让步从句/人称代词等的配合使用造成的修辞效果、它所针对的对象以及对不同对象产生的不同情感效应，了解这一修辞现象在西塞罗演说词中的地位和效果。
 
-Demetrius of Phaleron 的*De elocutione* 263中写道记载了一种名为 παράλειψις 的修辞，其要旨在“已经说出了想说的一切，却声称自己是为了转向更重大的问题而把一切都略过不提”
+Demetrius of Phaleron 的*De elocutione* 263中写道记载了一种名为 παράλειψις 的修辞，其要旨在“已经说出了想说的一切，却声称自己是==为了转向更重大的问题==而把一切都略过不提”
 
 > ... ἐκ μὲν οὖν τῶν τῆς διανοίας σχημάτων, ἐκ μὲν τῆς παραλείψεως ὀνομαζομένης οὕτως ... ἐν γὰρ τούτοις καὶ εἴρηκεν πάντα, ὅσα ἐβούλετο, καὶ παραλιπεῖν αὐτά φησιν, ὡς δεινότερα εἰπεῖν ἔχων ἕτερα. 
 > ... Take, for instance, that which is called 'praetermission' ... In these words the orator has said everything he wished, while professing to have passed everything over in his desire to proceed to weightier matters. 
@@ -42,8 +42,7 @@ Quintilian *Institutio Oratoria* 9.2.54 中举的例子可以看出ἀποσιώ
 
 **in Catilinam 1.3** Nam illa nimis antiqua ==praetereo==, ==quod== C. Servilius Ahala Sp. Maelium novis rebus studentem manu sua occidit.
 
-但同时，也有不少的praeteritio用语十分冗长，在praeteritio的结构中实际上已经将欲言说的事
-且常以近乎阴阳怪气乃至人身攻击的方式施于对手，其意正在“提请别人注意”——借连续不断的旁敲侧击，使听众对对手其人渐生怀疑，以收贬损之效、赢得论辩，而非为免冗长而回避。而我想探究的，就是“佯略”（παράλειψις/ὑποσιώπησις/occulatio/praeteritio）在Divinatio in Caecilium中是如何运用的，是否有一定的格式语言或者常常搭配的句法，以及它可能蕴含的关于古罗马司法辩论的启示。
+但同时，也有不少的praeteritio用语十分冗长，已经违背了西塞罗自己的“Haec utilis est exornatio si ...”的预设。西塞罗在几个例子中（见下）用相当的长度用来叙述自己声称不愿提及的事，以近乎阴阳怪气乃至人身攻击的方式施于对手，其意正在“提请别人注意”——借连续不断的旁敲侧击，使听众对对手其人渐生怀疑，以收贬损之效、赢得论辩，而非为免冗长而回避。而我想探究的，就是“佯略”（παράλειψις/ὑποσιώπησις/occulatio/praeteritio）在Divinatio in Caecilium中是如何运用的，它是否有一定的格式语言或者常常搭配的句法，它的实际作用如何被西塞罗和后世的修辞学家理解，它以及它可能蕴含的关于古罗马司法辩论或者一般的演说术（Oratory）的启示。
 
 “not so much as an attempt to obliterate memory entirely as to transform honorific commemoration into a form of visible denigration. That is: the power of an act of _damnatio_ relies, at least in part, on the viewer of a monument being able to supplement the gaps in an inscription with their own knowledge of what those gaps had once contained, and the reasons why the text had been removed” - Polly Low, Remembering, Forgetting, and Rewriting the Past 
 
