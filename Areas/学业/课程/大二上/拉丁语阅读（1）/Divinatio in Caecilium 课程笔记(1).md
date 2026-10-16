@@ -35,12 +35,27 @@ Poebammon the Sophist 的 *de figuris* 中同样提到了 παράλειψις�
 
 Quintilian *Institutio Oratoria* 9.2.54 中举的例子可以看出ἀποσιώπησις（西塞罗称为reticentia，Celsus 称为 obticentia，其他人称为 interruptio ）是在演讲过程中实打实的沉默停顿，与 ἀποσιώπησις 不同—— ἀποσιώπησις 的精要之处在于“‘假意’沉默，实则指出”，我主要想考察的是后者。西塞罗貌似很喜欢用这种修辞（他称为occulatio，后来通行的称法是praeteritio，相当于希腊语中的παράλειψις/ὑποσιώπησις），在*Rhetorica ad Herennium* 4.37中，西塞罗记载：
 
-> Occultatio est cum dicimus nos praeterire aut non scire aut nolle dicere id quod nunc maxime dicimus ... Haec utilis est exornatio si aut ad rem quam non pertineat aliis ostendere, quod occulte admonuisse prodest, aut longum est aut ignobile, aut planum non potest fieri, aut facile potest reprehendi; ut utilius sit occulte fecisse suspicionem quam eiusmodi intendisse orationem quae redarguatur. 
+> Occultatio est cum dicimus nos praeterire aut non scire aut nolle dicere id quod nunc maxime dicimus ... Haec utilis est exornatio si aut **ad rem quam non pertineat aliis ostendere**, quod occulte admonuisse prodest, aut **longum** est aut **ignobile**, aut **planum non potest fieri**, aut **facile potest reprehendi**; ut utilius sit occulte fecisse suspicionem quam eiusmodi intendisse orationem quae redarguatur. 
 > Paralipsisa occurs when we say that we are passing by, or do not know, or refuse to say that which precisely now we are saying ... This figure is useful if employed in a matter which it is not pertinent to call specifically to the attention of others, because there is advantage in making only an indirect reference to it, or because the direct reference would be tedious or undignified, or cannot be made clear, or can easily be refuted. As a result, it is of greater advantage to create a suspicion by Paralipsis than to insist directly on a statement that is refutable. 
 
-可见西塞罗将其定位为暗中制造疑窦的同时免于招致驳斥的一种便利修辞。西塞罗自述认为这种修辞用于冗长、不体面、不清楚或易被驳斥的，或是提及此事与引起他人注意无关（ad rem quam non pertineat aliis ostendere）的文段。但我认为这不是一种简单的“防弊”的被动修辞：若冗长、不体面、易于被驳斥或无关宏旨，那么大可以干脆不提这一件事，真正重要的是西塞罗所说的“制造疑窦”（fecisse suspicionem），而假装省略是主动制造疑窦攻击对手的重要一环；Demetrius of Phaleron *De elocutione* 263 中说的“声称他略过不提”（καὶ παραλιπεῖν αὐτά φησιν）重点也是“声称”（φησιν），是一种主动的修辞策略，而不是受情势所迫。尤其是考虑到西塞罗本人就似乎比较偏好这一修辞，而时常用近乎于阴阳怪气或人身攻击的方式把它用在别人身上，其目的就是“提请别人注意”，通过这种连续不断的旁敲侧击制造观众对对手这个人的质疑，达到贬损对手的目的，从而赢得演说的胜利而非防止过于冗长进行逃避。
+可见西塞罗把这一修辞定位为在暗中制造疑窦、同时免于招致驳斥的便利手段。据他自述，此修辞在如下情形下才有用：所涉之事冗长（longum）、不体面（ignobile）、无法说清（planum non potest fieri）或易被驳倒（facile potest reprehendi），抑或不宜向他人径直点明、暗中提醒反有裨益（ad rem quam non pertineat aliis ostendere）。诚然，西塞罗在许多地方是忠于他自己的定义的，例如：
 
-可见西塞罗把这一修辞定位为在暗中制造疑窦、同时免于招致驳斥的便利手段。据他自述，此修辞在如下情形下才有用：所涉之事冗长（longum）、不体面（ignobile）、无法说清（planum non potest fieri）或易被驳倒（facile potest reprehendi），抑或不宜向他人径直点明、暗中提醒反有裨益（ad rem quam non pertineat aliis ostendere）。但我认为它并非一种简单的“防弊”式被动修辞：若某事实属冗长、不体面、易被驳倒或无关宏旨，大可以干脆不提；它真正着意之处，恰在西塞罗所说的“制造疑窦”（fecisse suspicionem）——佯称略过，本身就是主动制造疑窦、攻击对手的一环。Demetrius of Phaleron _De elocutione_ 263 论 παράλειψις，要点落在“**声称**他略过不提”（καὶ παραλιπεῖν αὐτά φησιν）：它是主动的修辞策略，而非受情势所迫的退让。何况西塞罗本人似乎偏好此修辞，且常以近乎阴阳怪气乃至人身攻击的方式施于对手，其意正在“提请别人注意”——借连续不断的旁敲侧击，使听众对对手其人渐生怀疑，以收贬损之效、赢得论辩，而非为免冗长而回避。而我想探究的，就是“佯略”（παράλειψις/ὑποσιώπησις/occulatio/praeteritio）在Divinatio in Caecilium中是如何运用的，是否有一定的格式语言或者常常搭配的句法，以及它可能蕴含的关于古罗马司法辩论的启示。
+**in Catilinam 1.3** Nam illa nimis antiqua ==praetereo==, ==quod== C. Servilius Ahala Sp. Maelium novis rebus studentem manu sua occidit.
+
+但同时，也有不少的praeteritio用语十分冗长，在praeteritio的结构中实际上已经将欲言说的事
+且常以近乎阴阳怪气乃至人身攻击的方式施于对手，其意正在“提请别人注意”——借连续不断的旁敲侧击，使听众对对手其人渐生怀疑，以收贬损之效、赢得论辩，而非为免冗长而回避。而我想探究的，就是“佯略”（παράλειψις/ὑποσιώπησις/occulatio/praeteritio）在Divinatio in Caecilium中是如何运用的，是否有一定的格式语言或者常常搭配的句法，以及它可能蕴含的关于古罗马司法辩论的启示。
+
+“not so much as an attempt to obliterate memory entirely as to transform honorific commemoration into a form of visible denigration. That is: the power of an act of _damnatio_ relies, at least in part, on the viewer of a monument being able to supplement the gaps in an inscription with their own knowledge of what those gaps had once contained, and the reasons why the text had been removed” - Polly Low, Remembering, Forgetting, and Rewriting the Past 
+
+**in Caec. 29** ==Nec ea dico==, quae si dicam tamen infirmare non possis, te, antequam de Sicilia decesseris, in gratiam redisse cum Verre; Potamonem, scribam et familiarem tuum, retentum esse a Verre in provincia, cum tu decederes; M. Caecilium, fratrem tuum, lectissimum atque ornatissimum adulescentem, non modo non adesse neque tecum tuas iniurias persequi, sed esse cum Verre et cum illo familiarissime atque amicissime vivere. Sunt et haec et alia in te falsi accusatoris signa permulta, quibus ego nunc non utor: hoc dico, te, si maxime cupias, tamen verum accusatorem esse non posse. 
+
+**de imperio Gn. Pompeio 45** Iam accepta in Ponto calamitate ex eo proelio, ==de quo vos paulo ante invitus admonui==,—cum socii pertimuissent, hostium opes animique crevissent, satis firmum praesidium provincia non haberet,—amisissetis Asiam, Quirites, nisi ad ipsum discrimen eius temporis divinitus Cn. Pompeium ad eas regiones fortuna populi Romani attulisset. Huius adventus et Mithridatem insolita inflammatum victoria continuit, et Tigranem magnis copiis minitantem Asiae retardavit. Et quisquam dubitabit quid virtute perfecturus sit, qui tantum auctoritate perfecerit? aut quam facile imperio atque exercitu socios et vectigalia conservaturus sit, qui ipso nomine ac rumore defenderit?
+
+**de imperio Gn. Pompeio 26** Multa ==praetereo== consulto, ==sed== ea vos coniectura ==perspicite==, quantum illud bellum factum putetis, quod coniungant reges potentissimi, renovent agitatae nationes, suscipiant integrae gentes, novus imperator noster accipiat, vetere exercitu pulso.
+
+**de imperio Gn. Pompeio 48** Itaque ==non sum praedicaturus== quantas ille res domi militiae, terra marique, quantaque felicitate gesserit; ut eius semper voluntatibus non modo cives adsenserint, socii obtemperarint, hostes obedierint, sed etiam venti tempestatesque obsecundarint: hoc brevissime dicam, neminem umquam tam impudentem fuisse, qui ab dis immortalibus tot et tantas res tacitus auderet optare, quot et quantas di immortales ad Cn. Pompeium detulerunt.
+
+**pro Sexto Roscio Amerino 94** Permulta sunt ==quae dici possunt== qua re intellegatur summam tibi facultatem fuisse malefici suscipiendi; ==quae== non modo idcirco ==praetereo== quod te ipsum non libenter accuso verum eo magis etiam quod, si de illis caedibus velim commemorare quae tum factae sunt ista eadem ratione qua Sex. Roscius occisus est, vereor ne ad pluris oratio mea pertinere videatur.
 
 # §§1-12 的虚拟式用法
 
@@ -106,3 +121,4 @@ Quintilian *Institutio Oratoria* 9.2.54 中举的例子可以看出ἀποσιώ
 Demetrius of Phaleron 的来源： https://www.attalus.org/old/demetr5.html#263 为英文译文, 古希腊语原文来自 Perseus
 Poebammon the Sophist的来源： https://eulogikon.org/works/phoebammon-figures-prs-aa?utm_source=chatgpt.com 收录电子版， https://digi.ub.uni-heidelberg.de/diglit/bav_pal_gr_66/0270/image,info 为Vatikan, Biblioteca Apostolica Vaticana, Pal. gr. 66 132v手稿，此外还应有MS Queens 33中提及，但未暇查证
 Quintilian 、 Cicero均来自Loeb
+
