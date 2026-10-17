@@ -1,0 +1,25 @@
+{
+  "id": "conv-1792239220238-lkemx9lsk",
+  "providerId": "claude",
+  "title": "Analyze Latin sentence grammar",
+  "titleGenerationStatus": "success",
+  "createdAt": 1792239220239,
+  "updatedAt": 1792240255298,
+  "lastResponseAt": 1792240255298,
+  "sessionId": "3a459608-07d7-460c-a518-20573b4ba942",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "3a459608-07d7-460c-a518-20573b4ba942"
+  },
+  "currentNote": "Areas/学业/课程/大二上/拉丁语阅读（1）/Div. in Caec. 22.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 784,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 81920,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 82704,
+    "percentage": 41
+  }
+}

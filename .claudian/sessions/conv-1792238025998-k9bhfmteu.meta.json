@@ -1,0 +1,25 @@
+{
+  "id": "conv-1792238025998-k9bhfmteu",
+  "providerId": "claude",
+  "title": "Convert Chinese sugarcane PDF via markitdown",
+  "titleGenerationStatus": "success",
+  "createdAt": 1792238025999,
+  "updatedAt": 1792239424369,
+  "lastResponseAt": 1792239424369,
+  "sessionId": "0bb1c975-b469-4d40-a695-3f54b3edbb5e",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "0bb1c975-b469-4d40-a695-3f54b3edbb5e"
+  },
+  "currentNote": "Areas/学业/课程/大二上/历史论文写作/历史论文写作-导航.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 276,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 114432,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 114708,
+    "percentage": 57
+  }
+}

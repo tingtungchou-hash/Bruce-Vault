@@ -1,0 +1,13 @@
+{
+  "activeSessionId": "session_quit-try-hose",
+  "orderedSessionIds": [
+    "session_quit-try-hose"
+  ],
+  "sessions": {
+    "session_quit-try-hose": {
+      "title": "新对话",
+      "createdAt": 1792238053456,
+      "updatedAt": 1792238053456
+    }
+  }
+}
