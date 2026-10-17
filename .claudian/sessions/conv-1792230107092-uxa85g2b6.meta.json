@@ -4,8 +4,8 @@
   "title": "Recommend free no-setup Obsidian sync options",
   "titleGenerationStatus": "success",
   "createdAt": 1792230107092,
-  "updatedAt": 1792233507947,
-  "lastResponseAt": 1792233507947,
+  "updatedAt": 1792237587171,
+  "lastResponseAt": 1792237587171,
   "sessionId": "4e906cba-0f7e-4854-95ed-5d0e46908269",
   "selectedModel": "opus",
   "providerState": {
@@ -13,12 +13,12 @@
   },
   "usage": {
     "model": "opus",
-    "inputTokens": 3258,
+    "inputTokens": 295,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 115584,
+    "cacheReadInputTokens": 136448,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 118842,
-    "percentage": 59
+    "contextTokens": 136743,
+    "percentage": 68
   }
 }
