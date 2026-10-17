@@ -44,18 +44,6 @@ Quintilian *Institutio Oratoria* 9.2.54 中举的例子可以看出ἀποσιώ
 
 但同时，也有不少的praeteritio用语十分冗长，已经违背了西塞罗自己的“Haec utilis est exornatio si ...”的预设。西塞罗在几个例子中（见下）用相当的长度用来叙述自己声称不愿提及的事，以近乎阴阳怪气乃至人身攻击的方式施于对手，其意正在“提请别人注意”——借连续不断的旁敲侧击，使听众对对手其人渐生怀疑，以收贬损之效、赢得论辩，而非为免冗长而回避。而我想探究的，就是“佯略”（παράλειψις/ὑποσιώπησις/occulatio/praeteritio）在Divinatio in Caecilium中是如何运用的，它是否有一定的格式语言或者常常搭配的句法，它的实际作用如何被西塞罗和后世的修辞学家理解，它以及它可能蕴含的关于古罗马司法辩论或者一般的演说术（Oratory）的启示。
 
-“not so much as an attempt to obliterate memory entirely as to transform honorific commemoration into a form of visible denigration. That is: the power of an act of _damnatio_ relies, at least in part, on the viewer of a monument being able to supplement the gaps in an inscription with their own knowledge of what those gaps had once contained, and the reasons why the text had been removed” - Polly Low, Remembering, Forgetting, and Rewriting the Past 
-
-**in Caec. 29** ==Nec ea dico==, quae si dicam tamen infirmare non possis, te, antequam de Sicilia decesseris, in gratiam redisse cum Verre; Potamonem, scribam et familiarem tuum, retentum esse a Verre in provincia, cum tu decederes; M. Caecilium, fratrem tuum, lectissimum atque ornatissimum adulescentem, non modo non adesse neque tecum tuas iniurias persequi, sed esse cum Verre et cum illo familiarissime atque amicissime vivere. Sunt et haec et alia in te falsi accusatoris signa permulta, quibus ego nunc non utor: hoc dico, te, si maxime cupias, tamen verum accusatorem esse non posse. 
-
-**de imperio Gn. Pompeio 45** Iam accepta in Ponto calamitate ex eo proelio, ==de quo vos paulo ante invitus admonui==,—cum socii pertimuissent, hostium opes animique crevissent, satis firmum praesidium provincia non haberet,—amisissetis Asiam, Quirites, nisi ad ipsum discrimen eius temporis divinitus Cn. Pompeium ad eas regiones fortuna populi Romani attulisset. Huius adventus et Mithridatem insolita inflammatum victoria continuit, et Tigranem magnis copiis minitantem Asiae retardavit. Et quisquam dubitabit quid virtute perfecturus sit, qui tantum auctoritate perfecerit? aut quam facile imperio atque exercitu socios et vectigalia conservaturus sit, qui ipso nomine ac rumore defenderit?
-
-**de imperio Gn. Pompeio 26** Multa ==praetereo== consulto, ==sed== ea vos coniectura ==perspicite==, quantum illud bellum factum putetis, quod coniungant reges potentissimi, renovent agitatae nationes, suscipiant integrae gentes, novus imperator noster accipiat, vetere exercitu pulso.
-
-**de imperio Gn. Pompeio 48** Itaque ==non sum praedicaturus== quantas ille res domi militiae, terra marique, quantaque felicitate gesserit; ut eius semper voluntatibus non modo cives adsenserint, socii obtemperarint, hostes obedierint, sed etiam venti tempestatesque obsecundarint: hoc brevissime dicam, neminem umquam tam impudentem fuisse, qui ab dis immortalibus tot et tantas res tacitus auderet optare, quot et quantas di immortales ad Cn. Pompeium detulerunt.
-
-**pro Sexto Roscio Amerino 94** Permulta sunt ==quae dici possunt== qua re intellegatur summam tibi facultatem fuisse malefici suscipiendi; ==quae== non modo idcirco ==praetereo== quod te ipsum non libenter accuso verum eo magis etiam quod, si de illis caedibus velim commemorare quae tum factae sunt ista eadem ratione qua Sex. Roscius occisus est, vereor ne ad pluris oratio mea pertinere videatur.
-
 # §§1-12 的虚拟式用法
 
 目前我的阅读翻译进行到了12，以下是由deepseek整理的1-12中的所有虚拟式。
