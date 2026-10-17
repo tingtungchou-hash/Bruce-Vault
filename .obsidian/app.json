@@ -2,17 +2,17 @@
   "promptDelete": false,
   "spellcheck": false,
   "pdfExportSettings": {
-    "includeName": false,
+    "includeName": true,
     "pageSize": "A4",
     "landscape": false,
     "margin": "0",
     "downscalePercent": 100
   },
   "alwaysUpdateLinks": true,
-  "newFileLocation": "folder",
-  "newFileFolderPath": "+inbox",
   "attachmentFolderPath": "Resources/attachments/images",
   "showLineNumber": false,
   "vimMode": false,
-  "rightToLeft": false
+  "rightToLeft": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "+inbox"
 }

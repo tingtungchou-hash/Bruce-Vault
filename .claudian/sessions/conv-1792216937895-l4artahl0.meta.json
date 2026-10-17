@@ -4,8 +4,8 @@
   "title": "Explain current note backup and sync setup",
   "titleGenerationStatus": "success",
   "createdAt": 1792216937896,
-  "updatedAt": 1792217081517,
-  "lastResponseAt": 1792217081517,
+  "updatedAt": 1792222125404,
+  "lastResponseAt": 1792222125404,
   "sessionId": "f343508c-d222-40db-a607-98497dfd19e6",
   "selectedModel": "sonnet",
   "providerState": {
@@ -14,12 +14,12 @@
   "currentNote": "Areas/学业/课程/大二上/拉丁语阅读（1）/Divinatio in Caecilium 课程笔记(2).md",
   "usage": {
     "model": "sonnet",
-    "inputTokens": 448,
+    "inputTokens": 265,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 35968,
+    "cacheReadInputTokens": 48640,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 36416,
-    "percentage": 18
+    "contextTokens": 48905,
+    "percentage": 24
   }
 }
