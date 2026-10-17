@@ -1,0 +1,25 @@
+{
+  "id": "conv-1792218275077-8g53n4etc",
+  "providerId": "claude",
+  "title": "Change Obsidian Ctrl+N new note location",
+  "titleGenerationStatus": "success",
+  "createdAt": 1792218275077,
+  "updatedAt": 1792218514287,
+  "lastResponseAt": 1792218334168,
+  "sessionId": "cbe4bff9-ce1b-41a6-905a-0a5ba6eae691",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "cbe4bff9-ce1b-41a6-905a-0a5ba6eae691"
+  },
+  "currentNote": "+inbox/世界文化地理 - 作业.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 208,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 29952,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 30160,
+    "percentage": 15
+  }
+}

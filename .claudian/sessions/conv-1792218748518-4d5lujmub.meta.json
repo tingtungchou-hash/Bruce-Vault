@@ -1,0 +1,25 @@
+{
+  "id": "conv-1792218748518-4d5lujmub",
+  "providerId": "claude",
+  "title": "Answer World Cultural Geography questions",
+  "titleGenerationStatus": "success",
+  "createdAt": 1792218748519,
+  "updatedAt": 1792218800200,
+  "lastResponseAt": 1792218800200,
+  "sessionId": "0b24dfb3-4012-4e85-8d2b-f3db846eaefb",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "0b24dfb3-4012-4e85-8d2b-f3db846eaefb"
+  },
+  "currentNote": "+inbox/世界文化地理 - 作业.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 236,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 48000,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 48236,
+    "percentage": 24
+  }
+}

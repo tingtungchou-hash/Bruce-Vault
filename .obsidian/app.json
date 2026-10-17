@@ -9,6 +9,8 @@
     "downscalePercent": 100
   },
   "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "+inbox",
   "attachmentFolderPath": "Resources/attachments/images",
   "showLineNumber": false,
   "vimMode": false,

@@ -36,6 +36,6 @@ Praeteritio的格式——“宣称”不言明，实则揭示——让我想起
 
 Praeteritio和Damnatio Memoriae二者都出现了宣称和实行之间的错位、都是通过否认来施行、都需要观者的先在了解（the viewer ... supplement(s) the gaps in an inscription with their own knowledge of what those gaps had once contained）来实现效果，前者否认提及，实则详述，后者宣称要抹除记忆，实则重构和加强了记忆；可以说二者在结构上是同构的。
 
-当然，不能因此说二者有什么直接联系或者历史的影响，我更倾向于说Damnatio Memoriae的机制有助于理解Praeteritio和演说中的记忆操纵，但二者间意图层级的差别（是否刻意为之？Damnatio Memoriae可能是一个“执行不力”的技术问题？）、时间性的差别（praeteritio是即时演说，而Damnatio Memoriae涉及了对过去立起来的碑铭的修改，由此和更广的时间尺度上的历史产生了联系）等，还需要更谨慎的考量。
+当然，不能因此说二者有什么直接联系或者历史的影响，我更倾向于说Damnatio Memoriae的机制有助于理解Praeteritio和演说中的记忆操纵，但二者间意图层级的差别（是否刻意为之？例如，Damnatio Memoriae留下痕迹在多数情况下还是一个“执行不力”的技术问题）、时间性的差别（praeteritio是即时演说，而Damnatio Memoriae涉及了对过去立起来的碑铭的修改，由此和更广的时间尺度上的历史产生了联系）等，还需要更谨慎的考量。
 
 scriptum est 10-17
