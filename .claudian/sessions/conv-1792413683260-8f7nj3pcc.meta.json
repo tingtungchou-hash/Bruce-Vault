@@ -1,0 +1,25 @@
+{
+  "id": "conv-1792413683260-8f7nj3pcc",
+  "providerId": "claude",
+  "title": "Organize today's study into daily note and nav",
+  "titleGenerationStatus": "success",
+  "createdAt": 1792413683260,
+  "updatedAt": 1792413770188,
+  "lastResponseAt": 1792413770188,
+  "sessionId": "7b4d8046-f59a-4b0a-8890-ec7010761cd9",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "7b4d8046-f59a-4b0a-8890-ec7010761cd9"
+  },
+  "currentNote": "Calendar/Daily/2026-10-19.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 152,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 56448,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 56600,
+    "percentage": 28
+  }
+}
