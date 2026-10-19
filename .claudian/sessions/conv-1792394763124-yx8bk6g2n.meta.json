@@ -4,14 +4,13 @@
   "title": "将梭伦诗歌引文写入选中笔记",
   "titleGenerationStatus": "success",
   "createdAt": 1792394763124,
-  "updatedAt": 1792398826160,
-  "lastResponseAt": 1792398826160,
+  "updatedAt": 1792411579485,
+  "lastResponseAt": 1792411574817,
   "sessionId": "92909fb3-1f5a-4191-961e-795182cd153e",
   "selectedModel": "haiku",
   "providerState": {
     "providerSessionId": "92909fb3-1f5a-4191-961e-795182cd153e"
   },
-  "currentNote": "Areas/学业/课程/大二上/古希腊罗马史/古风时期的雅典与斯巴达 26-10-12 古希罗(5).md",
   "usage": {
     "model": "haiku",
     "inputTokens": 170,

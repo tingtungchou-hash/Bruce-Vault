@@ -13,13 +13,15 @@ tags:
 ---
 
 # Original Text
-nam te actore quem eorum adfuturum putas, quos intellegis non ut per te alium, sed ut per alium aliquem te ipsum ulciscantur laborare?
+nam te actore quem eorum adfuturum putas, quos intellegis non ut per te alium, sed ut per alium aliquem te ipsum ulciscantur laborare? at enim solum id est, ut me Siculi maxime velint: alterum illud, credo, obscurum est, a quo Verres minime se accusari velit. ecquis umquam tam palam de honore, tam vehementer de salute sua contendit quam ille atque illius amici ne haec mihi delatio detur? sunt multa quae Verres in me esse arbitratur, quae scit in te, Caecili, non esse; quae cuius modi in utroque nostrum sint, paulo post commemorabo; 
 
 # Text Analysis
-nam \[te actore] quem eorum adfuturum **putas**, quos **intellegis** **non ut** per te alium, **sed ut** per alium aliquem te ipsum **ulciscantur** laborare?
+nam \[te actore] quem eorum adfuturum **putas**, quos **intellegis** **non ut** per te alium, **sed ut** per alium aliquem te ipsum **ulciscantur** laborare? at enim solum id est, ut me Siculi maxime velint: alterum illud, credo, obscurum est, a quo Verres minime se accusari velit. ecquis umquam tam ==palam== de honore, tam vehementer de salute sua ==contendit== quam ille atque illius amici **ne** haec mihi delatio detur? sunt multa quae Verres in me esse arbitratur, quae scit in te, Caecili, non esse; quae cuius modi in utroque nostrum sint, paulo post commemorabo; 
 
 # Translation
-for, with you as the advocate, do you think they will come, those who you know to work hard so that they revenge not someone through your hands, but revenge you through others?    
+for, with you as the advocate, do you think they will come, those who you know to work hard so that they revenge not someone through your hands, but revenge you through others? but indeed it is the only case that the Sicilians want my to the most: the other one by whom Verres wishes himself the least to be accused, I believe, is obscure. and did anyone ever stretch so openly on honour, so violent about his own safety as him and his friends so that this delation is not handed to me? there are many which Verres thinks is in me, which he knows is not in you, Caecili; what of that kind are in either of us, after not long we will see. 
+
+因为，若由你担任起诉人，你以为他们当中哪一个会到场？你明明知道，他们这些人四处奔走，不是为了借你的手去报复另一个人，而是要借另一个人的手来报复你本人。可是，西西里人最希望由我来起诉，这不过是其中一点；至于另一点，依我看，倒还真是隐晦不明：维勒斯最不希望由谁来控告他。可曾有人像他和他那些朋友那样，为了荣誉如此公开地、为了自身安危如此激烈地力争，只为了不把这桩起诉交到我手里？有许多东西，维勒斯认为我身上具备，而他知道，凯基利乌斯，这些东西在你身上却没有；它们在我们两人身上各自是什么性质，我稍后就会说明。
 
 # Vocabulary
 

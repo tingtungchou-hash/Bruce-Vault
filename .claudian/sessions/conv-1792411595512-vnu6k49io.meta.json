@@ -1,0 +1,25 @@
+{
+  "id": "conv-1792411595512-vnu6k49io",
+  "providerId": "claude",
+  "title": "Translate text into Chinese",
+  "titleGenerationStatus": "success",
+  "createdAt": 1792411595513,
+  "updatedAt": 1792413195336,
+  "lastResponseAt": 1792413195336,
+  "sessionId": "98ea60bf-81a8-486f-ab33-afc60e94102c",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "98ea60bf-81a8-486f-ab33-afc60e94102c"
+  },
+  "currentNote": "Areas/学业/课程/大二上/拉丁语阅读（1）/Div. in Caec. 22.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 263,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 67328,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 67591,
+    "percentage": 34
+  }
+}
