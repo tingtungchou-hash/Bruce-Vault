@@ -4,8 +4,8 @@
   "title": "Complete citations into full references",
   "titleGenerationStatus": "success",
   "createdAt": 1792242704286,
-  "updatedAt": 1792331495621,
-  "lastResponseAt": 1792331495621,
+  "updatedAt": 1792385896920,
+  "lastResponseAt": 1792385896920,
   "sessionId": "600e4f28-c16f-4c13-8ee3-6b030e0de150",
   "selectedModel": "haiku",
   "providerState": {
@@ -14,12 +14,12 @@
   "currentNote": "Areas/学业/课程/大二上/历史论文写作/加藤繁 中国甘蔗与砂糖的起源.md",
   "usage": {
     "model": "haiku",
-    "inputTokens": 1095,
+    "inputTokens": 206,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 203008,
+    "cacheReadInputTokens": 220672,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 204103,
+    "contextTokens": 220878,
     "percentage": 100
   }
 }
