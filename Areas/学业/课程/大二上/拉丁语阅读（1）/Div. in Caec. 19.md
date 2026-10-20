@@ -21,6 +21,8 @@ quis ergo est qui neget oportere eorum arbitratu lege agi quorum causa lex sit c
 # Translation
 who therefore is a person who deny that it is proper to be legally implemented, in accordance with the assempution of them for whose sake the law is set up? The entire Sicily, if it complained with one voice, they would say this: "what gold, what silver, what ornaments had been in my cities, seats, and shrines, which I had thanks to one certain thing, that is, the good deeds of law of the Senate and People of Rome, this you, Gaius Verres, plucked and even took away from me; in this name I seek to restore from you millions of sesterces with the aid of law." if the entire province, as I said, had been able to speak, they would have used this voice: since it couldn't, it chose itself the advocate of these things whom people assumed to be ideal. 
 
+那么，谁会否认：应当依照那些法律为之而制定的人的意愿，依法进行诉讼呢？整个西西里若能以一个声音说话，它就会这样说：“凡在我的城邦、居所、神庙中曾有过的金、银、饰物，凡我在每一件事上凭元老院与罗马人民的恩惠而享有的一切权利，这一切都是你，盖乌斯·维勒斯，从我手中夺走并掠去的；为此，我依法向你追索一亿塞斯特斯。”如果整个行省，正如我所说，能够开口说话，它就会发出这样的声音；既然它不能，它便亲自选定了它认为适格的人，来担任这些事务的诉讼代理人。 
+
 # Vocabulary
 
 1. sedibus（sēdēs, sēdis f. 的夺格复数）
