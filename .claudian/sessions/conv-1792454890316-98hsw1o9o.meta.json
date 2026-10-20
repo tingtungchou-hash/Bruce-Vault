@@ -4,22 +4,22 @@
   "title": "Identify historical figure's official position",
   "titleGenerationStatus": "success",
   "createdAt": 1792454890317,
-  "updatedAt": 1792456781156,
-  "lastResponseAt": 1792456781156,
+  "updatedAt": 1792460792462,
+  "lastResponseAt": 1792460792462,
   "sessionId": "5d87b4cf-4910-45a7-94c3-5640deab458c",
   "selectedModel": "haiku",
   "providerState": {
     "providerSessionId": "5d87b4cf-4910-45a7-94c3-5640deab458c"
   },
-  "currentNote": "Areas/学业/课程/大二上/中国近代史/洋务运动 26-10-15 中近史(10).md",
+  "currentNote": "Areas/学业/课程/大二上/中国近代史/洋务运动(1) 26-10-15 中近史(10).md",
   "usage": {
     "model": "haiku",
-    "inputTokens": 378,
+    "inputTokens": 143,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 74880,
+    "cacheReadInputTokens": 95744,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 75258,
-    "percentage": 38
+    "contextTokens": 95887,
+    "percentage": 48
   }
 }
