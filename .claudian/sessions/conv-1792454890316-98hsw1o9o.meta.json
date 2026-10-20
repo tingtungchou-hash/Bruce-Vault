@@ -1,0 +1,25 @@
+{
+  "id": "conv-1792454890316-98hsw1o9o",
+  "providerId": "claude",
+  "title": "Identify historical figure's official position",
+  "titleGenerationStatus": "success",
+  "createdAt": 1792454890317,
+  "updatedAt": 1792456781156,
+  "lastResponseAt": 1792456781156,
+  "sessionId": "5d87b4cf-4910-45a7-94c3-5640deab458c",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "5d87b4cf-4910-45a7-94c3-5640deab458c"
+  },
+  "currentNote": "Areas/学业/课程/大二上/中国近代史/洋务运动 26-10-15 中近史(10).md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 378,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 74880,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 75258,
+    "percentage": 38
+  }
+}
