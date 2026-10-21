@@ -4,8 +4,8 @@
   "title": "Explain Italian prepositions a, al, in, di",
   "titleGenerationStatus": "success",
   "createdAt": 1792501237632,
-  "updatedAt": 1792508067888,
-  "lastResponseAt": 1792508067888,
+  "updatedAt": 1792562010384,
+  "lastResponseAt": 1792562010384,
   "sessionId": "3ceace19-d40d-46df-8606-39a04157a3ec",
   "selectedModel": "haiku",
   "providerState": {
@@ -14,12 +14,12 @@
   "currentNote": "Areas/学业/课程/大二上/公共初级意大利语/第十一课 26-10-20 公初意.md",
   "usage": {
     "model": "haiku",
-    "inputTokens": 985,
+    "inputTokens": 256,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 109312,
+    "cacheReadInputTokens": 133504,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 110297,
-    "percentage": 55
+    "contextTokens": 133760,
+    "percentage": 67
   }
 }
