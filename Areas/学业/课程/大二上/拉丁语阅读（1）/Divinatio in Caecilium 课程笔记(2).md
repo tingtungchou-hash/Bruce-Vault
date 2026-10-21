@@ -38,7 +38,7 @@ Praeteritio和Damnatio Memoriae二者都出现了宣称和实行之间的错位�
 
 当然，不能因此说二者有什么直接联系或者历史的影响，我更倾向于说Damnatio Memoriae的机制有助于理解Praeteritio和演说中的记忆操纵，但二者间意图层级的差别（是否刻意为之？例如，Damnatio Memoriae留下痕迹在多数情况下还是一个“执行不力”的技术问题）、时间性的差别（praeteritio是即时演说，而Damnatio Memoriae涉及了对过去立起来的碑铭的修改，由此和更广的时间尺度上的历史产生了联系）等，还需要更谨慎的考量。
 
-scriptum est 10-17
+scriptum est 10-17 10-19
 
 # 文献阅读
 
@@ -52,8 +52,8 @@ scriptum est 10-17
 - Adrastos Omissi (2016) Damnatio Memoriae or Creatio Memoriae? Memory Sanctions as Creative Processes in the Fourth Century AD. *The Cambridge Classical Journal*  
 - Harriet I. Flower The Art of Forgetting: Disgrace and Oblivion in Roman Political Culture. 
 
-其中，Henkemans和Omissi的文章已经读过。Omissi的文章中提到，Damnatio Memoriae这个术语让人误以为其所指涉的概念是古罗马人有而如今丢失的，然而，恰恰与这种印象相反，它本身是十七世纪的产物，古罗马人没有一个叫做Damnatio Memoriae的术语，Damnatio Memoriae也不是一个有清晰概念和实践的法令实体。这警示我应该更加谨慎地处理Praeteritio，以及它和Damnatio Memoriae的遥相呼应：正如上次笔记中的Poebammon the Sophist所说，Praeteritio是一种思想（νόημα）上的修辞，它是一种表达意思的方式，而和文字的字面排布（如格位、连系词、标点等）没有直接联系；这就牵扯出了我们如何界定Praeteritio的问题。Henkemans从现代修辞理论出发给出了Praeteritio的不同类型，我认为可资参考，但在处理上文提及的西塞罗的不同用法时帮助不大。 
+其中，Gaines的书目、Henkemans和Omissi的文章已经读过。Omissi的文章中提到，Damnatio Memoriae这个术语让人误以为其所指涉的概念是古罗马人有而如今丢失的，然而，恰恰与这种印象相反，它本身是十七世纪的产物，古罗马人没有一个叫做Damnatio Memoriae的术语，Damnatio Memoriae也不是一个有清晰概念和实践的法令实体。这警示我应该更加谨慎地处理Praeteritio，以及它和Damnatio Memoriae的遥相呼应：正如上次笔记中的Poebammon the Sophist所说，Praeteritio是一种思想（νόημα）上的修辞，它是一种表达意思的方式，而和文字的字面排布（如格位、连系词、标点等）没有直接联系；这就牵扯出了我们如何界定Praeteritio的问题。Henkemans从现代修辞理论出发给出了Praeteritio的不同类型，我认为可资参考，但在处理上文提及的西塞罗的不同用法时帮助不大。 
 
-直接讨论Praeteritio的文章相对有限，我接下来打算从已有的例子入手，查阅它们的commentary，以便找到更多围绕它或古或今的学术讨论。
+由于讨论范围仅限于Praeteritio的文章相对有限，我接下来打算从已有的例子入手，查阅它们的commentary，或是查阅Gaines书目当中关于omission/memory/irony等的书目、参考Brill Companian to Latin Rhetoric，以便找到更多围绕它或古或今的学术讨论。
 
 scriptum est 10-20
