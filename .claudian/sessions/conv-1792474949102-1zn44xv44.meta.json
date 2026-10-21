@@ -4,8 +4,8 @@
   "title": "File Avanti reading and run MarkItDown",
   "titleGenerationStatus": "success",
   "createdAt": 1792474949102,
-  "updatedAt": 1792496511614,
-  "lastResponseAt": 1792496511614,
+  "updatedAt": 1792507924169,
+  "lastResponseAt": 1792507889587,
   "sessionId": "94804141-f190-482c-b6a2-7a2dc82e04b6",
   "selectedModel": "haiku",
   "providerState": {
@@ -14,12 +14,12 @@
   "currentNote": "Areas/学业/课程/大二上/历史论文写作/历史论文写作-导航.md",
   "usage": {
     "model": "haiku",
-    "inputTokens": 261,
+    "inputTokens": 191,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 78848,
+    "cacheReadInputTokens": 134912,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 79109,
-    "percentage": 40
+    "contextTokens": 135103,
+    "percentage": 68
   }
 }
