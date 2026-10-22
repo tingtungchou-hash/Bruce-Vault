@@ -4,8 +4,8 @@
   "title": "Create blank Obsidian note",
   "titleGenerationStatus": "success",
   "createdAt": 1792634491570,
-  "updatedAt": 1792647443067,
-  "lastResponseAt": 1792647443067,
+  "updatedAt": 1792656003752,
+  "lastResponseAt": 1792656003751,
   "sessionId": "80d95514-0283-48bf-8a33-0ccc63c38b4f",
   "selectedModel": "haiku",
   "providerState": {
@@ -14,12 +14,12 @@
   "currentNote": "Areas/学业/课程/大二上/西方现代政治思想/西方现代政治思想-导航.md",
   "usage": {
     "model": "haiku",
-    "inputTokens": 495,
+    "inputTokens": 573,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 94848,
+    "cacheReadInputTokens": 153216,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 95343,
-    "percentage": 48
+    "contextTokens": 153789,
+    "percentage": 77
   }
 }
