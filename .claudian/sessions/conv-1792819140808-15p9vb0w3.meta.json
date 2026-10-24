@@ -1,0 +1,25 @@
+{
+  "id": "conv-1792819140808-15p9vb0w3",
+  "providerId": "claude",
+  "title": "Answer questions based on 昂贵的和平 note",
+  "titleGenerationStatus": "success",
+  "createdAt": 1792819140809,
+  "updatedAt": 1792819324584,
+  "lastResponseAt": 1792819324584,
+  "sessionId": "acfdb2d3-edb4-4c6b-b29a-eb83c963d2ff",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "acfdb2d3-edb4-4c6b-b29a-eb83c963d2ff"
+  },
+  "currentNote": "Areas/学业/课程/大二上/中国近代史/读书笔记/昂贵的和平 - 读书笔记.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 5451,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 105728,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 111179,
+    "percentage": 56
+  }
+}
