@@ -13,10 +13,13 @@ tags:
 ---
 
 # Original Text
+hic ego de te plura non dicam: unum illud credo omnis animum advertere, te adhuc a nullis nisi ab Siculis potuisse cognosci; Siculos hoc dicere, cum eidem sint irati cui tu te inimicum esse dicis, sese tamen te actore ad iudicium non adfuturos. quare negent ex me non audies: hos patere id suspicari quod necesse est. illi quidem, ut est hominum genus nimis acutum et suspiciosum, non te ex Sicilia litteras in Verrem deportare velle arbitrantur, sed, quod isdem litteris illius praetura et tua quaestura consignata sit, asportare te velle ex Sicilia litteras suspicantur. 
 
 # Text Analysis
+hic ego de te plura non dicam: unum illud credo omnis animum advertere, te adhuc a nullis nisi ab Siculis potuisse cognosci; Siculos hoc dicere, cum eidem sint irati cui tu te inimicum esse dicis, sese tamen te actore ad iudicium non adfuturos. quare negent ex me non audies: hos patere id suspicari quod necesse est. illi quidem, ut est hominum genus nimis acutum et suspiciosum, non te ex Sicilia litteras in Verrem deportare velle arbitrantur, sed, quod isdem litteris illius praetura et tua quaestura consignata sit, asportare te velle ex Sicilia litteras suspicantur. 
 
 # Translation
+now I you say no more about you: I believe one thing to change the entire mind, i. e. that you had been able to be recognised by no one other than by the Sicilians till now; that the Sicilians said this, although they are irritated to the same person to whom you say you are an enemy, they are not entering the court with you as the advocate. thus they deny that you do not listen from me: these  open what is necessary to be suspected. 
 
 # Vocabulary
 
