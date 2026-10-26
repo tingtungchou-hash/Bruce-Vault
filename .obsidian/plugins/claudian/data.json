@@ -2,10 +2,11 @@
   "tabManagerState": {
     "openTabs": [
       {
-        "tabId": "tab-1792819092992-m1ciwhd",
-        "conversationId": "conv-1792819140808-15p9vb0w3"
+        "draftModel": "haiku",
+        "tabId": "tab-1793001336560-ckq7xhl",
+        "conversationId": null
       }
     ],
-    "activeTabId": "tab-1792819092992-m1ciwhd"
+    "activeTabId": "tab-1793001336560-ckq7xhl"
   }
 }
