@@ -4,8 +4,8 @@
   "title": "Answer questions based on 昂贵的和平 note",
   "titleGenerationStatus": "success",
   "createdAt": 1792819140809,
-  "updatedAt": 1792852914197,
-  "lastResponseAt": 1792852914197,
+  "updatedAt": 1792926887892,
+  "lastResponseAt": 1792926887892,
   "sessionId": "acfdb2d3-edb4-4c6b-b29a-eb83c963d2ff",
   "selectedModel": "haiku",
   "providerState": {
@@ -14,12 +14,12 @@
   "currentNote": "Areas/学业/课程/大二上/中国近代史/读书笔记/昂贵的和平 - 读书笔记.md",
   "usage": {
     "model": "haiku",
-    "inputTokens": 506,
+    "inputTokens": 703,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 144384,
+    "cacheReadInputTokens": 173824,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 144890,
-    "percentage": 72
+    "contextTokens": 174527,
+    "percentage": 87
   }
 }
