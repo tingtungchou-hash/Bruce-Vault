@@ -4,8 +4,8 @@
   "title": "Add foreign language names",
   "titleGenerationStatus": "success",
   "createdAt": 1793003051874,
-  "updatedAt": 1793095509848,
-  "lastResponseAt": 1793095509848,
+  "updatedAt": 1793101553237,
+  "lastResponseAt": 1793101553237,
   "sessionId": "d6df77a4-59d7-41d8-9355-ec9550dac41a",
   "selectedModel": "haiku",
   "providerState": {
@@ -14,12 +14,12 @@
   "currentNote": "Areas/学业/课程/大二上/古希腊罗马史/希波战争与伯利克里时期的雅典 26-10-19 古希罗(6).md",
   "usage": {
     "model": "haiku",
-    "inputTokens": 155,
+    "inputTokens": 514,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 122368,
+    "cacheReadInputTokens": 177280,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 122523,
-    "percentage": 61
+    "contextTokens": 177794,
+    "percentage": 89
   }
 }
