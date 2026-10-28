@@ -4,8 +4,8 @@
   "title": "添加西文名至笔记",
   "titleGenerationStatus": "success",
   "createdAt": 1793164549846,
-  "updatedAt": 1793166898726,
-  "lastResponseAt": 1793166898726,
+  "updatedAt": 1793170168447,
+  "lastResponseAt": 1793170168447,
   "sessionId": "ce859232-2b7e-457a-874c-3a2ad263644f",
   "selectedModel": "haiku",
   "providerState": {
@@ -14,12 +14,12 @@
   "currentNote": "Areas/学业/课程/大二上/拉丁美洲史/第七课 26-10-28 拉美史.md",
   "usage": {
     "model": "haiku",
-    "inputTokens": 217,
+    "inputTokens": 481,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 115840,
+    "cacheReadInputTokens": 154624,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 116057,
-    "percentage": 58
+    "contextTokens": 155105,
+    "percentage": 78
   }
 }
