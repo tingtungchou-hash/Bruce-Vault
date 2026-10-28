@@ -13,10 +13,13 @@ tags:
 ---
 
 # Original Text
+video enim permulta esse crimina quorum tibi societas cum Verre eius modi est ut ea in accusando attingere non audeas. queritur Sicilia tota C. Verrem ab aratoribus, cum frumentum sibi in cellam imperavisset, et cum esset tritici modius HS II, pro frumento in modios singulos duodenos sestertios exegisse. Magnum crimen, ingens pecunia, furtum impudens, iniuria non ferenda! ego hoc uno crimine illum condemnem necesse est: tu, 
 
 # Text Analysis
+video enim permulta esse crimina <= (quorum tibi societas cum Verre eius modi est) **ut** ea in accusando attingere non audeas. ==queritur== Sicilia tota C. Verrem ab aratoribus, cum frumentum sibi in cellam imperavisset, et cum esset tritici ==modius== HS II, pro frumento in modios singulos duodenos sestertios exegisse. Magnum crimen, ingens pecunia, furtum impudens, iniuria non ferenda! ego hoc uno crimine illum condemnem necesse est: tu, 
 
 # Translation
+I see indeed the crimes are so many, of which your association with Verres is of that kind, that in the accusation you dare not talk about them. the entire Sicily complains from the farmers, for he had ordered the grains to be taken down on waxed boards, and for he had taken away 20 sesterces in single pecks of grains. great crime, enormous money, shameless theft, injustice 
 
 # Vocabulary
 

@@ -9,7 +9,7 @@ tags:
   - language/latin
 ---
 
-[[拉丁语阅读(1) - 导航|返回导航]] | [[主页|返回主页]] | [[Divinatio in Caecilium 课程笔记(1)|上一课]] | [[Divinatio in Caecilium|全文链接]]
+[[拉丁语阅读(1) - 导航|返回导航]] | [[主页|返回主页]] | [[Divinatio in Caecilium 课程笔记(1)|上一课]] | [[Divinatio in Caecilium 课程笔记(3)|下一课]] | [[Divinatio in Caecilium|全文链接]]
 
 ---
 # Praeteritio的两种使用模式
