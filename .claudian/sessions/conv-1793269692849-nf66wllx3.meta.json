@@ -4,8 +4,8 @@
   "title": "Organize scattered shorthand into notes",
   "titleGenerationStatus": "success",
   "createdAt": 1793269692850,
-  "updatedAt": 1793275705603,
-  "lastResponseAt": 1793275705603,
+  "updatedAt": 1793285825142,
+  "lastResponseAt": 1793285825142,
   "sessionId": "fd8a5182-dd4c-432e-ab70-d382ccb07636",
   "selectedModel": "haiku",
   "providerState": {
@@ -14,12 +14,12 @@
   "currentNote": "Areas/学业/课程/大二上/中国近代史/中法战后的海军建设 26-10-29 中近史(14).md",
   "usage": {
     "model": "haiku",
-    "inputTokens": 511,
+    "inputTokens": 323,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 113408,
+    "cacheReadInputTokens": 123008,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 113919,
-    "percentage": 57
+    "contextTokens": 123331,
+    "percentage": 62
   }
 }
