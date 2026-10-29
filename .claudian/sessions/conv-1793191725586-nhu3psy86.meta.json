@@ -1,0 +1,25 @@
+{
+  "id": "conv-1793191725586-nhu3psy86",
+  "providerId": "claude",
+  "title": "Explain subjunctive dicam in Latin grammar",
+  "titleGenerationStatus": "success",
+  "createdAt": 1793191725586,
+  "updatedAt": 1793192785345,
+  "lastResponseAt": 1793192785345,
+  "sessionId": "20555458-49a7-40f1-90e7-ed5393b26147",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "20555458-49a7-40f1-90e7-ed5393b26147"
+  },
+  "currentNote": "Areas/学业/课程/大二上/拉丁语阅读（1）/Divinatio in Caecilium 课程笔记(3).md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 3595,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 45312,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 48907,
+    "percentage": 24
+  }
+}
