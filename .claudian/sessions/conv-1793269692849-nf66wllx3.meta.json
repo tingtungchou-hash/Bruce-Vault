@@ -1,0 +1,25 @@
+{
+  "id": "conv-1793269692849-nf66wllx3",
+  "providerId": "claude",
+  "title": "Organize scattered shorthand into notes",
+  "titleGenerationStatus": "success",
+  "createdAt": 1793269692850,
+  "updatedAt": 1793270008388,
+  "lastResponseAt": 1793270008388,
+  "sessionId": "fd8a5182-dd4c-432e-ab70-d382ccb07636",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "fd8a5182-dd4c-432e-ab70-d382ccb07636"
+  },
+  "currentNote": "Areas/学业/课程/大二上/中国近代史/中法战后的海军建设 26-10-29 中近史(14).md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 182,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 95616,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 95798,
+    "percentage": 48
+  }
+}
