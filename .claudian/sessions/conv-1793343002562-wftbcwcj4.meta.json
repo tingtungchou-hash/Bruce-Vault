@@ -4,8 +4,8 @@
   "title": "Create blank Obsidian note",
   "titleGenerationStatus": "success",
   "createdAt": 1793343002562,
-  "updatedAt": 1793343041224,
-  "lastResponseAt": 1793343041224,
+  "updatedAt": 1793352208372,
+  "lastResponseAt": 1793352208372,
   "sessionId": "217b530a-cd92-4cd0-ab04-c61edc6f9aba",
   "selectedModel": "haiku",
   "providerState": {
@@ -14,12 +14,12 @@
   "currentNote": "Areas/学业/课程/大二上/世界文化地理/世界文化地理-导航.md",
   "usage": {
     "model": "haiku",
-    "inputTokens": 164,
+    "inputTokens": 603,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 38528,
+    "cacheReadInputTokens": 67456,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 38692,
-    "percentage": 19
+    "contextTokens": 68059,
+    "percentage": 34
   }
 }
