@@ -13,11 +13,13 @@ tags:
 ---
 
 # Original Text
+emptum est ex senatus consulto frumentum ab Siculis praetore Verre, pro quo frumento pecunia omnis soluta non est. grave est hoc crimen in Verrem, grave me agente, te accusante nullum; eras enim tu quaestor, pecuniam publicam tu tractabas, ex qua, etiamsi cuperet praetor, tamen ne qua deductio fieret magna ex parte tua potestas erat. huius quoque igitur criminis te accusante mentio nulla fiet: silebitur toto iudicio de maximis et notissimis illius furtis et iniuriis. mihi crede, Caecili, non potest in accusando socios vere defendere is qui cum reo criminum societate coniunctus est.
 
 # Text Analysis
+emptum est ex senatus consulto frumentum ab Siculis praetore Verre, pro quo frumento pecunia omnis ==soluta== non est. grave est hoc crimen in Verrem, grave me agente, te accusante nullum; eras enim tu quaestor, pecuniam publicam tu tractabas, ex qua, etiamsi cuperet praetor, tamen ne qua deductio fieret magna ex parte tua potestas erat. huius quoque igitur criminis te accusante mentio nulla fiet: silebitur toto iudicio de maximis et notissimis illius furtis et iniuriis. mihi crede, Caecili, non potest in accusando socios vere defendere is qui cum reo criminum societate coniunctus est.
 
 # Translation
-
+Grains are taken from the Sicilians by Verres the praetor according to the Senatorial decree, in place of which money is not released. this crime is heavy in Verres, is heavy with me as the advocate, 
 # Vocabulary
 
 # Grammar
