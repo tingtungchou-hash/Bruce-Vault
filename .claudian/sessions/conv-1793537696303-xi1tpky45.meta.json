@@ -1,0 +1,25 @@
+{
+  "id": "conv-1793537696303-xi1tpky45",
+  "providerId": "claude",
+  "title": "Link directory contents into an Obsidian note",
+  "titleGenerationStatus": "success",
+  "createdAt": 1793537696304,
+  "updatedAt": 1793537867051,
+  "lastResponseAt": 1793537867051,
+  "sessionId": "a4fc9e8f-2f6d-47db-98dd-430816b4e060",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "a4fc9e8f-2f6d-47db-98dd-430816b4e060"
+  },
+  "currentNote": "+inbox/Sapienza交换/Sapienza交换.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 141,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 44928,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 45069,
+    "percentage": 23
+  }
+}

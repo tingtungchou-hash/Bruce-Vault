@@ -6,16 +6,16 @@
 [[25-26第一学期（大一上）选课手册.pdf#page=25&selection=9,0,21,1|选课手册]]
 - [x] [习近平新时代中国特色社会主义思想概论](http://sims.pku.edu.cn/bkxjTeaching/edu/pku/stu/teaching/bkxj/jpf/courseBK/getCourseDetail.do?course_seq_no=bkkc202200562265&kclx=BK)（3）
 - [x] [思想道德与法治](http://sims.pku.edu.cn/bkxjTeaching/edu/pku/stu/teaching/bkxj/jpf/courseBK/getCourseDetail.do?course_seq_no=bkkc202300591122&kclx=BK)（3）
-- [x] 中近史（4）
+- [x] [[中国近代史-导航|中近史]]（4）
 - [ ] 马原（3）
-- [x] 毛概（3）
+- [x] [[毛泽东思想概论|毛概]]（3）
 - [ ] 形策（2）
 	- [x] 理论教学
 	- [ ] 讲座1
 	- [ ] 讲座2
 	- [ ] 讲座3
 	- [ ] 讲座4
-- [ ] 思政实践（2）
+- [x] 思政实践（2）
 	- [x] 爱乐传习（1）
 	- [x] 暑期实践（1）
 注：形势与政策为1学期课堂理论教学（一年级上）、 4 次讲座（一至三年级）[[25-26第一学期（大一上）选课手册.pdf#page=26&selection=128,0,154,1|选课手册]]
@@ -28,6 +28,7 @@
 - [x] [[公共初级意大利语 - 导航|公共初级意大利语]] （3）
 - [x] 
 - [x] 
+- [ ] 
 - [ ] 
 - [ ] 
 注：除了中国通史（古代部分）（近代部分）这种不可以选的课之外都可以用于填补大学英语的学分空缺
