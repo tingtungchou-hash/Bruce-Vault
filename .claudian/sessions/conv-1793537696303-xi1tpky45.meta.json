@@ -4,8 +4,8 @@
   "title": "Link directory contents into an Obsidian note",
   "titleGenerationStatus": "success",
   "createdAt": 1793537696304,
-  "updatedAt": 1793595598791,
-  "lastResponseAt": 1793595598791,
+  "updatedAt": 1793603450249,
+  "lastResponseAt": 1793603450249,
   "sessionId": "a4fc9e8f-2f6d-47db-98dd-430816b4e060",
   "selectedModel": "haiku",
   "providerState": {
@@ -14,12 +14,12 @@
   "currentNote": "+inbox/Sapienza交换/Sapienza交换.md",
   "usage": {
     "model": "haiku",
-    "inputTokens": 345,
+    "inputTokens": 451,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 56960,
+    "cacheReadInputTokens": 63360,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 57305,
-    "percentage": 29
+    "contextTokens": 63811,
+    "percentage": 32
   }
 }
