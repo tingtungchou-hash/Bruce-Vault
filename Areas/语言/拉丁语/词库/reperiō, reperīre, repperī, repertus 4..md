@@ -1,5 +1,5 @@
 ---
-created: 2026-11-02
+created: 2026-11-03
 language: 拉丁语
 tags: [vocabulary, language/latin]
 ---
