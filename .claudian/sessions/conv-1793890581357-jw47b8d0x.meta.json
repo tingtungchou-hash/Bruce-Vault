@@ -1,0 +1,25 @@
+{
+  "id": "conv-1793890581357-jw47b8d0x",
+  "providerId": "claude",
+  "title": "Translate a short clause",
+  "titleGenerationStatus": "success",
+  "createdAt": 1793890581357,
+  "updatedAt": 1793890595517,
+  "lastResponseAt": 1793890595517,
+  "sessionId": "5b32744d-4a59-4ea1-8b99-c0d558145a26",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "5b32744d-4a59-4ea1-8b99-c0d558145a26"
+  },
+  "currentNote": "Areas/学业/课程/大二上/拉丁语阅读（1）/Divinatio in Caecilium.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 3314,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 28288,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 31602,
+    "percentage": 16
+  }
+}

@@ -4,8 +4,8 @@
   "title": "识别图片中的文字",
   "titleGenerationStatus": "success",
   "createdAt": 1793862702873,
-  "updatedAt": 1793883230479,
-  "lastResponseAt": 1793883230479,
+  "updatedAt": 1793890642709,
+  "lastResponseAt": 1793890642709,
   "sessionId": "eb15ea03-6353-40e9-adfe-5eb8ed03569d",
   "selectedModel": "haiku",
   "providerState": {
@@ -14,12 +14,12 @@
   "currentNote": "Areas/学业/课程/大二上/中国近代史/甲午战争(1) 26-10-31 中近史(15).md",
   "usage": {
     "model": "haiku",
-    "inputTokens": 912,
+    "inputTokens": 236,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 51968,
+    "cacheReadInputTokens": 82816,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 52880,
-    "percentage": 26
+    "contextTokens": 83052,
+    "percentage": 42
   }
 }
