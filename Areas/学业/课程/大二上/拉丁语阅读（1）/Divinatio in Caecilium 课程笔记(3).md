@@ -27,12 +27,17 @@ tags:
 
 此处可以认为praeteritio的有两处：一处由de te plura non dicam开启，一处由nec ea dico开启，相较而言，第二处的praeteritio更明显，宣称不说的事与所说的事直接通过ACI联系，第一处则通过unum ... omnis (omnes) animum advertere借“全部人”之口更委婉地提出，但通过nec仍能判断出两者间的联系，第一处也可却认为praeteritio。non dicere似乎是一个常见的开启praeteritio的套式（虽然这并不能告诉我们什么额外的，而更多是由praeteritio的含义决定的），但两处中在用语上却产生了分歧：一处用dicam，一处用dico。dico自不用多说，是现在时直陈式，但在处理dicam的时候，虽然通常处理为将来时直陈式，但我偶而想到，有没有虚拟式的可能呢？A&G 439记录的Hortatory Subjunctive用法似乎从意思上是说得通的，西塞罗对自己说：“现在，让我别再讲关于你的事了”，但是这一解释因否定词non而失效（若为虚拟式，则应该是ne），可以确定为将来时直陈式。为何一处用将来时一处用现在时呢？
 
-Watson 2025的解释
+Watson 2025的解释：
 
 ## 意外的发现：Suetonius *Divus Iulius* 中的praeteritio
+- 在阅读Suetonius的*de Vita Caesarum*时，我发现了一则praeteritio。
 
 > \[49] ... **Praetereo** actiones Dolabellae et Curionis patris, in quibus eum Dolabella 'paelicem reginae, spondam interiorem regiae lecticae,' at Curio 'stabulum Nicomedis et Bithynicum fornicem' dicunt. **Missa** etiam **facio** edicta Bibuli, quibus proscripsit collegam suum Bithynicam reginam, eique antea regem fuisse cordi, nunc esse regnum. Quo tempore, ut Marcus Brutus refert, Octavius etiam quidam valitudine mentis liberius dicax conventu maximo, cum Pompeium regem appellasset, ipsum reginam salutavit... 
 
 试译如下：
 
-> 我也不提多拉贝拉和库里奥之父的指控；其中多拉贝拉称他为“王后的男宠、王后饺子的垫子”，而库里奥称他为“尼科美德斯的马厩和比提尼亚的男妓院”。我也略过比布卢斯的公告：他在其中公开称自己的同僚为“比提尼亚王后”，并说此前他心爱的是国王，如今心爱的是王国。据马尔库斯·布鲁图斯记载，当时某个因精神失常而言辞更为放肆的奥克塔维乌斯，在一次盛大集会上先称庞培为“国王”，随后又向凯撒问好，称他为“王后”。
+> \[49] ……我也不提多拉贝拉和库里奥之父的指控；其中多拉贝拉称他为“王后的男宠、王后轿子的垫子”，而库里奥称他为“尼科美德斯的和比提尼亚的男妓院”。我也略过比布卢斯的公告：他在其中公开称自己的同僚为“比提尼亚王后”，并说此前他心爱的是国王，如今心爱的是王国。据马尔库斯·布鲁图斯记载，当时某个因精神失常而言辞更为放肆的奥克塔维乌斯，在一次盛大集会上先称庞培为“国王”，随后又向凯撒问好，称他为“王后”…… 
+
+这则史料首先提供了praeteritio的另一种格式语言：facio missus/a/um + n.，为检索更多的 
+
+## 其它演说中的praeteritio及其注者解释：
