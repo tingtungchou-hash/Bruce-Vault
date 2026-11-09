@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "holke",
+  "search": "",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 14.6134663341646,
   "linkStrength": 0.835443037974684,
   "linkDistance": 342,
-  "scale": 1.4108894589159655,
-  "close": false
+  "scale": 0.06574501914790264,
+  "close": true
 }

@@ -15,6 +15,8 @@ tags:
 
 # Divinatio in Caecilium 课程笔记(3) 
 
+## 28~29中的praeteritio
+
 阅读到目前为止，终于遇上了一段比较集中的Praeteritio：
 
 > 28 hic ego **de te plura non dicam**: unum illud credo omnis animum advertere, **te** adhuc a nullis nisi ab Siculis potuisse cognosci; Siculos hoc dicere, cum eidem sint irati cui **tu** **te** inimicum esse dicis, sese tamen **te actore** ad iudicium non adfuturos. quare negent ex me non audies: hos patere id suspicari quod necesse est. illi quidem, ut est hominum genus nimis acutum et suspiciosum, non **te** ex Sicilia litteras in Verrem deportare velle arbitrantur, sed, quod isdem litteris illius praetura et tua quaestura consignata sit, asportare te velle ex Sicilia litteras suspicantur. 29 deinde accusatorem firmum verumque esse oportet. Eum ego si te putem cupere esse, facile intellego esse non posse. **nec ea dico**, quae si dicam tamen infirmare non possis, te, antequam de Sicilia decesseris, in gratiam redisse cum Verre; Potamonem, scribam et familiarem tuum, retentum esse a Verre in provincia, cum tu decederes; M. Caecilium, fratrem tuum, lectissimum atque ornatissimum adulescentem, non modo non adesse neque tecum tuas iniurias persequi, sed esse cum Verre et cum illo familiarissime atque amicissime vivere. sunt et haec et alia in te falsi accusatoris signa permulta, quibus ego nunc non utor: hoc dico, te, si maxime cupias, tamen verum accusatorem esse non posse. 
@@ -26,3 +28,5 @@ tags:
 此处可以认为praeteritio的有两处：一处由de te plura non dicam开启，一处由nec ea dico开启，相较而言，第二处的praeteritio更明显，宣称不说的事与所说的事直接通过ACI联系，第一处则通过unum ... omnis (omnes) animum advertere借“全部人”之口更委婉地提出，但通过nec仍能判断出两者间的联系，第一处也可却认为praeteritio。non dicere似乎是一个常见的开启praeteritio的套式（虽然这并不能告诉我们什么额外的，而更多是由praeteritio的含义决定的），但两处中在用语上却产生了分歧：一处用dicam，一处用dico。dico自不用多说，是现在时直陈式，但在处理dicam的时候，虽然通常处理为将来时直陈式，但我偶而想到，有没有虚拟式的可能呢？A&G 439记录的Hortatory Subjunctive用法似乎从意思上是说得通的，西塞罗对自己说：“现在，让我别再讲关于你的事了”，但是这一解释因否定词non而失效（若为虚拟式，则应该是ne），可以确定为将来时直陈式。为何一处用将来时一处用现在时呢？
 
 Watson 2025的解释
+
+## 意外的发现：Suetonius *Divus Iulius* 中的praeteritio
