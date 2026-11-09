@@ -20,7 +20,7 @@
 	- [x] 暑期实践（1）
 注：形势与政策为1学期课堂理论教学（一年级上）、 4 次讲座（一至三年级）[[25-26第一学期（大一上）选课手册.pdf#page=26&selection=128,0,154,1|选课手册]]
 ### 思政选必（I）
-[[25-26第一学期（大一上）选课手册.pdf#page=27&selection=0,0,11,1|选课手册]]
+[[25-26第一学期（大一上）选课手册.pdf#page=27&selection=0,0,11,1|选课手册]] 
 - [ ] 思政选必 
 ### 大学英语（8）
 - [x] [批判性思维与学术写作](http://sims.pku.edu.cn/bkxjTeaching/edu/pku/stu/teaching/bkxj/jpf/courseBK/getCourseDetail.do?course_seq_no=bkkc201600288606&kclx=BK)（2）
@@ -60,8 +60,8 @@
 - [ ] 
 - [ ] 
 ### 通识课/通选课（8）
-- [ ] 
-- [ ] 
+- [x] [哲学导论](http://sims.pku.edu.cn/bkxjTeaching/edu/pku/stu/teaching/bkxj/jpf/courseBK/getCourseDetail.do?course_seq_no=BKC02309506C30001R79&kclx=BK)（2）
+- [x] 
 - [ ] 
 - [ ] 
 - [ ] 
@@ -134,14 +134,13 @@
 - [ ] 
 - [ ] 
 ## 自主选修（20）
-- [x] [哲学导论](http://sims.pku.edu.cn/bkxjTeaching/edu/pku/stu/teaching/bkxj/jpf/courseBK/getCourseDetail.do?course_seq_no=BKC02309506C30001R79&kclx=BK)（2）
-- [x] 
 - [x] [西方古典学铭文研究简介: 从人文到人工智能时代](http://sims.pku.edu.cn/bkxjTeaching/edu/pku/stu/teaching/bkxj/jpf/courseBK/getCourseDetail.do?course_seq_no=bkkc202500656480&kclx=BK)（2）
 - [x] 
 - [x] [外文历史名著选读（下）](http://sims.pku.edu.cn/bkxjTeaching/edu/pku/stu/teaching/bkxj/jpf/courseBK/getCourseDetail.do?course_seq_no=BKC02109512C33692R13&kclx=BK)（2）
 - [x] 
 - [x] [古罗马诗歌与社会文化](http://sims.pku.edu.cn/bkxjTeaching/edu/pku/stu/teaching/bkxj/jpf/courseBK/getCourseDetail.do?course_seq_no=bkkc202500657087&kclx=BK)（2）
 - [x] 
+- [ ] 
 - [ ] 
 - [ ] 
 - [ ] 
