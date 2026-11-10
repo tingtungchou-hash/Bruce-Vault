@@ -4,8 +4,8 @@
   "title": "Create blank Obsidian note",
   "titleGenerationStatus": "success",
   "createdAt": 1794200467277,
-  "updatedAt": 1794223492112,
-  "lastResponseAt": 1794223492112,
+  "updatedAt": 1794307378316,
+  "lastResponseAt": 1794307378316,
   "sessionId": "dd8dc89f-ac0b-40d4-9f6b-170fab8dc21a",
   "selectedModel": "haiku",
   "providerState": {
@@ -14,12 +14,12 @@
   "currentNote": "Areas/学业/课程/大二上/历史论文写作/历史论文写作-导航.md",
   "usage": {
     "model": "haiku",
-    "inputTokens": 749,
+    "inputTokens": 381,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 113792,
+    "cacheReadInputTokens": 127360,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 114541,
-    "percentage": 57
+    "contextTokens": 127741,
+    "percentage": 64
   }
 }
