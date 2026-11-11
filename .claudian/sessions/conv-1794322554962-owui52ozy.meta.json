@@ -1,0 +1,25 @@
+{
+  "id": "conv-1794322554962-owui52ozy",
+  "providerId": "claude",
+  "title": "Draft recommendation letter for teacher signature",
+  "titleGenerationStatus": "success",
+  "createdAt": 1794322554962,
+  "updatedAt": 1794322776219,
+  "lastResponseAt": 1794322776219,
+  "sessionId": "8fa6d7d3-9904-4bbf-8d3e-b2026c1b79bb",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "8fa6d7d3-9904-4bbf-8d3e-b2026c1b79bb"
+  },
+  "currentNote": "+inbox/Sapienza交换/推荐信.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 246,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 40448,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 40694,
+    "percentage": 20
+  }
+}
