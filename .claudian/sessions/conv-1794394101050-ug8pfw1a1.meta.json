@@ -1,0 +1,24 @@
+{
+  "id": "conv-1794394101050-ug8pfw1a1",
+  "providerId": "claude",
+  "title": "归档唐长孺 PDF、执行 markitdown 并更新导航",
+  "titleGenerationStatus": "success",
+  "createdAt": 1794394101051,
+  "updatedAt": 1794397560471,
+  "lastResponseAt": 1794397560471,
+  "sessionId": "92f335e0-12de-4849-ab4d-183c4a6f7817",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "92f335e0-12de-4849-ab4d-183c4a6f7817"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 6256,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 58752,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 65008,
+    "percentage": 33
+  }
+}
