@@ -27,7 +27,69 @@ tags:
 
 此处可以认为praeteritio的有两处：一处由de te plura non dicam开启，一处由nec ea dico开启，相较而言，第二处的praeteritio更明显，宣称不说的事与所说的事直接通过ACI联系，第一处则通过unum ... omnis (omnes) animum advertere借“全部人”之口更委婉地提出，但通过nec仍能判断出两者间的联系，第一处也可却认为praeteritio。non dicere似乎是一个常见的开启praeteritio的套式（虽然这并不能告诉我们什么额外的，而更多是由praeteritio的含义决定的），但两处中在用语上却产生了分歧：一处用dicam，一处用dico。dico自不用多说，是现在时直陈式，但在处理dicam的时候，虽然通常处理为将来时直陈式，但我偶而想到，有没有虚拟式的可能呢？A&G 439记录的Hortatory Subjunctive用法似乎从意思上是说得通的，西塞罗对自己说：“现在，让我别再讲关于你的事了”，但是这一解释因否定词non而失效（若为虚拟式，则应该是ne），可以确定为将来时直陈式。为何一处用将来时一处用现在时呢？
 
-Watson 2025的解释：
+Watson 2025的解释：28.2 plura non dicam By suggesting that he is omitting additional ways in which Caecilius does not live up to the standard of integritas and innocentia, C. appears to have more evidence at his disposal than he may in fact have. The arguments that C. does enumerate, however, are unconvincing: that Caecilius means to abscond with evidence, that he is implicated in Verres’ crimes, and that his familial and political connections prevent him from being an earnest prosecutor. Occultatio ‘is … used to present material which would, if critically examined by an alert jury, be found false or refutable. It enables a statement to be made and mentally noted by the jury in a speaker’s favour; but because he seems to regard it as unnecessary for his argument or irrelevant, they do not examine it too closely. By this means, weak arguments and false evidence could be introduced with confidence under the pretence of omitting them’; Usher (1965) 176. On reticentia and occultatio with further examples, see Usher (1965), Rhet. Her. 4.37, and Sul. 73 quid … commemorem with Berry ad loc. Occultatio, in which some items are mentioned but no evidence is given, is similar to praeteritio, which serves to emphasize what is dismissed, and reticentia, wherein the orator actually passes over information leaving the impression that more could have been said. These techniques are ubiquitous in these sections, in which C. alleges some sort of wrongdoing on Caecilius’ behalf, and suggest a true paucity of evidence; cf. §28 quare negent ex me non audies, §29 nec ea dico …, quibus ego nunc non utor, and §33 sunt alia magis occulta furta ….
+
+ ```
+DS：Bruce，
+
+这条注是对 §28 中 plura non dicam 一语的疏证（编号 28.2）。译如下，再逐层讲解。
+
+一、译文
+
+“28.2 plura non dicam（我不再多说）。通过暗示自己略去了凯基利乌斯达不到 integritas（廉正）与 innocentia（清白）标准的其他种种方面，西塞罗显得手中掌握的证据多于他实际上可能拥有的。然而，西塞罗确实施列出来的那些论据并不令人信服：凯基利乌斯意图携证据潜逃；他牵涉进维勒斯的罪行；他的家族与政治关系使他不可能成为真诚的控告者。
+
+occultatio（遮掩法）‘被用来呈现这样的材料：若经警觉的陪审团认真审查，就会被发现是虚假的或可被驳倒的。它使一项陈述得以作出，并被陪审团记在心中、对演说者有利；但由于演说者似乎认为它对自己的论证不必要或无关紧要，他们便不会细加审查。凭借这一手段，薄弱的论据与虚假的证据就能在“略去不说”的幌子下被有恃无恐地塞进来’；Usher (1965) 176。
+
+关于 reticentia 与 occultatio 及更多例证，参 Usher (1965)、《致赫伦尼乌斯》4.37，以及 Sul. 73 的 quid … commemorem（“我何必提起……”），并参 Berry 对该处的注释。
+
+occultatio——提及若干事项却不给出证据——与 praeteritio 相似，后者旨在强调所被弃置的东西；也与 reticentia 相似，后者是演说者实际上略过某些信息，却留下“本可说得更多”的印象。这些手法在眼下这些段落里比比皆是——西塞罗在其中指控凯基利乌斯有某种不法之举——而这恰恰暗示出真正的证据匮乏；参较 §28 的 quare negent ex me non audies（“因此，他们否认的事，你不会听我说”）、§29 的 nec ea dico …, quibus ego nunc non utor（“我也不说那些……我此刻并不使用它们”），以及 §33 的 sunt alia magis occulta furta …（“还有一些更为隐秘的盗窃……”）。”
+
+二、术语与出处
+
+integritas 与 innocentia：控诉人资格的两项标准，前者指品行廉正，后者指无咎清白。Watson 的意思是：所谓“略去的更多方面”，就是凯基利乌斯未达这两项标准的其他表现。
+
+Usher (1965)：应即 S. Usher, “Occultatio in Cicero’s Orations,” AJP 86 (1965) 175–192，所引在 176 页。
+
+Rhet. Her. 4.37：《致赫伦尼乌斯》对 occultatio 的定义，大体是“我们说我们略过、不知道、不愿说那恰恰是我们此刻最要说的事”——这其实就是古代名称下的 praeteritio。Watson 把它列入 reticentia 与 occultatio 的文献，说明古代教本并不像现代论著那样把三者分得很清。
+
+Sul. 73：Pro Sulla 73 的 quid … commemorem（“我何必提起……”），是 reticentia 的典型句；Berry 即 D. H. Berry 的 Pro Sulla 校注本（Cambridge 1996）。
+
+三、怎么理解
+
+（一）核心判断：佯略在这里是一种证据策略，不是辞藻的盈余。
+Watson 的第一句就把注意力从“修辞效果”转到“证据状况”：de te plura non dicam 制造出“还有更多、更硬的证据”的印象，而这一印象可能是空的。用他的措辞说，西塞罗“显得”掌握得更多——appears，这个动词是刻意的保留。
+
+（二）他列出的三条论据确实经不起细看，而这一点正是论证的关键。
+携文书潜逃——§28 只说西西里人 arbitrantur、suspicantur，全是传闻与猜疑；与维勒斯同谋——靠的是文书上并有二人署名、离任前和解这一类间接情况；亲属关系——即兄弟马库斯与维勒斯过从甚密。三条都建立在“可以这样推想”（necesse est）之上，而不在证据之上。§29 又添三条（和解、波塔蒙被扣、兄弟倒向对方），同样不给证据；§33 再以 sunt alia magis occulta furta 加码。Watson 的结论是：这类手法越密集，越反证证据越匮乏。
+
+（三）三种手法的区分是功能性的，不是形式性的。
+praeteritio：提及而弃置，效果是强调被弃置者，让听众注意到它。
+occultatio（Usher 的窄义）：提及但不给证据，借“略去”之名让弱论据免于审查。
+reticentia：真的跳过不说，只留下“本可说得更多”的印象。
+
+三者共享“宣称略过”的语言外壳，区别只在三点：被略去的东西后来有没有被说出来；说出来的部分有没有附带证据；最终效果落在强调还是遮蔽。这也是为什么你的四个程式（non dicere、nihil dicere、praetereo、facio missum）只能用于检索，不能用于分类——它们抓到的只是外壳。
+
+（四）这里有一个术语陷阱，值得在你的笔记里单列一条。
+古代 Rhet. Her. 4.37 所说的 occultatio，大体就是后世所谓 praeteritio；Usher 却把 occultatio 窄化为“提及而无证据”。Watson 同时使用这两套术语，说明三分法只是现代分析工具，不是古代的分类体系。你若按古代术语建类，会碰到同名异指的问题；若按 Usher 的窄义建类，又得承认古代作者自己并不这样分。
+
+（五）对 §28 的具体读法。
+de te plura non dicam 只给出“更多”的承诺，紧接着 unum illud 只给了一点；“更多”始终悬空。这正是 praeteritio 最常见也最经济的形式：以承诺代替内容，让听众自行补足。Usher 引文所说的机制正在于此——陈述被作出、被记住，却因为没有证据、又好像“演说者自己都觉得不必要”，而免于审查。这是修辞学意义上的审计漏洞，而西塞罗是刻意利用它的。
+
+（六）与 §36 对照，你标题里的问题就清楚了。
+28–29 的省略针对事实（res），功能是遮掩证据不足，按 Usher 的术语更接近 occultatio；36 的省略针对才思（ingenium），功能是展示，Watson 在 36.4 仍称之为 praeteritio。两处标签不同并非疏漏，而是说明标签随功能而定。你可以据此分别定性：28–29 是证据型、遮掩型的佯略；36 是展示型、自我指涉型的佯略。语言外壳相同，修辞任务相反。
+
+（七）方法论上的收益。
+你第 63 行说“没有可以确证无误的形式线索”，这条注给了正面标准：检索出候选之后，逐条看三件事——被宣称略去的东西后来有没有被说出、有没有证据支撑、效果是引人注目还是使人忽略。三问下来，praeteritio、occultatio、reticentia 大致可分；而这也正说明为什么单靠程式语言检索必然留下大量误判。
+
+（八）附带一句：你关心的 dicam 与 dico 之别，Watson 没有谈。
+不过 plura non dicam 的将来时恰好承担“面向后文、持续有效的承诺”（他在后文其实仍说了很多），而 nec ea dico 的现在时承担“此刻正在执行的省略”。时态差异与话语功能可以对上，这与你原来的观察可以互补，但仍属推测，不宜当作定论。
+
+四、一句总结
+
+Watson 把 praeteritio 从辞格读成了证据策略：28–29 的密集佯略不是雄辩的盈余，而是证据匮乏的症候；同一语言外壳之下，28–29 更接近 occultatio（遮掩），36 才是展示型的 praeteritio。这条注正好为你笔记里的检索表补上了筛选标准。
+
+需要的话，我可以把译文与这段讲解接在第 30 行原文之后，保持你现有的扁平体例。
+ ```
 
 11.3
 
@@ -48,7 +110,60 @@ Watson 2025的解释：
 
 读到36，发现了一个与non ... dico相类的讲法：nihil dico
 
-> \[36] intellego quam scopuloso difficilique in loco verser; nam cum omnis adrogantia odiosa est, tum illa ingeni atque eloquentiae multo molestissima. quam ob rem **nihil dico** de meo ingenio; neque est quod possim dicere, neque si esset dicerem; aut enim id mihi satis est quod est de me opinionis, quidquid est, aut, si id1 parum est, ego maius id commemorando facere non possum. \[37] de te, Caecili, - iam mehercule hoc extra hanc contentionem certamenque nostrum familiariter tecum loquar,--tu ipse quem ad modum existimes vide etiam atque etiam, et tu te collige, et qui sis et quid facere possis considera. Putasne te posse de maximis acerbissimisque rebus, cum causam sociorum fortunasque provinciae, ius populi Romani, gravitatem iudici legumque susceperis, tot res tam gravis, tam varias voce, memoria, consilio, ingenio sustinere
+> \[36] intellego quam scopuloso difficilique in loco verser; nam cum omnis adrogantia odiosa est, tum illa ingeni atque eloquentiae multo molestissima. quam ob rem **nihil dico** de meo ingenio; neque est quod possim dicere, neque si esset dicerem; aut enim id mihi satis est quod est de me opinionis, quidquid est, aut, si id1 parum est, ego maius id commemorando facere non possum. \[37] de te, Caecili, - iam mehercule hoc extra hanc contentionem certamenque nostrum familiariter tecum loquar, - tu ipse quem ad modum existimes vide etiam atque etiam, et tu te collige, et qui sis et quid facere possis considera. Putasne te posse de maximis acerbissimisque rebus, cum causam sociorum fortunasque provinciae, ius populi Romani, gravitatem iudici legumque susceperis, tot res tam gravis, tam varias voce, memoria, consilio, ingenio sustinere
+
+```
+Bruce，
+
+这条注是对 §36 中 nihil dico 一语的疏证（编号 36.4）。译文如下，后面再拆解它的论证。
+
+一、译文
+
+“36.4 nihil dico：praeteritio（佯略）。参较 Pro Quinctio 30、In Verrem II.1.157、II.5.11。西塞罗屡屡使用 nihil dico amplius（“我不再多说了”）这一说法，参较 Pro Archia 8、De domo sua 17、Pro Plancio 17 与 88。dico … dicere … dicerem 构成 polyptoton（同词异形反复）。这一反复也许提示了 facere 与 non dicere 之间的对立。西塞罗此处的言辞，是其 ingenium 的一次展示，而不是一场空洞的讨论。西塞罗在《论开题》1.8 中如此评说赫尔玛戈拉斯：
+
+> nam satis in ea uidetur ex antiquis artibus ingeniose et diligenter electas res collocasse et nonnihil ipse quoque noui protulisse; uerum oratori minimum est de arte loqui, quod hic fecit, multo maximum ex arte dicere, quod eum minime potuisse omnes uidemus.
+
+“因为在这一部（著作）中，他似乎已颇具才思而勤勉地把从古代诸家技艺中选取的材料编排妥当，并且自己也贡献了一些新东西；然而对演说家来说，最不重要的是谈论技艺——而这正是此人所做的；最重要的是依凭技艺而说——而我们都看到，这恰恰是他最做不到的。”
+
+（缩写：Quinct. = Pro P. Quinctio；Ver. = In Verrem 第二控诉；Arch. = Pro Archia；Dom. = De domo sua；Planc. = Pro Plancio；Inu. = De inventione。C. 即 Cicero，hic 与 eum 均指赫尔玛戈拉斯。）
+
+二、这条注的四个论证步骤
+
+1. 定性。Watson 直接把 nihil dico 判为 praeteritio，而不是普通的推辞或谦辞。
+
+2. 平行例证。Quinct.、Verr. 两处是“同一用法”的例证；Arch.、Dom.、Planc. 诸处则表明 nihil dico amplius 是西塞罗的高频套语。这一步有两个效果：一方面证明 §36 并非孤例；另一方面也暗含警告——套语本身不构成判定标准，是不是 praeteritio 仍要看语境。这正对应你笔记第 63 行的方法论顾虑：没有可靠的形式线索，程式语言只能用来检索，不能用来定性。
+
+3. polyptoton。dico（现在时直陈）— dicere（不定式，承 possim 表可能）— dicerem（未完成时虚拟，反事实）。三个同根词形连缀，构成一个从“无话可说”退到“即便有也不说”的递降阶梯。注意这个序列不只是词形游戏：直陈—可能—反事实三级语气本身就在层层设防，形式的丰盈恰好反衬出内容的“空缺”。
+
+4. 引文。赫尔玛戈拉斯是“能写不能说”的标本：de arte loqui（谈论技艺）做得不错，ex arte dicere（依技艺而说）却最做不到。Watson 引此，是要为 §36 提供一个理论坐标——西塞罗表面上在 de ingenio loqui，实际上正在 ex arte dicere。
+
+三、怎么理解
+
+（一）§36 的 praeteritio 与 28–29 不同，隐去的对象不是事实，而是评价。
+28–29 隐去的是 res：与维勒斯和解、波塔蒙被扣、兄弟倒向对方——但每一条都被列了出来，只是冠以“我不说”。§36 隐去的是对自身才思的评判，没有清单可抓，形式线索只剩 nihil dico 一语。这就是你会怀疑“36 到底算不算 praeteritio”的原因：它作用在元层次上，而非内容层次上。
+
+（二）它恰恰是自我指涉的：宣告“不谈才思”的这句话本身，就在展示才思。
+Watson 说这是 “a demonstration of his ingenium rather than an empty discussion”，意思很明确：以“不谈”来完成“谈”，以拒绝评价来完成展示。这是 praeteritio 最纯粹的形式——被略去的东西不是被内容泄露出来，而是被说话的方式本身演示出来。
+
+（三）修辞动因在 §36 开篇已经写明。
+“cum omnis adrogantia odiosa est, tum illa ingeni atque eloquentiae multo molestissima”——一切自夸都招人厌，而以才思口才自夸尤为难忍。可 divinatio 这一体裁又要求他展示自己适任控诉（§37 的 contentio、certamen 便是自认）。praeteritio 是唯一能同时满足两边的形式：既避开 adrogantia 的 odium，又完成 ingenium 的展示。Watson 一定要把它认作 praeteritio，理由就在这里——它不是客套，而是解决体裁矛盾的技术手段。
+
+（四）facere 与 dicere 的对峙落在同段句末。
+“ego maius id commemorando facere non possum”（我无法靠叙说把它变得更大）：dic- 的三连击之后，句子收在 facere 上。Watson 的 “may have suggested” 是写作发生学上的推测——也许正是这串 dicere 的重复，让“说/做”的对立浮上笔端。这是推测语气，不必当作定论；但至少在同一句内，dicere 与 facere 已被并置成对照：说不能成事。这正好为后面的 Inu. 1.8 引文铺路。
+
+（五）Inu. 1.8 的引文把同一组对立换一种说法再说一遍。
+de arte loqui（谈技艺）— ex arte dicere（依技艺而说）— facere（做成）。赫尔玛戈拉斯停在第一级，西塞罗在 §36 演示的是第二级，而第二级本身就是一种作为。反讽还在于：西塞罗指责赫尔玛戈拉斯 de arte loqui，可他自己这段话按字面看也正是在谈自己的技艺——区别只在于他边说边做。这正是 “demonstration rather than empty discussion” 的落点。
+
+四、放回你的笔记
+
+你标题里的问题“36 是 praeteritio 吗”，Watson 的回答是肯定的，并且给出了它成立的机制：对象是 ingenium 而非 res，所以形式线索弱，但自我指涉性强。据此，你的检索表里 nihil dico 一项应当保留，但要标注 §36 属于“元层次”的用法，不能与 28–29 的事实型 praeteritio 混同。
+
+另外，你对 28 用 dicam、29 用 dico 的时态分歧的疑问，Watson 没有直接回答；但他对 36 的 polyptoton 观察至少提示：西塞罗在同一语境中对 dic- 的形态选择常是成体系的（时态、语式的梯度本身承担修辞功能），未必是随手换词。这一点可以作为你继续追问的线索。
+
+需要的话，我可以把这段译文与解读整理进笔记 §36 一节（接在第 53 行之后），保持你现有的扁平体例。
+
+36.4 nihil dico Praeteritio. Cf. Quinct. 30, Ver. II.1.157, 5.11. C. frequently uses the phrase nihil dico amplius. Cf. Arch. 8, Dom. 17, Planc. 17, 88. dico … dicere … dicerem polyptoton. The repetition may have suggested the dichotomy of facere non dicere. C.’s speech here is a demonstration of his ingenium rather than an empty discussion. C. says of Hermagoras in Inu. 1.8 nam satis in ea uidetur ex antiquis artibus ingeniose et diligenter electas res collocasse et nonnihil ipse quoque noui protulisse; uerum oratori minimum est de arte loqui, quod hic fecit, multo maximum ex arte dicere, quod eum minime potuisse omnes uidemus.
+```
 
 ## 基于几种程式语言的检索结果
 
