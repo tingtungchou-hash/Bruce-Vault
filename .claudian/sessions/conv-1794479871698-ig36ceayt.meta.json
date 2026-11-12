@@ -1,0 +1,25 @@
+{
+  "id": "conv-1794479871698-ig36ceayt",
+  "providerId": "claude",
+  "title": "Create blank note in Obsidian vault",
+  "titleGenerationStatus": "success",
+  "createdAt": 1794479871699,
+  "updatedAt": 1794479915666,
+  "lastResponseAt": 1794479915666,
+  "sessionId": "acd87d23-8ca4-4c54-80c4-5fe32a9f021a",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "acd87d23-8ca4-4c54-80c4-5fe32a9f021a"
+  },
+  "currentNote": "Areas/学业/课程/大二上/公共初级意大利语/公共初级意大利语 - 导航.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 300,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 42624,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 42924,
+    "percentage": 21
+  }
+}
