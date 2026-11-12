@@ -29,7 +29,7 @@ tags:
 
 Watson 2025的解释：
 
-
+11.3
 
 ## 意外的发现：Suetonius *Divus Iulius* 中的praeteritio
 - 在阅读Suetonius的*de Vita Caesarum*时，我发现了一则praeteritio。
@@ -42,13 +42,31 @@ Watson 2025的解释：
 
 这则史料首先提供了praeteritio的另一种格式语言：facio missus/a/um + n.，此外，这则史料也提示了，praeteritio可能在演说术之外有其它的应用。praeteritio总是涉及一个进行宣称隐匿而实际叙说这一动作的作者主体，这在演说术中自然是演说者，在其它文本中则不一定总是在场的——以凯撒的《高卢战记》为例，纵然（依据传统）为凯撒自己所作叙述自己征战之事，但他却总以第三人称指代自己。在Suetonius的作品中却恰恰相反，有许多作者从故事中现身，对故事进行或显或隐的评述，如此处的praeteritio。praeteritio在此的出现或许是修辞术对于传记写作的影响，而在更一般的程度上，以praeteritio为代表的作者人格在传记/历史写作中的出现，或许跟某个作者的风格有关，或许多个古代作家共享的写作传统，现在还无法确定。
 
-11.21 
+11.7 
 
 ## 36是praeteritio吗？
 
-\[36] intellego quam scopuloso difficilique in loco verser; nam cum omnis adrogantia odiosa est, tum illa ingeni atque eloquentiae multo molestissima. quam ob rem nihil dico de meo ingenio; neque est quod possim dicere, neque si esset dicerem; aut enim id mihi satis est quod est de me opinionis, quidquid est, aut, si id1 parum est, ego maius id commemorando facere non possum. \[37] de te, Caecili, - iam mehercule hoc extra hanc contentionem certamenque nostrum familiariter tecum loquar,--tu ipse quem ad modum existimes vide etiam atque etiam, et tu te collige, et qui sis et quid facere possis considera. Putasne te posse de maximis acerbissimisque rebus, cum causam sociorum fortunasque provinciae, ius populi Romani, gravitatem iudici legumque susceperis, tot res tam gravis, tam varias voce, memoria, consilio, ingenio sustinere
+读到36，发现了一个与non ... dico相类的讲法：nihil dico
+
+> \[36] intellego quam scopuloso difficilique in loco verser; nam cum omnis adrogantia odiosa est, tum illa ingeni atque eloquentiae multo molestissima. quam ob rem **nihil dico** de meo ingenio; neque est quod possim dicere, neque si esset dicerem; aut enim id mihi satis est quod est de me opinionis, quidquid est, aut, si id1 parum est, ego maius id commemorando facere non possum. \[37] de te, Caecili, - iam mehercule hoc extra hanc contentionem certamenque nostrum familiariter tecum loquar,--tu ipse quem ad modum existimes vide etiam atque etiam, et tu te collige, et qui sis et quid facere possis considera. Putasne te posse de maximis acerbissimisque rebus, cum causam sociorum fortunasque provinciae, ius populi Romani, gravitatem iudici legumque susceperis, tot res tam gravis, tam varias voce, memoria, consilio, ingenio sustinere
 
 ## 基于几种程式语言的检索结果
 
-为了更快地处理文本材料，
+基于以上阅读，目前所见的praeteritio用过如下几种程式语言：
+
+1. non dicere
+2. nihil dicere（1. 的一种变体）
+3. praetereo
+4. faccio missus/a/um 
+
+需要注意的是，由于praeteritio是一种通过特定语义结构发挥效果的修辞，而没有可以确证无误的形式上的线索可供作为查找的标准，而如上文36中的例子揭示的，以上四种语言的使用也不一定是praeteritio。但我们仍可以尝试用这四种格式搜索，再在结果中进行逐条筛选。
+
+我通过本地的Perseus Library全数据库，通过在Claude code中通过如下prompt进行了检索，得到了一份西塞罗的praeteritio使用例列表。
+
+> 这份文件夹是perseus library的拉丁文文献数据库，我想查找praeteritio在西塞罗作品中的使用。用以下几种程式语言搜索：
+> 1. non (...) dico（或第一人称单数的其它形态）
+> 2. nihil dico（或第一人称单数的其它形态）
+> 3. praetereo（或第一人称单数的其它形态）
+> 4. facio (...) missus/a/um （或第一人称单数的其它形态）
+> 结果按照 “ 序号. “拉丁文原文”（拉丁文出处，采用OCD标准缩写）” 的格式书写，以md格式输出。
 
