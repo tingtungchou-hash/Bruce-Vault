@@ -4,8 +4,8 @@
   "title": "归档唐长孺 PDF、执行 markitdown 并更新导航",
   "titleGenerationStatus": "success",
   "createdAt": 1794394101051,
-  "updatedAt": 1794449802555,
-  "lastResponseAt": 1794449802555,
+  "updatedAt": 1794469206794,
+  "lastResponseAt": 1794469206794,
   "sessionId": "92f335e0-12de-4849-ab4d-183c4a6f7817",
   "selectedModel": "haiku",
   "providerState": {
@@ -13,12 +13,12 @@
   },
   "usage": {
     "model": "haiku",
-    "inputTokens": 1363,
+    "inputTokens": 476,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 168192,
+    "cacheReadInputTokens": 195200,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 169555,
-    "percentage": 85
+    "contextTokens": 195676,
+    "percentage": 98
   }
 }
