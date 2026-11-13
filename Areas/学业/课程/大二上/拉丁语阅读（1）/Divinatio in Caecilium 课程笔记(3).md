@@ -25,24 +25,18 @@ tags:
 
 > \[28] 关于你，我在这里将不再多说了。我相信大家都注意到了这一点：直到现在，除了西西里人，没有人认识你。而西西里人却说：尽管他们憎恨的正是你自称与之敌对的那个人，可要是由你担任控诉人，他们仍然不会出庭。因此，你不会听我说他们否认此事；你就让他们去猜那件他们非猜不可的事吧。他们这些人，按人类这个族类的性子，本来就过于敏锐、过于多疑：他们并不认为你想把控告维勒斯的文书从西西里带出去；但由于那些文书上同样签有他任裁判官、你任财务官的印记，他们便怀疑你是想把那些文书从西西里运走。\[29] 其次，控告者应当坚定而真实。如果我以为你希望成为这样的人，我很容易看出你不可能做到。我也不说那些即使我说出、你也无法否认的事：你在离开西西里之前就已与维勒斯和解；你的书记官兼友人波塔蒙在你离任时被维勒斯扣留在行省；你的兄弟马库斯·凯基利乌斯，一位极为优秀、极有教养的青年，不仅没有到场与你一同追究你所受的侵害，反而与维勒斯在一起，同他极为亲密友好地往来。你身上还有许多这类虚假控告者的迹象，我此刻并不使用它们；我只说这一点：纵然你极为渴望，你仍然不可能成为真正的控告者。 
 
-此处可以认为praeteritio的有两处：一处由de te plura non dicam开启，一处由nec ea dico开启，相较而言，第二处的praeteritio更明显，宣称不说的事与所说的事直接通过ACI联系，第一处则通过unum ... omnis (omnes) animum advertere借“全部人”之口更委婉地提出，但通过nec仍能判断出两者间的联系，第一处也可却认为praeteritio。non dicere似乎是一个常见的开启praeteritio的套式（虽然这并不能告诉我们什么额外的，而更多是由praeteritio的含义决定的），但两处中在用语上却产生了分歧：一处用dicam，一处用dico。dico自不用多说，是现在时直陈式，但在处理dicam的时候，虽然通常处理为将来时直陈式，但我偶而想到，有没有虚拟式的可能呢？A&G 439记录的Hortatory Subjunctive用法似乎从意思上是说得通的，西塞罗对自己说：“现在，让我别再讲关于你的事了”，但是这一解释因否定词non而失效（若为虚拟式，则应该是ne），可以确定为将来时直陈式。为何一处用将来时一处用现在时呢？
+此处可以认为praeteritio的有两处：一处由de te plura non dicam开启，一处由nec ea dico开启，相较而言，第二处的praeteritio更明显，宣称不说的事与所说的事直接通过ACI联系，第一处则通过unum ... omnis (omnes) animum advertere借“全部人”之口更委婉地提出，但通过nec仍能判断出两者间的联系，第一处也可却认为praeteritio。non dicere似乎是一个常见的开启praeteritio的套式，但两处中在用语上却产生了分歧：一处用dicam，一处用dico。dico自不用多说，是现在时直陈式，但在处理dicam的时候，虽然通常处理为将来时直陈式，但我偶而想到，有没有虚拟式的可能呢？A&G 439记录的Hortatory Subjunctive用法似乎从意思上是说得通的，西塞罗对自己说：“现在，让我别再讲关于你的事了”，但是这一解释因否定词non而失效（若为虚拟式，则应该是ne），可以确定为将来时直陈式。此外
 
-Watson 2025的解释：28.2 plura non dicam By suggesting that he is omitting additional ways in which Caecilius does not live up to the standard of integritas and innocentia, C. appears to have more evidence at his disposal than he may in fact have. The arguments that C. does enumerate, however, are unconvincing: that Caecilius means to abscond with evidence, that he is implicated in Verres’ crimes, and that his familial and political connections prevent him from being an earnest prosecutor. Occultatio ‘is … used to present material which would, if critically examined by an alert jury, be found false or refutable. It enables a statement to be made and mentally noted by the jury in a speaker’s favour; but because he seems to regard it as unnecessary for his argument or irrelevant, they do not examine it too closely. By this means, weak arguments and false evidence could be introduced with confidence under the pretence of omitting them’; Usher (1965) 176. On reticentia and occultatio with further examples, see Usher (1965), Rhet. Her. 4.37, and Sul. 73 quid … commemorem with Berry ad loc. Occultatio, in which some items are mentioned but no evidence is given, is similar to praeteritio, which serves to emphasize what is dismissed, and reticentia, wherein the orator actually passes over information leaving the impression that more could have been said. These techniques are ubiquitous in these sections, in which C. alleges some sort of wrongdoing on Caecilius’ behalf, and suggest a true paucity of evidence; cf. §28 quare negent ex me non audies, §29 nec ea dico …, quibus ego nunc non utor, and §33 sunt alia magis occulta furta ….
+Watson 2025的评注：
+
+> 通过暗示自己略去了凯基利乌斯达不到 integritas（正直）与 innocentia（清白）标准的其他种种方面，西塞罗**显得手中掌握的证据多于他实际上可能拥有的**。然而，**西塞罗列出来的那些论据并不令人信服**：凯基利乌斯意图携证据潜逃；他牵涉进维勒斯的罪行；他的家族与政治关系使他不可能成为真诚的控告者。
+
+Watson（2025:230）据Usher（1956:176）认为此处是Occultatio并提到了它与Praeteritio、Reticentia相似（也就隐含着：Watson认为它们不是严格意义上的一回事）：Occultatio的意图在于通过做出自己的论证不必要或无关紧要的姿态，避免陪审员的细加审查，但同时使得这些证据被陪审团记在心中、对演说者有利，Praeteritio则是是意在强调强调被略去的东西，而Reticentia是事实上的停顿以留下“本可以说更多”的印象（见第一次笔记的术语区别）
+
+
 
  ```
 DS：Bruce，
-
-这条注是对 §28 中 plura non dicam 一语的疏证（编号 28.2）。译如下，再逐层讲解。
-
-一、译文
-
-“28.2 plura non dicam（我不再多说）。通过暗示自己略去了凯基利乌斯达不到 integritas（廉正）与 innocentia（清白）标准的其他种种方面，西塞罗显得手中掌握的证据多于他实际上可能拥有的。然而，西塞罗确实施列出来的那些论据并不令人信服：凯基利乌斯意图携证据潜逃；他牵涉进维勒斯的罪行；他的家族与政治关系使他不可能成为真诚的控告者。
-
-occultatio（遮掩法）‘被用来呈现这样的材料：若经警觉的陪审团认真审查，就会被发现是虚假的或可被驳倒的。它使一项陈述得以作出，并被陪审团记在心中、对演说者有利；但由于演说者似乎认为它对自己的论证不必要或无关紧要，他们便不会细加审查。凭借这一手段，薄弱的论据与虚假的证据就能在“略去不说”的幌子下被有恃无恐地塞进来’；Usher (1965) 176。
-
-关于 reticentia 与 occultatio 及更多例证，参 Usher (1965)、《致赫伦尼乌斯》4.37，以及 Sul. 73 的 quid … commemorem（“我何必提起……”），并参 Berry 对该处的注释。
-
-occultatio——提及若干事项却不给出证据——与 praeteritio 相似，后者旨在强调所被弃置的东西；也与 reticentia 相似，后者是演说者实际上略过某些信息，却留下“本可说得更多”的印象。这些手法在眼下这些段落里比比皆是——西塞罗在其中指控凯基利乌斯有某种不法之举——而这恰恰暗示出真正的证据匮乏；参较 §28 的 quare negent ex me non audies（“因此，他们否认的事，你不会听我说”）、§29 的 nec ea dico …, quibus ego nunc non utor（“我也不说那些……我此刻并不使用它们”），以及 §33 的 sunt alia magis occulta furta …（“还有一些更为隐秘的盗窃……”）。”
 
 二、术语与出处
 

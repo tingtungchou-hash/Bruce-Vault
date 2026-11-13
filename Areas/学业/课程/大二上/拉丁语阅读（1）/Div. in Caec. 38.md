@@ -13,8 +13,10 @@ tags:
 ---
 
 # Original Text
+Putasne te posse quae C. Verres in quaestura, quae in legatione, quae in praetura, quae Romae, quae in Italia, quae in Achaia, Asia Pamphyliaque peccarit, ea, quem ad modum locis temporibusque divisa sint, sic criminibus et oratione distinguere? Putasne posse, id quod in eius modi reo maxime necessarium est, facere ut, quae ille libidinose, quae nefarie, quae crudeliter fecerit, ea aeque acerba et indigna videantur esse his qui audient atque illis visa sunt qui senserunt? 
 
 # Text Analysis
+Putasne te posse quae C. Verres in quaestura, quae in legatione, quae in praetura, quae Romae, quae in Italia, quae in Achaia, Asia Pamphyliaque peccarit, ea, quem ad modum locis temporibusque divisa sint, sic criminibus et oratione distinguere? Putasne posse, id quod in eius modi reo maxime necessarium est, facere ut, quae ille libidinose, quae nefarie, quae crudeliter fecerit, ea aeque acerba et indigna videantur esse his qui audient atque illis visa sunt qui senserunt? 
 
 # Translation
 
