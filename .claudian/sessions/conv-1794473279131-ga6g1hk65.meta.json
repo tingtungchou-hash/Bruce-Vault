@@ -4,8 +4,8 @@
   "title": "Translate and explain Watson commentary",
   "titleGenerationStatus": "success",
   "createdAt": 1794473279132,
-  "updatedAt": 1794479860079,
-  "lastResponseAt": 1794479860079,
+  "updatedAt": 1794494235088,
+  "lastResponseAt": 1794494235088,
   "sessionId": "a137e495-7a62-4020-98d0-56c9dc6ebce1",
   "selectedModel": "haiku",
   "providerState": {
@@ -14,12 +14,12 @@
   "currentNote": "Areas/学业/课程/大二上/拉丁语阅读（1）/Divinatio in Caecilium 课程笔记(3).md",
   "usage": {
     "model": "haiku",
-    "inputTokens": 489,
+    "inputTokens": 227,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 75904,
+    "cacheReadInputTokens": 92416,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 76393,
-    "percentage": 38
+    "contextTokens": 92643,
+    "percentage": 46
   }
 }
