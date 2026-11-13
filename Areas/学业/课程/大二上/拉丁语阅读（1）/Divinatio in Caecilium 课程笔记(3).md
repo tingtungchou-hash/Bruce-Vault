@@ -19,71 +19,21 @@ tags:
 
 阅读到目前为止，终于遇上了一段比较集中的Praeteritio：
 
-> \[28] hic ego **de te plura non dicam**: unum illud credo omnis animum advertere, **te** adhuc a nullis nisi ab Siculis potuisse cognosci; Siculos hoc dicere, cum eidem sint irati cui **tu** **te** inimicum esse dicis, sese tamen **te actore** ad iudicium non adfuturos. quare negent ex me non audies: hos patere id suspicari quod necesse est. illi quidem, ut est hominum genus nimis acutum et suspiciosum, non **te** ex Sicilia litteras in Verrem deportare velle arbitrantur, sed, quod isdem litteris illius praetura et tua quaestura consignata sit, asportare te velle ex Sicilia litteras suspicantur. \[29] deinde accusatorem firmum verumque esse oportet. Eum ego si te putem cupere esse, facile intellego esse non posse. **nec ea dico**, quae si dicam tamen infirmare non possis, te, antequam de Sicilia decesseris, in gratiam redisse cum Verre; Potamonem, scribam et familiarem tuum, retentum esse a Verre in provincia, cum tu decederes; M. Caecilium, fratrem tuum, lectissimum atque ornatissimum adulescentem, non modo non adesse neque tecum tuas iniurias persequi, sed esse cum Verre et cum illo familiarissime atque amicissime vivere. sunt et haec et alia in te falsi accusatoris signa permulta, quibus ego nunc non utor: hoc dico, te, si maxime cupias, tamen verum accusatorem esse non posse. 
+> \[28] hic ego **de te plura non dicam**: unum illud credo omnis animum advertere, **te** adhuc a nullis nisi ab Siculis potuisse cognosci; Siculos hoc dicere, cum eidem sint irati cui **tu** **te** inimicum esse dicis, sese tamen **te actore** ad iudicium non adfuturos. quare negent **ex me non audies**: hos patere id suspicari quod necesse est. illi quidem, ut est hominum genus nimis acutum et suspiciosum, non **te** ex Sicilia litteras in Verrem deportare velle arbitrantur, sed, quod isdem litteris illius praetura et tua quaestura consignata sit, asportare te velle ex Sicilia litteras suspicantur. \[29] deinde accusatorem firmum verumque esse oportet. Eum ego si te putem cupere esse, facile intellego esse non posse. **nec ea dico**, quae si dicam tamen infirmare non possis, te, antequam de Sicilia decesseris, in gratiam redisse cum Verre; Potamonem, scribam et familiarem tuum, retentum esse a Verre in provincia, cum tu decederes; M. Caecilium, fratrem tuum, lectissimum atque ornatissimum adulescentem, non modo non adesse neque tecum tuas iniurias persequi, sed esse cum Verre et cum illo familiarissime atque amicissime vivere. sunt et haec et alia in te falsi accusatoris signa permulta, **quibus ego nunc non utor**: **hoc dico**, te, si maxime cupias, tamen verum accusatorem esse non posse. 
 
 试译如下：
 
-> \[28] 关于你，我在这里将不再多说了。我相信大家都注意到了这一点：直到现在，除了西西里人，没有人认识你。而西西里人却说：尽管他们憎恨的正是你自称与之敌对的那个人，可要是由你担任控诉人，他们仍然不会出庭。因此，你不会听我说他们否认此事；你就让他们去猜那件他们非猜不可的事吧。他们这些人，按人类这个族类的性子，本来就过于敏锐、过于多疑：他们并不认为你想把控告维勒斯的文书从西西里带出去；但由于那些文书上同样签有他任裁判官、你任财务官的印记，他们便怀疑你是想把那些文书从西西里运走。\[29] 其次，控告者应当坚定而真实。如果我以为你希望成为这样的人，我很容易看出你不可能做到。我也不说那些即使我说出、你也无法否认的事：你在离开西西里之前就已与维勒斯和解；你的书记官兼友人波塔蒙在你离任时被维勒斯扣留在行省；你的兄弟马库斯·凯基利乌斯，一位极为优秀、极有教养的青年，不仅没有到场与你一同追究你所受的侵害，反而与维勒斯在一起，同他极为亲密友好地往来。你身上还有许多这类虚假控告者的迹象，我此刻并不使用它们；我只说这一点：纵然你极为渴望，你仍然不可能成为真正的控告者。 
+> \[28] 关于你，我在这里将不再多说了。我相信大家都注意到了这一点：直到现在，除了西西里人，没有人认识你。而西西里人却说：尽管他们憎恨的正是你自称与之敌对的那个人（Verres），可要是由你担任控诉人，他们仍然不会出庭。因此，你不会听我说他们否认此事；你就让他们去猜那件他们非猜不可的事吧。他们这些人，按人类这个族类的性子，本来就过于敏锐、过于多疑：他们并不认为你想把控告维勒斯的文书从西西里带出去；但由于那些文书上同样签有他任裁判官、你任财务官的印记，他们便怀疑你是想把那些文书从西西里运走。\[29] 其次，控告者应当坚定而真实。如果我以为你希望成为这样的人，我很容易看出你不可能做到。我也不说那些即使我说出、你也无法否认的事：你在离开西西里之前就已与维勒斯和解；你的书记官兼友人波塔蒙在你离任时被维勒斯扣留在行省；你的兄弟马库斯·凯基利乌斯，一位极为优秀、极有教养的青年，不仅没有到场与你一同追究你所受的侵害，反而与维勒斯在一起，同他极为亲密友好地往来。你身上还有许多这类虚假控告者的迹象，我此刻并不使用它们；我只说这一点：纵然你极为渴望，你仍然不可能成为真正的控告者。 
 
-此处可以认为praeteritio的有两处：一处由de te plura non dicam开启，一处由nec ea dico开启，相较而言，第二处的praeteritio更明显，宣称不说的事与所说的事直接通过ACI联系，第一处则通过unum ... omnis (omnes) animum advertere借“全部人”之口更委婉地提出，但通过nec仍能判断出两者间的联系，第一处也可却认为praeteritio。non dicere似乎是一个常见的开启praeteritio的套式，但两处中在用语上却产生了分歧：一处用dicam，一处用dico。dico自不用多说，是现在时直陈式，但在处理dicam的时候，虽然通常处理为将来时直陈式，但我偶而想到，有没有虚拟式的可能呢？A&G 439记录的Hortatory Subjunctive用法似乎从意思上是说得通的，西塞罗对自己说：“现在，让我别再讲关于你的事了”，但是这一解释因否定词non而失效（若为虚拟式，则应该是ne），可以确定为将来时直陈式。此外
+此处可以认为praeteritio的有三处：一处由de te plura non dicam开启，一处由nec ea dico开启，还有一处用ex me non audies开启相较而言，第二处的praeteritio更明显，宣称不说的事与所说的事直接通过ACI联系，第一处则通过unum ... omnis (omnes) animum advertere借“全部人”之口更委婉地提出，但通过nec仍能判断出两者间的联系，第一处也可却认为praeteritio；第三处则相对隐匿，变dico为audies，也可以视作是一种套式的变体。non dicere似乎是一个常见的开启praeteritio的套式，但两处中在用语上却产生了分歧：一处用dicam，一处用dico。dico自不用多说，是现在时直陈式，但在处理dicam的时候，虽然通常处理为将来时直陈式，但我偶而想到，有没有虚拟式的可能呢？A&G 439记录的Hortatory Subjunctive用法似乎从意思上是说得通的，西塞罗对自己说：“现在，让我别再讲关于你的事了”，但是这一解释因否定词non而失效（若为虚拟式，则应该是ne），可以确定为将来时直陈式。至于此处二者时态的差异，我还没有想到令人信服的解释，Watson似乎也未对此做出评注。
 
-Watson 2025的评注：
+关于此处的praeteritio，Watson 2025的评注：
 
 > 通过暗示自己略去了凯基利乌斯达不到 integritas（正直）与 innocentia（清白）标准的其他种种方面，西塞罗**显得手中掌握的证据多于他实际上可能拥有的**。然而，**西塞罗列出来的那些论据并不令人信服**：凯基利乌斯意图携证据潜逃；他牵涉进维勒斯的罪行；他的家族与政治关系使他不可能成为真诚的控告者。
 
-Watson（2025:230）据Usher（1956:176）认为此处是Occultatio并提到了它与Praeteritio、Reticentia相似（也就隐含着：Watson认为它们不是严格意义上的一回事）：Occultatio的意图在于通过做出自己的论证不必要或无关紧要的姿态，避免陪审员的细加审查，但同时使得这些证据被陪审团记在心中、对演说者有利，Praeteritio则是是意在强调强调被略去的东西，而Reticentia是事实上的停顿以留下“本可以说更多”的印象（见第一次笔记的术语区别）
+Watson（2025:230）据Usher（1956:176）认为此处是occultatio并提到了它与praeteritio、reticentia相似（也就隐含着：Watson认为它们不是严格意义上的一回事）：occultatio的意图在于通过做出自己的论证不必要或无关紧要的姿态，避免陪审员的细加审查，但同时使得这些证据被陪审团记在心中、对演说者有利，praeteritio则是是意在强调强调被略去的东西，而reticentia是事实上的停顿以留下“本可以说更多”的印象（见第一次笔记的术语区别），这样的occultatio-praeteritio-reticentia三分法是古代修辞学已有的分别还是现代学术语言的回溯性构建，尚不确定。Reticentia固然可以和前两者分开，但occultatio和praeteritio是否有实质性差别，还需要看Usher的原文如何考察，以及古代文献中是否使用了praeteritio这一术语来指代不同于Occultatio的修辞方式。
 
-
-
- ```
-DS：Bruce，
-
-二、术语与出处
-
-integritas 与 innocentia：控诉人资格的两项标准，前者指品行廉正，后者指无咎清白。Watson 的意思是：所谓“略去的更多方面”，就是凯基利乌斯未达这两项标准的其他表现。
-
-Usher (1965)：应即 S. Usher, “Occultatio in Cicero’s Orations,” AJP 86 (1965) 175–192，所引在 176 页。
-
-Rhet. Her. 4.37：《致赫伦尼乌斯》对 occultatio 的定义，大体是“我们说我们略过、不知道、不愿说那恰恰是我们此刻最要说的事”——这其实就是古代名称下的 praeteritio。Watson 把它列入 reticentia 与 occultatio 的文献，说明古代教本并不像现代论著那样把三者分得很清。
-
-Sul. 73：Pro Sulla 73 的 quid … commemorem（“我何必提起……”），是 reticentia 的典型句；Berry 即 D. H. Berry 的 Pro Sulla 校注本（Cambridge 1996）。
-
-三、怎么理解
-
-（一）核心判断：佯略在这里是一种证据策略，不是辞藻的盈余。
-Watson 的第一句就把注意力从“修辞效果”转到“证据状况”：de te plura non dicam 制造出“还有更多、更硬的证据”的印象，而这一印象可能是空的。用他的措辞说，西塞罗“显得”掌握得更多——appears，这个动词是刻意的保留。
-
-（二）他列出的三条论据确实经不起细看，而这一点正是论证的关键。
-携文书潜逃——§28 只说西西里人 arbitrantur、suspicantur，全是传闻与猜疑；与维勒斯同谋——靠的是文书上并有二人署名、离任前和解这一类间接情况；亲属关系——即兄弟马库斯与维勒斯过从甚密。三条都建立在“可以这样推想”（necesse est）之上，而不在证据之上。§29 又添三条（和解、波塔蒙被扣、兄弟倒向对方），同样不给证据；§33 再以 sunt alia magis occulta furta 加码。Watson 的结论是：这类手法越密集，越反证证据越匮乏。
-
-（三）三种手法的区分是功能性的，不是形式性的。
-praeteritio：提及而弃置，效果是强调被弃置者，让听众注意到它。
-occultatio（Usher 的窄义）：提及但不给证据，借“略去”之名让弱论据免于审查。
-reticentia：真的跳过不说，只留下“本可说得更多”的印象。
-
-三者共享“宣称略过”的语言外壳，区别只在三点：被略去的东西后来有没有被说出来；说出来的部分有没有附带证据；最终效果落在强调还是遮蔽。这也是为什么你的四个程式（non dicere、nihil dicere、praetereo、facio missum）只能用于检索，不能用于分类——它们抓到的只是外壳。
-
-（四）这里有一个术语陷阱，值得在你的笔记里单列一条。
-古代 Rhet. Her. 4.37 所说的 occultatio，大体就是后世所谓 praeteritio；Usher 却把 occultatio 窄化为“提及而无证据”。Watson 同时使用这两套术语，说明三分法只是现代分析工具，不是古代的分类体系。你若按古代术语建类，会碰到同名异指的问题；若按 Usher 的窄义建类，又得承认古代作者自己并不这样分。
-
-（五）对 §28 的具体读法。
-de te plura non dicam 只给出“更多”的承诺，紧接着 unum illud 只给了一点；“更多”始终悬空。这正是 praeteritio 最常见也最经济的形式：以承诺代替内容，让听众自行补足。Usher 引文所说的机制正在于此——陈述被作出、被记住，却因为没有证据、又好像“演说者自己都觉得不必要”，而免于审查。这是修辞学意义上的审计漏洞，而西塞罗是刻意利用它的。
-
-（六）与 §36 对照，你标题里的问题就清楚了。
-28–29 的省略针对事实（res），功能是遮掩证据不足，按 Usher 的术语更接近 occultatio；36 的省略针对才思（ingenium），功能是展示，Watson 在 36.4 仍称之为 praeteritio。两处标签不同并非疏漏，而是说明标签随功能而定。你可以据此分别定性：28–29 是证据型、遮掩型的佯略；36 是展示型、自我指涉型的佯略。语言外壳相同，修辞任务相反。
-
-（七）方法论上的收益。
-你第 63 行说“没有可以确证无误的形式线索”，这条注给了正面标准：检索出候选之后，逐条看三件事——被宣称略去的东西后来有没有被说出、有没有证据支撑、效果是引人注目还是使人忽略。三问下来，praeteritio、occultatio、reticentia 大致可分；而这也正说明为什么单靠程式语言检索必然留下大量误判。
-
-（八）附带一句：你关心的 dicam 与 dico 之别，Watson 没有谈。
-不过 plura non dicam 的将来时恰好承担“面向后文、持续有效的承诺”（他在后文其实仍说了很多），而 nec ea dico 的现在时承担“此刻正在执行的省略”。时态差异与话语功能可以对上，这与你原来的观察可以互补，但仍属推测，不宜当作定论。
-
-四、一句总结
-
-Watson 把 praeteritio 从辞格读成了证据策略：28–29 的密集佯略不是雄辩的盈余，而是证据匮乏的症候；同一语言外壳之下，28–29 更接近 occultatio（遮掩），36 才是展示型的 praeteritio。这条注正好为你笔记里的检索表补上了筛选标准。
-
-需要的话，我可以把译文与这段讲解接在第 30 行原文之后，保持你现有的扁平体例。
- ```
+此外，Watson关于此处是occultatio的解读并不能让我满意：Watson认为西塞罗列出的证据的确是
 
 11.3
 
@@ -165,8 +115,10 @@ de arte loqui（谈技艺）— ex arte dicere（依技艺而说）— facere（
 
 1. non dicere
 2. nihil dicere（1. 的一种变体）
-3. praetereo
-4. faccio missus/a/um 
+3. ex me non audis（1. 的一种变体）
+4. nihil ex me audis（1. 的一种变体）
+5. praetereo
+6. faccio missus/a/um 
 
 需要注意的是，由于praeteritio是一种通过特定语义结构发挥效果的修辞，而没有可以确证无误的形式上的线索可供作为查找的标准，而如上文36中的例子揭示的，以上四种语言的使用也不一定是praeteritio。但我们仍可以尝试用这四种格式搜索，再在结果中进行逐条筛选。
 

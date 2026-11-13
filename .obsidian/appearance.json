@@ -4,5 +4,6 @@
   "baseFontSizeAction": true,
   "baseFontSize": 17,
   "textFontFamily": "Times New Roman,华文仿宋",
-  "accentColor": ""
+  "accentColor": "",
+  "showRibbon": true
 }
