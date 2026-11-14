@@ -100,3 +100,13 @@ tags: [language/greek]
 9. ἡ τοῦ φυγάδος ἀδελφὴ οὐκ ἐν τῷ οἴκῳ μένει, ἀλλ' ἀεὶ ἐπὶ ταῖς θύραις ἐστίν. ἔπειτα δ' ὁ τύραννος αὐτὴν αἱρεῖ, ἀλλ' ἀποκτείνειν φοβεῖται. 
 	1. the sister of the fugitive stay in the house, but is always by the side of the door. and then the tyrant find her, but is afraid of killing (him)
 
+IV. Render into Greek
+
+1. It seems best to the citizens to choose this poet, for they do not like the majority of them. 
+	1. δοκεῖ τοῖς πολίταις τὸν ποιητὴν αἱρεῖσθαι, αὐτοὶ γὰρ οὐ φιλοῦσι τὸν πλειστὸν αὐτῶν
+2. He begs that man to speak on behalf of the peace treaty. 
+	1. παρακελεύεται τὸν ἄνθρωπον ὑπὲρ τῆς εἰρήνης 
+3. These things are not this way, but you (pl.) always fare well. 
+	1. ταύτα οὐχ ὧδε ἔχει, ἀλλὰ ἀεὶ εὖ ἔχετε 
+4. Are they not grateful to Peisistratus for the goods things he does? 
+	1. χάριν οὐκ ἔχετε τοῖς βαράροις διὰ τὰ ἀγαθὰ ἃ πράττει. 
