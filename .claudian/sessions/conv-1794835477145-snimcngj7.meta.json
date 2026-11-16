@@ -1,0 +1,25 @@
+{
+  "id": "conv-1794835477145-snimcngj7",
+  "providerId": "claude",
+  "title": "核查交换院校申请与学分转换遗留问题",
+  "titleGenerationStatus": "success",
+  "createdAt": 1794835477145,
+  "updatedAt": 1794837573917,
+  "lastResponseAt": 1794837573917,
+  "sessionId": "61a4f687-1d3d-47df-bda1-47c8602fc593",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "61a4f687-1d3d-47df-bda1-47c8602fc593"
+  },
+  "currentNote": "Resources/attachments/clippings/转学分 - 学生服务 - 北京大学教务部.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 5427,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 133632,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 139059,
+    "percentage": 70
+  }
+}
