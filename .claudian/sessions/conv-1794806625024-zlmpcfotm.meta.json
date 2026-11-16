@@ -4,8 +4,8 @@
   "title": "Explain what the article discusses",
   "titleGenerationStatus": "success",
   "createdAt": 1794806625025,
-  "updatedAt": 1794818690323,
-  "lastResponseAt": 1794818690323,
+  "updatedAt": 1794830101608,
+  "lastResponseAt": 1794830101608,
   "sessionId": "4af51310-5479-4627-8098-fba6fda8ac33",
   "selectedModel": "haiku",
   "providerState": {
@@ -14,12 +14,12 @@
   "currentNote": "Resources/attachments/clippings/Designing a Deck of Timeline Cards for Tabletops and Tabletop Simulator.md",
   "usage": {
     "model": "haiku",
-    "inputTokens": 634,
+    "inputTokens": 137,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 154496,
+    "cacheReadInputTokens": 187392,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 155130,
-    "percentage": 78
+    "contextTokens": 187529,
+    "percentage": 94
   }
 }
