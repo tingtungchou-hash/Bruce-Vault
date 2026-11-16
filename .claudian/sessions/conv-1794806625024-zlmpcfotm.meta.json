@@ -1,0 +1,25 @@
+{
+  "id": "conv-1794806625024-zlmpcfotm",
+  "providerId": "claude",
+  "title": "Explain what the article discusses",
+  "titleGenerationStatus": "success",
+  "createdAt": 1794806625025,
+  "updatedAt": 1794806639697,
+  "lastResponseAt": 1794806639697,
+  "sessionId": "4af51310-5479-4627-8098-fba6fda8ac33",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "4af51310-5479-4627-8098-fba6fda8ac33"
+  },
+  "currentNote": "Resources/attachments/clippings/Designing a Deck of Timeline Cards for Tabletops and Tabletop Simulator.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 16352,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 28160,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 44512,
+    "percentage": 22
+  }
+}
