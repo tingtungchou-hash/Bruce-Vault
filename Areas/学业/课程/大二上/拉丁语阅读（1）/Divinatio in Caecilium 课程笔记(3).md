@@ -56,9 +56,7 @@ Watson认为，此处是praeteritio（注意此时Watson的用语不再是Occult
 > uerum oratori minimum est **de arte loqui**, quod hic fecit, multo maximum **ex arte dicere**, quod eum minime potuisse omnes uidemus. 
 > 然而对演说家来说，最不重要的是**就技艺谈论**——而这正是此人所做的；最重要的是**凭技艺谈论**——而我们都看到，这恰恰是他最做不到的
 
-西塞罗在此处做出了就技艺而谈（de arte loqui）和凭技艺而谈（ex arte dicere）的区别，因而虽然他并未罗列，但却通过随后的几个dicere构成的polyptoton展示了他的演说才能，故而Watson认为此处是praeteritio，也显示了西塞罗早期修辞理论内部的一致性。西塞罗结束36的这句话这样读来也耐人寻味：西塞罗声称世人无法因为自己的谈论而对他的才思产生更好的想法，但这却恰恰是他正在试图做到的和或许做到了的。
-
-然而，如果脱离Watson的评注，此处的dicere能否判断成一种基于ex arte loqui的ingenium的展示，进而构成praeteritio呢？我认为相较于在指涉Verres或Caecilius时候的直言不讳甚至是连篇累牍，此处的解释或许还留有疑问。
+西塞罗在此处做出了就技艺而谈（de arte loqui）和凭技艺而谈（ex arte dicere）的区别，因而虽然他并未罗列，但却通过随后的几个dicere构成的polyptoton展示了他的演说才能，故而Watson认为此处是praeteritio，也显示了西塞罗早期修辞理论内部的一致性。西塞罗结束36的这句话这样读来也耐人寻味：西塞罗声称世人无法因为自己的谈论而对他的才思产生更好的想法，但这却恰恰是他正在试图做到的和或许做到了的。然而，如果脱离Watson评注的引导，此处的dicere能否判断成一种基于ex arte loqui的ingenium的展示，进而构成praeteritio呢？我认为相较于在指涉Verres或Caecilius时候的直言不讳甚至是连篇累牍，此处的修辞效果至少是有所不同的，或许也即是Watson认为的occultatio与praeteritio之别。
 
 11.15
 
@@ -86,4 +84,4 @@ Watson认为，此处是praeteritio（注意此时Watson的用语不再是Occult
 > 6. faccio missus/a/um 
 > 结果按照 “ 序号. “拉丁文原文”（拉丁文出处，采用OCD标准缩写）” 的格式书写，以md格式输出。
 
-11.16
+11.17
