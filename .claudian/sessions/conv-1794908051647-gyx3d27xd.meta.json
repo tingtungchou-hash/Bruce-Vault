@@ -1,0 +1,24 @@
+{
+  "id": "conv-1794908051647-gyx3d27xd",
+  "providerId": "claude",
+  "title": "11月17日 17:34",
+  "createdAt": 1794908051647,
+  "updatedAt": 1794908280829,
+  "lastResponseAt": 1794908280829,
+  "sessionId": "3516b11f-6d07-4818-879e-40f68137aa8d",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "3516b11f-6d07-4818-879e-40f68137aa8d"
+  },
+  "currentNote": "Areas/语言/古希腊语/教材/Introduction to Attic Greek (2nd edition) (Donald J. Mastronarde) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 30057,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 30057,
+    "percentage": 15
+  }
+}
