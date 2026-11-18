@@ -1,0 +1,25 @@
+{
+  "id": "conv-1794990765056-lndn70z9c",
+  "providerId": "claude",
+  "title": "Find target file of Obsidian wikilink",
+  "titleGenerationStatus": "success",
+  "createdAt": 1794990765056,
+  "updatedAt": 1794992965837,
+  "lastResponseAt": 1794992965837,
+  "sessionId": "9c46c70b-a44d-450a-8eea-715cee45f693",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "9c46c70b-a44d-450a-8eea-715cee45f693"
+  },
+  "currentNote": "Areas/学业/课程/大二上/拉丁语阅读（1）/拉丁语阅读(1) - 导航.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 305,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 63104,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 63409,
+    "percentage": 32
+  }
+}
