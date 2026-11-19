@@ -13,10 +13,13 @@ tags:
 ---
 
 # Original Text
+iam nunc mente et cogitatione prospicio quae tum studia hominum, qui concursus futuri sint, quantam exspectationem magnitudo iudici sit adlatura, quantam auditorum multitudinem infamia C. Verris concitatura, quantam denique audientiam orationi meae improbitas illius factura sit. quae cum cogito, iam nunc timeo quidnam pro offensione hominum, qui illi inimici infensique sunt, et exspectatione omnium et magnitudine rerum dignum eloqui possim.
 
 # Text Analysis
+iam nunc mente et cogitatione prospicio quae tum studia hominum, qui concursus futuri sint, quantam exspectationem magnitudo iudici sit adlatura, quantam auditorum multitudinem infamia C. Verris concitatura, quantam denique audientiam orationi meae improbitas illius factura sit. quae cum cogito, iam nunc timeo quidnam pro offensione hominum, qui illi inimici infensique sunt, et exspectatione omnium et magnitudine rerum dignum eloqui possim.
 
 # Translation
+even now by mind and by cognition I see then what are passions of human beings, what tumults are going to take place, how mach 
 
 # Vocabulary
 
