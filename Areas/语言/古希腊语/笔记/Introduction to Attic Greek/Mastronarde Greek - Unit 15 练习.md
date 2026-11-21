@@ -26,41 +26,41 @@ Consonant-Declension Nouns II; Interrogative 129
 8. μητέρας
 9. θύγατερ
 10. κράτη
-11. μερῶν gen pl n 
-12. γήρᾳ dat sing n 
-13. τριήρεσι dat pl f
-14. ἀνδρί dat sing m 
-15. ἅλα acc sing 
-16. ἀγῶνα 
-17. Δημόσθενες
-18. γέρα
-19. πλήθους
-20. τέλος
-21. τίνων
-22. ἄνδρας
-23. πάτερ
-24. τριήρη
-25. γήρως
-26. τίνα
-27. κράτει
-28. δαίμονες
-29. ἀγῶσιν
-30. τίσι
+11. μερῶν gen pl n μέρος, μέρους  
+12. γήρᾳ dat sing n γῆρος, γήρους 
+13. τριήρεσι dat pl f τριήρης, τριήρους 
+14. ἀνδρί dat sing m ἀνήρ, ἀνδρός 
+15. ἅλα acc sing m ἅλς, ἁλός 
+16. ἀγῶνα acc sing m ἀγών, ἀγῶνος 
+17. Δημόσθενες voc sing m Δημοσθένης, Δημοσθένους 
+18. γέρα nom acc voc pl n γέρος, γέρους 
+19. πλήθους gen sing n πλῆθος, πλήθους 
+20. τέλος nom acc voc n τέλος, τέλους 
+21. τίνων gen pl n m f τίς, τίνος 
+22. ἄνδρας acc pl m ἀνήρ, ἀνδρός 
+23. πάτερ voc sing m πατήρ, πατρός 
+24. τριήρη acc sing f τριήνης, τριήνους 
+25. γήρως gen pl n γῆνος, γήνους 
+26. τίνα acc sing m f or nom acc voc pl n τίς, τίνος 
+27. κράτει dat sing n κράτος, κράτους 
+28. δαίμονες nom voc pl m f δαίμων, δαίμονος 
+29. ἀγῶσιν dat sing m ἀγών, ἀγῶνος 
+30. τίσι dat pl n m f τίς, τίνος 
 
 ### II. Render into Greek
 
-1. what portion? (nom.)
-2. the unjust orators (dat.)
-3. most (acc.) of the triremes
-4. which Greeks? (gen.)
-5. a small privilege (gen.)
-6. evil strife (acc.)
-7. large teeth (nom.)
-8. during that year
-9. the wise plan (dat.)
-10. what hopes? (nom.)
-11. this multitude (gen.)
-12. after the contest
+1. what portion? (nom.) τίς μοῖρα; τίς μέρος; 
+2. the unjust orators (dat.) τοῖς ἀδίκοις ῥήτορσι  
+3. most (acc.) of the triremes τὰς πλεῖστας τῶν τριηνῶν 
+4. which Greeks? (gen.) τίνων Ἕλλήνων; 
+5. a small privilege (gen.) μικροῦ γέρους 
+6. evil strife (acc.) κακὴν ἔριν  
+7. large teeth (nom.) μακροὶ ὀδόντες  
+8. during that year 
+9. the wise plan (dat.) τῷ σοφῷ βουλεύματι 
+10. what hopes? (nom.) τίνες ἐλπίδες 
+11. this multitude (gen.) τούδε πλήθους 
+12. after the contest μετὰ 
 13. which mothers? (dat.)
 14. toward that wall
 15. with the husband
