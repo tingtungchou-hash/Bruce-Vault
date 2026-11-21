@@ -23,7 +23,7 @@ status: seedling
 | 12   | [[Mastronarde Greek - Unit 12 笔记]]  | [[Mastronarde Greek - Unit 12 练习]] |                                                                  |
 | 13   | [[Mastronarde Greek - Unit 13 笔记]]  | [[Mastronarde Greek - Unit 13 练习]] | contract verbs in -έω - demonstratives                           |
 | 14   | [[Mastronarde Greek - Unit 14 笔记]]  | [[Mastronarde Greek - Unit 14 练习]] | consonant-declension nouns I                                     |
-| 15   | [[Mastronarde Greek - Unit 15 笔记]] |                                    |                                                                  |
+| 15   | [[Mastronarde Greek - Unit 15 笔记]]  | [[Mastronarde Greek - Unit 15 练习]] |                                                                  |
 # 专题整理
 - [[Mastronarde介词搭配]] 
 - [[第三变格法.canvas]]

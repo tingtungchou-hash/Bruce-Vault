@@ -4,8 +4,8 @@
   "title": "Organize highlighted vocabulary in Obsidian",
   "titleGenerationStatus": "success",
   "createdAt": 1794992860533,
-  "updatedAt": 1795162839080,
-  "lastResponseAt": 1795162839080,
+  "updatedAt": 1795178156064,
+  "lastResponseAt": 1795178156064,
   "sessionId": "9aa569fb-f312-4110-b013-23e81affec34",
   "selectedModel": "haiku",
   "providerState": {
@@ -14,12 +14,12 @@
   "currentNote": "Areas/学业/课程/大二上/拉丁语阅读（1）/Div. in Caec. 41.md",
   "usage": {
     "model": "haiku",
-    "inputTokens": 251,
+    "inputTokens": 172,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 79104,
+    "cacheReadInputTokens": 97920,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 79355,
-    "percentage": 40
+    "contextTokens": 98092,
+    "percentage": 49
   }
 }
