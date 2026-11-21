@@ -321,30 +321,30 @@ RIB 3185中的Insus被称为Treveri共同体的成员，同时又以辅助骑兵
 
 **主题一：地方身份与军事身份并存**
 
-|铭文|人物|值得关注的问题|
-|---|---|---|
-|RIB 109|Sextus Valerius Genialis|Frisiavones身份、辅助骑兵、服役20年|
-|RIB 159|Lucius Vitellius Tancinus|Caurium出身、Vettones骑兵、26年服役|
-|RIB 201|Longinus Sdapeze|Sardica地区出身、父名、骑兵军阶|
-|RIB 2142|Nectovelius|Brigantian身份、色雷斯辅助军、9年服役|
-|RIB 3185|Insus|Treveri地方公民身份、骑兵身份|
-|RIB 108|Dannicus|Raurici身份、骑兵服役|
-|RIB 403|Candidus|Vettones部队、短期服役|
+| 铭文       | 人物                        | 值得关注的问题                    |
+| -------- | ------------------------- | -------------------------- |
+| RIB 109  | Sextus Valerius Genialis  | Frisiavones身份、辅助骑兵、服役20年   |
+| RIB 159  | Lucius Vitellius Tancinus | Caurium出身、Vettones骑兵、26年服役 |
+| RIB 201  | Longinus Sdapeze          | Sardica地区出身、父名、骑兵军阶        |
+| RIB 2142 | Nectovelius               | Brigantian身份、色雷斯辅助军、9年服役   |
+| RIB 3185 | Insus                     | Treveri地方公民身份、骑兵身份         |
+| RIB 108  | Dannicus                  | Raurici身份、骑兵服役             |
+| RIB 403  | Candidus                  | Vettones部队、短期服役            |
 
 这组最适合回答：地方身份是否随着进入罗马军队而消失？铭文如何同时呈现地方归属与军事身份？
 
 **主题二：家庭关系与退伍身份**
 
-|铭文|人物|值得关注的问题|
-|---|---|---|
-|RIB 620|Crotus|退伍军人、妻子Flavia Peregrina立碑|
-|RIB 1667|Dagvalda|妻子Pusinna立碑|
-|RIB 2115|Afutianus|Tungrian辅助军军官、妻子立碑|
-|RIB 121|Rufus Sita|22年服役、遗嘱继承人|
-|Brit.39.5|Crescens|骑兵、15年服役、继承人立碑|
-|RIB 804|Smertrius|10年服役、年龄、军队身份|
-|RIB 1619|Hurmius|辅助军士兵、受益官职、继承人|
-|RIB 594|Aelia Matrona等|家庭群体，需进一步确认与辅助军的联系|
+| 铭文        | 人物             | 值得关注的问题                   |
+| --------- | -------------- | ------------------------- |
+| RIB 620   | Crotus         | 退伍军人、妻子Flavia Peregrina立碑 |
+| RIB 1667  | Dagvalda       | 妻子Pusinna立碑               |
+| RIB 2115  | Afutianus      | Tungrian辅助军军官、妻子立碑        |
+| RIB 121   | Rufus Sita     | 22年服役、遗嘱继承人               |
+| Brit.39.5 | Crescens       | 骑兵、15年服役、继承人立碑            |
+| RIB 804   | Smertrius      | 10年服役、年龄、军队身份             |
+| RIB 1619  | Hurmius        | 辅助军士兵、受益官职、继承人            |
+| RIB 594   | Aelia Matrona等 | 家庭群体，需进一步确认与辅助军的联系        |
 
 这组尤其适合与你对军事文凭的家庭条款进行对照。
 
