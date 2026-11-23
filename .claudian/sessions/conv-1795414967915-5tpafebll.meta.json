@@ -1,0 +1,25 @@
+{
+  "id": "conv-1795414967915-5tpafebll",
+  "providerId": "claude",
+  "title": "Analyze 陇山禽 to 雪衣娘 narrative transition",
+  "titleGenerationStatus": "success",
+  "createdAt": 1795414967916,
+  "updatedAt": 1795415504120,
+  "lastResponseAt": 1795415504120,
+  "sessionId": "4ac1d69a-4b1f-453f-abbc-3e83e8b78945",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "4ac1d69a-4b1f-453f-abbc-3e83e8b78945"
+  },
+  "currentNote": "Areas/学业/课程/大二上/历史论文写作/吴玉贵 内蒙古赤峰宝山辽壁画墓颂经图略考_吴玉贵.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 39092,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 39092,
+    "percentage": 20
+  }
+}
