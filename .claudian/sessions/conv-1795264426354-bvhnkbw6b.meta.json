@@ -4,8 +4,8 @@
   "title": "Run markitdown on PDF after checking OCR",
   "titleGenerationStatus": "success",
   "createdAt": 1795264426354,
-  "updatedAt": 1795265563430,
-  "lastResponseAt": 1795265563430,
+  "updatedAt": 1795409947041,
+  "lastResponseAt": 1795409947040,
   "sessionId": "29abaf0d-0d79-4a86-84d7-5afcf74a0fdc",
   "selectedModel": "haiku",
   "providerState": {
@@ -14,12 +14,12 @@
   "currentNote": "+inbox/拉美史-读书报告/现代化和官僚威权主义：南美政治研究（Modernization and bureaucratic-authoritarianism  studies in South American politics） (吉列尔莫·奥唐奈(Guillermo A.O’Donnell)) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
   "usage": {
     "model": "haiku",
-    "inputTokens": 171,
+    "inputTokens": 956,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 133632,
+    "cacheReadInputTokens": 194176,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 133803,
-    "percentage": 67
+    "contextTokens": 195132,
+    "percentage": 98
   }
 }
