@@ -13,10 +13,13 @@ tags:
 ---
 
 # Original Text
+tu horum nihil metuis, nihil cogitas, nihil laboras: si quid ex vetere aliqua oratione, 'Iovem ego optimum maximum,' aut 'vellem, si fieri potuisset, iudices,' aut aliquid eius modi ediscere potueris, praeclare te paratum in iudicium venturum arbitraris.
 
 # Text Analysis
+tu horum nihil metuis, nihil cogitas, nihil laboras: si quid ex vetere aliqua oratione, 'Iovem ego optimum maximum,' aut 'vellem, si fieri potuisset, iudices,' aut aliquid eius modi ediscere potueris, praeclare te paratum in iudicium venturum arbitraris.
 
 # Translation
+You fear nothing of them, you know nothing: if what out of some old oratory, "I call Jupiter O. M." or ""
 
 # Vocabulary
 

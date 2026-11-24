@@ -13,10 +13,13 @@ tags:
 ---
 
 # Original Text
+ac si tibi nemo responsurus esset, tamen ipsam causam, ut ego arbitror, demonstrare non posses: nunc ne illud quidem cogitas, tibi cum homine disertissimo et ad dicendum paratissimo futurum esse certamen, quicum modo disserendum, modo altercandum, modo omni ratione pugnandum certandumque sit. cuius ego ingenium ita laudo ut non pertimescam, ita probo ut me ab eo delectari facilius quam decipi putem posse.
 
 # Text Analysis
+ac si tibi nemo responsurus esset, tamen ipsam causam, ut ego arbitror, demonstrare non posses: nunc ne illud quidem cogitas, tibi cum homine ==disertissimo== et ad dicendum paratissimo futurum esse certamen, <= (**qui*cum*** modo disserendum, modo ==altercandum==, modo \[omni ratione] pugnandum certandumque **sit**). cuius ego ingenium ita laudo ut non pertimescam, ita probo ut me ab eo ==*delectari*== facilius quam *decipi* putem posse. 
 
 # Translation
+and if to you nothing 
 
 # Vocabulary
 

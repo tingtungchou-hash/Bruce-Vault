@@ -16,9 +16,9 @@ tags:
 ego qui, sicut omnes sciunt, in foro iudiciisque ita verser ut eiusdem aetatis aut nemo aut pauci pluris causas defenderint, et qui omne tempus quod mihi ab amicorum negotiis datur in his studiis laboribusque consumam, quo paratior ad usum forensem promptiorque esse possim, tamen ita mihi deos velim propitios ut, cum illius mihi temporis venit in mentem quo die citato reo mihi dicendum sit, non solum commoveor animo, sed etiam toto corpore perhorresco.
 
 # Text Analysis
-ego (*qui*, sicut omnes sciunt, in foro iudiciisque ita verser **ut** eiusdem aetatis aut nemo aut pauci | *pluris(es) causas* defenderint), et (*qui* omne tempus \[*quod* mihi ab amicorum negotiis datur] in his studiis laboribusque consumam), *quo* paratior ad usum ==forensem== promptiorque esse possim, **tamen** ita mihi deos velim ==propitios== **ut**, \[cum illius mihi temporis venit in mentem] *quo die* citato reo mihi dicendum sit, non solum commoveor animo, sed etiam toto corpore perhorresco.
+ego (*qui*, sicut omnes sciunt, in foro iudiciisque ita verser **ut** eiusdem aetatis aut nemo aut pauci | *pluris(es) causas* defenderint), et (*qui* omne tempus \[*quod* mihi ab amicorum negotiis datur] in his studiis laboribusque consumam), **quo** paratior ad usum ==forensem== promptiorque esse possim, **tamen** ita mihi deos velim ==propitios== **ut**, \[cum illius mihi temporis venit in mentem] *quo die* citato reo mihi dicendum sit, non solum commoveor animo, sed etiam toto corpore perhorresco.
 
-# Translation
+# Translation 
 I who, as all know, devoted myself so much in forum as well as in courts that ~~they~~ ***either nobody or very few of the same age*** defend ~~either nothing of the same time or causes of a little more~~ ***more cases***, and who takes up all time which is given to me from bussinesses of firends in these passion and labour, and thus I am able to be more prepared and ready to use, however I wish so much gods to be favourable to me, that when it went into my mind of that time which day it is said to me by the aggitated defendent, not only am I moved by spirit, but also did I tremble with the entire body. 
 
 我——正如所有人都知道的——在广场和法庭上如此忙碌，以至于同龄人之中，要么无人、要么只有极少数人（比我）辩护过更多的案件；而我，又把从朋友的事务中挤出来的全部时间，都投入到这些研习与劳作之中，好使自己对于法庭实务更有准备、更为迅捷；然而，我愿神明如此眷顾我：每当我想起那个日子——被告已被传唤、该轮到我发言的那一天——我不但心神震动，甚至全身战栗。
