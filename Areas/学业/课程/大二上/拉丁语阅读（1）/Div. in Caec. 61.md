@@ -13,8 +13,10 @@ tags:
 ---
 
 # Original Text
+ac vide quid differat inter meam opinionem ac tuam. tu cum omnibus rebus inferior sis, hac una in re te mihi anteferri putas oportere, quod quaestor illius fueris: ego, si superior omnibus rebus esses, hanc unam ob causam te accusatorem repudiari putarem oportere. sic enim a maioribus nostris accepimus, praetorem quaestori suo parentis loco esse oportere; nullam neque iustiorem neque graviorem causam necessitudinis posse reperiri quam coniunctionem sortis, quam provinciae, quam offici, quam publici muneris societatem.
 
 # Text Analysis
+ac vide quid differat inter meam opinionem ac tuam. tu cum omnibus rebus inferior sis, hac una in re te mihi anteferri putas oportere, quod quaestor illius fueris: ego, si superior omnibus rebus esses, hanc unam ob causam te accusatorem repudiari putarem oportere. sic enim a maioribus nostris accepimus, praetorem quaestori suo parentis loco esse oportere; nullam neque iustiorem neque graviorem causam necessitudinis posse reperiri quam coniunctionem sortis, quam provinciae, quam offici, quam publici muneris societatem.
 
 # Translation
 
