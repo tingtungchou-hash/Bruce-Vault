@@ -4,8 +4,8 @@
   "title": "Explain Latin clause grammar",
   "titleGenerationStatus": "success",
   "createdAt": 1795512790635,
-  "updatedAt": 1795608804233,
-  "lastResponseAt": 1795608804233,
+  "updatedAt": 1795612552752,
+  "lastResponseAt": 1795612552752,
   "sessionId": "494d221a-4d6d-4856-a767-5869717e1da8",
   "selectedModel": "haiku",
   "providerState": {
@@ -14,12 +14,12 @@
   "currentNote": "Areas/学业/课程/大二上/拉丁语阅读（1）/Div. in Caec. 58.md",
   "usage": {
     "model": "haiku",
-    "inputTokens": 981,
+    "inputTokens": 227,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 155136,
+    "cacheReadInputTokens": 181760,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 156117,
-    "percentage": 78
+    "contextTokens": 181987,
+    "percentage": 91
   }
 }

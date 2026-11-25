@@ -69,34 +69,38 @@ tags: [language/greek]
 7. to march ἐλαύνειν 
 8. you (pl.) were ἦτε 
 9. he was leading away ἀπῆγ~~ον~~***ε***  
-10. they used to arrive ἀφεκεν~~εῖσθε~~***οῠτο 
-11. you (pl.) were guiding ἤγετε
-12. they were being misled ἀπήγοντο
-13. we are seeking ἡυρίσκομεν
+10. they used to arrive ἀφεκεν~~εῖσθε~~***οῦτο***  
+11. you (pl.) were guiding ~~ἤγετε~~ ***ἡγεῖσθε***
+12. they were being misled ~~ἀπ~~***παρ***ήγοντο
+13. we are seeking ~~ἡυρίσκομεν~~ ***ζητοῦμεν***
 14. she was perceiving ᾐσθάνετο
 15. I was inquiring ἐπυνθανόμην 
 16. we used to seem ἐδοκοῦμεν
-17. it is being made ἐποίει 
+17. it is being made ~~ἐ~~πο~~ίει~~***ιεῖται***
 18. she used to say ἔλεγε
 19. you (pl.) were leaving ἐλείπετε
-20. you (s.) supposed ᾤεσθε 
+20. you (s.) supposed ᾤ~~εσθε~~***ου***
 21. they were remaining ἔμενον 
-22. I desired ἐβουλόμην 
+22. I desired ~~ἐβουλόμην~~ ***ἐπεθύμουν***
 23. I hindered ἐκώλυον
-24. to be furnished ἐπαρέχεσθαι
+24. to be furnished ~~ἐ~~παρέχεσθαι
 25. you (s.) are on your guard φυλάττῃ 
-26. it is distant from απεῖχον 
+26. it is distant from ἀπ~~εῖ~~***έ***χ~~ον~~***ει***
 27. it was being written ἐγράφετο
 28. we used to harm ἐβλάπτομεν
-29. it is being heard ἠκοῦε
-30. you (s.) were finding ἠύρισκες 
+29. it is being heard ~~ἠ~~***ἀ***κο~~ῦ~~***ύ***ε***ται***
+30. you (s.) were finding ~~ἡύ~~***ηὕ***ρισκες
 
 ### III. Reading.
 
 1. ἐνθάδε οἱ μὲν καλοὶ καὶ ἀγαθοὶ τὴν πατρίδα βλάπτειν καὶ πλοῦτον λαμβάνειν οὐκ ἤθελον, ἀλλὰ μὴ ἀδικεῖσθαι ὑπὸ τῶν πονηρῶν ἐβούλοντο· τοῖς δὲ πονηροῖς, οἳ ἀεὶ ἀρχῆς τε καὶ πλούτου ἐπεθύμουν, τότε ἐξῆν τῆσδε τῆς χώρας κρατεῖν· τοὺς μὲν γὰρ στρατηγοὺς ἀποκτείνουσι, τοὺς δὲ ῥήτορας εἰς τὸ ἱερὸν ἀπάγουσι καὶ ἐκεῖ φυλάττουσιν. ἔπειτα τὸν δῆμον περὶ τῶν πραγμάτων βουλεύεσθαι ἐκώλυον.
-2. ταῦτα τὰ δεινὰ ἐκ τοῦ γέροντος αἱ τοῦ Δημοσθένους θυγατέρες ἀκούουσι καὶ αὐτίκα τοὺς νεανίας ᾔτουν ἡγεῖσθαι αὐταῖς ἐκ τῆς χώρας ἐκείνης, ἐν ᾗ ἦσαν θῆρές τε καὶ ὄρνιθες βλαβεροί.
-3. ἔπειτα ὁ Παυσανίας [“Pausanias,” Spartan king at the end of the Peloponnesian War] τοῖς Ἀθηναίοις παρεκελεύετο κήρυκας [“heralds”] πέμπειν περὶ τῆς εἰρήνης· οἱ δ’ ἐπείθοντο.
+	1. here the just and good men didn't wish to harm the fatherland and to take the wealth, but they wanted not to be wronged by the base men, while at that time it was possible that the base men who always desire rule and wealth rule this land, because they kill the genrals while arrest the orators into the shrine and guard them there. then they hindered people from thinking about these deeds. 
+2. ταῦτα τὰ δεινὰ ἐκ τοῦ γέροντος αἱ τοῦ Δημοσθένους θυγατέρες ἀκούουσι καὶ αὐτίκα τοὺς νεανίας ᾔτουν ἡγεῖσθαι αὐταῖς ἐκ τῆς χώρας ἐκείνης, ἐν ᾗ ἦσαν θῆρές τε καὶ ὄρνιθες βλαβεροί. 
+	1. the daughters of Demosthenes listen to these terrible things out of the old man and then sought the young men to be had by those women out of that land, where there were both beasts and foreign birds.  
+3. ἔπειτα ὁ Παυσανίας [“Pausanias,” Spartan king at the end of the Peloponnesian War] τοῖς Ἀθηναίοις παρεκελεύετο κήρυκας [“heralds”] πέμπειν περὶ τῆς εἰρήνης· οἱ δ’ ἐπείθοντο. 
+	1. then Pausanias urged the Athenians to send the heralds about peace, while they obeyed. 
 4. ἐπεὶ [“when”] δ’ ἦσαν ἐπὶ ταῖς θύραις ταῖς Τισσαφέρνους [“Tissaphernes,” a Persian governor, gen.], οἱ μὲν στρατηγοὶ εἰς τὴν σκηνὴν ἔρχονται, οἱ δὲ στρατιῶται ἐπὶ ταῖς θύραις ἔμενον. μετὰ δ’ οὐ μακρὸν χρόνον ἐκεῖνοί τε ᾑροῦντο καὶ οὗτοι ἐκόπτοντο. ἔπειτα δ’ οἱ βάρβαροι διὰ τοῦ πεδίου [“plain”] ἤλαυνον καὶ τοὺς Ἕλληνας ἀπέκτεινον.
+	1. when they were at the doors of Tissaphernens, the generals go into the tent, while the soldiers stay at the doors. after a long period of time, both the former was caught and the latter were cut. then the foreigners marched through the plain and killed the Greeks. 
 5. ὦ παῖ, μὴ ἐπαίνει τοὺς πονηρούς· εἰς τί γὰρ οὗτοι τοὺς φίλους ὠφελοῦσιν;
 6. οἱ ναῦται εἰς τήνδε τὴν χώραν ἀφικνεῖσθαι ἐβούλοντο, ἀλλὰ τοῖς ἀνέμοις εἰς ἄλλην ἀεὶ ἐτρέποντο.
 7. ἡ τῶν ἀνθρώπων τύχη ὑπὸ τοῦ δαίμονος παρέχεται, καὶ νῦν μὲν ἀγαθή ἐστιν, αὖθις δὲ κακή.
