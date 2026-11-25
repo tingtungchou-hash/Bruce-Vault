@@ -30,66 +30,66 @@ tags: [language/greek]
 13. ἡγοῦνται
 14. ἐφυλάττου
 15. ἠδικεῖτε
-16. ᾐσθανόμην
-17. γίγνῃ
-18. ἔδει
-19. ἐδόκουν
-20. ᾠκεῖτο
-21. παρεκελευόμην
-22. πυνθάνονται
-23. ἔσπενδες
-24. ἔφευγε
-25. ἐφοβούμην
-26. ἐπράττετο
-27. ἦσαν
-28. ἐταττόμεθα
-29. ὠφελεῖσθε
-30. φέρεται
-31. ἐπέτρεπον
-32. ποιοῦμαι
-33. ἐζήτει
-34. κωλύεσθαι
-35. ἀπήγοντο
-36. ἐγίγνετο
-37. αἰτεῖσθαι
-38. ἐβουλόμεθα
-39. ἐνόσουν
-40. ἐπυνθάνου
-41. ᾤου
-42. ἐλαμβάνομεν
+16. ᾐσθανόμην impf ind dep 1 sing 
+17. γίγνῃ pres ind dep 2 sing 
+18. ἔδει impf ind act 3 sing or ~~impr 2 sing~~ ==(δέω => ἐδε- + ες => ἔδεις)== *(it was necessary)*
+19. ἐδόκουν impf ind act 1 sing or 3 pl *(they seemed or I seemed)*
+20. ᾠκεῖτο impf ind mid/pass 3 sing *(it was being inhabited or managed)*
+21. παρεκελευόμην impf ind dep 1 sing *(I was exhorting)*
+22. πυνθάνονται pres ind dep 3 pl *(they are learning by inquiry)*
+23. ἔσπενδες impf ind act 2 sing *(you (s.) were pouring a libation)*
+24. ἔφευγε impf ind act 3 sing *(she or he was fleeing)*
+25. ἐφοβούμην impf ind mid/pass 1 sing *(I was afraid)*
+26. ἐπράττετο impf ind mid/pass 3 sing *(it was being accomplished or she or he was accomplishing for herself or himself)*
+27. ἦσαν impf ind act 3 pl *(they were)*
+28. ἐταττόμεθα impf ind mid/pass 1 pl *(we were being arranged)*
+29. ὠφελεῖσθε impf ind mid/pass 2 pl ***or pres ind or impr mid/pass 2 pl*** *(you (pl.) were being helped or you (pl.) are being helped or be helped (pl.))*
+30. φέρεται pres ind mid/pass 3 sing *(it is being carried or she or he is winning)*
+31. ἐπέτρεπον impf ind act 1 sing or 3 pl *(they were entrusting or I was entrusting)*
+32. ποιοῦμαι pres ind mid/pass 1 sing *(I am being made or I am making for myself)*
+33. ἐζήτει impf ind act 3 sing *(she or he was seeking)*
+34. κωλύεσθαι pres inf mid/pass *(to be prevented)*
+35. ἀπήγοντο impf ind mid/pass 3 pl *(they were being arrested)*
+36. ἐγίγνετο impf ind dep 3 sing *(it was happening or she or he was becoming)*
+37. αἰτεῖσθαι pres inf mid/pass *(to be asked or to ask for oneself)*
+38. ἐβουλόμεθα impf ind dep 1 pl *(we wanted)*
+39. ἐνόσουν impf ind act 1 sing or 3 pl *(they were ill or I was ill)*
+40. ἐπυνθάνου impf ind dep 2 sing *(you (s.) were inquiring)*
+41. ᾤου impf ind dep 2 sing *(you (s.) supposed)*
+42. ἐλαμβάνομεν impf ind act 1 pl *(we were taking)*
 
 ### II. Write in Greek.
 
-1. it was being carried
-2. we were afraid
-3. to be loved
-4. I was helping
-5. they used to suffer
-6. you (s.) were fighting
-7. to march
-8. you (pl.) were
-9. he was leading away
-10. they used to arrive
-11. you (pl.) were guiding
-12. they were being misled
-13. we are seeking
-14. she was perceiving
-15. I was inquiring
-16. we used to seem
-17. it is being made
-18. she used to say
-19. you (pl.) were leaving
-20. you (s.) supposed
-21. they were remaining
-22. I desired
-23. I hindered
-24. to be furnished
-25. you (s.) are on your guard
-26. it is distant from
-27. it was being written
-28. we used to harm
-29. it is being heard
-30. you (s.) were finding
+1. it was being carried ἐφέρ~~ε(ν)~~***ετο***  
+2. we were afraid ἐφοβούμεθα
+3. to be loved φιλεῖσθαι
+4. I was helping ὠφέλουν
+5. they used to suffer ἔπασχον
+6. you (s.) were fighting ἐμάχου
+7. to march ἐλαύνειν 
+8. you (pl.) were ἦτε 
+9. he was leading away ἀπῆγ~~ον~~***ε***  
+10. they used to arrive ἀφεκεν~~εῖσθε~~***οῠτο 
+11. you (pl.) were guiding ἤγετε
+12. they were being misled ἀπήγοντο
+13. we are seeking ἡυρίσκομεν
+14. she was perceiving ᾐσθάνετο
+15. I was inquiring ἐπυνθανόμην 
+16. we used to seem ἐδοκοῦμεν
+17. it is being made ἐποίει 
+18. she used to say ἔλεγε
+19. you (pl.) were leaving ἐλείπετε
+20. you (s.) supposed ᾤεσθε 
+21. they were remaining ἔμενον 
+22. I desired ἐβουλόμην 
+23. I hindered ἐκώλυον
+24. to be furnished ἐπαρέχεσθαι
+25. you (s.) are on your guard φυλάττῃ 
+26. it is distant from απεῖχον 
+27. it was being written ἐγράφετο
+28. we used to harm ἐβλάπτομεν
+29. it is being heard ἠκοῦε
+30. you (s.) were finding ἠύρισκες 
 
 ### III. Reading.
 
