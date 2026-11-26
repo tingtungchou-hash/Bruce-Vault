@@ -4,8 +4,8 @@
   "title": "Analyze Rousseau's general will and Nazi Germany",
   "titleGenerationStatus": "success",
   "createdAt": 1795661114028,
-  "updatedAt": 1795677201914,
-  "lastResponseAt": 1795677201914,
+  "updatedAt": 1795691331950,
+  "lastResponseAt": 1795691331950,
   "sessionId": "ee090dae-0fdf-4711-921c-4c2f2808868b",
   "selectedModel": "haiku",
   "providerState": {
@@ -14,12 +14,12 @@
   "currentNote": "Areas/学业/课程/大二上/西方现代政治思想/卢梭 《社会契约论》 26-11-19 西政思(10).md",
   "usage": {
     "model": "haiku",
-    "inputTokens": 172,
+    "inputTokens": 269,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 66304,
+    "cacheReadInputTokens": 93440,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 66476,
-    "percentage": 33
+    "contextTokens": 93709,
+    "percentage": 47
   }
 }
