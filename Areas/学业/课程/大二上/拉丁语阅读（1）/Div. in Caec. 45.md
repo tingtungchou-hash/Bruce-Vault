@@ -13,8 +13,10 @@ tags:
 ---
 
 # Original Text
+te vero, Caecili, quem ad modum sit elusurus, quam omni ratione iactaturus, videre iam videor; quotiens ille tibi potestatem optionemque facturus sit ut eligas utrum velis--factum esse necne, verum esse an falsum--utrum dixeris, id contra te futurum. qui tibi aestus, qui error, quae tenebrae, di immortales, erunt, homini minime malo! quid? cum accusationis tuae membra dividere coeperit et in digitis suis singulas partis causae constituere? quid? cum unum quidque transigere, expedire, absolvere? ipse profecto metuere incipies ne innocenti periculum facessieris. 
 
 # Text Analysis
+te vero, Caecili, quem ad modum sit elusurus, quam omni ratione iactaturus, videre iam videor; quotiens ille tibi potestatem optionemque facturus sit ut eligas utrum velis--factum esse necne, verum esse an falsum--utrum dixeris, id contra te futurum. qui tibi aestus, qui error, quae tenebrae, di immortales, erunt, homini minime malo! quid? cum accusationis tuae membra dividere coeperit et in digitis suis singulas partis causae constituere? quid? cum unum quidque transigere, expedire, absolvere? ipse profecto metuere incipies ne innocenti periculum facessieris. 
 
 # Translation
 
