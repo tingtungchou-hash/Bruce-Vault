@@ -19,7 +19,7 @@ ac si tibi nemo responsurus esset, tamen ipsam causam, ut ego arbitror, demonstr
 ac si tibi nemo responsurus esset, tamen ipsam causam, ut ego arbitror, demonstrare non posses: nunc ne illud quidem cogitas, tibi cum homine ==disertissimo== et ad dicendum paratissimo futurum esse certamen, <= (**qui*cum*** modo disserendum, modo ==altercandum==, modo \[omni ratione] pugnandum certandumque **sit**). cuius ego ingenium ita laudo ut non pertimescam, ita probo ut me ab eo ==*delectari*== facilius quam *decipi* putem posse. numquam ille me opprimet consilio, numquam ullo artificio ==pervertet==, numquam ingenio me suo ==labefactare== atque infirmare conabitur; novi omnis hominis petitiones rationesque dicendi; saepe in isdem, saepe in contrariis causis *versati* sumus; ita contra me ille dicet, quamvis sit ingeniosus, ut non nullum etiam de suo ingenio iudicium fieri arbitretur. 
 
 # Translation
-and if to you nothing 
+and if he is not going to respond  nothing 
 
 never did he oppress me with plan, 
 never 
