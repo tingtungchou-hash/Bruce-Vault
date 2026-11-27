@@ -269,6 +269,9 @@ atque huiusce rei iudicium iam continuo video futurum. si enim mihi hodie respon
 
 # XV
 esto, ipse nihil est, nihil potest; at venit paratus cum subscriptoribus exercitatis et disertis. est tamen hoc aliquid, tametsi non est satis; omnibus enim rebus is qui princeps in agendo est ornatissimus et paratissimus esse debet. verum tamen L. Appuleium esse video proximum subscriptorem, hominem non aetate sed usu forensi atque exercitatione tironem.
+
+就算如此——他本人不名一文，也毫无能耐；可他带着一批训练有素、能言善辩的副控诉人（联署协助控诉者）有备而来。不过，这一点也算有些分量，尽管还不足够；因为在一切方面，居于主控（首席）地位的人，都应当是最出色、准备最充分的。然而，我看到卢基乌斯·阿普莱乌斯是他的次席副控诉人——此人论年纪不算轻，论法庭阅历和实务却仍是个新手。
+
 ## \[48]
 deinde, ut opinor, habet alienum, hunc tamen a subselliis; qui quid in dicendo posset numquam satis attendi, in clamando quidem video eum esse bene robustum atque exercitatum. in hoc spes tuae sunt omnes; hic, si tu eris actor constitutus, totum iudicium sustinebit. ac ne is quidem tantum contendet in dicendo quantum potest, sed consulet laudi et existimationi tuae, et ex eo quod ipse potest in dicendo aliquantum remittet, ut tu tamen aliquid esse videare. Vt in actoribus Graecis fieri videmus, saepe illum qui est secundarum aut tertiarum partium, cum possit aliquanto clarius dicere quam ipse primarum, multum submittere, ut ille princeps quam maxime excellat, sic faciet alienus; tibi serviet, tibi lenocinabitur, minus aliquanto contendet quam potest. ^48
 
