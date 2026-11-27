@@ -13,10 +13,13 @@ tags:
 ---
 
 # Original Text
+atque huiusce rei iudicium iam continuo video futurum. si enim mihi hodie respondere ad haec quae dico potueris, si ab isto libro, quem tibi magister ludi nescio qui ex alienis orationibus compositum dedit, verbo uno discesseris, posse te et illi quoque iudicio non deesse et causae atque officio tuo satis facere arbitrabor; sin mecum in hac prolusione nihil fueris, quem te in ipsa pugna cum acerrimo adversario fore putemus? esto, ipse nihil est, nihil potest; at venit paratus cum subscriptoribus exercitatis et disertis. est tamen hoc aliquid, tametsi non est satis; omnibus enim rebus is qui princeps in agendo est ornatissimus et paratissimus esse debet. verum tamen L. Appuleium esse video proximum subscriptorem, hominem non aetate sed usu forensi atque exercitatione tironem.
 
 # Text Analysis
+atque huiusce rei iudicium iam ==continuo== video futurum. si enim mihi hodie respondere ad haec quae dico potueris, si ab isto libro, quem tibi magister ludi nescio qui ex alienis orationibus compositum dedit, verbo uno discesseris, posse te et illi quoque iudicio non deesse et causae atque officio tuo satis facere arbitrabor; sin mecum in hac prolusione nihil fueris, quem te in ipsa pugna cum acerrimo adversario fore putemus? esto, ipse nihil est, nihil potest; at venit paratus cum subscriptoribus exercitatis et disertis. est tamen hoc aliquid, tametsi non est satis; omnibus enim rebus is qui princeps in agendo est ornatissimus et paratissimus esse debet. verum tamen L. Appuleium esse video proximum subscriptorem, hominem non aetate sed usu forensi atque exercitatione tironem.
 
 # Translation
+and I see there is going to be a judgement of this thing without delay. 
 
 # Vocabulary
 
