@@ -1,0 +1,25 @@
+{
+  "id": "conv-1795840486692-4il6f8nt2",
+  "providerId": "claude",
+  "title": "Compile Mastronarde Greek vocabulary into note",
+  "titleGenerationStatus": "success",
+  "createdAt": 1795840486692,
+  "updatedAt": 1795841591468,
+  "lastResponseAt": 1795841591468,
+  "sessionId": "5e715f11-e85d-46ca-8853-150a47ac8a21",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "5e715f11-e85d-46ca-8853-150a47ac8a21"
+  },
+  "currentNote": "Areas/语言/古希腊语/笔记/Introduction to Attic Greek/Mastronarde Greek - D. J. Mastronarde.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 165,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 323072,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 323237,
+    "percentage": 100
+  }
+}
