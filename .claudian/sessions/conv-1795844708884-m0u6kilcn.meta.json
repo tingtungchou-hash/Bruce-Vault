@@ -1,0 +1,25 @@
+{
+  "id": "conv-1795844708884-m0u6kilcn",
+  "providerId": "claude",
+  "title": "Review Greek indefinite pronoun exercises",
+  "titleGenerationStatus": "success",
+  "createdAt": 1795844708884,
+  "updatedAt": 1795845061669,
+  "lastResponseAt": 1795845061669,
+  "sessionId": "dcf1be36-bd25-4e5a-9416-8096fca94d43",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "dcf1be36-bd25-4e5a-9416-8096fca94d43"
+  },
+  "currentNote": "Areas/语言/古希腊语/笔记/Introduction to Attic Greek/Mastronarde Greek - Unit 17 练习.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 513,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 40576,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 41089,
+    "percentage": 21
+  }
+}
