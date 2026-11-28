@@ -24,4 +24,25 @@ then as I see, he has another one, one from the low benchers still; since I neve
 
 # Vocabulary
 
+1. subsellium, -iī n.（多用复数 subsellia）
+	- 词形：文中 ā subselliīs 为夺格复数（ā／ab + 夺格，表来源），即“从旁听席／下等座那边来的”
+	- 词源：sub-（“下、低”）+ sella（“座、椅”）→“矮凳、长凳”；同族 sella（椅子）、sedeō（坐）；常指法庭、剧场中的旁听长凳
+	- 义：(1) 长凳、矮座（法庭、剧场）；(2) 复数 subsellia 引申为旁听席、下等座；ā subselliīs = 出身旁听席的、来自下层的（法庭帮闲）
+	- 本句：habet aliēnum, hunc tamen ā subselliīs——“他还有一个外人，不过此人是旁听席那边出身的（地位低下）”
+	- 警示：subsellium 由 sub + sella 构成，勿与 sella（椅子）、solium（宝座）混；ā subselliīs 为夺格复数，注意别误读为与格／属格
+
+2. submittō, submittere, submīsī, submissum v. tr./intr.
+	- 词形：文中 submittere 为主动不定式，与前文 saepe illum（那个配角）连用；multum submittere“大幅收敛（自降身段）”
+	- 词源：sub-（“下”）+ mittō（“送、放”）→“往下送→压低、降低”；同族 mittō（送）、dēmittō（放下）、prōmittō（许诺）、admittō（接纳）；英语 submit／submission 出此
+	- 义：(1) 放下、降低；(2) 使屈服、使低头；(3) 屈从、退让、收敛（本句）；(4) 提供、呈递（另义）
+	- 本句：saepe illum … multum submittere——“（那配角）常常大幅收敛（压低自己）”
+	- 警示：本义“往下送→压低／收敛”，此处非“呈交”；与 dēmittō、prōmittō 形近，注意前缀之别
+
+3. excellō, excellere, excelluī v. intr.
+	- 词形：文中 excellat 为现在时主动虚拟式第三人称单数，处于 ut 目的从句（ut ille prīnceps quam maximē excellat）
+	- 词源：ex-（“出、上”）+ cellō（“高耸”）→“高出、耸立”→ 出众、卓越；同族 cellō（高耸）、antecellō／praecellō（胜过）、celsus（高的）、collis（山丘）；英语 excel／excellent 出此
+	- 义：(1) 高耸、突出；(2) 出众、卓越、胜过（常接与格或 inter + 宾格）
+	- 本句：ut ille prīnceps quam maximē excellat——“为的是让那位主角尽量出彩（出类拔萃）”
+	- 警示：excellō 不及物，表“在……上出众”用与格或 inter + 宾格；无 supine；excellat 为虚拟式（ut 目的），非陈述式；勿与 excipiō 等形近词混
+
 # Grammar
